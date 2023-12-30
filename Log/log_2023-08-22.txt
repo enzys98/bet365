@@ -1,0 +1,341 @@
+﻿2023-08-22 10:52:56 Chrome_RenderWidgetHostHWND
+
+2023-08-22 10:52:56 Websocket server is listening on 8880
+
+2023-08-22 10:52:56 DoLogin
+
+2023-08-22 10:52:56 DoLoad365Page
+2023-08-22 10:55:06 Chrome_RenderWidgetHostHWND
+
+2023-08-22 10:55:06 Websocket server is listening on 8880
+
+2023-08-22 10:55:06 DoLogin
+
+2023-08-22 10:55:06 DoLoad365Page
+
+2023-08-22 10:55:06 365 page is loaded!
+
+2023-08-22 10:55:06 Executed login script!
+
+2023-08-22 10:55:33 DoLoad365Page
+
+2023-08-22 10:55:33 365 page is loaded!
+
+2023-08-22 10:55:36 Executed login script!
+
+2023-08-22 10:55:44 DoLoad365Page
+
+2023-08-22 10:55:44 365 page is loaded!
+
+2023-08-22 10:55:44 LastLoginModule_Button Clicked
+
+2023-08-22 10:55:50 Login Success!
+
+2023-08-22 10:55:56 0 Settled bets!!!
+
+2023-08-22 10:55:56 Browser Connected!
+
+2023-08-22 10:56:14 The bot has been started!
+
+2023-08-22 10:56:14 DoLogin
+
+2023-08-22 10:56:14 DoLoad365Page
+
+2023-08-22 10:56:14 365 page is loaded!
+
+2023-08-22 10:56:14 Connected Socket Server!!!
+
+2023-08-22 10:56:17 60.30
+
+2023-08-22 10:56:17 Current balance : 60.3
+
+2023-08-22 10:56:25 0 Settled bets!!!
+
+2023-08-22 10:56:25 Current Balance: 60.3
+
+2023-08-22 10:56:25 Page is initialized!
+
+2023-08-22 11:55:32 LastLoginModule_Button Clicked
+
+2023-08-22 12:12:22 Disconnected Socket Server!!! || ping timeout
+
+2023-08-22 12:15:36 Connected Socket Server!!!
+
+2023-08-22 12:55:02 LastLoginModule_Button Clicked
+
+2023-08-22 13:54:32 LastLoginModule_Button Clicked
+
+2023-08-22 14:30:18 Recieve 1 new bets From Copybet Server!
+
+2023-08-22 14:30:18  *** MakeBet *** 
+
+2023-08-22 14:30:18 {"dbId":"","sport":"","country":"","league":"England Development League 2","dateTime":"","match":"Bournemouth U21 vs Peterborough U21","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-22 14:30:18 60.30
+
+2023-08-22 14:30:18 Current balance : 60.3
+
+2023-08-22 14:30:18 Current Balance : 60.3
+
+2023-08-22 14:30:18 CheckIfLoggedIn
+
+2023-08-22 14:30:18 Logged In Already!
+
+2023-08-22 14:30:18 bet365.com
+
+2023-08-22 14:30:32 Bournemouth U21 v Peterborough U21 Dis :0.00571428571428567
+
+2023-08-22 14:30:33 Wrong position detected!
+
+2023-08-22 14:30:38 Stake : 17
+
+2023-08-22 14:30:38 Running AddbetScript...
+
+2023-08-22 14:30:38 scrollBetIntoView('1137006570') => 1
+
+2023-08-22 14:30:40 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-22 14:30:41 {
+  "bg": "19fe1bb4-faac-4dc8-9f9a-a361712edca0",
+  "sr": 0,
+  "mr": false,
+  "cc": "VSM+u25H08Rsz5jjVeNn2EuH5uo/w2IyykTxZVU2NYU=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "906",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/5",
+      "fi": 142688277,
+      "fd": "Bournemouth U21 v Peterborough U21",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1137006570,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS142688277-1137006570",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142667752,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-08-22 14:30:43 Fractional Odds : 4/5
+
+2023-08-22 14:30:43 Trademate Odds : 0 , Bet365 Odds : 1.8
+
+2023-08-22 14:30:43 Trying to place bet!
+
+2023-08-22 14:30:43 DoPlacebetUI
+
+2023-08-22 14:30:43 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-22 14:30:45 Trademate Odds : 0 , Bet365 Odds : 1.83
+
+2023-08-22 14:30:45 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-22 14:30:54 60.30
+
+2023-08-22 14:30:54 Current balance : 60.3
+
+2023-08-22 14:30:54 DoLoad365Page
+
+2023-08-22 14:30:54 365 page is loaded!
+
+2023-08-22 14:30:57 [concigrassi:Test123.] SUCCESS. Stake:17 Odds:1.83294117647059
+
+2023-08-22 14:30:57 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:17 Odds:1.83294117647059",
+  "stake": 17.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.8329411764705883,
+  "tournament": "England Development League 2",
+  "eventName": "Bournemouth U21 vs Peterborough U21",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "22/08/2023 14:30:54",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 43.3,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-22 14:31:05 Trying to register tip at Bigstake
+
+2023-08-22 14:31:21 Registered tip at Bigstake Successfully!
+
+2023-08-22 14:31:24 This Line is already existed on Settled bets!
+
+2023-08-22 14:50:09 Recieve new Match Score From Copybet Server!
+
+2023-08-22 14:50:09 New Score is updated...
+
+2023-08-22 14:50:09 {"home":"Bournemouth U21","away":"Peterborough U21","score":"0:0","gameTime":1}
+
+2023-08-22 14:50:09 New Score : Bournemouth U21 vs Peterborough U21  0:0
+
+2023-08-22 14:50:09 Pending tip Score : Bournemouth U21 vs Peterborough U21 0:0
+
+2023-08-22 14:50:09 Pending Tip is lost now...
+
+2023-08-22 15:04:10 Recieve new Match Score From Copybet Server!
+
+2023-08-22 15:04:10 New Score is updated...
+
+2023-08-22 15:04:10 {"home":"Bournemouth U21","away":"Peterborough U21","score":"0:0","gameTime":1}
+
+2023-08-22 15:30:02 LastLoginModule_Button Clicked
+
+2023-08-22 15:37:09 Recieve new Match Score From Copybet Server!
+
+2023-08-22 15:37:09 New Score is updated...
+
+2023-08-22 15:37:09 {"home":"Bournemouth U21","away":"Peterborough U21","score":"1:0","gameTime":0}
+
+2023-08-22 16:03:12 Recieve new Match Score From Copybet Server!
+
+2023-08-22 16:03:12 New Score is updated...
+
+2023-08-22 16:03:12 {"home":"Bournemouth U21","away":"Peterborough U21","score":"1:0","gameTime":2}
+
+2023-08-22 16:29:32 LastLoginModule_Button Clicked
+
+2023-08-22 17:29:02 LastLoginModule_Button Clicked
+
+2023-08-22 18:28:32 LastLoginModule_Button Clicked
+
+2023-08-22 19:28:02 LastLoginModule_Button Clicked
+
+2023-08-22 20:27:05 LastLoginModule_Button Clicked
+
+2023-08-22 20:31:20 Recieve 1 new bets From Copybet Server!
+
+2023-08-22 20:31:20  *** MakeBet *** 
+
+2023-08-22 20:31:20 {"dbId":"","sport":"","country":"","league":"Germany 3.Liga","dateTime":"","match":"1860 Munich vs Vfb Lubeck","score":"1:2","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-22 20:31:20 43.30
+
+2023-08-22 20:31:20 Current balance : 43.3
+
+2023-08-22 20:31:20 Current Balance : 43.3
+
+2023-08-22 20:31:20 CheckIfLoggedIn
+
+2023-08-22 20:31:20 Logged In Already!
+
+2023-08-22 20:31:20 bet365.com
+
+2023-08-22 20:31:34 Not Search Event
+
+2023-08-22 20:31:34 Wrong position detected!
+
+2023-08-22 20:31:38 Not Search Event
+
+2023-08-22 20:31:40 Wrong position detected!
+
+2023-08-22 20:31:41 Wrong position detected!
+
+2023-08-22 20:31:43 Not Search Event
+
+2023-08-22 20:31:43 Wrong position detected!
+
+2023-08-22 20:31:47 Not Search Event
+
+2023-08-22 20:31:49 DoLoad365Page
+
+2023-08-22 20:31:49 365 page is loaded!
+
+2023-08-22 20:31:49 Wrong position detected!
+
+2023-08-22 20:31:58 Not Search Event
+
+2023-08-22 20:32:06 Not Search Event
+
+2023-08-22 20:32:07 Not Found Event on Bet365...
+
+2023-08-22 20:32:10  *** MakeBet *** 
+
+2023-08-22 20:32:10 {"dbId":"","sport":"","country":"","league":"Germany 3.Liga","dateTime":"","match":"1860 Munich vs Vfb Lubeck","score":"1:2","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-22 20:32:10 43.30
+
+2023-08-22 20:32:10 Current balance : 43.3
+
+2023-08-22 20:32:10 Current Balance : 43.3
+
+2023-08-22 20:32:10 CheckIfLoggedIn
+
+2023-08-22 20:32:10 Logged In Already!
+
+2023-08-22 20:32:10 bet365.com
+
+2023-08-22 20:32:10 Wrong position detected!
+
+2023-08-22 20:32:11 Wrong position detected!
+
+2023-08-22 20:32:13 Not Search Event
+
+2023-08-22 20:32:13 Wrong position detected!
+
+2023-08-22 20:32:17 Not Search Event
+
+2023-08-22 20:32:19 Wrong position detected!
+
+2023-08-22 20:32:20 Wrong position detected!
+
+2023-08-22 20:32:22 Not Search Event
+
+2023-08-22 20:32:22 Wrong position detected!
+
+2023-08-22 20:32:26 Not Search Event
+
+2023-08-22 20:32:27 Wrong position detected!
+
+2023-08-22 20:32:33 Not Search Event
+
+2023-08-22 20:32:33 Wrong position detected!
+
+2023-08-22 20:32:36 Not Search Event
+
+2023-08-22 20:32:38 Not Found Event on Bet365...
+
+2023-08-22 21:00:21 Recieve new Match Score From Copybet Server!
+
+2023-08-22 21:00:21 New Score is updated...
+
+2023-08-22 21:00:21 {"home":"1860 Munich","away":"Vfb Lubeck","score":"1:2","gameTime":2}
+
+2023-08-22 21:32:05 LastLoginModule_Button Clicked
+
+2023-08-22 22:52:35 LastLoginModule_Button Clicked
+
+2023-08-22 23:52:05 LastLoginModule_Button Clicked

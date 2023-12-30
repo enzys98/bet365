@@ -1,0 +1,687 @@
+﻿
+2023-03-23 00:07:16 Recieve 1 new bets From Copybet Server!
+
+2023-03-23 00:07:16  *** MakeBet *** 
+
+2023-03-23 00:07:16 {"dbId":"","sport":"","country":"","league":"Costa Rica Segunda","dateTime":"","match":"Limon Black Star vs Cariari Pococi","score":"1:3","EW":"0","marketName":"OVER 5.5","selection":"OVER","odds":0.0,"handicap":5.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-23 00:07:16 347.59
+
+2023-03-23 00:07:16 Current balance : 347.5
+
+2023-03-23 00:07:16 Current Balance : 347.5
+
+2023-03-23 00:07:16 DoLoad365Page
+
+2023-03-23 00:07:16 365 page is loaded!
+
+2023-03-23 00:07:16 CheckIfLoggedIn
+
+2023-03-23 00:07:16 Logged In Already!
+
+2023-03-23 00:07:16 bet365.com
+
+2023-03-23 00:07:16 Recieve 1 new bets From Copybet Server!
+
+2023-03-23 00:07:16 Wrong position detected!
+
+2023-03-23 00:07:25 Limon Black Star v Cariari Pococi Dis :0.00588235294117645
+
+2023-03-23 00:07:27 Wrong position detected!
+
+2023-03-23 00:07:31 Stake : 16
+
+2023-03-23 00:07:31 Running AddbetScript...
+
+2023-03-23 00:07:31 scrollBetIntoView('339489334') => 1
+
+2023-03-23 00:07:33 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-23 00:07:35 {
+  "bg": "25cacbe2-26d6-428e-84ef-bb94f041f424",
+  "sr": 0,
+  "mr": false,
+  "cc": "S5A/5593zFajbM3+iXAMm7VIky8aX6K8eXKoW1oT3p8=",
+  "ir": true,
+  "vr": "816",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/6",
+      "fi": 134857192,
+      "fd": "Limon Black Star v Cariari Pococi",
+      "pt": [
+        {
+          "hd": "5.5",
+          "pi": 339489334,
+          "bd": "Più di",
+          "ha": "5.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "641b8a38-807AA676",
+      "tp": "BS134857192-339489334",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134781522,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-23 00:07:37 Fractional Odds : 4/6
+
+2023-03-23 00:07:37 Disconnected Socket Server!!! || ping timeout
+
+2023-03-23 00:07:37 Trademate Odds : 0 , Bet365 Odds : 1.66
+
+2023-03-23 00:07:37 Trying to place bet!
+
+2023-03-23 00:07:37 DoPlacebetUI
+
+2023-03-23 00:07:37 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-03-23 00:07:38 Connected Socket Server!!!
+
+2023-03-23 00:07:39 Trademate Odds : 0 , Bet365 Odds : 1.66
+
+2023-03-23 00:07:39 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-03-23 00:07:48 347.59
+
+2023-03-23 00:07:48 Current balance : 347.5
+
+2023-03-23 00:07:51 [concigrassi:Test123.] SUCCESS. Stake:16 Odds:1.66625
+
+2023-03-23 00:07:51 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:16 Odds:1.66625",
+  "stake": 16.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.66625,
+  "tournament": "Costa Rica Segunda",
+  "eventName": "Limon Black Star vs Cariari Pococi",
+  "probability": "OVER",
+  "market": "OVER 5.5",
+  "placedAt": "23/03/2023 00:07:48",
+  "selection": "OVER",
+  "handicap": 5.5,
+  "balance": 331.5,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-23 00:07:59 Trying to register tip at Bigstake
+
+2023-03-23 00:08:14 Registered tip at Bigstake Successfully!
+
+2023-03-23 00:08:17 This Line is already existed on Settled bets!
+
+2023-03-23 00:08:18 This Line is already existed on Settled bets!
+
+2023-03-23 00:08:18 This Line is already existed on Settled bets!
+
+2023-03-23 00:19:18 Recieve 1 new bets From Copybet Server!
+
+2023-03-23 00:19:18 Pending bet is not finished.!
+
+2023-03-23 00:20:07 Recieve new Match Score From Copybet Server!
+
+2023-03-23 00:20:07 New Score is updated...
+
+2023-03-23 00:20:07 {"home":"Limon Black Star","away":"Cariari Pococi","score":"2:3","gameTime":0}
+
+2023-03-23 00:20:07 New Score : Limon Black Star vs Cariari Pococi  2:3
+
+2023-03-23 00:20:07 Pending tip Score : Limon Black Star vs Cariari Pococi 1:3
+
+2023-03-23 00:20:08 Recieve new Match Score From Copybet Server!
+
+2023-03-23 00:20:08 New Score is updated...
+
+2023-03-23 00:20:08 {"home":"Limon Black Star","away":"Cariari Pococi","score":"2:3","gameTime":0}
+
+2023-03-23 00:20:08 New Score : Limon Black Star vs Cariari Pococi  2:3
+
+2023-03-23 00:20:08 Pending tip Score : Limon Black Star vs Cariari Pococi 1:3
+
+2023-03-23 00:20:08 Recieve new Match Score From Copybet Server!
+
+2023-03-23 00:20:08 New Score is updated...
+
+2023-03-23 00:20:08 {"home":"Limon Black Star","away":"Cariari Pococi","score":"2:3","gameTime":0}
+
+2023-03-23 00:20:08 New Score : Limon Black Star vs Cariari Pococi  2:3
+
+2023-03-23 00:20:08 Pending tip Score : Limon Black Star vs Cariari Pococi 1:3
+
+2023-03-23 01:01:07 Recieve new Match Score From Copybet Server!
+
+2023-03-23 01:01:07 New Score is updated...
+
+2023-03-23 01:01:07 {"home":"Limon Black Star","away":"Cariari Pococi","score":"2:3","gameTime":2}
+
+2023-03-23 01:01:07 New Score : Limon Black Star vs Cariari Pococi  2:3
+
+2023-03-23 01:01:07 Pending tip Score : Limon Black Star vs Cariari Pococi 1:3
+
+2023-03-23 01:01:07 Pending Tip is lost now...
+
+2023-03-23 01:01:07 Recieve new Match Score From Copybet Server!
+
+2023-03-23 01:01:07 New Score is updated...
+
+2023-03-23 01:01:07 {"home":"Limon Black Star","away":"Cariari Pococi","score":"2:3","gameTime":2}
+
+2023-03-23 01:01:08 Recieve new Match Score From Copybet Server!
+
+2023-03-23 01:01:08 New Score is updated...
+
+2023-03-23 01:01:08 {"home":"Limon Black Star","away":"Cariari Pococi","score":"2:3","gameTime":2}
+
+2023-03-23 01:01:08 Recieve new Match Score From Copybet Server!
+
+2023-03-23 01:01:08 New Score is updated...
+
+2023-03-23 01:01:08 {"home":"Limon Black Star","away":"Cariari Pococi","score":"2:3","gameTime":2}
+
+2023-03-23 01:01:09 Recieve new Match Score From Copybet Server!
+
+2023-03-23 01:01:09 New Score is updated...
+
+2023-03-23 01:01:09 {"home":"Limon Black Star","away":"Cariari Pococi","score":"2:3","gameTime":2}
+
+2023-03-23 01:53:16 Recieve 1 new bets From Copybet Server!
+
+2023-03-23 01:53:16  *** MakeBet *** 
+
+2023-03-23 01:53:16 {"dbId":"","sport":"","country":"","league":"Brazil Copa Nordeste","dateTime":"","match":"ABC vs Fluminense PI","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-23 01:53:16 331.59
+
+2023-03-23 01:53:16 Current balance : 331.5
+
+2023-03-23 01:53:16 Current Balance : 331.5
+
+2023-03-23 01:53:16 DoLoad365Page
+
+2023-03-23 01:53:16 365 page is loaded!
+
+2023-03-23 01:53:16 CheckIfLoggedIn
+
+2023-03-23 01:53:16 Logged In Already!
+
+2023-03-23 01:53:16 bet365.com
+
+2023-03-23 01:53:16 Wrong position detected!
+
+2023-03-23 01:53:24 Not Search Event
+
+2023-03-23 01:53:30 ABC v Fluminense PI Dis :0.0626315789473685
+
+2023-03-23 01:53:35 Not Found Odds on Bet365..
+
+2023-03-23 01:53:39  *** MakeBet *** 
+
+2023-03-23 01:53:39 {"dbId":"","sport":"","country":"","league":"Brazil Copa Nordeste","dateTime":"","match":"ABC vs Fluminense PI","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-23 01:53:39 331.59
+
+2023-03-23 01:53:39 Current balance : 331.5
+
+2023-03-23 01:53:39 Current Balance : 331.5
+
+2023-03-23 01:53:39 DoLoad365Page
+
+2023-03-23 01:53:39 365 page is loaded!
+
+2023-03-23 01:53:39 CheckIfLoggedIn
+
+2023-03-23 01:53:39 Logged In Already!
+
+2023-03-23 01:53:39 bet365.com
+
+2023-03-23 01:53:48 ABC v Fluminense PI Dis :0.0626315789473685
+
+2023-03-23 01:53:49 Wrong position detected!
+
+2023-03-23 01:53:53 Stake : 16
+
+2023-03-23 01:53:53 Running AddbetScript...
+
+2023-03-23 01:53:53 scrollBetIntoView('339508416') => 1
+
+2023-03-23 01:53:55 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-23 01:53:57 {
+  "bg": "1676f997-36d7-4941-8a9d-ce1a06c4b002",
+  "sr": 0,
+  "mr": false,
+  "cc": "9IMsX2gf84dpxeQQRJERWkCa8CRxFoqKQ4fEUZWpBPg=",
+  "ir": true,
+  "vr": "816",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/15",
+      "fi": 134857404,
+      "fd": "ABC v Fluminense PI",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 339508416,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "641ba325-20083D95",
+      "tp": "BS134857404-339508416",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134795190,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-23 01:53:59 Fractional Odds : 8/15
+
+2023-03-23 01:53:59 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-03-23 01:53:59 Trying to place bet!
+
+2023-03-23 01:53:59 DoPlacebetUI
+
+2023-03-23 01:53:59 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-03-23 01:54:01 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-03-23 01:54:01 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-03-23 01:54:10 331.59
+
+2023-03-23 01:54:10 Current balance : 331.5
+
+2023-03-23 01:54:13 [concigrassi:Test123.] SUCCESS. Stake:16 Odds:1.533125
+
+2023-03-23 01:54:13 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:16 Odds:1.533125",
+  "stake": 16.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.533125,
+  "tournament": "Brazil Copa Nordeste",
+  "eventName": "ABC vs Fluminense PI",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "23/03/2023 01:54:10",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 315.5,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-23 01:54:21 Trying to register tip at Bigstake
+
+2023-03-23 01:54:36 Registered tip at Bigstake Successfully!
+
+2023-03-23 02:21:15 Recieve new Match Score From Copybet Server!
+
+2023-03-23 02:21:15 New Score is updated...
+
+2023-03-23 02:21:15 {"home":"ABC","away":"Fluminense PI","score":"0:0","gameTime":1}
+
+2023-03-23 02:21:15 New Score : ABC vs Fluminense PI  0:0
+
+2023-03-23 02:21:15 Pending tip Score : ABC vs Fluminense PI 0:0
+
+2023-03-23 02:21:15 Pending Tip is lost now...
+
+2023-03-23 02:21:16 Recieve new Match Score From Copybet Server!
+
+2023-03-23 02:21:16 New Score is updated...
+
+2023-03-23 02:21:16 {"home":"ABC","away":"Fluminense PI","score":"0:0","gameTime":1}
+
+2023-03-23 02:21:16 Recieve new Match Score From Copybet Server!
+
+2023-03-23 02:21:16 New Score is updated...
+
+2023-03-23 02:21:16 {"home":"ABC","away":"Fluminense PI","score":"0:0","gameTime":1}
+
+2023-03-23 02:38:08 Recieve new Match Score From Copybet Server!
+
+2023-03-23 02:38:08 New Score is updated...
+
+2023-03-23 02:38:08 {"home":"ABC","away":"Fluminense PI","score":"0:0","gameTime":1}
+
+2023-03-23 02:38:09 Recieve new Match Score From Copybet Server!
+
+2023-03-23 02:38:09 New Score is updated...
+
+2023-03-23 02:38:09 {"home":"ABC","away":"Fluminense PI","score":"0:0","gameTime":1}
+
+2023-03-23 02:38:09 Recieve new Match Score From Copybet Server!
+
+2023-03-23 02:38:09 New Score is updated...
+
+2023-03-23 02:38:09 {"home":"ABC","away":"Fluminense PI","score":"0:0","gameTime":1}
+
+2023-03-23 02:39:08 Recieve new Match Score From Copybet Server!
+
+2023-03-23 02:39:08 New Score is updated...
+
+2023-03-23 02:39:08 {"home":"ABC","away":"Fluminense PI","score":"1:0","gameTime":0}
+
+2023-03-23 02:39:09 Recieve new Match Score From Copybet Server!
+
+2023-03-23 02:39:09 New Score is updated...
+
+2023-03-23 02:39:09 {"home":"ABC","away":"Fluminense PI","score":"1:0","gameTime":0}
+
+2023-03-23 02:39:09 Recieve new Match Score From Copybet Server!
+
+2023-03-23 02:39:09 New Score is updated...
+
+2023-03-23 02:39:09 {"home":"ABC","away":"Fluminense PI","score":"1:0","gameTime":0}
+
+2023-03-23 02:42:09 Recieve new Match Score From Copybet Server!
+
+2023-03-23 02:42:09 New Score is updated...
+
+2023-03-23 02:42:09 {"home":"ABC","away":"Fluminense PI","score":"2:0","gameTime":0}
+
+2023-03-23 02:42:09 Recieve new Match Score From Copybet Server!
+
+2023-03-23 02:42:09 New Score is updated...
+
+2023-03-23 02:42:09 {"home":"ABC","away":"Fluminense PI","score":"2:0","gameTime":0}
+
+2023-03-23 02:42:09 Recieve new Match Score From Copybet Server!
+
+2023-03-23 02:42:09 New Score is updated...
+
+2023-03-23 02:42:09 {"home":"ABC","away":"Fluminense PI","score":"2:0","gameTime":0}
+
+2023-03-23 02:42:10 Recieve new Match Score From Copybet Server!
+
+2023-03-23 02:42:10 New Score is updated...
+
+2023-03-23 02:42:10 {"home":"ABC","away":"Fluminense PI","score":"2:0","gameTime":0}
+
+2023-03-23 02:42:10 Recieve new Match Score From Copybet Server!
+
+2023-03-23 02:42:10 New Score is updated...
+
+2023-03-23 02:42:10 {"home":"ABC","away":"Fluminense PI","score":"2:0","gameTime":0}
+
+2023-03-23 02:52:15 Recieve 1 new bets From Copybet Server!
+
+2023-03-23 02:52:15  *** MakeBet *** 
+
+2023-03-23 02:52:15 {"dbId":"","sport":"","country":"","league":"Brazil Copa Nordeste","dateTime":"","match":"ABC vs Fluminense PI","score":"2:0","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-23 02:52:15 315.59
+
+2023-03-23 02:52:15 Current balance : 315.5
+
+2023-03-23 02:52:15 Current Balance : 315.5
+
+2023-03-23 02:52:15 DoLoad365Page
+
+2023-03-23 02:52:15 365 page is loaded!
+
+2023-03-23 02:52:15 CheckIfLoggedIn
+
+2023-03-23 02:52:15 Logged In Already!
+
+2023-03-23 02:52:15 bet365.com
+
+2023-03-23 02:52:15 Wrong position detected!
+
+2023-03-23 02:52:23 Not Search Event
+
+2023-03-23 02:52:28 ABC v Fluminense PI Dis :0.0626315789473685
+
+2023-03-23 02:52:29 Wrong position detected!
+
+2023-03-23 02:52:33 Stake : 13
+
+2023-03-23 02:52:33 Running AddbetScript...
+
+2023-03-23 02:52:33 scrollBetIntoView('339508599') => 1
+
+2023-03-23 02:52:35 Odds Pos : X : 414.453125 , Y: 318
+
+2023-03-23 02:52:39 Trademate Odds : 0 , Bet365 Odds : 1.33
+
+2023-03-23 02:52:39 Trying to place bet!
+
+2023-03-23 02:52:39 DoPlacebetUI
+
+2023-03-23 02:52:39 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-03-23 02:52:41 Trademate Odds : 0 , Bet365 Odds : 1.36
+
+2023-03-23 02:52:41 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-03-23 02:52:50 315.59
+
+2023-03-23 02:52:50 Current balance : 315.5
+
+2023-03-23 02:52:53 [concigrassi:Test123.] SUCCESS. Stake:13 Odds:1.36307692307692
+
+2023-03-23 02:52:53 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:13 Odds:1.36307692307692",
+  "stake": 13.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.3630769230769231,
+  "tournament": "Brazil Copa Nordeste",
+  "eventName": "ABC vs Fluminense PI",
+  "probability": "OVER",
+  "market": "OVER 2.5",
+  "placedAt": "23/03/2023 02:52:50",
+  "selection": "OVER",
+  "handicap": 2.5,
+  "balance": 302.5,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-23 02:53:01 Trying to register tip at Bigstake
+
+2023-03-23 02:53:17 Registered tip at Bigstake Successfully!
+
+2023-03-23 02:53:20 This Line is already existed on Settled bets!
+
+2023-03-23 03:02:10 Recieve new Match Score From Copybet Server!
+
+2023-03-23 03:02:10 New Score is updated...
+
+2023-03-23 03:02:10 {"home":"ABC","away":"Fluminense PI","score":"3:0","gameTime":0}
+
+2023-03-23 03:02:10 New Score : ABC vs Fluminense PI  3:0
+
+2023-03-23 03:02:10 Pending tip Score : ABC vs Fluminense PI 2:0
+
+2023-03-23 03:02:10 Pending Tip is winning now...
+
+2023-03-23 03:02:11 Recieve new Match Score From Copybet Server!
+
+2023-03-23 03:02:11 New Score is updated...
+
+2023-03-23 03:02:11 {"home":"ABC","away":"Fluminense PI","score":"3:0","gameTime":0}
+
+2023-03-23 03:02:11 Recieve new Match Score From Copybet Server!
+
+2023-03-23 03:02:11 New Score is updated...
+
+2023-03-23 03:02:11 {"home":"ABC","away":"Fluminense PI","score":"3:0","gameTime":0}
+
+2023-03-23 03:16:45 Disconnected Socket Server!!! || ping timeout
+
+2023-03-23 03:16:56 Connected Socket Server!!!
+
+2023-03-23 03:17:22 Error occurs in Socket Server!!!
+
+2023-03-23 03:17:45 Disconnected Socket Server!!! || transport error
+
+2023-03-23 03:17:47 Connected Socket Server!!!
+
+2023-03-23 03:18:16 Disconnected Socket Server!!! || transport close
+
+2023-03-23 03:18:57 Connected Socket Server!!!
+
+2023-03-23 03:29:10 Recieve new Match Score From Copybet Server!
+
+2023-03-23 03:29:10 New Score is updated...
+
+2023-03-23 03:29:10 {"home":"ABC","away":"Fluminense PI","score":"3:0","gameTime":2}
+
+2023-03-23 03:29:10 Recieve new Match Score From Copybet Server!
+
+2023-03-23 03:29:10 New Score is updated...
+
+2023-03-23 03:29:10 {"home":"ABC","away":"Fluminense PI","score":"3:0","gameTime":2}
+
+2023-03-23 03:29:10 Recieve new Match Score From Copybet Server!
+
+2023-03-23 03:29:11 New Score is updated...
+
+2023-03-23 03:29:11 {"home":"ABC","away":"Fluminense PI","score":"3:0","gameTime":2}
+
+2023-03-23 03:29:11 Recieve new Match Score From Copybet Server!
+
+2023-03-23 03:29:11 New Score is updated...
+
+2023-03-23 03:29:11 {"home":"ABC","away":"Fluminense PI","score":"3:0","gameTime":2}
+
+2023-03-23 05:02:38 Recieve new Match Score From Copybet Server!
+
+2023-03-23 05:02:38 New Score is updated...
+
+2023-03-23 05:02:38 {"home":"Xelaju","away":"Deportivo Mixco","score":"0:0","gameTime":2}
+
+2023-03-23 05:02:38 Recieve new Match Score From Copybet Server!
+
+2023-03-23 05:02:38 New Score is updated...
+
+2023-03-23 05:02:38 {"home":"Xelaju","away":"Deportivo Mixco","score":"0:0","gameTime":2}
+
+2023-03-23 05:59:01 LastLoginModule_Button Clicked
+
+2023-03-23 06:37:52 Recieve new Match Score From Copybet Server!
+
+2023-03-23 06:37:52 New Score is updated...
+
+2023-03-23 06:37:52 {"home":"Club America Salcaja","away":"Deportivo Colomba","score":"2:1","gameTime":0}
+
+2023-03-23 06:37:53 Recieve new Match Score From Copybet Server!
+
+2023-03-23 06:37:53 New Score is updated...
+
+2023-03-23 06:37:53 {"home":"Club America Salcaja","away":"Deportivo Colomba","score":"2:1","gameTime":2}
+
+2023-03-23 06:37:55 Recieve new Match Score From Copybet Server!
+
+2023-03-23 06:37:55 New Score is updated...
+
+2023-03-23 06:37:55 {"home":"Ceara","away":"Atletico Alagoinhas","score":"2:1","gameTime":0}
+
+2023-03-23 06:37:56 Recieve new Match Score From Copybet Server!
+
+2023-03-23 06:37:56 New Score is updated...
+
+2023-03-23 06:37:56 {"home":"Ceara","away":"Atletico Alagoinhas","score":"3:1","gameTime":0}
+
+2023-03-23 06:37:57 Recieve new Match Score From Copybet Server!
+
+2023-03-23 06:37:57 New Score is updated...
+
+2023-03-23 06:37:57 {"home":"Ceara","away":"Atletico Alagoinhas","score":"3:1","gameTime":2}
+
+2023-03-23 07:00:11 LastLoginModule_Button Clicked
+
+2023-03-23 08:57:08 Recieve new Match Score From Copybet Server!
+
+2023-03-23 08:57:08 New Score is updated...
+
+2023-03-23 08:57:08 {"home":"New Zealand","away":"China PR","score":"0:0","gameTime":2}
+
+2023-03-23 08:57:08 Recieve new Match Score From Copybet Server!
+
+2023-03-23 08:57:08 New Score is updated...
+
+2023-03-23 08:57:08 {"home":"New Zealand","away":"China PR","score":"0:0","gameTime":2}
+
+2023-03-23 08:57:08 Recieve new Match Score From Copybet Server!
+
+2023-03-23 08:57:08 New Score is updated...
+
+2023-03-23 08:57:08 {"home":"New Zealand","away":"China PR","score":"0:0","gameTime":2}
+
+2023-03-23 08:57:10 Recieve new Match Score From Copybet Server!
+
+2023-03-23 08:57:10 New Score is updated...
+
+2023-03-23 08:57:10 {"home":"New Zealand","away":"China PR","score":"0:0","gameTime":2}
+
+2023-03-23 09:59:31 LastLoginModule_Button Clicked
+
+2023-03-23 11:22:41 LastLoginModule_Button Clicked
+
+2023-03-23 11:27:11 Disconnected Socket Server!!! || io client disconnect
+
+2023-03-23 11:27:11 The bot has been stopped!

@@ -1,0 +1,1615 @@
+﻿
+2023-08-26 01:25:40 LastLoginModule_Button Clicked
+
+2023-08-26 02:25:10 LastLoginModule_Button Clicked
+
+2023-08-26 03:24:40 LastLoginModule_Button Clicked
+
+2023-08-26 04:24:10 LastLoginModule_Button Clicked
+
+2023-08-26 05:23:40 LastLoginModule_Button Clicked
+
+2023-08-26 06:23:10 LastLoginModule_Button Clicked
+
+2023-08-26 07:22:40 LastLoginModule_Button Clicked
+
+2023-08-26 08:22:10 LastLoginModule_Button Clicked
+
+2023-08-26 08:52:20 Recieve 1 new bets From Copybet Server!
+
+2023-08-26 08:52:20  *** MakeBet *** 
+
+2023-08-26 08:52:20 {"dbId":"","sport":"","country":"","league":"Australia Victoria U21 League","dateTime":"","match":"Hume City U21 vs North Geelong U21","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-26 08:52:20 55.81
+
+2023-08-26 08:52:20 Current balance : 55.8
+
+2023-08-26 08:52:20 Current Balance : 55.8
+
+2023-08-26 08:52:20 CheckIfLoggedIn
+
+2023-08-26 08:52:20 Logged In Already!
+
+2023-08-26 08:52:20 bet365.com
+
+2023-08-26 08:52:20 Wrong position detected!
+
+2023-08-26 08:52:22 Wrong position detected!
+
+2023-08-26 08:52:24 Hume City U21 v North Geelong U21 Dis :0.00588235294117645
+
+2023-08-26 08:52:24 Bulleen Lions U21 v Dandenong City U21 Dis :0.340871359985642
+
+2023-08-26 08:52:25 Wrong position detected!
+
+2023-08-26 08:52:29 Stake : 19
+
+2023-08-26 08:52:29 Running AddbetScript...
+
+2023-08-26 08:52:29 scrollBetIntoView('1157016737') => 1
+
+2023-08-26 08:52:31 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-26 08:52:32 {
+  "bg": "96e11dce-db35-4cd4-be3e-ec4f2fbd4c5f",
+  "sr": 0,
+  "mr": false,
+  "cc": "ZDYqnZH8vTsEsbQgjxcJsfH4uw4yLHn7/RprwIyhd9w=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "911",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/13",
+      "fi": 142864787,
+      "fd": "Hume City U21 v North Geelong U21",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1157016737,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64e9a131-CF2E3321",
+      "tp": "BS142864787-1157016737",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142753435,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-08-26 08:52:34 Fractional Odds : 8/13
+
+2023-08-26 08:52:34 Trademate Odds : 0 , Bet365 Odds : 1.61
+
+2023-08-26 08:52:34 Trying to place bet!
+
+2023-08-26 08:52:34 DoPlacebetUI
+
+2023-08-26 08:52:34 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-26 08:52:39 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-26 08:52:59 55.81
+
+2023-08-26 08:52:59 Current balance : 55.8
+
+2023-08-26 08:52:59 Exception in MakeBet: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Impossibile eseguire un'associazione di runtime su un riferimento Null
+   in CallSite.Target(Closure , CallSite , Object )
+   in System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   in CallSite.Target(Closure , CallSite , Object )
+   in CEBet365Placer.Controller.BetController.MakeBet(TelegramTip betitem, Boolean& isSucccssed)
+
+2023-08-26 08:53:10  *** MakeBet *** 
+
+2023-08-26 08:53:10 {"dbId":"","sport":"","country":"","league":"Australia Victoria U21 League","dateTime":"","match":"Hume City U21 vs North Geelong U21","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":1.6099999999999999,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"1.61","selectionId":"1157016737","matchId":"142864787","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-26 08:53:10 55.81
+
+2023-08-26 08:53:10 Current balance : 55.8
+
+2023-08-26 08:53:10 Current Balance : 55.8
+
+2023-08-26 08:53:10 CheckIfLoggedIn
+
+2023-08-26 08:53:10 Logged In Already!
+
+2023-08-26 08:53:10 bet365.com
+
+2023-08-26 08:53:10 Wrong position detected!
+
+2023-08-26 08:53:12 Wrong position detected!
+
+2023-08-26 08:53:14 Hume City U21 v North Geelong U21 Dis :0.00588235294117645
+
+2023-08-26 08:53:14 Bulleen Lions U21 v Dandenong City U21 Dis :0.340871359985642
+
+2023-08-26 08:53:15 Wrong position detected!
+
+2023-08-26 08:53:18 Stake : 19
+
+2023-08-26 08:53:18 Running AddbetScript...
+
+2023-08-26 08:53:18 scrollBetIntoView('1157016737') => 1
+
+2023-08-26 08:53:19 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-26 08:53:21 {
+  "bg": "96e11dce-db35-4cd4-be3e-ec4f2fbd4c5f",
+  "sr": 0,
+  "mr": false,
+  "cc": "ZDYqnZH8vTsEsbQgjxcJsfH4uw4yLHn7/RprwIyhd9w=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "911",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/13",
+      "fi": 142864787,
+      "fd": "Hume City U21 v North Geelong U21",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1157016737,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64e9a161-99FAD4AA",
+      "tp": "BS142864787-1157016737",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142753435,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-08-26 08:53:23 Fractional Odds : 8/13
+
+2023-08-26 08:53:23 Trademate Odds : 1.61 , Bet365 Odds : 1.61
+
+2023-08-26 08:53:23 Trying to place bet!
+
+2023-08-26 08:53:23 DoPlacebetUI
+
+2023-08-26 08:53:23 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-26 08:53:25 Trademate Odds : 1.61 , Bet365 Odds : 1.61
+
+2023-08-26 08:53:25 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-26 08:53:43 BetResponse is Null!
+
+2023-08-26 08:53:43 [concigrassi:Test123.] BetResponse is Null!!
+
+2023-08-26 08:53:43 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] BetResponse is Null!!",
+  "stake": 19.0,
+  "balance": 55.8,
+  "success": 10,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-26 08:58:14 Recieve new Match Score From Copybet Server!
+
+2023-08-26 08:58:14 New Score is updated...
+
+2023-08-26 08:58:14 {"home":"Hume City U21","away":"North Geelong U21","score":"0:1","gameTime":0}
+
+2023-08-26 09:07:14 Recieve new Match Score From Copybet Server!
+
+2023-08-26 09:07:14 New Score is updated...
+
+2023-08-26 09:07:14 {"home":"Hume City U21","away":"North Geelong U21","score":"0:2","gameTime":0}
+
+2023-08-26 09:29:14 Recieve new Match Score From Copybet Server!
+
+2023-08-26 09:29:14 New Score is updated...
+
+2023-08-26 09:29:14 {"home":"Hume City U21","away":"North Geelong U21","score":"0:2","gameTime":2}
+
+2023-08-26 10:23:40 LastLoginModule_Button Clicked
+
+2023-08-26 11:19:24 Recieve 1 new bets From Copybet Server!
+
+2023-08-26 11:19:24  *** MakeBet *** 
+
+2023-08-26 11:19:24 {"dbId":"","sport":"","country":"","league":"Turkey U19 League","dateTime":"","match":"Sakaryaspor U19 vs Goztepe U19","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-26 11:19:24 55.81
+
+2023-08-26 11:19:24 Current balance : 55.8
+
+2023-08-26 11:19:24 Current Balance : 55.8
+
+2023-08-26 11:19:24 CheckIfLoggedIn
+
+2023-08-26 11:19:24 Logged In Already!
+
+2023-08-26 11:19:24 bet365.com
+
+2023-08-26 11:19:24 Wrong position detected!
+
+2023-08-26 11:19:26 Wrong position detected!
+
+2023-08-26 11:19:28 Sakaryaspor U19 v Goztepe U19 Dis :0.0066666666666666
+
+2023-08-26 11:19:28 Besiktas U19 v Yeni Malatyaspor U19 Dis :0.303968253968254
+
+2023-08-26 11:19:28 Ankaragucu U19 v Ankaraspor U19 Dis :0.346057347670251
+
+2023-08-26 11:19:28 Adana Demirspor U19 v Antalyaspor U19 Dis :0.319845932889411
+
+2023-08-26 11:19:28 Bursaspor U19 v Denizlispor U19 Dis :0.306875203649397
+
+2023-08-26 11:19:29 Wrong position detected!
+
+2023-08-26 11:19:33 Stake : 20
+
+2023-08-26 11:19:33 Running AddbetScript...
+
+2023-08-26 11:19:33 scrollBetIntoView('1158327158') => 0
+
+2023-08-26 11:19:33 Bet is not found!
+
+2023-08-26 11:19:38 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-26 11:19:39 {
+  "bg": "96e11dce-db35-4cd4-be3e-ec4f2fbd4c5f",
+  "sr": 0,
+  "mr": false,
+  "cc": "ZDYqnZH8vTsEsbQgjxcJsfH4uw4yLHn7/RprwIyhd9w=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "911",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "1/2",
+      "fi": 142873834,
+      "fd": "Sakaryaspor U19 v Goztepe U19",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1158327158,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64e9c3ac-519CB74C",
+      "tp": "BS142873834-1158327158",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142867361,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-08-26 11:19:41 Fractional Odds : 1/2
+
+2023-08-26 11:19:41 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-08-26 11:19:41 Trying to place bet!
+
+2023-08-26 11:19:41 DoPlacebetUI
+
+2023-08-26 11:19:41 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-26 11:19:43 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-08-26 11:19:43 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-26 11:19:45 55.81
+
+2023-08-26 11:19:45 Current balance : 55.8
+
+2023-08-26 11:19:45 [26/08/2023 11:19:45] Reason: placebet response code => 15
+
+2023-08-26 11:19:45 ***EMPTY***
+
+2023-08-26 11:19:45 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "***EMPTY***",
+  "stake": 20.0,
+  "balance": 55.8,
+  "success": 10,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-26 11:19:56 This Line 'Sakaryaspor U19 vs Goztepe U19' - 'OVER' is already existed on Failed bets!
+
+2023-08-26 11:35:18 Recieve new Match Score From Copybet Server!
+
+2023-08-26 11:35:18 New Score is updated...
+
+2023-08-26 11:35:18 {"home":"Sakaryaspor U19","away":"Goztepe U19","score":"0:1","gameTime":0}
+
+2023-08-26 11:53:20 Recieve new Match Score From Copybet Server!
+
+2023-08-26 11:53:20 New Score is updated...
+
+2023-08-26 11:53:20 {"home":"Sakaryaspor U19","away":"Goztepe U19","score":"0:1","gameTime":1}
+
+2023-08-26 12:11:18 Recieve new Match Score From Copybet Server!
+
+2023-08-26 12:11:18 New Score is updated...
+
+2023-08-26 12:11:18 {"home":"Sakaryaspor U19","away":"Goztepe U19","score":"0:1","gameTime":1}
+
+2023-08-26 12:18:18 Recieve new Match Score From Copybet Server!
+
+2023-08-26 12:18:18 New Score is updated...
+
+2023-08-26 12:18:18 {"home":"Sakaryaspor U19","away":"Goztepe U19","score":"1:1","gameTime":0}
+
+2023-08-26 12:36:17 Recieve new Match Score From Copybet Server!
+
+2023-08-26 12:36:17 New Score is updated...
+
+2023-08-26 12:36:17 {"home":"Sakaryaspor U19","away":"Goztepe U19","score":"2:1","gameTime":0}
+
+2023-08-26 13:08:18 Recieve new Match Score From Copybet Server!
+
+2023-08-26 13:08:18 New Score is updated...
+
+2023-08-26 13:08:18 {"home":"Sakaryaspor U19","away":"Goztepe U19","score":"2:1","gameTime":2}
+
+2023-08-26 13:31:30 Recieve 1 new bets From Copybet Server!
+
+2023-08-26 13:31:30  *** MakeBet *** 
+
+2023-08-26 13:31:30 {"dbId":"","sport":"","country":"","league":"Germany Bundesliga U19","dateTime":"","match":"Eintracht Braunschweig U19 vs Hertha Berlin U19","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-26 13:31:35 
+
+2023-08-26 13:31:35 Current Balance : -1
+
+2023-08-26 13:31:35 CheckIfLoggedIn
+
+2023-08-26 13:31:35 DoLogin
+
+2023-08-26 13:31:35 DoLoad365Page
+
+2023-08-26 13:31:35 365 page is loaded!
+
+2023-08-26 13:31:35 Executed login script!
+
+2023-08-26 13:32:02 DoLoad365Page
+
+2023-08-26 13:32:02 365 page is loaded!
+
+2023-08-26 13:32:05 Executed login script!
+
+2023-08-26 13:32:12 DoLoad365Page
+
+2023-08-26 13:32:12 365 page is loaded!
+
+2023-08-26 13:32:12 LastLoginModule_Button Clicked
+
+2023-08-26 13:32:17 Login Success!
+
+2023-08-26 13:32:21 bet365.com
+
+2023-08-26 13:32:21 DoLoad365Page
+
+2023-08-26 13:32:21 365 page is loaded!
+
+2023-08-26 13:32:36 Eintracht Braunschweig U19 v Hertha Berlino U19 Dis :0.00851063829787246
+
+2023-08-26 13:32:37 Wrong position detected!
+
+2023-08-26 13:32:41 Stake : 16
+
+2023-08-26 13:32:41 Running AddbetScript...
+
+2023-08-26 13:32:41 scrollBetIntoView('1157454542') => 1
+
+2023-08-26 13:32:43 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-26 13:32:45 {
+  "bg": "b32c234d-feb1-4108-bb0c-b02f6162c419",
+  "sr": 0,
+  "mr": false,
+  "cc": "VoZQx+Eaq9NBIXjwMq8HHbnL7jMjAxwH1AhKGx6mzuU=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "911",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "10/11",
+      "fi": 142867473,
+      "fd": "Eintracht Braunschweig U19 v Hertha Berlino U19",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1157454542,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS142867473-1157454542",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142790577,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-08-26 13:32:47 Fractional Odds : 10/11
+
+2023-08-26 13:32:47 Trademate Odds : 0 , Bet365 Odds : 1.9
+
+2023-08-26 13:32:47 Trying to place bet!
+
+2023-08-26 13:32:47 DoPlacebetUI
+
+2023-08-26 13:32:47 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-26 13:32:48 Trademate Odds : 0 , Bet365 Odds : 1.9
+
+2023-08-26 13:32:48 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-26 13:32:57 55.81
+
+2023-08-26 13:32:57 Current balance : 55.8
+
+2023-08-26 13:32:57 DoLoad365Page
+
+2023-08-26 13:32:57 365 page is loaded!
+
+2023-08-26 13:33:01 [concigrassi:Test123.] SUCCESS. Stake:16 Odds:1.90875
+
+2023-08-26 13:33:01 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:16 Odds:1.90875",
+  "stake": 16.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.90875,
+  "tournament": "Germany Bundesliga U19",
+  "eventName": "Eintracht Braunschweig U19 vs Hertha Berlin U19",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "26/08/2023 13:32:57",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 39.8,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-26 13:33:09 Trying to register tip at Bigstake
+
+2023-08-26 13:33:24 Registered tip at Bigstake Successfully!
+
+2023-08-26 13:33:27 This Line is already existed on Settled bets!
+
+2023-08-26 13:43:24 Recieve 1 new bets From Copybet Server!
+
+2023-08-26 13:43:24 Pending bet is not finished.!
+
+2023-08-26 13:50:20 Recieve new Match Score From Copybet Server!
+
+2023-08-26 13:50:20 New Score is updated...
+
+2023-08-26 13:50:20 {"home":"Eintracht Braunschweig U19","away":"Hertha Berlin U19","score":"0:0","gameTime":1}
+
+2023-08-26 13:50:20 New Score : Eintracht Braunschweig U19 vs Hertha Berlin U19  0:0
+
+2023-08-26 13:50:20 Pending tip Score : Eintracht Braunschweig U19 vs Hertha Berlin U19 0:0
+
+2023-08-26 13:50:20 Pending Tip is lost now...
+
+2023-08-26 13:57:38 Recieve 1 new bets From Copybet Server!
+
+2023-08-26 13:57:38  *** MakeBet *** 
+
+2023-08-26 13:57:38 {"dbId":"","sport":"","country":"","league":"Germany Oberliga Schleswig-Holstein","dateTime":"","match":"TSV Bordesholm vs Oldenburger SV","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-26 13:57:38 55.81
+
+2023-08-26 13:57:38 Current balance : 55.8
+
+2023-08-26 13:57:38 Current Balance : 55.8
+
+2023-08-26 13:57:38 CheckIfLoggedIn
+
+2023-08-26 13:57:38 Logged In Already!
+
+2023-08-26 13:57:38 bet365.com
+
+2023-08-26 13:57:52 TSV Bordesholm v Oldenburger SV Dis :0.00624999999999998
+
+2023-08-26 13:57:53 Wrong position detected!
+
+2023-08-26 13:57:56 Stake : 23
+
+2023-08-26 13:57:56 Running AddbetScript...
+
+2023-08-26 13:57:56 scrollBetIntoView('1157487262') => 0
+
+2023-08-26 13:57:56 Bet is not found!
+
+2023-08-26 13:58:00 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-26 13:58:02 {
+  "bg": "2c60cf19-6277-4199-9ff1-6ba657773141",
+  "sr": 0,
+  "mr": false,
+  "cc": "2/sjo5okVSu9Og33yztPrVrBJ6I2yBGTnQOzeKal77c=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "911",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/15",
+      "fi": 142867634,
+      "fd": "TSV Bordesholm v Oldenburger SV",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1157487262,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64e9e8ca-8DBEA563",
+      "tp": "BS142867634-1157487262",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142391707,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-08-26 13:58:04 Fractional Odds : 8/15
+
+2023-08-26 13:58:04 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-08-26 13:58:04 Trying to place bet!
+
+2023-08-26 13:58:04 DoPlacebetUI
+
+2023-08-26 13:58:04 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-26 13:58:06 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-08-26 13:58:06 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-26 13:58:15 55.81
+
+2023-08-26 13:58:15 Current balance : 55.8
+
+2023-08-26 13:58:15 DoLoad365Page
+
+2023-08-26 13:58:15 365 page is loaded!
+
+2023-08-26 13:58:18 [concigrassi:Test123.] SUCCESS. Stake:23 Odds:1.53304347826087
+
+2023-08-26 13:58:18 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:23 Odds:1.53304347826087",
+  "stake": 23.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.5330434782608695,
+  "tournament": "Germany Oberliga Schleswig-Holstein",
+  "eventName": "TSV Bordesholm vs Oldenburger SV",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "26/08/2023 13:58:15",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 32.8,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-26 13:58:26 Trying to register tip at Bigstake
+
+2023-08-26 13:58:41 Registered tip at Bigstake Successfully!
+
+2023-08-26 13:58:44 This Line is already existed on Settled bets!
+
+2023-08-26 13:59:19 Recieve new Match Score From Copybet Server!
+
+2023-08-26 13:59:19 New Score is updated...
+
+2023-08-26 13:59:19 {"home":"TSV Bordesholm","away":"Oldenburger SV","score":"0:1","gameTime":0}
+
+2023-08-26 13:59:19 New Score : TSV Bordesholm vs Oldenburger SV  0:1
+
+2023-08-26 13:59:19 Pending tip Score : TSV Bordesholm vs Oldenburger SV 0:0
+
+2023-08-26 13:59:19 Pending Tip is winning now...
+
+2023-08-26 14:05:23 Recieve new Match Score From Copybet Server!
+
+2023-08-26 14:05:23 New Score is updated...
+
+2023-08-26 14:05:23 {"home":"Eintracht Braunschweig U19","away":"Hertha Berlin U19","score":"0:1","gameTime":0}
+
+2023-08-26 14:05:24 Recieve new Match Score From Copybet Server!
+
+2023-08-26 14:05:24 New Score is updated...
+
+2023-08-26 14:05:24 {"home":"Eintracht Braunschweig U19","away":"Hertha Berlin U19","score":"0:1","gameTime":1}
+
+2023-08-26 14:07:24 Recieve new Match Score From Copybet Server!
+
+2023-08-26 14:07:24 New Score is updated...
+
+2023-08-26 14:07:24 {"home":"TSV Bordesholm","away":"Oldenburger SV","score":"1:1","gameTime":0}
+
+2023-08-26 14:22:31 Recieve 1 new bets From Copybet Server!
+
+2023-08-26 14:22:31  *** MakeBet *** 
+
+2023-08-26 14:22:31 {"dbId":"","sport":"","country":"","league":"Estonia Esiliiga B","dateTime":"","match":"JK Trans Narva II vs FC Kuressaare II","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-26 14:22:31 52.06
+
+2023-08-26 14:22:31 Current balance : 52
+
+2023-08-26 14:22:31 Current Balance : 52
+
+2023-08-26 14:22:31 CheckIfLoggedIn
+
+2023-08-26 14:22:31 Logged In Already!
+
+2023-08-26 14:22:31 bet365.com
+
+2023-08-26 14:22:42 JK Trans Narva II v FC Kuressaare II Dis :0.0276276276276276
+
+2023-08-26 14:22:43 Wrong position detected!
+
+2023-08-26 14:22:47 Stake : 24
+
+2023-08-26 14:22:47 Running AddbetScript...
+
+2023-08-26 14:22:47 scrollBetIntoView('1157990664') => 1
+
+2023-08-26 14:22:49 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-26 14:22:50 {
+  "bg": "84055ad2-f2d4-4b56-8598-74d3cb75e3cd",
+  "sr": 0,
+  "mr": false,
+  "cc": "W6yne6sFKlupdBn6iE2LyAoKT52/IJKr3zEt4M4xj1k=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "911",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/7",
+      "fi": 142870994,
+      "fd": "JK Trans Narva II v FC Kuressaare II",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1157990664,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64e9ee9b-B9B88E2E",
+      "tp": "BS142870994-1157990664",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142400907,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-08-26 14:22:52 Fractional Odds : 4/7
+
+2023-08-26 14:22:52 Trademate Odds : 0 , Bet365 Odds : 1.57
+
+2023-08-26 14:22:52 Trying to place bet!
+
+2023-08-26 14:22:52 DoPlacebetUI
+
+2023-08-26 14:22:52 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-26 14:22:54 Trademate Odds : 0 , Bet365 Odds : 1.57
+
+2023-08-26 14:22:54 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-26 14:23:03 52.06
+
+2023-08-26 14:23:03 Current balance : 52
+
+2023-08-26 14:23:03 DoLoad365Page
+
+2023-08-26 14:23:03 365 page is loaded!
+
+2023-08-26 14:23:06 [concigrassi:Test123.] SUCCESS. Stake:24 Odds:1.57125
+
+2023-08-26 14:23:06 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:24 Odds:1.57125",
+  "stake": 24.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.57125,
+  "tournament": "Estonia Esiliiga B",
+  "eventName": "JK Trans Narva II vs FC Kuressaare II",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "26/08/2023 14:23:03",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 28.0,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-26 14:23:14 Trying to register tip at Bigstake
+
+2023-08-26 14:23:29 Registered tip at Bigstake Successfully!
+
+2023-08-26 14:23:32 This Line is already existed on Settled bets!
+
+2023-08-26 14:24:22 Recieve new Match Score From Copybet Server!
+
+2023-08-26 14:24:22 New Score is updated...
+
+2023-08-26 14:24:22 {"home":"TSV Bordesholm","away":"Oldenburger SV","score":"1:1","gameTime":1}
+
+2023-08-26 14:24:22 New Score : TSV Bordesholm vs Oldenburger SV  1:1
+
+2023-08-26 14:24:22 Pending tip Score : JK Trans Narva II vs FC Kuressaare II 0:0
+
+2023-08-26 14:36:23 Recieve new Match Score From Copybet Server!
+
+2023-08-26 14:36:23 New Score is updated...
+
+2023-08-26 14:36:23 {"home":"JK Trans Narva II","away":"FC Kuressaare II","score":"0:1","gameTime":0}
+
+2023-08-26 14:36:23 New Score : JK Trans Narva II vs FC Kuressaare II  0:1
+
+2023-08-26 14:36:23 Pending tip Score : JK Trans Narva II vs FC Kuressaare II 0:0
+
+2023-08-26 14:36:23 Pending Tip is winning now...
+
+2023-08-26 14:38:23 Recieve new Match Score From Copybet Server!
+
+2023-08-26 14:38:23 New Score is updated...
+
+2023-08-26 14:38:23 {"home":"TSV Bordesholm","away":"Oldenburger SV","score":"1:1","gameTime":1}
+
+2023-08-26 14:46:24 Recieve new Match Score From Copybet Server!
+
+2023-08-26 14:46:24 New Score is updated...
+
+2023-08-26 14:46:24 {"home":"JK Trans Narva II","away":"FC Kuressaare II","score":"0:1","gameTime":1}
+
+2023-08-26 14:54:25 Recieve new Match Score From Copybet Server!
+
+2023-08-26 14:54:25 New Score is updated...
+
+2023-08-26 14:54:25 {"home":"TSV Bordesholm","away":"Oldenburger SV","score":"1:2","gameTime":0}
+
+2023-08-26 14:55:23 Recieve new Match Score From Copybet Server!
+
+2023-08-26 14:55:23 New Score is updated...
+
+2023-08-26 14:55:23 {"home":"TSV Bordesholm","away":"Oldenburger SV","score":"2:2","gameTime":0}
+
+2023-08-26 14:56:30 Recieve new Match Score From Copybet Server!
+
+2023-08-26 14:56:30 New Score is updated...
+
+2023-08-26 14:56:30 {"home":"Eintracht Braunschweig U19","away":"Hertha Berlin U19","score":"0:1","gameTime":2}
+
+2023-08-26 14:57:30 Recieve 1 new bets From Copybet Server!
+
+2023-08-26 14:57:30  *** MakeBet *** 
+
+2023-08-26 14:57:30 {"dbId":"","sport":"","country":"","league":"China Super League","dateTime":"","match":"Zhejiang vs Dalian Pro","score":"1:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-26 14:57:30 65.76
+
+2023-08-26 14:57:30 Current balance : 65.7
+
+2023-08-26 14:57:30 Current Balance : 65.7
+
+2023-08-26 14:57:30 CheckIfLoggedIn
+
+2023-08-26 14:57:30 Logged In Already!
+
+2023-08-26 14:57:30 bet365.com
+
+2023-08-26 14:57:43 Zhejiang v Dalian Pro Dis :0.00909090909090904
+
+2023-08-26 14:57:44 Wrong position detected!
+
+2023-08-26 14:57:48 Stake : 25
+
+2023-08-26 14:57:48 Running AddbetScript...
+
+2023-08-26 14:57:48 scrollBetIntoView('1156938617') => 1
+
+2023-08-26 14:57:50 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-26 14:57:52 {
+  "bg": "a143bed4-4e15-440a-8e15-2026a1fccaf9",
+  "sr": 0,
+  "mr": false,
+  "cc": "bjT29TQpr+x/HYkoKayOSIXnYDvqdJ/mM+sZZ5Uap9s=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "911",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/9",
+      "fi": 142864360,
+      "fd": "Zhejiang v Dalian Pro",
+      "pt": [
+        {
+          "hd": "1.5",
+          "pi": 1156938617,
+          "bd": "Più di",
+          "ha": "1.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64e9f6d0-37CC62BF",
+      "tp": "BS142864360-1156938617",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142086182,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-08-26 14:57:54 Fractional Odds : 4/9
+
+2023-08-26 14:57:54 Trademate Odds : 0 , Bet365 Odds : 1.44
+
+2023-08-26 14:57:54 Trying to place bet!
+
+2023-08-26 14:57:54 DoPlacebetUI
+
+2023-08-26 14:57:54 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-26 14:57:56 Trademate Odds : 0 , Bet365 Odds : 1.44
+
+2023-08-26 14:57:56 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-26 14:58:04 65.76
+
+2023-08-26 14:58:04 Current balance : 65.7
+
+2023-08-26 14:58:04 DoLoad365Page
+
+2023-08-26 14:58:04 365 page is loaded!
+
+2023-08-26 14:58:08 [concigrassi:Test123.] SUCCESS. Stake:25 Odds:1.4444
+
+2023-08-26 14:58:08 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:25 Odds:1.4444",
+  "stake": 25.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.4444,
+  "tournament": "China Super League",
+  "eventName": "Zhejiang vs Dalian Pro",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "26/08/2023 14:58:04",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 40.7,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-26 14:58:16 Trying to register tip at Bigstake
+
+2023-08-26 14:58:32 Registered tip at Bigstake Successfully!
+
+2023-08-26 14:58:35 This Line is already existed on Settled bets!
+
+2023-08-26 14:59:29 Recieve new Match Score From Copybet Server!
+
+2023-08-26 14:59:29 New Score is updated...
+
+2023-08-26 14:59:29 {"home":"TSV Bordesholm","away":"Oldenburger SV","score":"3:2","gameTime":0}
+
+2023-08-26 14:59:29 New Score : TSV Bordesholm vs Oldenburger SV  3:2
+
+2023-08-26 14:59:29 Pending tip Score : Zhejiang vs Dalian Pro 1:0
+
+2023-08-26 15:00:26 Recieve new Match Score From Copybet Server!
+
+2023-08-26 15:00:26 New Score is updated...
+
+2023-08-26 15:00:26 {"home":"JK Trans Narva II","away":"FC Kuressaare II","score":"0:1","gameTime":1}
+
+2023-08-26 15:00:26 New Score : JK Trans Narva II vs FC Kuressaare II  0:1
+
+2023-08-26 15:00:26 Pending tip Score : Zhejiang vs Dalian Pro 1:0
+
+2023-08-26 15:04:28 Recieve new Match Score From Copybet Server!
+
+2023-08-26 15:04:28 New Score is updated...
+
+2023-08-26 15:04:28 {"home":"Zhejiang","away":"Dalian Pro","score":"2:0","gameTime":0}
+
+2023-08-26 15:04:28 New Score : Zhejiang vs Dalian Pro  2:0
+
+2023-08-26 15:04:28 Pending tip Score : Zhejiang vs Dalian Pro 1:0
+
+2023-08-26 15:04:28 Pending Tip is winning now...
+
+2023-08-26 15:14:20 Recieve new Match Score From Copybet Server!
+
+2023-08-26 15:14:20 New Score is updated...
+
+2023-08-26 15:14:20 {"home":"Zhejiang","away":"Dalian Pro","score":"3:0","gameTime":0}
+
+2023-08-26 15:18:21 Recieve new Match Score From Copybet Server!
+
+2023-08-26 15:18:21 New Score is updated...
+
+2023-08-26 15:18:21 {"home":"JK Trans Narva II","away":"FC Kuressaare II","score":"1:1","gameTime":0}
+
+2023-08-26 15:35:27 Recieve new Match Score From Copybet Server!
+
+2023-08-26 15:35:27 New Score is updated...
+
+2023-08-26 15:35:27 {"home":"Zhejiang","away":"Dalian Pro","score":"3:0","gameTime":2}
+
+2023-08-26 15:35:28 Recieve new Match Score From Copybet Server!
+
+2023-08-26 15:35:28 New Score is updated...
+
+2023-08-26 15:35:28 {"home":"TSV Bordesholm","away":"Oldenburger SV","score":"3:2","gameTime":2}
+
+2023-08-26 15:41:30 Recieve 1 new bets From Copybet Server!
+
+2023-08-26 15:41:30  *** MakeBet *** 
+
+2023-08-26 15:41:30 {"dbId":"","sport":"","country":"","league":"South Africa League Women","dateTime":"","match":"Copper Belts FC Femminile vs Mamelodi Sundowns Femminile","score":"0:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-26 15:41:30 76.86
+
+2023-08-26 15:41:30 Current balance : 76.8
+
+2023-08-26 15:41:30 Current Balance : 76.8
+
+2023-08-26 15:41:30 CheckIfLoggedIn
+
+2023-08-26 15:41:30 Logged In Already!
+
+2023-08-26 15:41:30 bet365.com
+
+2023-08-26 15:41:30 DoLoad365Page
+
+2023-08-26 15:41:30 365 page is loaded!
+
+2023-08-26 15:41:45 Copper Belts FC femminile v Mamelodi Sundowns femminile Dis :0.0519492771379565
+
+2023-08-26 15:41:46 Wrong position detected!
+
+2023-08-26 15:41:51 Stake : 26
+
+2023-08-26 15:41:51 Running AddbetScript...
+
+2023-08-26 15:41:51 scrollBetIntoView('1158339133') => 1
+
+2023-08-26 15:41:52 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-26 15:41:54 {
+  "bg": "e130edcb-5e41-4230-b8be-17f1f877984b",
+  "sr": 0,
+  "mr": false,
+  "cc": "ywAdeuduSSK6kutOPV24aZvzrZjWeY3VZQLdA8/zrv8=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "911",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/15",
+      "fi": 142873896,
+      "fd": "Copper Belts FC femminile v Mamelodi Sundowns femminile",
+      "pt": [
+        {
+          "hd": "1.5",
+          "pi": 1158339133,
+          "bd": "Più di ",
+          "ha": "1.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS142873896-1158339133",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142867341,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-08-26 15:41:56 Fractional Odds : 8/15
+
+2023-08-26 15:41:56 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-08-26 15:41:56 Trying to place bet!
+
+2023-08-26 15:41:56 DoPlacebetUI
+
+2023-08-26 15:41:56 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-26 15:41:58 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-08-26 15:41:58 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-26 15:42:13 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-26 15:42:38 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-26 15:43:03 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-26 15:43:25 76.86
+
+2023-08-26 15:43:26 Current balance : 76.8
+
+2023-08-26 15:43:27 ***EMPTY***
+
+2023-08-26 15:43:27 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "***EMPTY***",
+  "stake": 26.0,
+  "balance": 76.8,
+  "success": 10,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-26 15:43:38 This Line 'Copper Belts FC Femminile vs Mamelodi Sundowns Femminile' - 'OVER' is already existed on Failed bets!
+
+2023-08-26 15:49:25 Recieve new Match Score From Copybet Server!
+
+2023-08-26 15:49:25 New Score is updated...
+
+2023-08-26 15:49:25 {"home":"Copper Belts FC Femminile","away":"Mamelodi Sundowns Femminile","score":"0:0","gameTime":1}
+
+2023-08-26 15:56:30 Recieve new Match Score From Copybet Server!
+
+2023-08-26 15:56:30 New Score is updated...
+
+2023-08-26 15:56:30 {"home":"JK Trans Narva II","away":"FC Kuressaare II","score":"1:1","gameTime":2}
+
+2023-08-26 16:05:27 Recieve new Match Score From Copybet Server!
+
+2023-08-26 16:05:27 New Score is updated...
+
+2023-08-26 16:05:27 {"home":"Copper Belts FC Femminile","away":"Mamelodi Sundowns Femminile","score":"0:0","gameTime":1}
+
+2023-08-26 16:09:25 Recieve new Match Score From Copybet Server!
+
+2023-08-26 16:09:25 New Score is updated...
+
+2023-08-26 16:09:25 {"home":"Copper Belts FC Femminile","away":"Mamelodi Sundowns Femminile","score":"0:1","gameTime":0}
+
+2023-08-26 16:15:53 Recieve 1 new bets From Copybet Server!
+
+2023-08-26 16:15:53  *** MakeBet *** 
+
+2023-08-26 16:15:53 {"dbId":"","sport":"","country":"","league":"Sweden 2.div Norrland","dateTime":"","match":"IF Älgarna vs Bergnäsets AIK","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-26 16:15:53 56.86
+
+2023-08-26 16:15:53 Current balance : 56.8
+
+2023-08-26 16:15:53 Current Balance : 56.8
+
+2023-08-26 16:15:53 CheckIfLoggedIn
+
+2023-08-26 16:15:53 Logged In Already!
+
+2023-08-26 16:15:53 bet365.com
+
+2023-08-26 16:15:53 Wrong position detected!
+
+2023-08-26 16:15:59 IF Älgarna v Bergnäsets AIK Dis :0.0441798941798941
+
+2023-08-26 16:15:59 Wrong position detected!
+
+2023-08-26 16:16:03 Stake : 24
+
+2023-08-26 16:16:03 Running AddbetScript...
+
+2023-08-26 16:16:03 scrollBetIntoView('1157904681') => 1
+
+2023-08-26 16:16:05 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-26 16:16:07 {
+  "bg": "7b2373b4-cb4d-4f34-8fe6-c9e1d4434f08",
+  "sr": 0,
+  "mr": false,
+  "cc": "QGksSoSgfwt4MsmJp0/vtZ8NYYOV1U/2RPSaEaSoTyY=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "911",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "1/2",
+      "fi": 142870337,
+      "fd": "IF Älgarna v Bergnäsets AIK",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1157904681,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64ea0927-7A0C9ABE",
+      "tp": "BS142870337-1157904681",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142683470,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-08-26 16:16:09 Fractional Odds : 1/2
+
+2023-08-26 16:16:09 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-08-26 16:16:09 Trying to place bet!
+
+2023-08-26 16:16:09 DoPlacebetUI
+
+2023-08-26 16:16:09 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-26 16:16:11 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-08-26 16:16:11 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-26 16:16:20 56.86
+
+2023-08-26 16:16:20 Current balance : 56.8
+
+2023-08-26 16:16:20 DoLoad365Page
+
+2023-08-26 16:16:20 365 page is loaded!
+
+2023-08-26 16:16:23 [concigrassi:Test123.] SUCCESS. Stake:24 Odds:1.5
+
+2023-08-26 16:16:23 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:24 Odds:1.5",
+  "stake": 24.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.5,
+  "tournament": "Sweden 2.div Norrland",
+  "eventName": "IF Älgarna vs Bergnäsets AIK",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "26/08/2023 16:16:20",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 32.8,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-26 16:16:31 Trying to register tip at Bigstake
+
+2023-08-26 16:16:47 Registered tip at Bigstake Successfully!
+
+2023-08-26 16:16:50 This Line is already existed on Settled bets!
+
+2023-08-26 16:50:33 Recieve new Match Score From Copybet Server!
+
+2023-08-26 16:50:33 New Score is updated...
+
+2023-08-26 16:50:33 {"home":"IF Älgarna","away":"Bergnäsets AIK","score":"0:0","gameTime":1}
+
+2023-08-26 16:50:33 New Score : IF Älgarna vs Bergnäsets AIK  0:0
+
+2023-08-26 16:50:33 Pending tip Score : IF Älgarna vs Bergnäsets AIK 0:0
+
+2023-08-26 16:50:33 Pending Tip is lost now...
+
+2023-08-26 16:57:33 Recieve new Match Score From Copybet Server!
+
+2023-08-26 16:57:33 New Score is updated...
+
+2023-08-26 16:57:33 {"home":"Copper Belts FC Femminile","away":"Mamelodi Sundowns Femminile","score":"0:1","gameTime":2}
+
+2023-08-26 17:08:45 Recieve new Match Score From Copybet Server!
+
+2023-08-26 17:08:45 New Score is updated...
+
+2023-08-26 17:08:45 {"home":"IF Älgarna","away":"Bergnäsets AIK","score":"0:0","gameTime":1}
+
+2023-08-26 17:15:40 LastLoginModule_Button Clicked
+
+2023-08-26 17:19:30 Recieve new Match Score From Copybet Server!
+
+2023-08-26 17:19:30 New Score is updated...
+
+2023-08-26 17:19:30 {"home":"IF Älgarna","away":"Bergnäsets AIK","score":"1:0","gameTime":0}
+
+2023-08-26 17:28:36 Recieve new Match Score From Copybet Server!
+
+2023-08-26 17:28:36 New Score is updated...
+
+2023-08-26 17:28:36 {"home":"IF Älgarna","away":"Bergnäsets AIK","score":"1:1","gameTime":0}
+
+2023-08-26 17:32:39 Recieve new Match Score From Copybet Server!
+
+2023-08-26 17:32:39 New Score is updated...
+
+2023-08-26 17:32:39 {"home":"IF Älgarna","away":"Bergnäsets AIK","score":"2:1","gameTime":0}
+
+2023-08-26 17:53:31 Recieve new Match Score From Copybet Server!
+
+2023-08-26 17:53:31 New Score is updated...
+
+2023-08-26 17:53:31 {"home":"IF Älgarna","away":"Bergnäsets AIK","score":"2:2","gameTime":0}
+
+2023-08-26 18:10:28 Recieve new Match Score From Copybet Server!
+
+2023-08-26 18:10:28 New Score is updated...
+
+2023-08-26 18:10:28 {"home":"IF Älgarna","away":"Bergnäsets AIK","score":"2:2","gameTime":2}
+
+2023-08-26 18:15:10 LastLoginModule_Button Clicked
+
+2023-08-26 19:14:40 LastLoginModule_Button Clicked
+
+2023-08-26 20:14:10 LastLoginModule_Button Clicked
+
+2023-08-26 21:13:40 LastLoginModule_Button Clicked
+
+2023-08-26 21:25:49 Recieve 1 new bets From Copybet Server!
+
+2023-08-26 21:25:49  *** MakeBet *** 
+
+2023-08-26 21:25:49 {"dbId":"","sport":"","country":"","league":"Ecuador Campeonato Nacional","dateTime":"","match":"Independiente del Valle vs Universidad Catolica del Ecuador","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-26 21:25:49 32.86
+
+2023-08-26 21:25:49 Current balance : 32.8
+
+2023-08-26 21:25:49 Current Balance : 32.8
+
+2023-08-26 21:25:49 CheckIfLoggedIn
+
+2023-08-26 21:25:49 Logged In Already!
+
+2023-08-26 21:25:49 bet365.com
+
+2023-08-26 21:26:04 Independiente del Valle v Universidad Catolica del Ecuador Dis :0.0171829339567504
+
+2023-08-26 21:26:04 Independiente del Valle femminile v CD Espuce femminile Dis :0.142995084012033
+
+2023-08-26 21:26:05 Wrong position detected!
+
+2023-08-26 21:26:09 Stake : 27
+
+2023-08-26 21:26:09 Running AddbetScript...
+
+2023-08-26 21:26:09 scrollBetIntoView('1153251027') => 1
+
+2023-08-26 21:26:11 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-26 21:26:13 {
+  "bg": "41763ec5-4a4f-4fe5-8303-b63e7d10f271",
+  "sr": 0,
+  "mr": false,
+  "cc": "mI174Sz2ViF/FNGwIC1xaP+BJ4sVqH9VqFMoNvRtfyQ=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "911",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/11",
+      "fi": 142833290,
+      "fd": "Independiente del Valle v Universidad Catolica del Ecuador",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1153251027,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64ea51d5-B9E57A02",
+      "tp": "BS142833290-1153251027",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142636931,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-08-26 21:26:15 Fractional Odds : 8/11
+
+2023-08-26 21:26:15 Trademate Odds : 0 , Bet365 Odds : 1.72
+
+2023-08-26 21:26:15 Trying to place bet!
+
+2023-08-26 21:26:15 DoPlacebetUI
+
+2023-08-26 21:26:15 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-26 21:26:17 Trademate Odds : 0 , Bet365 Odds : 1.72
+
+2023-08-26 21:26:17 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-26 21:26:26 32.86
+
+2023-08-26 21:26:26 Current balance : 32.8
+
+2023-08-26 21:26:26 DoLoad365Page
+
+2023-08-26 21:26:26 365 page is loaded!
+
+2023-08-26 21:26:29 [concigrassi:Test123.] SUCCESS. Stake:27 Odds:1.72703703703704
+
+2023-08-26 21:26:29 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:27 Odds:1.72703703703704",
+  "stake": 27.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.7270370370370372,
+  "tournament": "Ecuador Campeonato Nacional",
+  "eventName": "Independiente del Valle vs Universidad Catolica del Ecuador",
+  "probability": "OVER",
+  "market": "OVER 0.5",
+  "placedAt": "26/08/2023 21:26:26",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 5.7999999999999972,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-26 21:26:37 Trying to register tip at Bigstake
+
+2023-08-26 21:26:52 Registered tip at Bigstake Successfully!
+
+2023-08-26 21:26:55 This Line is already existed on Settled bets!
+
+2023-08-26 21:51:19 Recieve new Match Score From Copybet Server!
+
+2023-08-26 21:51:19 New Score is updated...
+
+2023-08-26 21:51:19 {"home":"Independiente del Valle","away":"Universidad Catolica del Ecuador","score":"0:1","gameTime":0}
+
+2023-08-26 21:51:19 New Score : Independiente del Valle vs Universidad Catolica del Ecuador  0:1
+
+2023-08-26 21:51:19 Pending tip Score : Independiente del Valle vs Universidad Catolica del Ecuador 0:0
+
+2023-08-26 21:51:19 Pending Tip is winning now...
+
+2023-08-26 22:06:22 Recieve new Match Score From Copybet Server!
+
+2023-08-26 22:06:22 New Score is updated...
+
+2023-08-26 22:06:22 {"home":"Independiente del Valle","away":"Universidad Catolica del Ecuador","score":"0:1","gameTime":2}
+
+2023-08-26 22:25:40 LastLoginModule_Button Clicked
+
+2023-08-26 23:25:10 LastLoginModule_Button Clicked

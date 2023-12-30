@@ -1,0 +1,176 @@
+﻿
+2023-08-24 00:00:48 Disconnected Socket Server!!! || ping timeout
+
+2023-08-24 00:00:56 Connected Socket Server!!!
+
+2023-08-24 00:23:55 LastLoginModule_Button Clicked
+
+2023-08-24 01:23:25 LastLoginModule_Button Clicked
+
+2023-08-24 02:22:55 LastLoginModule_Button Clicked
+
+2023-08-24 03:22:25 LastLoginModule_Button Clicked
+
+2023-08-24 04:21:55 LastLoginModule_Button Clicked
+
+2023-08-24 05:21:25 LastLoginModule_Button Clicked
+
+2023-08-24 06:20:55 LastLoginModule_Button Clicked
+
+2023-08-24 07:20:25 LastLoginModule_Button Clicked
+
+2023-08-24 08:19:55 LastLoginModule_Button Clicked
+
+2023-08-24 09:19:25 LastLoginModule_Button Clicked
+
+2023-08-24 09:30:22 Disconnected Socket Server!!! || ping timeout
+
+2023-08-24 09:40:23 Connected Socket Server!!!
+
+2023-08-24 10:18:55 LastLoginModule_Button Clicked
+
+2023-08-24 11:18:25 LastLoginModule_Button Clicked
+
+2023-08-24 12:17:55 LastLoginModule_Button Clicked
+
+2023-08-24 13:17:25 LastLoginModule_Button Clicked
+
+2023-08-24 14:16:55 LastLoginModule_Button Clicked
+
+2023-08-24 15:16:25 LastLoginModule_Button Clicked
+
+2023-08-24 16:15:55 LastLoginModule_Button Clicked
+
+2023-08-24 17:15:25 LastLoginModule_Button Clicked
+
+2023-08-24 18:14:55 LastLoginModule_Button Clicked
+
+2023-08-24 19:14:25 LastLoginModule_Button Clicked
+
+2023-08-24 20:05:22 Disconnected Socket Server!!! || ping timeout
+
+2023-08-24 20:07:55 Connected Socket Server!!!
+
+2023-08-24 20:13:55 LastLoginModule_Button Clicked
+
+2023-08-24 21:14:19 Recieve 1 new bets From Copybet Server!
+
+2023-08-24 21:14:19 Pending bet is not finished.!
+
+2023-08-24 21:16:21 Recieve 1 new bets From Copybet Server!
+
+2023-08-24 21:16:21 Pending bet is not finished.!
+
+2023-08-24 21:21:13 Recieve new Match Score From Copybet Server!
+
+2023-08-24 21:21:13 New Score is updated...
+
+2023-08-24 21:21:13 {"home":"Ma'an","away":"Al-Hussein SC","score":"0:0","gameTime":1}
+
+2023-08-24 21:21:13 New Score : Ma'an vs Al-Hussein SC  0:0
+
+2023-08-24 21:21:13 Pending tip Score : Santa Ana vs Cariari Pococi 1:2
+
+2023-08-24 21:38:15 Recieve new Match Score From Copybet Server!
+
+2023-08-24 21:38:15 New Score is updated...
+
+2023-08-24 21:38:15 {"home":"Ma'an","away":"Al-Hussein SC","score":"0:0","gameTime":1}
+
+2023-08-24 21:38:15 New Score : Ma'an vs Al-Hussein SC  0:0
+
+2023-08-24 21:38:15 Pending tip Score : Santa Ana vs Cariari Pococi 1:2
+
+2023-08-24 21:40:20 Recieve 1 new bets From Copybet Server!
+
+2023-08-24 21:40:20 Pending bet is not finished.!
+
+2023-08-24 22:01:15 Recieve new Match Score From Copybet Server!
+
+2023-08-24 22:01:15 New Score is updated...
+
+2023-08-24 22:01:15 {"home":"Al Riyadh","away":"Al Ittihad Jeddah","score":"0:4","gameTime":0}
+
+2023-08-24 22:01:15 New Score : Al Riyadh vs Al Ittihad Jeddah  0:4
+
+2023-08-24 22:01:15 Pending tip Score : Santa Ana vs Cariari Pococi 1:2
+
+2023-08-24 22:04:15 Recieve new Match Score From Copybet Server!
+
+2023-08-24 22:04:15 New Score is updated...
+
+2023-08-24 22:04:15 {"home":"Arborg","away":"Vaengir Jupiters","score":"0:0","gameTime":1}
+
+2023-08-24 22:04:15 New Score : Arborg vs Vaengir Jupiters  0:0
+
+2023-08-24 22:04:16 Pending tip Score : Santa Ana vs Cariari Pococi 1:2
+
+2023-08-24 22:10:15 Recieve new Match Score From Copybet Server!
+
+2023-08-24 22:10:15 New Score is updated...
+
+2023-08-24 22:10:15 {"home":"Al Riyadh","away":"Al Ittihad Jeddah","score":"0:4","gameTime":2}
+
+2023-08-24 22:10:15 New Score : Al Riyadh vs Al Ittihad Jeddah  0:4
+
+2023-08-24 22:10:15 Pending tip Score : Santa Ana vs Cariari Pococi 1:2
+
+2023-08-24 22:17:31 Recieve new Match Score From Copybet Server!
+
+2023-08-24 22:17:31 New Score is updated...
+
+2023-08-24 22:17:31 {"home":"Ma'an","away":"Al-Hussein SC","score":"0:1","gameTime":0}
+
+2023-08-24 22:17:31 New Score : Ma'an vs Al-Hussein SC  0:1
+
+2023-08-24 22:17:31 Pending tip Score : Santa Ana vs Cariari Pococi 1:2
+
+2023-08-24 22:18:13 Recieve new Match Score From Copybet Server!
+
+2023-08-24 22:18:13 New Score is updated...
+
+2023-08-24 22:18:13 {"home":"Arborg","away":"Vaengir Jupiters","score":"0:0","gameTime":1}
+
+2023-08-24 22:18:13 New Score : Arborg vs Vaengir Jupiters  0:0
+
+2023-08-24 22:18:13 Pending tip Score : Santa Ana vs Cariari Pococi 1:2
+
+2023-08-24 22:34:13 Recieve new Match Score From Copybet Server!
+
+2023-08-24 22:34:13 New Score is updated...
+
+2023-08-24 22:34:13 {"home":"Ma'an","away":"Al-Hussein SC","score":"0:1","gameTime":2}
+
+2023-08-24 22:34:13 New Score : Ma'an vs Al-Hussein SC  0:1
+
+2023-08-24 22:34:13 Pending tip Score : Santa Ana vs Cariari Pococi 1:2
+
+2023-08-24 22:57:12 Recieve new Match Score From Copybet Server!
+
+2023-08-24 22:57:12 New Score is updated...
+
+2023-08-24 22:57:12 {"home":"Arborg","away":"Vaengir Jupiters","score":"1:0","gameTime":0}
+
+2023-08-24 22:57:12 New Score : Arborg vs Vaengir Jupiters  1:0
+
+2023-08-24 22:57:12 Pending tip Score : Santa Ana vs Cariari Pococi 1:2
+
+2023-08-24 23:08:11 Recieve new Match Score From Copybet Server!
+
+2023-08-24 23:08:11 New Score is updated...
+
+2023-08-24 23:08:11 {"home":"Arborg","away":"Vaengir Jupiters","score":"1:1","gameTime":0}
+
+2023-08-24 23:08:11 New Score : Arborg vs Vaengir Jupiters  1:1
+
+2023-08-24 23:08:11 Pending tip Score : Santa Ana vs Cariari Pococi 1:2
+
+2023-08-24 23:17:11 Recieve new Match Score From Copybet Server!
+
+2023-08-24 23:17:11 New Score is updated...
+
+2023-08-24 23:17:11 {"home":"Arborg","away":"Vaengir Jupiters","score":"1:1","gameTime":2}
+
+2023-08-24 23:17:11 New Score : Arborg vs Vaengir Jupiters  1:1
+
+2023-08-24 23:17:11 Pending tip Score : Santa Ana vs Cariari Pococi 1:2

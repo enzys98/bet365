@@ -1,0 +1,23 @@
+﻿2023-01-26 12:58:58 Chrome_RenderWidgetHostHWND
+
+2023-01-26 12:58:58 Websocket server is listening on 8880
+
+2023-01-26 12:58:58 DoLogin
+
+2023-01-26 12:58:58 DoLoad365Page
+
+2023-01-26 12:59:04 365 page is loaded!
+
+2023-01-26 12:59:04 Executed login script!
+
+2023-01-26 12:59:11 DoLoad365Page
+
+2023-01-26 12:59:11 365 page is loaded!
+
+2023-01-26 12:59:11 LastLoginModule_Button Clicked
+
+2023-01-26 12:59:16 Login Success!
+
+2023-01-26 12:59:23 0 Settled bets!!!
+
+2023-01-26 12:59:23 Browser Connected!

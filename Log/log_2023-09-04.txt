@@ -1,0 +1,242 @@
+﻿2023-09-04 00:43:04 Chrome_RenderWidgetHostHWND
+
+2023-09-04 00:43:04 Websocket server is listening on 8880
+
+2023-09-04 00:43:04 DoLogin
+
+2023-09-04 00:43:04 DoLoad365Page
+
+2023-09-04 00:43:04 365 page is loaded!
+
+2023-09-04 00:43:04 Executed login script!
+
+2023-09-04 00:43:31 DoLoad365Page
+
+2023-09-04 00:43:31 365 page is loaded!
+
+2023-09-04 00:43:34 Executed login script!
+
+2023-09-04 00:43:41 DoLoad365Page
+
+2023-09-04 00:43:41 365 page is loaded!
+
+2023-09-04 00:43:41 LastLoginModule_Button Clicked
+
+2023-09-04 00:43:47 Login Success!
+
+2023-09-04 00:43:53 0 Settled bets!!!
+
+2023-09-04 00:43:53 Browser Connected!
+
+2023-09-04 00:43:57 The bot has been started!
+
+2023-09-04 00:43:57 DoLogin
+
+2023-09-04 00:43:57 DoLoad365Page
+
+2023-09-04 00:43:57 365 page is loaded!
+
+2023-09-04 00:43:57 Connected Socket Server!!!
+
+2023-09-04 00:44:00 10.54
+
+2023-09-04 00:44:00 Current balance : 10.5
+
+2023-09-04 00:44:00 LastLoginModule_Button Clicked
+
+2023-09-04 00:44:03 0 Settled bets!!!
+
+2023-09-04 00:44:03 Current Balance: 10.5
+
+2023-09-04 00:44:03 Page is initialized!
+
+2023-09-04 01:04:00 LastLoginModule_Button Clicked
+
+2023-09-04 09:28:14 Disconnected Socket Server!!! || transport close
+
+2023-09-04 09:28:15 Connected Socket Server!!!
+
+2023-09-04 09:35:29 Disconnected Socket Server!!! || ping timeout
+
+2023-09-04 09:36:45 Connected Socket Server!!!
+
+2023-09-04 09:37:15 Disconnected Socket Server!!! || ping timeout
+
+2023-09-04 09:37:26 Connected Socket Server!!!
+
+2023-09-04 09:37:56 Error occurs in Socket Server!!!
+
+2023-09-04 09:38:09 Disconnected Socket Server!!! || transport error
+
+2023-09-04 09:38:12 Connected Socket Server!!!
+
+2023-09-04 09:38:39 Error occurs in Socket Server!!!
+
+2023-09-04 09:38:39 Disconnected Socket Server!!! || transport error
+
+2023-09-04 09:40:10 Connected Socket Server!!!
+
+2023-09-04 09:40:40 Disconnected Socket Server!!! || ping timeout
+
+2023-09-04 09:40:42 Connected Socket Server!!!
+
+2023-09-04 09:41:12 Disconnected Socket Server!!! || ping timeout
+
+2023-09-04 09:41:28 Connected Socket Server!!!
+
+2023-09-04 09:41:58 Disconnected Socket Server!!! || ping timeout
+
+2023-09-04 09:42:10 Connected Socket Server!!!
+
+2023-09-04 09:43:05 Disconnected Socket Server!!! || ping timeout
+
+2023-09-04 09:43:21 Connected Socket Server!!!
+
+2023-09-04 09:53:57 Disconnected Socket Server!!! || transport close
+2023-09-04 10:02:05 Chrome_RenderWidgetHostHWND
+
+2023-09-04 10:02:05 Websocket server is listening on 8880
+
+2023-09-04 10:02:05 DoLogin
+
+2023-09-04 10:02:05 DoLoad365Page
+
+2023-09-04 10:02:05 365 page is loaded!
+
+2023-09-04 10:02:05 Executed login script!
+
+2023-09-04 10:02:32 DoLoad365Page
+
+2023-09-04 10:02:32 365 page is loaded!
+
+2023-09-04 10:02:40 Executed login script!
+
+2023-09-04 10:02:48 DoLoad365Page
+
+2023-09-04 10:02:48 365 page is loaded!
+
+2023-09-04 10:02:48 LastLoginModule_Button Clicked
+
+2023-09-04 10:02:53 Login Success!
+
+2023-09-04 10:03:01 0 Settled bets!!!
+
+2023-09-04 10:03:01 Browser Connected!
+
+2023-09-04 10:03:03 The bot has been started!
+
+2023-09-04 10:03:03 DoLogin
+
+2023-09-04 10:03:03 DoLoad365Page
+
+2023-09-04 10:03:03 365 page is loaded!
+
+2023-09-04 10:03:03 Connected Socket Server!!!
+
+2023-09-04 10:03:11 
+
+2023-09-04 10:03:24 Current Balance: -1
+
+2023-09-04 10:03:24 Page is initialized!
+
+2023-09-04 10:22:32 LastLoginModule_Button Clicked
+
+2023-09-04 10:42:02 LastLoginModule_Button Clicked
+
+2023-09-04 11:01:32 LastLoginModule_Button Clicked
+
+2023-09-04 11:21:02 LastLoginModule_Button Clicked
+
+2023-09-04 11:40:32 LastLoginModule_Button Clicked
+2023-09-04 14:17:41 Chrome_RenderWidgetHostHWND
+
+2023-09-04 14:17:41 Websocket server is listening on 8880
+
+2023-09-04 14:17:41 DoLogin
+
+2023-09-04 14:17:41 DoLoad365Page
+
+2023-09-04 14:17:47 365 page is loaded!
+
+2023-09-04 14:17:47 Executed login script!
+
+2023-09-04 14:17:54 DoLoad365Page
+
+2023-09-04 14:17:54 365 page is loaded!
+
+2023-09-04 14:17:54 LastLoginModule_Button Clicked
+
+2023-09-04 14:18:00 Login Success!
+
+2023-09-04 14:18:06 0 Settled bets!!!
+
+2023-09-04 14:18:06 Browser Connected!
+
+2023-09-04 14:19:05 The bot has been started!
+
+2023-09-04 14:19:05 DoLogin
+
+2023-09-04 14:19:05 DoLoad365Page
+
+2023-09-04 14:19:05 365 page is loaded!
+
+2023-09-04 14:19:06 Connected Socket Server!!!
+
+2023-09-04 14:19:08 10.54
+
+2023-09-04 14:19:08 LastLoginModule_Button Clicked
+
+2023-09-04 14:19:08 Current balance : 10.5
+
+2023-09-04 14:19:16 0 Settled bets!!!
+
+2023-09-04 14:19:16 Current Balance: 10.5
+
+2023-09-04 14:19:16 Page is initialized!
+
+2023-09-04 14:30:27 Disconnected Socket Server!!! || transport close
+
+2023-09-04 14:31:38 Connected Socket Server!!!
+
+2023-09-04 14:38:38 LastLoginModule_Button Clicked
+
+2023-09-04 14:58:08 LastLoginModule_Button Clicked
+
+2023-09-04 15:06:49 Recieve new Match Score From Copybet Server!
+
+2023-09-04 15:06:49 New Score is updated...
+
+2023-09-04 15:06:49 {"home":"Swansea U21","away":"Hull U21","score":"4:0","gameTime":0}
+
+2023-09-04 15:06:54 Recieve new Match Score From Copybet Server!
+
+2023-09-04 15:06:54 New Score is updated...
+
+2023-09-04 15:06:54 {"home":"Swansea U21","away":"Hull U21","score":"4:0","gameTime":2}
+
+2023-09-04 15:17:38 LastLoginModule_Button Clicked
+2023-09-04 22:29:10 Chrome_RenderWidgetHostHWND
+
+2023-09-04 22:29:10 Websocket server is listening on 8880
+
+2023-09-04 22:29:10 DoLogin
+
+2023-09-04 22:29:10 DoLoad365Page
+
+2023-09-04 22:29:11 365 page is loaded!
+
+2023-09-04 22:29:11 Executed login script!
+
+2023-09-04 22:29:38 DoLoad365Page
+
+2023-09-04 22:29:38 365 page is loaded!
+
+2023-09-04 22:29:41 Executed login script!
+
+2023-09-04 22:29:53 DoLoad365Page
+
+2023-09-04 22:29:53 365 page is loaded!
+
+2023-09-04 22:30:01 Login Success!
+
+2023-09-04 22:30:13 Browser Connected!

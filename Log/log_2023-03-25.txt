@@ -1,0 +1,4551 @@
+﻿2023-03-25 10:50:21 Chrome_RenderWidgetHostHWND
+
+2023-03-25 10:50:21 Websocket server is listening on 8880
+
+2023-03-25 10:50:21 DoLogin
+
+2023-03-25 10:50:21 DoLoad365Page
+
+2023-03-25 10:50:26 365 page is loaded!
+
+2023-03-25 10:50:27 Executed login script!
+
+2023-03-25 10:50:33 DoLoad365Page
+
+2023-03-25 10:50:34 365 page is loaded!
+
+2023-03-25 10:50:34 LastLoginModule_Button Clicked
+
+2023-03-25 10:50:39 Login Success!
+
+2023-03-25 10:50:47 0 Settled bets!!!
+
+2023-03-25 10:50:47 Browser Connected!
+
+2023-03-25 10:50:50 The bot has been started!
+
+2023-03-25 10:50:50 DoLogin
+
+2023-03-25 10:50:50 DoLoad365Page
+
+2023-03-25 10:50:50 365 page is loaded!
+
+2023-03-25 10:50:50 Connected Socket Server!!!
+
+2023-03-25 10:50:53 53.75
+
+2023-03-25 10:50:53 Current balance : 53.7
+
+2023-03-25 10:51:01 0 Settled bets!!!
+
+2023-03-25 10:51:01 Current Balance: 53.7
+
+2023-03-25 10:51:01 Page is initialized!
+
+2023-03-25 10:51:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:51:12 New Score is updated...
+
+2023-03-25 10:51:12 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"2:2","gameTime":0}
+
+2023-03-25 10:51:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:51:12 New Score is updated...
+
+2023-03-25 10:51:12 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"2:2","gameTime":0}
+
+2023-03-25 10:51:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:51:13 New Score is updated...
+
+2023-03-25 10:51:13 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"2:2","gameTime":0}
+
+2023-03-25 10:51:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:51:13 New Score is updated...
+
+2023-03-25 10:51:13 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"2:2","gameTime":0}
+
+2023-03-25 10:51:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:51:13 New Score is updated...
+
+2023-03-25 10:51:13 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"2:2","gameTime":0}
+
+2023-03-25 10:51:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:51:13 New Score is updated...
+
+2023-03-25 10:51:13 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"2:2","gameTime":0}
+
+2023-03-25 10:51:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:51:13 New Score is updated...
+
+2023-03-25 10:51:13 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"2:2","gameTime":0}
+
+2023-03-25 10:51:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:51:13 New Score is updated...
+
+2023-03-25 10:51:13 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"2:2","gameTime":0}
+
+2023-03-25 10:51:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:51:13 New Score is updated...
+
+2023-03-25 10:51:13 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"2:2","gameTime":0}
+
+2023-03-25 10:51:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:51:13 New Score is updated...
+
+2023-03-25 10:51:13 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"2:2","gameTime":0}
+
+2023-03-25 10:51:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:51:14 New Score is updated...
+
+2023-03-25 10:51:14 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"2:2","gameTime":0}
+
+2023-03-25 10:53:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:53:11 New Score is updated...
+
+2023-03-25 10:53:11 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"3:2","gameTime":0}
+
+2023-03-25 10:53:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:53:12 New Score is updated...
+
+2023-03-25 10:53:12 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"3:2","gameTime":0}
+
+2023-03-25 10:53:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:53:13 New Score is updated...
+
+2023-03-25 10:53:13 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"3:2","gameTime":0}
+
+2023-03-25 10:53:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:53:13 New Score is updated...
+
+2023-03-25 10:53:13 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"3:2","gameTime":0}
+
+2023-03-25 10:53:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:53:14 New Score is updated...
+
+2023-03-25 10:53:14 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"3:2","gameTime":0}
+
+2023-03-25 10:53:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:53:14 New Score is updated...
+
+2023-03-25 10:53:14 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"3:2","gameTime":0}
+
+2023-03-25 10:53:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:53:14 New Score is updated...
+
+2023-03-25 10:53:14 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"3:2","gameTime":0}
+
+2023-03-25 10:53:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:53:14 New Score is updated...
+
+2023-03-25 10:53:14 {"home":"Hapoel Kfar Saba U19","away":"Hapoel Afula U19","score":"3:2","gameTime":0}
+
+2023-03-25 10:54:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 10:54:13 New Score is updated...
+
+2023-03-25 10:54:13 {"home":"Olympic Kingsway U20","away":"Floreat Athena U20","score":"1:2","gameTime":0}
+
+2023-03-25 10:55:50 Disconnected Socket Server!!! || io client disconnect
+
+2023-03-25 10:55:50 The bot has been stopped!
+2023-03-25 11:13:19 Chrome_RenderWidgetHostHWND
+
+2023-03-25 11:13:19 Websocket server is listening on 8880
+
+2023-03-25 11:13:19 DoLogin
+
+2023-03-25 11:13:19 DoLoad365Page
+
+2023-03-25 11:13:25 365 page is loaded!
+
+2023-03-25 11:13:25 Executed login script!
+
+2023-03-25 11:13:32 DoLoad365Page
+
+2023-03-25 11:13:32 365 page is loaded!
+
+2023-03-25 11:13:32 LastLoginModule_Button Clicked
+
+2023-03-25 11:13:38 Login Success!
+
+2023-03-25 11:13:45 0 Settled bets!!!
+
+2023-03-25 11:13:45 Browser Connected!
+
+2023-03-25 11:13:49 The bot has been started!
+
+2023-03-25 11:13:49 DoLogin
+
+2023-03-25 11:13:49 DoLoad365Page
+
+2023-03-25 11:13:49 365 page is loaded!
+
+2023-03-25 11:13:49 Connected Socket Server!!!
+
+2023-03-25 11:13:52 53.75
+
+2023-03-25 11:13:52 Current balance : 53.7
+
+2023-03-25 11:14:00 0 Settled bets!!!
+
+2023-03-25 11:14:00 Current Balance: 53.7
+
+2023-03-25 11:14:00 Page is initialized!
+
+2023-03-25 11:15:20 Disconnected Socket Server!!! || transport close
+
+2023-03-25 11:15:21 Connected Socket Server!!!
+
+2023-03-25 11:15:22 Disconnected Socket Server!!! || io client disconnect
+
+2023-03-25 11:15:22 The bot has been stopped!
+2023-03-25 11:37:20 Chrome_RenderWidgetHostHWND
+
+2023-03-25 11:37:20 Websocket server is listening on 8880
+
+2023-03-25 11:37:20 DoLogin
+
+2023-03-25 11:37:20 DoLoad365Page
+
+2023-03-25 11:37:20 365 page is loaded!
+
+2023-03-25 11:37:20 Executed login script!
+
+2023-03-25 11:37:27 DoLoad365Page
+
+2023-03-25 11:37:27 365 page is loaded!
+
+2023-03-25 11:37:27 LastLoginModule_Button Clicked
+
+2023-03-25 11:37:33 Login Success!
+
+2023-03-25 11:37:40 0 Settled bets!!!
+
+2023-03-25 11:37:40 Browser Connected!
+
+2023-03-25 11:37:48 The bot has been started!
+
+2023-03-25 11:37:48 DoLogin
+
+2023-03-25 11:37:48 DoLoad365Page
+
+2023-03-25 11:37:48 365 page is loaded!
+
+2023-03-25 11:37:48 Connected Socket Server!!!
+
+2023-03-25 11:37:51 53.75
+
+2023-03-25 11:37:51 Current balance : 53.7
+
+2023-03-25 11:37:59 0 Settled bets!!!
+
+2023-03-25 11:37:59 LastLoginModule_Button Clicked
+
+2023-03-25 11:37:59 Current Balance: 53.7
+
+2023-03-25 11:37:59 Page is initialized!
+
+2023-03-25 11:38:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:38:11 New Score is updated...
+
+2023-03-25 11:38:11 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"2:0","gameTime":0}
+
+2023-03-25 11:38:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:38:11 New Score is updated...
+
+2023-03-25 11:38:11 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"2:0","gameTime":0}
+
+2023-03-25 11:38:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:38:11 New Score is updated...
+
+2023-03-25 11:38:11 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"2:0","gameTime":0}
+
+2023-03-25 11:38:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:38:11 New Score is updated...
+
+2023-03-25 11:38:11 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"2:0","gameTime":0}
+
+2023-03-25 11:38:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:38:11 New Score is updated...
+
+2023-03-25 11:38:11 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"2:0","gameTime":0}
+
+2023-03-25 11:38:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:38:11 New Score is updated...
+
+2023-03-25 11:38:11 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"2:0","gameTime":0}
+
+2023-03-25 11:38:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:38:11 New Score is updated...
+
+2023-03-25 11:38:11 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"2:0","gameTime":0}
+
+2023-03-25 11:38:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:38:11 New Score is updated...
+
+2023-03-25 11:38:11 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"2:0","gameTime":0}
+
+2023-03-25 11:38:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:38:12 New Score is updated...
+
+2023-03-25 11:38:12 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"2:0","gameTime":0}
+
+2023-03-25 11:38:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:38:12 New Score is updated...
+
+2023-03-25 11:38:12 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"2:0","gameTime":0}
+
+2023-03-25 11:38:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:38:12 New Score is updated...
+
+2023-03-25 11:38:12 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"2:0","gameTime":0}
+
+2023-03-25 11:38:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:38:13 New Score is updated...
+
+2023-03-25 11:38:13 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"2:0","gameTime":0}
+
+2023-03-25 11:39:16 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 11:39:16  *** MakeBet *** 
+
+2023-03-25 11:39:16 {"dbId":"","sport":"","country":"","league":"Turkey U19 League","dateTime":"","match":"Konyaspor U19 vs Kasimpasa U19","score":"💢quota goal successivo💢\nquota pre 1x2:\n1.61:3.75","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"PronosticiKlaus","tipSource":0}
+
+2023-03-25 11:39:16 53.75
+
+2023-03-25 11:39:17 Current balance : 53.7
+
+2023-03-25 11:39:17 Current Balance : 53.7
+
+2023-03-25 11:39:17 CheckIfLoggedIn
+
+2023-03-25 11:39:17 Logged In Already!
+
+2023-03-25 11:39:17 bet365.com
+
+2023-03-25 11:39:17 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 11:39:30 Not Search Event
+
+2023-03-25 11:39:34 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 11:39:35 Connected Socket Server!!!
+
+2023-03-25 11:39:39 Not Search Event
+
+2023-03-25 11:39:57 Not Search Event
+
+2023-03-25 11:40:06 Not Search Event
+
+2023-03-25 11:40:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:40:11 New Score is updated...
+
+2023-03-25 11:40:11 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":0}
+
+2023-03-25 11:40:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:40:11 New Score is updated...
+
+2023-03-25 11:40:11 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":0}
+
+2023-03-25 11:40:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:40:12 New Score is updated...
+
+2023-03-25 11:40:12 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":0}
+
+2023-03-25 11:40:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:40:12 New Score is updated...
+
+2023-03-25 11:40:12 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":0}
+
+2023-03-25 11:40:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:40:12 New Score is updated...
+
+2023-03-25 11:40:12 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":0}
+
+2023-03-25 11:40:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:40:13 New Score is updated...
+
+2023-03-25 11:40:13 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":0}
+
+2023-03-25 11:40:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:40:13 New Score is updated...
+
+2023-03-25 11:40:13 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":0}
+
+2023-03-25 11:40:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:40:13 New Score is updated...
+
+2023-03-25 11:40:13 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":0}
+
+2023-03-25 11:40:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:40:13 New Score is updated...
+
+2023-03-25 11:40:13 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":0}
+
+2023-03-25 11:40:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:40:13 New Score is updated...
+
+2023-03-25 11:40:13 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":0}
+
+2023-03-25 11:40:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:40:14 New Score is updated...
+
+2023-03-25 11:40:14 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":0}
+
+2023-03-25 11:40:24 Not Search Event
+
+2023-03-25 11:40:33 Not Search Event
+
+2023-03-25 11:40:38 Not Found Event on Bet365...
+
+2023-03-25 11:40:41  *** MakeBet *** 
+
+2023-03-25 11:40:41 {"dbId":"","sport":"","country":"","league":"Turkey U19 League","dateTime":"","match":"Konyaspor U19 vs Kasimpasa U19","score":"💢quota goal successivo💢\nquota pre 1x2:\n1.61:3.75","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"PronosticiKlaus","tipSource":0}
+
+2023-03-25 11:40:41 53.75
+
+2023-03-25 11:40:41 Current balance : 53.7
+
+2023-03-25 11:40:41 Current Balance : 53.7
+
+2023-03-25 11:40:41 CheckIfLoggedIn
+
+2023-03-25 11:40:41 Logged In Already!
+
+2023-03-25 11:40:41 bet365.com
+
+2023-03-25 11:40:41 DoLoad365Page
+
+2023-03-25 11:40:41 365 page is loaded!
+
+2023-03-25 11:40:54 Not Search Event
+
+2023-03-25 11:41:03 Not Search Event
+
+2023-03-25 11:41:10 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:41:10 New Score is updated...
+
+2023-03-25 11:41:10 {"home":"Metrostars","away":"West Adelaide","score":"2:0","gameTime":0}
+
+2023-03-25 11:41:21 Not Search Event
+
+2023-03-25 11:41:30 Not Search Event
+
+2023-03-25 11:41:49 Not Search Event
+
+2023-03-25 11:41:57 Not Search Event
+
+2023-03-25 11:42:02 Not Found Event on Bet365...
+
+2023-03-25 11:42:06  *** MakeBet *** 
+
+2023-03-25 11:42:06 {"dbId":"","sport":"","country":"","league":"Turkey U19 League","dateTime":"","match":"Konyaspor U19 vs Kasimpasa U19","score":"💢quota goal successivo💢\nquota pre 1x2:\n1.61:3.75","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"FiltridiLan@","tipSource":0}
+
+2023-03-25 11:42:06 53.75
+
+2023-03-25 11:42:06 Current balance : 53.7
+
+2023-03-25 11:42:06 Current Balance : 53.7
+
+2023-03-25 11:42:06 CheckIfLoggedIn
+
+2023-03-25 11:42:06 Logged In Already!
+
+2023-03-25 11:42:06 bet365.com
+
+2023-03-25 11:42:18 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 11:42:19 Not Search Event
+
+2023-03-25 11:42:27 Not Search Event
+
+2023-03-25 11:42:33 DoLoad365Page
+
+2023-03-25 11:42:33 365 page is loaded!
+
+2023-03-25 11:42:36 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 11:42:37 Connected Socket Server!!!
+
+2023-03-25 11:42:46 Not Search Event
+
+2023-03-25 11:42:55 Not Search Event
+
+2023-03-25 11:43:13 Not Search Event
+
+2023-03-25 11:43:18 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 11:43:22 Not Search Event
+
+2023-03-25 11:43:22 Disconnected Socket Server!!! || io client disconnect
+
+2023-03-25 11:43:22 The bot has been stopped!
+
+2023-03-25 11:43:22 Exception in MakeBet: System.Threading.ThreadAbortException: Thread interrotto.
+   in CEBet365Placer.Controller.BetController.ExecuteScript(String jsCode, Boolean requiredResult)
+   in CEBet365Placer.Controller.BetController.SearchMatchWithName(String eventName)
+   in CEBet365Placer.Controller.BetController.MakeBet(TelegramTip betitem, Boolean& isSucccssed)
+
+2023-03-25 11:43:22 checkWrongLine :    in CEBet365Placer.Controller.BetController.MakeBet(TelegramTip betitem, Boolean& isSucccssed)
+   in CEBet365Placer.Form1.refreshThreadFunc()
+2023-03-25 11:46:48 Chrome_RenderWidgetHostHWND
+
+2023-03-25 11:46:48 Websocket server is listening on 8880
+
+2023-03-25 11:46:48 DoLogin
+
+2023-03-25 11:46:48 DoLoad365Page
+
+2023-03-25 11:46:53 365 page is loaded!
+
+2023-03-25 11:46:54 Executed login script!
+
+2023-03-25 11:47:00 DoLoad365Page
+
+2023-03-25 11:47:00 365 page is loaded!
+
+2023-03-25 11:47:00 LastLoginModule_Button Clicked
+
+2023-03-25 11:47:06 Login Success!
+
+2023-03-25 11:47:14 0 Settled bets!!!
+
+2023-03-25 11:47:14 Browser Connected!
+
+2023-03-25 11:47:17 The bot has been started!
+
+2023-03-25 11:47:17 DoLogin
+
+2023-03-25 11:47:17 DoLoad365Page
+
+2023-03-25 11:47:17 365 page is loaded!
+
+2023-03-25 11:47:17 Connected Socket Server!!!
+
+2023-03-25 11:47:20 53.75
+
+2023-03-25 11:47:20 Current balance : 53.7
+
+2023-03-25 11:47:24 LastLoginModule_Button Clicked
+
+2023-03-25 11:47:27 0 Settled bets!!!
+
+2023-03-25 11:47:28 Current Balance: 53.7
+
+2023-03-25 11:47:28 Page is initialized!
+
+2023-03-25 11:48:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:48:13 New Score is updated...
+
+2023-03-25 11:48:13 {"home":"Lions FC","away":"Peninsula Power","score":"3:1","gameTime":0}
+
+2023-03-25 11:48:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:48:13 New Score is updated...
+
+2023-03-25 11:48:13 {"home":"Kocaelispor U19","away":"Erokspor U19","score":"2:1","gameTime":0}
+
+2023-03-25 11:48:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:48:14 New Score is updated...
+
+2023-03-25 11:48:14 {"home":"Lions FC","away":"Peninsula Power","score":"3:1","gameTime":0}
+
+2023-03-25 11:48:15 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:48:15 New Score is updated...
+
+2023-03-25 11:48:15 {"home":"Kocaelispor U19","away":"Erokspor U19","score":"2:1","gameTime":0}
+
+2023-03-25 11:48:15 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:48:15 New Score is updated...
+
+2023-03-25 11:48:15 {"home":"Eyupspor U19","away":"Erzurum BB U19","score":"3:0","gameTime":0}
+
+2023-03-25 11:48:16 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:48:16 New Score is updated...
+
+2023-03-25 11:48:16 {"home":"Kocaelispor U19","away":"Erokspor U19","score":"2:1","gameTime":0}
+
+2023-03-25 11:48:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:48:18 New Score is updated...
+
+2023-03-25 11:48:18 {"home":"Eyupspor U19","away":"Erzurum BB U19","score":"3:0","gameTime":0}
+
+2023-03-25 11:48:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:48:19 New Score is updated...
+
+2023-03-25 11:48:19 {"home":"Eyupspor U19","away":"Erzurum BB U19","score":"3:0","gameTime":0}
+
+2023-03-25 11:50:17 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 11:50:18  *** MakeBet *** 
+
+2023-03-25 11:50:18 {"dbId":"","sport":"","country":"","league":"Czech Republic 3. Ligy","dateTime":"","match":"SK Benesov vs FK Usti nad Labem","score":"💢quota goal successivo💢\nquota pre 1x2:\n1.65:4.33","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"PronosticiKlaus","tipSource":0}
+
+2023-03-25 11:50:18 53.75
+
+2023-03-25 11:50:18 Current balance : 53.7
+
+2023-03-25 11:50:18 Current Balance : 53.7
+
+2023-03-25 11:50:18 CheckIfLoggedIn
+
+2023-03-25 11:50:18 Logged In Already!
+
+2023-03-25 11:50:18 bet365.com
+
+2023-03-25 11:50:18 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 11:50:28 SK Benesov v FK Usti nad Labem Dis :0.0264516129032258
+
+2023-03-25 11:50:29 Wrong position detected!
+
+2023-03-25 11:50:33 Stake : 5
+
+2023-03-25 11:50:33 Running AddbetScript...
+
+2023-03-25 11:50:33 scrollBetIntoView('354620972') => 1
+
+2023-03-25 11:50:35 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-25 11:50:36 {
+  "bg": "683f958f-7761-4d60-abed-1ac74e3b959d",
+  "sr": 0,
+  "mr": false,
+  "cc": "3q97kjzA7N+zkqlry+B/tD8i9fwt41xJV+cCenTK83s=",
+  "ir": true,
+  "vr": "817",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/6",
+      "fi": 135013002,
+      "fd": "SK Benesov v FK Usti nad Labem",
+      "pt": [
+        {
+          "hd": "3.5",
+          "pi": 354620972,
+          "bd": "Più di",
+          "ha": "3.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "641ed1fc-EE578E00",
+      "tp": "BS135013002-354620972",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134074578,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-25 11:50:38 Fractional Odds : 4/6
+
+2023-03-25 11:50:38 Trademate Odds : 0 , Bet365 Odds : 1.66
+
+2023-03-25 11:50:38 Trying to place bet!
+
+2023-03-25 11:50:38 DoPlacebetUI
+
+2023-03-25 11:50:38 betslip pos => {
+  "x": 457,
+  "y": 672.375,
+  "width": 0.95001220703125,
+  "height": 22.79998779296875,
+  "top": 672.375,
+  "right": 457.95001220703125,
+  "bottom": 695.17498779296875,
+  "left": 457
+}
+
+2023-03-25 11:50:41 Trademate Odds : 0 , Bet365 Odds : 1.66
+
+2023-03-25 11:50:41 Placebet Button pos => {"x":656.5,"y":660.5,"width":213.75,"height":47.5,"top":660.5,"right":870.25,"bottom":708,"left":656.5}
+
+2023-03-25 11:50:43 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 11:50:44 Connected Socket Server!!!
+
+2023-03-25 11:50:49 53.75
+
+2023-03-25 11:50:49 Current balance : 53.7
+
+2023-03-25 11:50:50 DoLoad365Page
+
+2023-03-25 11:50:50 365 page is loaded!
+
+2023-03-25 11:50:53 [sartodenis:2711Buruliddu.] SUCCESS. Stake:5 Odds:1.666
+
+2023-03-25 11:50:53 {
+  "username": "sartodenis",
+  "tipster": "",
+  "message": "[sartodenis:2711Buruliddu.] SUCCESS. Stake:5 Odds:1.666",
+  "stake": 5.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.666,
+  "tournament": "Czech Republic 3. Ligy",
+  "eventName": "SK Benesov vs FK Usti nad Labem",
+  "probability": "OVER",
+  "market": "OVER 3.5",
+  "placedAt": "25/03/2023 11:50:49",
+  "selection": "OVER",
+  "handicap": 3.5,
+  "balance": 48.7,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-25 11:51:01 Trying to register tip at Bigstake
+
+2023-03-25 11:51:14 Registered tip at Bigstake Successfully!
+
+2023-03-25 11:51:17 This Line is already existed on Settled bets!
+
+2023-03-25 11:51:17 This Line is already existed on Settled bets!
+
+2023-03-25 11:51:17 This Line is already existed on Settled bets!
+
+2023-03-25 11:52:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:52:11 New Score is updated...
+
+2023-03-25 11:52:11 {"home":"Peninsula Power Femminile","away":"Sunshine Coast Wanderers Femminile","score":"3:1","gameTime":0}
+
+2023-03-25 11:52:11 New Score : Peninsula Power Femminile vs Sunshine Coast Wanderers Femminile  3:1
+
+2023-03-25 11:52:11 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 11:52:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:52:11 New Score is updated...
+
+2023-03-25 11:52:11 {"home":"Peninsula Power Femminile","away":"Sunshine Coast Wanderers Femminile","score":"3:1","gameTime":0}
+
+2023-03-25 11:52:11 New Score : Peninsula Power Femminile vs Sunshine Coast Wanderers Femminile  3:1
+
+2023-03-25 11:52:11 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 11:52:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:52:12 New Score is updated...
+
+2023-03-25 11:52:12 {"home":"Peninsula Power Femminile","away":"Sunshine Coast Wanderers Femminile","score":"3:1","gameTime":0}
+
+2023-03-25 11:52:12 New Score : Peninsula Power Femminile vs Sunshine Coast Wanderers Femminile  3:1
+
+2023-03-25 11:52:12 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 11:55:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:55:12 New Score is updated...
+
+2023-03-25 11:55:12 {"home":"ACS Sepsi","away":"FC Brasov","score":"1:0","gameTime":2}
+
+2023-03-25 11:55:12 New Score : ACS Sepsi vs FC Brasov  1:0
+
+2023-03-25 11:55:12 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 11:56:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:56:11 New Score is updated...
+
+2023-03-25 11:56:11 {"home":"Peninsula Power Femminile","away":"Sunshine Coast Wanderers Femminile","score":"3:1","gameTime":2}
+
+2023-03-25 11:56:11 New Score : Peninsula Power Femminile vs Sunshine Coast Wanderers Femminile  3:1
+
+2023-03-25 11:56:11 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 11:56:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:56:11 New Score is updated...
+
+2023-03-25 11:56:11 {"home":"Peninsula Power Femminile","away":"Sunshine Coast Wanderers Femminile","score":"3:1","gameTime":2}
+
+2023-03-25 11:56:11 New Score : Peninsula Power Femminile vs Sunshine Coast Wanderers Femminile  3:1
+
+2023-03-25 11:56:11 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 11:56:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 11:56:12 New Score is updated...
+
+2023-03-25 11:56:12 {"home":"Peninsula Power Femminile","away":"Sunshine Coast Wanderers Femminile","score":"3:1","gameTime":2}
+
+2023-03-25 11:56:12 New Score : Peninsula Power Femminile vs Sunshine Coast Wanderers Femminile  3:1
+
+2023-03-25 11:56:12 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:00:05 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:00:05 New Score is updated...
+
+2023-03-25 12:00:05 {"home":"Metrostars","away":"West Adelaide","score":"2:0","gameTime":2}
+
+2023-03-25 12:00:05 New Score : Metrostars vs West Adelaide  2:0
+
+2023-03-25 12:00:05 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:00:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:00:13 New Score is updated...
+
+2023-03-25 12:00:13 {"home":"Lions FC","away":"Peninsula Power","score":"3:1","gameTime":2}
+
+2023-03-25 12:00:13 New Score : Lions FC vs Peninsula Power  3:1
+
+2023-03-25 12:00:13 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:00:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:00:13 New Score is updated...
+
+2023-03-25 12:00:13 {"home":"Lions FC","away":"Peninsula Power","score":"3:1","gameTime":2}
+
+2023-03-25 12:00:13 New Score : Lions FC vs Peninsula Power  3:1
+
+2023-03-25 12:00:13 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:00:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:00:13 New Score is updated...
+
+2023-03-25 12:00:13 {"home":"Lions FC","away":"Peninsula Power","score":"3:1","gameTime":2}
+
+2023-03-25 12:00:13 New Score : Lions FC vs Peninsula Power  3:1
+
+2023-03-25 12:00:13 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:00:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:00:13 New Score is updated...
+
+2023-03-25 12:00:13 {"home":"Lions FC","away":"Peninsula Power","score":"3:1","gameTime":2}
+
+2023-03-25 12:00:13 New Score : Lions FC vs Peninsula Power  3:1
+
+2023-03-25 12:00:13 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:00:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:00:13 New Score is updated...
+
+2023-03-25 12:00:13 {"home":"Potenza Calcio U19","away":"Gubbio U19","score":"1:1","gameTime":2}
+
+2023-03-25 12:00:13 New Score : Potenza Calcio U19 vs Gubbio U19  1:1
+
+2023-03-25 12:00:13 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:00:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:00:14 New Score is updated...
+
+2023-03-25 12:00:14 {"home":"Potenza Calcio U19","away":"Gubbio U19","score":"1:1","gameTime":2}
+
+2023-03-25 12:00:14 New Score : Potenza Calcio U19 vs Gubbio U19  1:1
+
+2023-03-25 12:00:14 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:00:15 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:00:15 New Score is updated...
+
+2023-03-25 12:00:15 {"home":"Potenza Calcio U19","away":"Gubbio U19","score":"1:1","gameTime":2}
+
+2023-03-25 12:00:15 New Score : Potenza Calcio U19 vs Gubbio U19  1:1
+
+2023-03-25 12:00:15 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:01:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:01:13 New Score is updated...
+
+2023-03-25 12:01:13 {"home":"Bohemians 1905 B","away":"Kraluv Dvur","score":"3:1","gameTime":0}
+
+2023-03-25 12:01:13 New Score : Bohemians 1905 B vs Kraluv Dvur  3:1
+
+2023-03-25 12:01:13 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:01:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:01:14 New Score is updated...
+
+2023-03-25 12:01:14 {"home":"Bohemians 1905 B","away":"Kraluv Dvur","score":"3:1","gameTime":0}
+
+2023-03-25 12:01:14 New Score : Bohemians 1905 B vs Kraluv Dvur  3:1
+
+2023-03-25 12:01:14 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:01:15 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:01:15 New Score is updated...
+
+2023-03-25 12:01:15 {"home":"Konyaspor U19","away":"Kasimpasa U19","score":"0:1","gameTime":2}
+
+2023-03-25 12:01:15 New Score : Konyaspor U19 vs Kasimpasa U19  0:1
+
+2023-03-25 12:01:15 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:01:16 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:01:16 New Score is updated...
+
+2023-03-25 12:01:16 {"home":"Bohemians 1905 B","away":"Kraluv Dvur","score":"3:1","gameTime":0}
+
+2023-03-25 12:01:16 New Score : Bohemians 1905 B vs Kraluv Dvur  3:1
+
+2023-03-25 12:01:16 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:01:17 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:01:17 New Score is updated...
+
+2023-03-25 12:01:17 {"home":"Bohemians 1905 B","away":"Kraluv Dvur","score":"3:1","gameTime":0}
+
+2023-03-25 12:01:17 New Score : Bohemians 1905 B vs Kraluv Dvur  3:1
+
+2023-03-25 12:01:17 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:01:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:01:19 New Score is updated...
+
+2023-03-25 12:01:19 {"home":"Konyaspor U19","away":"Kasimpasa U19","score":"0:1","gameTime":2}
+
+2023-03-25 12:01:19 New Score : Konyaspor U19 vs Kasimpasa U19  0:1
+
+2023-03-25 12:01:19 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:01:20 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:01:20 New Score is updated...
+
+2023-03-25 12:01:20 {"home":"Konyaspor U19","away":"Kasimpasa U19","score":"0:1","gameTime":2}
+
+2023-03-25 12:01:20 New Score : Konyaspor U19 vs Kasimpasa U19  0:1
+
+2023-03-25 12:01:20 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:05:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:05:13 New Score is updated...
+
+2023-03-25 12:05:13 {"home":"Kocaelispor U19","away":"Erokspor U19","score":"2:1","gameTime":2}
+
+2023-03-25 12:05:13 New Score : Kocaelispor U19 vs Erokspor U19  2:1
+
+2023-03-25 12:05:13 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:05:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:05:13 New Score is updated...
+
+2023-03-25 12:05:13 {"home":"Kocaelispor U19","away":"Erokspor U19","score":"2:1","gameTime":2}
+
+2023-03-25 12:05:13 New Score : Kocaelispor U19 vs Erokspor U19  2:1
+
+2023-03-25 12:05:13 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:05:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:05:14 New Score is updated...
+
+2023-03-25 12:05:14 {"home":"Kocaelispor U19","away":"Erokspor U19","score":"2:1","gameTime":2}
+
+2023-03-25 12:05:14 New Score : Kocaelispor U19 vs Erokspor U19  2:1
+
+2023-03-25 12:05:14 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:05:25 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:05:25 New Score is updated...
+
+2023-03-25 12:05:25 {"home":"Kocaelispor U19","away":"Erokspor U19","score":"2:1","gameTime":2}
+
+2023-03-25 12:05:25 New Score : Kocaelispor U19 vs Erokspor U19  2:1
+
+2023-03-25 12:05:25 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:10:15 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:15 New Score is updated...
+
+2023-03-25 12:10:15 {"home":"Bohemians 1905 B","away":"Kraluv Dvur","score":"3:1","gameTime":2}
+
+2023-03-25 12:10:15 New Score : Bohemians 1905 B vs Kraluv Dvur  3:1
+
+2023-03-25 12:10:15 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:10:16 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:16 New Score is updated...
+
+2023-03-25 12:10:16 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":2}
+
+2023-03-25 12:10:17 New Score : SK Benesov vs FK Usti nad Labem  3:0
+
+2023-03-25 12:10:17 Pending tip Score : SK Benesov vs FK Usti nad Labem 💢quota goal successivo💢
+quota pre 1x2:
+1.65:4.33
+
+2023-03-25 12:10:17 Pending Tip is lost now...
+
+2023-03-25 12:10:17 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:17 New Score is updated...
+
+2023-03-25 12:10:17 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":2}
+
+2023-03-25 12:10:17 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:17 New Score is updated...
+
+2023-03-25 12:10:17 {"home":"Bohemians 1905 B","away":"Kraluv Dvur","score":"3:1","gameTime":2}
+
+2023-03-25 12:10:17 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:17 New Score is updated...
+
+2023-03-25 12:10:17 {"home":"Bohemians 1905 B","away":"Kraluv Dvur","score":"3:1","gameTime":2}
+
+2023-03-25 12:10:17 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:17 New Score is updated...
+
+2023-03-25 12:10:17 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":2}
+
+2023-03-25 12:10:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:18 New Score is updated...
+
+2023-03-25 12:10:18 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":2}
+
+2023-03-25 12:10:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:18 New Score is updated...
+
+2023-03-25 12:10:18 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":2}
+
+2023-03-25 12:10:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:18 New Score is updated...
+
+2023-03-25 12:10:18 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":2}
+
+2023-03-25 12:10:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:18 New Score is updated...
+
+2023-03-25 12:10:18 {"home":"Bohemians 1905 B","away":"Kraluv Dvur","score":"3:1","gameTime":2}
+
+2023-03-25 12:10:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:19 New Score is updated...
+
+2023-03-25 12:10:19 {"home":"Eyupspor U19","away":"Erzurum BB U19","score":"3:0","gameTime":2}
+
+2023-03-25 12:10:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:19 New Score is updated...
+
+2023-03-25 12:10:19 {"home":"Eyupspor U19","away":"Erzurum BB U19","score":"3:0","gameTime":2}
+
+2023-03-25 12:10:20 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:20 New Score is updated...
+
+2023-03-25 12:10:20 {"home":"Eyupspor U19","away":"Erzurum BB U19","score":"3:0","gameTime":2}
+
+2023-03-25 12:10:20 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:20 New Score is updated...
+
+2023-03-25 12:10:20 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":2}
+
+2023-03-25 12:10:21 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:21 New Score is updated...
+
+2023-03-25 12:10:21 {"home":"SK Benesov","away":"FK Usti nad Labem","score":"3:0","gameTime":2}
+
+2023-03-25 12:10:23 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:23 New Score is updated...
+
+2023-03-25 12:10:23 {"home":"Eyupspor U19","away":"Erzurum BB U19","score":"3:0","gameTime":2}
+
+2023-03-25 12:10:23 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:23 New Score is updated...
+
+2023-03-25 12:10:23 {"home":"Eyupspor U19","away":"Erzurum BB U19","score":"3:0","gameTime":2}
+
+2023-03-25 12:10:23 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:23 New Score is updated...
+
+2023-03-25 12:10:23 {"home":"Eyupspor U19","away":"Erzurum BB U19","score":"3:0","gameTime":2}
+
+2023-03-25 12:10:24 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:10:24 New Score is updated...
+
+2023-03-25 12:10:24 {"home":"Eyupspor U19","away":"Erzurum BB U19","score":"3:0","gameTime":2}
+
+2023-03-25 12:20:19 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 12:20:19 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 12:20:20  *** MakeBet *** 
+
+2023-03-25 12:20:20 {"dbId":"","sport":"","country":"","league":"Romania U19 League","dateTime":"","match":"CS Giroc Chisoda U19 vs CSC Dumbravita U19","score":"💢quota goal successivo💢\nquota pre 1x2:\n2.10:3.75","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"PronosticiKlaus","tipSource":0}
+
+2023-03-25 12:20:20 48.75
+
+2023-03-25 12:20:20 Current balance : 48.7
+
+2023-03-25 12:20:20 Current Balance : 48.7
+
+2023-03-25 12:20:20 CheckIfLoggedIn
+
+2023-03-25 12:20:20 Logged In Already!
+
+2023-03-25 12:20:20 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 12:20:20 bet365.com
+
+2023-03-25 12:20:31 CS Giroc Chisoda U19 v CSC Dumbravita U19 Dis :0.00476190476190475
+
+2023-03-25 12:20:32 Wrong position detected!
+
+2023-03-25 12:20:34 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 12:20:36 Connected Socket Server!!!
+
+2023-03-25 12:23:10 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:23:10 New Score is updated...
+
+2023-03-25 12:23:10 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"1:2","gameTime":0}
+
+2023-03-25 12:23:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:23:11 New Score is updated...
+
+2023-03-25 12:23:11 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"1:2","gameTime":0}
+
+2023-03-25 12:23:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:23:12 New Score is updated...
+
+2023-03-25 12:23:12 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"1:2","gameTime":0}
+
+2023-03-25 12:23:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:23:12 New Score is updated...
+
+2023-03-25 12:23:12 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"1:2","gameTime":0}
+
+2023-03-25 12:23:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:23:12 New Score is updated...
+
+2023-03-25 12:23:12 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"1:2","gameTime":0}
+
+2023-03-25 12:23:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:23:12 New Score is updated...
+
+2023-03-25 12:23:12 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"1:2","gameTime":0}
+
+2023-03-25 12:23:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:23:13 New Score is updated...
+
+2023-03-25 12:23:13 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"1:2","gameTime":0}
+
+2023-03-25 12:28:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:28:12 New Score is updated...
+
+2023-03-25 12:28:12 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":0}
+
+2023-03-25 12:28:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:28:12 New Score is updated...
+
+2023-03-25 12:28:12 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":0}
+
+2023-03-25 12:28:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:28:12 New Score is updated...
+
+2023-03-25 12:28:12 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":0}
+
+2023-03-25 12:28:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:28:12 New Score is updated...
+
+2023-03-25 12:28:12 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":0}
+
+2023-03-25 12:28:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:28:12 New Score is updated...
+
+2023-03-25 12:28:12 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":0}
+
+2023-03-25 12:28:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:28:12 New Score is updated...
+
+2023-03-25 12:28:12 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":0}
+
+2023-03-25 12:28:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:28:12 New Score is updated...
+
+2023-03-25 12:28:12 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":0}
+
+2023-03-25 12:28:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:28:13 New Score is updated...
+
+2023-03-25 12:28:13 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":0}
+
+2023-03-25 12:28:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:28:13 New Score is updated...
+
+2023-03-25 12:28:13 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":0}
+
+2023-03-25 12:28:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:28:13 New Score is updated...
+
+2023-03-25 12:28:13 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":0}
+
+2023-03-25 12:30:00 Not Found Odds on Bet365..
+
+2023-03-25 12:30:03  *** MakeBet *** 
+
+2023-03-25 12:30:03 {"dbId":"","sport":"","country":"","league":"Romania U19 League","dateTime":"","match":"CS Giroc Chisoda U19 vs CSC Dumbravita U19","score":"💢quota goal successivo💢\nquota pre 1x2:\n2.10:3.75","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"PronosticiKlaus","tipSource":0}
+
+2023-03-25 12:30:03 48.75
+
+2023-03-25 12:30:03 Current balance : 48.7
+
+2023-03-25 12:30:03 Current Balance : 48.7
+
+2023-03-25 12:30:03 CheckIfLoggedIn
+
+2023-03-25 12:30:03 Logged In Already!
+
+2023-03-25 12:30:03 bet365.com
+
+2023-03-25 12:30:03 Wrong position detected!
+
+2023-03-25 12:30:10 CS Giroc Chisoda U19 v CSC Dumbravita U19 Dis :0.00476190476190475
+
+2023-03-25 12:30:11 Wrong position detected!
+
+2023-03-25 12:31:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:31:13 New Score is updated...
+
+2023-03-25 12:31:13 {"home":"Ceske Budejovice B","away":"Dukla Praha B","score":"0:0","gameTime":2}
+
+2023-03-25 12:31:15 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:31:15 New Score is updated...
+
+2023-03-25 12:31:15 {"home":"Ceske Budejovice B","away":"Dukla Praha B","score":"0:0","gameTime":2}
+
+2023-03-25 12:31:16 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:31:16 New Score is updated...
+
+2023-03-25 12:31:16 {"home":"Ceske Budejovice B","away":"Dukla Praha B","score":"0:0","gameTime":2}
+
+2023-03-25 12:36:30 Not Found Odds on Bet365..
+
+2023-03-25 12:36:33  *** MakeBet *** 
+
+2023-03-25 12:36:33 {"dbId":"","sport":"","country":"","league":"Romania U19 League","dateTime":"","match":"CS Giroc Chisoda U19 vs CSC Dumbravita U19","score":"1:1","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-25 12:36:33 LastLoginModule_Button Clicked
+
+2023-03-25 12:36:33 LastLoginModule_Button Clicked
+
+2023-03-25 12:36:33 LastLoginModule_Button Clicked
+
+2023-03-25 12:36:38 
+
+2023-03-25 12:36:38 Current Balance : -1
+
+2023-03-25 12:36:38 CheckIfLoggedIn
+
+2023-03-25 12:36:38 Logged In Already!
+
+2023-03-25 12:36:38 bet365.com
+
+2023-03-25 12:36:38 DoLoad365Page
+
+2023-03-25 12:36:38 365 page is loaded!
+
+2023-03-25 12:36:38 Wrong position detected!
+
+2023-03-25 12:36:48 Not Search Event
+
+2023-03-25 12:36:54 CS Giroc Chisoda U19 v CSC Dumbravita U19 Dis :0.00476190476190475
+
+2023-03-25 12:36:54 Wrong position detected!
+
+2023-03-25 12:39:17 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 12:39:32 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 12:39:33 Connected Socket Server!!!
+
+2023-03-25 12:44:10 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:44:10 New Score is updated...
+
+2023-03-25 12:44:10 {"home":"Espanyol Femminile","away":"UDG Tenerife Sur Femminile II","score":"1:0","gameTime":0}
+
+2023-03-25 12:44:24 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:44:24 New Score is updated...
+
+2023-03-25 12:44:24 {"home":"Espanyol Femminile","away":"UDG Tenerife Sur Femminile II","score":"1:0","gameTime":0}
+
+2023-03-25 12:44:24 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:44:24 New Score is updated...
+
+2023-03-25 12:44:24 {"home":"Espanyol Femminile","away":"UDG Tenerife Sur Femminile II","score":"1:0","gameTime":0}
+
+2023-03-25 12:46:58 Not Found Odds on Bet365..
+
+2023-03-25 12:47:01  *** MakeBet *** 
+
+2023-03-25 12:47:01 {"dbId":"","sport":"","country":"","league":"Romania U19 League","dateTime":"","match":"CS Giroc Chisoda U19 vs CSC Dumbravita U19","score":"1:1","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-25 12:47:01 48.75
+
+2023-03-25 12:47:01 Current balance : 48.7
+
+2023-03-25 12:47:01 Current Balance : 48.7
+
+2023-03-25 12:47:01 CheckIfLoggedIn
+
+2023-03-25 12:47:01 Logged In Already!
+
+2023-03-25 12:47:01 bet365.com
+
+2023-03-25 12:47:01 Wrong position detected!
+
+2023-03-25 12:47:08 CS Giroc Chisoda U19 v CSC Dumbravita U19 Dis :0.00476190476190475
+
+2023-03-25 12:47:09 Wrong position detected!
+
+2023-03-25 12:47:11 Not Found Odds on Bet365..
+
+2023-03-25 12:47:14  *** MakeBet *** 
+
+2023-03-25 12:47:14 {"dbId":"","sport":"","country":"","league":"Spain Primera Federacion Women","dateTime":"","match":"Espanyol Femminile vs UDG Tenerife Sur Femminile II","score":"💢quote💢\n⚖️ pre:match 1x2:\n1.57","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"PronosticiKlaus","tipSource":0}
+
+2023-03-25 12:47:14 48.75
+
+2023-03-25 12:47:14 Current balance : 48.7
+
+2023-03-25 12:47:14 Current Balance : 48.7
+
+2023-03-25 12:47:14 CheckIfLoggedIn
+
+2023-03-25 12:47:14 Logged In Already!
+
+2023-03-25 12:47:14 bet365.com
+
+2023-03-25 12:47:14 Wrong position detected!
+
+2023-03-25 12:47:20 Espanyol femminile v UDG Tenerife Sur femminile II Dis :0.0614313725490196
+
+2023-03-25 12:47:21 Wrong position detected!
+
+2023-03-25 12:50:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:50:12 New Score is updated...
+
+2023-03-25 12:50:12 {"home":"Fundacion CD Tenerife Femminile","away":"Malaga Femminile","score":"1:0","gameTime":0}
+
+2023-03-25 12:50:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:50:12 New Score is updated...
+
+2023-03-25 12:50:12 {"home":"Fundacion CD Tenerife Femminile","away":"Malaga Femminile","score":"1:0","gameTime":0}
+
+2023-03-25 12:50:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:50:13 New Score is updated...
+
+2023-03-25 12:50:13 {"home":"Fundacion CD Tenerife Femminile","away":"Malaga Femminile","score":"1:0","gameTime":0}
+
+2023-03-25 12:57:10 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:57:10 New Score is updated...
+
+2023-03-25 12:57:10 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":2}
+
+2023-03-25 12:57:10 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:57:10 New Score is updated...
+
+2023-03-25 12:57:10 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":2}
+
+2023-03-25 12:57:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:57:11 New Score is updated...
+
+2023-03-25 12:57:11 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":2}
+
+2023-03-25 12:57:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:57:11 New Score is updated...
+
+2023-03-25 12:57:11 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":2}
+
+2023-03-25 12:57:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:57:11 New Score is updated...
+
+2023-03-25 12:57:11 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":2}
+
+2023-03-25 12:57:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:57:11 New Score is updated...
+
+2023-03-25 12:57:11 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":2}
+
+2023-03-25 12:57:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:57:11 New Score is updated...
+
+2023-03-25 12:57:11 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":2}
+
+2023-03-25 12:57:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:57:11 New Score is updated...
+
+2023-03-25 12:57:11 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":2}
+
+2023-03-25 12:57:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:57:11 New Score is updated...
+
+2023-03-25 12:57:11 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":2}
+
+2023-03-25 12:57:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:57:11 New Score is updated...
+
+2023-03-25 12:57:11 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":2}
+
+2023-03-25 12:57:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:57:11 New Score is updated...
+
+2023-03-25 12:57:11 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":2}
+
+2023-03-25 12:57:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:57:11 New Score is updated...
+
+2023-03-25 12:57:11 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":2}
+
+2023-03-25 12:57:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:57:11 New Score is updated...
+
+2023-03-25 12:57:11 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":2}
+
+2023-03-25 12:57:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 12:57:12 New Score is updated...
+
+2023-03-25 12:57:12 {"home":"CS Giroc Chisoda U19","away":"CSC Dumbravita U19","score":"2:2","gameTime":2}
+
+2023-03-25 13:05:30 Not Found Odds on Bet365..
+
+2023-03-25 13:05:33  *** MakeBet *** 
+
+2023-03-25 13:05:33 {"dbId":"","sport":"","country":"","league":"Spain Primera Federacion Women","dateTime":"","match":"Espanyol Femminile vs UDG Tenerife Sur Femminile II","score":"💢quote💢\n⚖️ pre:match 1x2:\n1.57","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"PronosticiKlaus","tipSource":0}
+
+2023-03-25 13:05:33 48.75
+
+2023-03-25 13:05:33 Current balance : 48.7
+
+2023-03-25 13:05:33 Current Balance : 48.7
+
+2023-03-25 13:05:33 CheckIfLoggedIn
+
+2023-03-25 13:05:33 Logged In Already!
+
+2023-03-25 13:05:33 bet365.com
+
+2023-03-25 13:05:33 Wrong position detected!
+
+2023-03-25 13:05:40 Espanyol femminile v UDG Tenerife Sur femminile II Dis :0.0614313725490196
+
+2023-03-25 13:05:41 Wrong position detected!
+
+2023-03-25 13:09:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:09:11 New Score is updated...
+
+2023-03-25 13:09:11 {"home":"Espanyol Femminile","away":"UDG Tenerife Sur Femminile II","score":"2:0","gameTime":0}
+
+2023-03-25 13:09:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:09:13 New Score is updated...
+
+2023-03-25 13:09:13 {"home":"Espanyol Femminile","away":"UDG Tenerife Sur Femminile II","score":"2:0","gameTime":0}
+
+2023-03-25 13:09:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:09:13 New Score is updated...
+
+2023-03-25 13:09:13 {"home":"Espanyol Femminile","away":"UDG Tenerife Sur Femminile II","score":"2:0","gameTime":0}
+
+2023-03-25 13:09:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:09:13 New Score is updated...
+
+2023-03-25 13:09:13 {"home":"Espanyol Femminile","away":"UDG Tenerife Sur Femminile II","score":"2:0","gameTime":0}
+
+2023-03-25 13:09:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:09:14 New Score is updated...
+
+2023-03-25 13:09:14 {"home":"Espanyol Femminile","away":"UDG Tenerife Sur Femminile II","score":"2:0","gameTime":0}
+
+2023-03-25 13:09:19 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:09:48 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 13:09:50 Connected Socket Server!!!
+
+2023-03-25 13:11:59 Not Found Odds on Bet365..
+
+2023-03-25 13:12:02  *** MakeBet *** 
+
+2023-03-25 13:12:02 {"dbId":"","sport":"","country":"","league":"Poland Ekstraliga Women","dateTime":"","match":"Pogon Tczew Femminile vs Slask Wroclaw Femminile","score":"2:2","EW":"0","marketName":"OVER 5.5","selection":"OVER","odds":0.0,"handicap":5.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-25 13:12:02 LastLoginModule_Button Clicked
+
+2023-03-25 13:12:07 
+
+2023-03-25 13:12:07 Current Balance : -1
+
+2023-03-25 13:12:07 CheckIfLoggedIn
+
+2023-03-25 13:12:07 Logged In Already!
+
+2023-03-25 13:12:07 bet365.com
+
+2023-03-25 13:12:07 DoLoad365Page
+
+2023-03-25 13:12:07 365 page is loaded!
+
+2023-03-25 13:12:07 Wrong position detected!
+
+2023-03-25 13:12:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:12:12 New Score is updated...
+
+2023-03-25 13:12:12 {"home":"Fundacion CD Tenerife Femminile","away":"Malaga Femminile","score":"1:1","gameTime":0}
+
+2023-03-25 13:12:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:12:14 New Score is updated...
+
+2023-03-25 13:12:14 {"home":"Fundacion CD Tenerife Femminile","away":"Malaga Femminile","score":"1:1","gameTime":0}
+
+2023-03-25 13:12:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:12:14 New Score is updated...
+
+2023-03-25 13:12:14 {"home":"Fundacion CD Tenerife Femminile","away":"Malaga Femminile","score":"1:1","gameTime":0}
+
+2023-03-25 13:12:18 Not Search Event
+
+2023-03-25 13:12:24 Pogon Tczew femminile v Slask Wroclaw femminile Dis :0.0298995271867611
+
+2023-03-25 13:12:25 Wrong position detected!
+
+2023-03-25 13:12:28 Stake : 6
+
+2023-03-25 13:12:28 Running AddbetScript...
+
+2023-03-25 13:12:28 scrollBetIntoView('355761281') => 1
+
+2023-03-25 13:12:30 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-25 13:12:32 {
+  "bg": "32698ff0-be11-4f63-9b6d-9426c0574eff",
+  "sr": 0,
+  "mr": false,
+  "cc": "5MESrGGanU7inyuvla7zZqKWMIiD9GKHvE6m1BEIskQ=",
+  "ir": true,
+  "vr": "817",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/5",
+      "fi": 135020439,
+      "fd": "Pogon Tczew femminile v Slask Wroclaw femminile",
+      "pt": [
+        {
+          "hd": "5.5",
+          "pi": 355761281,
+          "bd": "Più di",
+          "ha": "5.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "641ee530-92AE5708",
+      "tp": "BS135020439-355761281",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134911902,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-25 13:12:34 Fractional Odds : 4/5
+
+2023-03-25 13:12:34 Trademate Odds : 0 , Bet365 Odds : 1.8
+
+2023-03-25 13:12:34 Trying to place bet!
+
+2023-03-25 13:12:34 DoPlacebetUI
+
+2023-03-25 13:12:34 betslip pos => {
+  "x": 457,
+  "y": 672.375,
+  "width": 0.95001220703125,
+  "height": 22.79998779296875,
+  "top": 672.375,
+  "right": 457.95001220703125,
+  "bottom": 695.17498779296875,
+  "left": 457
+}
+
+2023-03-25 13:12:36 Trademate Odds : 0 , Bet365 Odds : 1.8
+
+2023-03-25 13:12:36 Placebet Button pos => {"x":656.5,"y":660.5,"width":213.75,"height":47.5,"top":660.5,"right":870.25,"bottom":708,"left":656.5}
+
+2023-03-25 13:12:45 48.75
+
+2023-03-25 13:12:45 Current balance : 48.7
+
+2023-03-25 13:12:45 DoLoad365Page
+
+2023-03-25 13:12:45 365 page is loaded!
+
+2023-03-25 13:12:48 [sartodenis:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.8
+
+2023-03-25 13:12:48 {
+  "username": "sartodenis",
+  "tipster": "",
+  "message": "[sartodenis:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.8",
+  "stake": 6.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.8,
+  "tournament": "Poland Ekstraliga Women",
+  "eventName": "Pogon Tczew Femminile vs Slask Wroclaw Femminile",
+  "probability": "OVER",
+  "market": "OVER 5.5",
+  "placedAt": "25/03/2023 13:12:45",
+  "selection": "OVER",
+  "handicap": 5.5,
+  "balance": 42.7,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-25 13:12:56 Trying to register tip at Bigstake
+
+2023-03-25 13:13:09 Registered tip at Bigstake Successfully!
+
+2023-03-25 13:13:12 This Line is already existed on Settled bets!
+
+2023-03-25 13:13:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:13:13 New Score is updated...
+
+2023-03-25 13:13:13 {"home":"Espanyol Femminile","away":"UDG Tenerife Sur Femminile II","score":"2:1","gameTime":0}
+
+2023-03-25 13:13:13 New Score : Espanyol Femminile vs UDG Tenerife Sur Femminile II  2:1
+
+2023-03-25 13:13:13 Pending tip Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile 2:2
+
+2023-03-25 13:13:15 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:13:15 New Score is updated...
+
+2023-03-25 13:13:15 {"home":"Espanyol Femminile","away":"UDG Tenerife Sur Femminile II","score":"2:1","gameTime":0}
+
+2023-03-25 13:13:15 New Score : Espanyol Femminile vs UDG Tenerife Sur Femminile II  2:1
+
+2023-03-25 13:13:15 Pending tip Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile 2:2
+
+2023-03-25 13:13:16 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:13:16 New Score is updated...
+
+2023-03-25 13:13:16 {"home":"Espanyol Femminile","away":"UDG Tenerife Sur Femminile II","score":"2:1","gameTime":0}
+
+2023-03-25 13:13:16 New Score : Espanyol Femminile vs UDG Tenerife Sur Femminile II  2:1
+
+2023-03-25 13:13:16 Pending tip Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile 2:2
+
+2023-03-25 13:13:35 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:13:36  *** MakeBet *** 
+
+2023-03-25 13:13:36 {"dbId":"","sport":"","country":"","league":"Poland III Liga","dateTime":"","match":"Legia Warsaw II vs Sokol Ostroda","score":"💢quote💢\n⚖️ pre:match 1x2:\n1.53","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"PronosticiKlaus","tipSource":0}
+
+2023-03-25 13:13:36 42.75
+
+2023-03-25 13:13:36 Current balance : 42.7
+
+2023-03-25 13:13:36 Current Balance : 42.7
+
+2023-03-25 13:13:36 CheckIfLoggedIn
+
+2023-03-25 13:13:36 Logged In Already!
+
+2023-03-25 13:13:36 bet365.com
+
+2023-03-25 13:13:37 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:13:47 Not Search Event
+
+2023-03-25 13:13:47 Wrong position detected!
+
+2023-03-25 13:13:51 Legia Varsavia II v Sokol Ostroda Dis :0.0843717345872518
+
+2023-03-25 13:13:52 Wrong position detected!
+
+2023-03-25 13:13:55 Stake : 7
+
+2023-03-25 13:13:55 Running AddbetScript...
+
+2023-03-25 13:13:55 scrollBetIntoView('355796129') => 1
+
+2023-03-25 13:13:57 Odds Pos : X : 414.453125 , Y: 318
+
+2023-03-25 13:13:59 {
+  "bg": "1e880038-3b9d-404d-93e4-0cf2d776024f",
+  "sr": 0,
+  "mr": false,
+  "cc": "Q1/cacBZJbcxhJBR+rwcGBWshIzQN/aTGKRpK8lrQ3E=",
+  "ir": true,
+  "vr": "817",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "3/10",
+      "fi": 135020867,
+      "fd": "Legia Varsavia II v Sokol Ostroda",
+      "pt": [
+        {
+          "pi": 355796129,
+          "bd": "Più di 0.5",
+          "ha": "0.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "641ee587-5B1BC1B4",
+      "tp": "BS135020867-355796129",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134829005,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-25 13:14:01 Fractional Odds : 3/10
+
+2023-03-25 13:14:01 Trademate Odds : 0 , Bet365 Odds : 1.3
+
+2023-03-25 13:14:01 Trying to place bet!
+
+2023-03-25 13:14:01 DoPlacebetUI
+
+2023-03-25 13:14:01 betslip pos => {
+  "x": 457,
+  "y": 672.375,
+  "width": 0.95001220703125,
+  "height": 22.79998779296875,
+  "top": 672.375,
+  "right": 457.95001220703125,
+  "bottom": 695.17498779296875,
+  "left": 457
+}
+
+2023-03-25 13:14:03 Trademate Odds : 0 , Bet365 Odds : 1.3
+
+2023-03-25 13:14:03 Placebet Button pos => {"x":656.5,"y":660.5,"width":213.75,"height":47.5,"top":660.5,"right":870.25,"bottom":708,"left":656.5}
+
+2023-03-25 13:14:06 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 13:14:07 Connected Socket Server!!!
+
+2023-03-25 13:14:11 42.75
+
+2023-03-25 13:14:11 Current balance : 42.7
+
+2023-03-25 13:14:11 DoLoad365Page
+
+2023-03-25 13:14:11 365 page is loaded!
+
+2023-03-25 13:14:14 [sartodenis:2711Buruliddu.] SUCCESS. Stake:7 Odds:1.3
+
+2023-03-25 13:14:14 {
+  "username": "sartodenis",
+  "tipster": "",
+  "message": "[sartodenis:2711Buruliddu.] SUCCESS. Stake:7 Odds:1.3",
+  "stake": 7.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.3,
+  "tournament": "Poland III Liga",
+  "eventName": "Legia Warsaw II vs Sokol Ostroda",
+  "probability": "OVER",
+  "market": "OVER 0.5",
+  "placedAt": "25/03/2023 13:14:11",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 35.7,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-25 13:14:22 Trying to register tip at Bigstake
+
+2023-03-25 13:14:36 Registered tip at Bigstake Successfully!
+
+2023-03-25 13:14:39 This Line is already existed on Settled bets!
+
+2023-03-25 13:14:39 This Line is already existed on Settled bets!
+
+2023-03-25 13:14:39 This Line is already existed on Settled bets!
+
+2023-03-25 13:20:11 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:20:11 New Score is updated...
+
+2023-03-25 13:20:11 {"home":"Fundacion CD Tenerife Femminile","away":"Malaga Femminile","score":"2:1","gameTime":0}
+
+2023-03-25 13:20:11 New Score : Fundacion CD Tenerife Femminile vs Malaga Femminile  2:1
+
+2023-03-25 13:20:12 Pending tip Score : Legia Warsaw II vs Sokol Ostroda 💢quote💢
+⚖️ pre:match 1x2:
+1.53
+
+2023-03-25 13:20:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:20:12 New Score is updated...
+
+2023-03-25 13:20:12 {"home":"Fundacion CD Tenerife Femminile","away":"Malaga Femminile","score":"2:1","gameTime":0}
+
+2023-03-25 13:20:12 New Score : Fundacion CD Tenerife Femminile vs Malaga Femminile  2:1
+
+2023-03-25 13:20:12 Pending tip Score : Legia Warsaw II vs Sokol Ostroda 💢quote💢
+⚖️ pre:match 1x2:
+1.53
+
+2023-03-25 13:20:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:20:13 New Score is updated...
+
+2023-03-25 13:20:13 {"home":"Fundacion CD Tenerife Femminile","away":"Malaga Femminile","score":"2:1","gameTime":0}
+
+2023-03-25 13:20:13 New Score : Fundacion CD Tenerife Femminile vs Malaga Femminile  2:1
+
+2023-03-25 13:20:13 Pending tip Score : Legia Warsaw II vs Sokol Ostroda 💢quote💢
+⚖️ pre:match 1x2:
+1.53
+
+2023-03-25 13:20:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:20:13 New Score is updated...
+
+2023-03-25 13:20:13 {"home":"Fundacion CD Tenerife Femminile","away":"Malaga Femminile","score":"2:1","gameTime":0}
+
+2023-03-25 13:20:13 New Score : Fundacion CD Tenerife Femminile vs Malaga Femminile  2:1
+
+2023-03-25 13:20:13 Pending tip Score : Legia Warsaw II vs Sokol Ostroda 💢quote💢
+⚖️ pre:match 1x2:
+1.53
+
+2023-03-25 13:21:20 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:21:20  *** MakeBet *** 
+
+2023-03-25 13:21:20 {"dbId":"","sport":"","country":"","league":"Turkey 2 Lig Beyaz","dateTime":"","match":"Ankaraspor vs Afjet Afyonspor","score":"💢quota goal successivo💢\nquota pre 1x2:\n1.90:3.30","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"PronosticiKlaus","tipSource":0}
+
+2023-03-25 13:21:21 35.75
+
+2023-03-25 13:21:21 Current balance : 35.7
+
+2023-03-25 13:21:21 Current Balance : 35.7
+
+2023-03-25 13:21:21 CheckIfLoggedIn
+
+2023-03-25 13:21:21 Logged In Already!
+
+2023-03-25 13:21:21 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:21:21 bet365.com
+
+2023-03-25 13:21:32 Ankaraspor v Afjet Afyonspor Dis :0.0497536945812808
+
+2023-03-25 13:21:32 Ankaraspor U19 v Istanbul Basaksehir U19 Dis :0.320114942528736
+
+2023-03-25 13:21:33 Wrong position detected!
+
+2023-03-25 13:21:36 Stake : 6
+
+2023-03-25 13:21:36 Running AddbetScript...
+
+2023-03-25 13:21:36 scrollBetIntoView('357394637') => 1
+
+2023-03-25 13:21:38 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-25 13:21:39 {
+  "bg": "bd5d3948-2b36-48f1-b813-aba7298f868e",
+  "sr": 0,
+  "mr": false,
+  "cc": "6h8FBqoJZNM8s2AHVn9OikeztPGrIk8JuHCaKdElPt8=",
+  "ir": true,
+  "vr": "817",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "2/5",
+      "fi": 135033350,
+      "fd": "Ankaraspor v Afjet Afyonspor",
+      "pt": [
+        {
+          "hd": "3.5",
+          "pi": 357394637,
+          "bd": "Più di",
+          "ha": "3.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "641ee753-A88CA6A8",
+      "tp": "BS135033350-357394637",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134451743,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-25 13:21:41 Fractional Odds : 2/5
+
+2023-03-25 13:21:41 Trademate Odds : 0 , Bet365 Odds : 1.4
+
+2023-03-25 13:21:41 Trying to place bet!
+
+2023-03-25 13:21:41 DoPlacebetUI
+
+2023-03-25 13:21:41 betslip pos => {
+  "x": 457,
+  "y": 672.375,
+  "width": 0.95001220703125,
+  "height": 22.79998779296875,
+  "top": 672.375,
+  "right": 457.95001220703125,
+  "bottom": 695.17498779296875,
+  "left": 457
+}
+
+2023-03-25 13:21:43 Trademate Odds : 0 , Bet365 Odds : 1.4
+
+2023-03-25 13:21:43 Placebet Button pos => {"x":656.5,"y":660.5,"width":213.75,"height":47.5,"top":660.5,"right":870.25,"bottom":708,"left":656.5}
+
+2023-03-25 13:21:45 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 13:21:46 Connected Socket Server!!!
+
+2023-03-25 13:21:52 35.75
+
+2023-03-25 13:21:52 Current balance : 35.7
+
+2023-03-25 13:21:52 DoLoad365Page
+
+2023-03-25 13:21:52 365 page is loaded!
+
+2023-03-25 13:21:55 [sartodenis:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.4
+
+2023-03-25 13:21:55 {
+  "username": "sartodenis",
+  "tipster": "",
+  "message": "[sartodenis:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.4",
+  "stake": 6.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.4000000000000001,
+  "tournament": "Turkey 2 Lig Beyaz",
+  "eventName": "Ankaraspor vs Afjet Afyonspor",
+  "probability": "OVER",
+  "market": "OVER 3.5",
+  "placedAt": "25/03/2023 13:21:52",
+  "selection": "OVER",
+  "handicap": 3.5,
+  "balance": 29.700000000000003,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-25 13:22:03 Trying to register tip at Bigstake
+
+2023-03-25 13:22:16 Registered tip at Bigstake Successfully!
+
+2023-03-25 13:22:19 This Line is already existed on Settled bets!
+
+2023-03-25 13:22:20 This Line is already existed on Settled bets!
+
+2023-03-25 13:22:20 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:24:12 New Score is updated...
+
+2023-03-25 13:24:12 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:2","gameTime":0}
+
+2023-03-25 13:24:12 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:2
+
+2023-03-25 13:24:12 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:24:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:24:12 New Score is updated...
+
+2023-03-25 13:24:12 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:2","gameTime":0}
+
+2023-03-25 13:24:12 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:2
+
+2023-03-25 13:24:12 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:24:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:24:13 New Score is updated...
+
+2023-03-25 13:24:13 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:2","gameTime":0}
+
+2023-03-25 13:24:13 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:2
+
+2023-03-25 13:24:13 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:24:23 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:24:23 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:23 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:24 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:24:24 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:24:24 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:24 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:24 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:24:24 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:24:24 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:24 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:24 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:24:24 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:24:24 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:24:24 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:24:24 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:24 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:24 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:24:24 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:24 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:25 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:24:25 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:25 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:25 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:24:26 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:26 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:27 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:24:27 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:24:27 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:24:27 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:27 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:28 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:24:28 This Line is already existed on Settled bets!
+
+2023-03-25 13:24:28 This Line is already existed on Settled bets!
+
+2023-03-25 13:27:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:27:13 New Score is updated...
+
+2023-03-25 13:27:13 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:3","gameTime":0}
+
+2023-03-25 13:27:13 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:3
+
+2023-03-25 13:27:13 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:27:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:27:14 New Score is updated...
+
+2023-03-25 13:27:14 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:3","gameTime":0}
+
+2023-03-25 13:27:14 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:3
+
+2023-03-25 13:27:14 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:27:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:27:14 New Score is updated...
+
+2023-03-25 13:27:14 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:3","gameTime":0}
+
+2023-03-25 13:27:14 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:3
+
+2023-03-25 13:27:14 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:27:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:27:14 New Score is updated...
+
+2023-03-25 13:27:14 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:3","gameTime":0}
+
+2023-03-25 13:27:14 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:3
+
+2023-03-25 13:27:14 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:27:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:27:14 New Score is updated...
+
+2023-03-25 13:27:14 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:3","gameTime":0}
+
+2023-03-25 13:27:14 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:3
+
+2023-03-25 13:27:14 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:27:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:27:14 New Score is updated...
+
+2023-03-25 13:27:14 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:3","gameTime":0}
+
+2023-03-25 13:27:14 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:3
+
+2023-03-25 13:27:14 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:27:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:27:14 New Score is updated...
+
+2023-03-25 13:27:14 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:3","gameTime":0}
+
+2023-03-25 13:27:14 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:3
+
+2023-03-25 13:27:14 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:27:15 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:27:15 New Score is updated...
+
+2023-03-25 13:27:15 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:3","gameTime":0}
+
+2023-03-25 13:27:15 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:3
+
+2023-03-25 13:27:15 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:27:15 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:27:15 New Score is updated...
+
+2023-03-25 13:27:15 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:3","gameTime":0}
+
+2023-03-25 13:27:15 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:3
+
+2023-03-25 13:27:15 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:27:16 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:27:16 New Score is updated...
+
+2023-03-25 13:27:16 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:3","gameTime":0}
+
+2023-03-25 13:27:16 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:3
+
+2023-03-25 13:27:16 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:30:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:30:14 New Score is updated...
+
+2023-03-25 13:30:14 {"home":"Espanyol Femminile","away":"UDG Tenerife Sur Femminile II","score":"2:1","gameTime":2}
+
+2023-03-25 13:30:14 New Score : Espanyol Femminile vs UDG Tenerife Sur Femminile II  2:1
+
+2023-03-25 13:30:14 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:30:16 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:30:16 New Score is updated...
+
+2023-03-25 13:30:16 {"home":"Espanyol Femminile","away":"UDG Tenerife Sur Femminile II","score":"2:1","gameTime":2}
+
+2023-03-25 13:30:16 New Score : Espanyol Femminile vs UDG Tenerife Sur Femminile II  2:1
+
+2023-03-25 13:30:16 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:30:17 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:30:17 New Score is updated...
+
+2023-03-25 13:30:17 {"home":"Espanyol Femminile","away":"UDG Tenerife Sur Femminile II","score":"2:1","gameTime":2}
+
+2023-03-25 13:30:17 New Score : Espanyol Femminile vs UDG Tenerife Sur Femminile II  2:1
+
+2023-03-25 13:30:17 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:30:17 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:30:17 New Score is updated...
+
+2023-03-25 13:30:17 {"home":"Espanyol Femminile","away":"UDG Tenerife Sur Femminile II","score":"2:1","gameTime":2}
+
+2023-03-25 13:30:17 New Score : Espanyol Femminile vs UDG Tenerife Sur Femminile II  2:1
+
+2023-03-25 13:30:17 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:30:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:30:18 New Score is updated...
+
+2023-03-25 13:30:18 {"home":"Espanyol Femminile","away":"UDG Tenerife Sur Femminile II","score":"2:1","gameTime":2}
+
+2023-03-25 13:30:18 New Score : Espanyol Femminile vs UDG Tenerife Sur Femminile II  2:1
+
+2023-03-25 13:30:18 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:35:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:35:13 New Score is updated...
+
+2023-03-25 13:35:13 {"home":"Fundacion CD Tenerife Femminile","away":"Malaga Femminile","score":"2:1","gameTime":2}
+
+2023-03-25 13:35:13 New Score : Fundacion CD Tenerife Femminile vs Malaga Femminile  2:1
+
+2023-03-25 13:35:13 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:35:15 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:35:15 New Score is updated...
+
+2023-03-25 13:35:15 {"home":"Fundacion CD Tenerife Femminile","away":"Malaga Femminile","score":"2:1","gameTime":2}
+
+2023-03-25 13:35:15 New Score : Fundacion CD Tenerife Femminile vs Malaga Femminile  2:1
+
+2023-03-25 13:35:15 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:35:16 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:35:16 New Score is updated...
+
+2023-03-25 13:35:16 {"home":"Fundacion CD Tenerife Femminile","away":"Malaga Femminile","score":"2:1","gameTime":2}
+
+2023-03-25 13:35:16 New Score : Fundacion CD Tenerife Femminile vs Malaga Femminile  2:1
+
+2023-03-25 13:35:16 Pending tip Score : Ankaraspor vs Afjet Afyonspor 💢quota goal successivo💢
+quota pre 1x2:
+1.90:3.30
+
+2023-03-25 13:36:26 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:36:26 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:36:26  *** MakeBet *** 
+
+2023-03-25 13:36:26 {"dbId":"","sport":"","country":"","league":"Poland Ekstraliga Women","dateTime":"","match":"Sportowa Czworka Radom Femminile vs Medyk Konin Femminile","score":"2:1","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-25 13:36:26 40.55
+
+2023-03-25 13:36:26 Current balance : 40.5
+
+2023-03-25 13:36:26 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:36:26 Current Balance : 40.5
+
+2023-03-25 13:36:26 CheckIfLoggedIn
+
+2023-03-25 13:36:26 Logged In Already!
+
+2023-03-25 13:36:26 bet365.com
+
+2023-03-25 13:36:31 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 13:36:32 Connected Socket Server!!!
+
+2023-03-25 13:36:39 Sportowa Czworka Radom femminile v Medyk Konin femminile Dis :0.0176691729323308
+
+2023-03-25 13:36:44 Not Found Odds on Bet365..
+
+2023-03-25 13:36:47  *** MakeBet *** 
+
+2023-03-25 13:36:47 {"dbId":"","sport":"","country":"","league":"Poland Ekstraliga Women","dateTime":"","match":"Sportowa Czworka Radom Femminile vs Medyk Konin Femminile","score":"2:1","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-25 13:36:47 40.55
+
+2023-03-25 13:36:47 Current balance : 40.5
+
+2023-03-25 13:36:47 Current Balance : 40.5
+
+2023-03-25 13:36:47 CheckIfLoggedIn
+
+2023-03-25 13:36:48 Logged In Already!
+
+2023-03-25 13:36:48 bet365.com
+
+2023-03-25 13:36:48 DoLoad365Page
+
+2023-03-25 13:36:48 365 page is loaded!
+
+2023-03-25 13:36:48 Wrong position detected!
+
+2023-03-25 13:36:58 Not Search Event
+
+2023-03-25 13:37:04 Sportowa Czworka Radom femminile v Medyk Konin femminile Dis :0.0176691729323308
+
+2023-03-25 13:37:05 Wrong position detected!
+
+2023-03-25 13:37:08 Stake : 5
+
+2023-03-25 13:37:08 Running AddbetScript...
+
+2023-03-25 13:37:08 scrollBetIntoView('355760375') => 1
+
+2023-03-25 13:37:10 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-25 13:37:11 {
+  "bg": "a5bd21fd-bf99-46c4-a148-5cc3aacdaa12",
+  "sr": 0,
+  "mr": false,
+  "cc": "0FyV962OLqowRie3/XmByS++ZLtchbHw08VPnvOubhk=",
+  "ir": true,
+  "vr": "817",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "1/1",
+      "fi": 135020428,
+      "fd": "Sportowa Czworka Radom femminile v Medyk Konin femminile",
+      "pt": [
+        {
+          "hd": "3.5",
+          "pi": 355760375,
+          "bd": "Più di",
+          "ha": "3.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "641eeaf8-5A1D73C1",
+      "tp": "BS135020428-355760375",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134911899,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-25 13:37:14 Fractional Odds : 1/1
+
+2023-03-25 13:37:14 Trademate Odds : 0 , Bet365 Odds : 2
+
+2023-03-25 13:37:14 Trying to place bet!
+
+2023-03-25 13:37:14 DoPlacebetUI
+
+2023-03-25 13:37:14 betslip pos => {
+  "x": 457,
+  "y": 672.375,
+  "width": 0.95001220703125,
+  "height": 22.79998779296875,
+  "top": 672.375,
+  "right": 457.95001220703125,
+  "bottom": 695.17498779296875,
+  "left": 457
+}
+
+2023-03-25 13:37:15 Trademate Odds : 0 , Bet365 Odds : 2
+
+2023-03-25 13:37:15 Placebet Button pos => {"x":656.5,"y":660.5,"width":213.75,"height":47.5,"top":660.5,"right":870.25,"bottom":708,"left":656.5}
+
+2023-03-25 13:37:24 40.55
+
+2023-03-25 13:37:24 Current balance : 40.5
+
+2023-03-25 13:37:24 DoLoad365Page
+
+2023-03-25 13:37:24 365 page is loaded!
+
+2023-03-25 13:37:27 [sartodenis:2711Buruliddu.] SUCCESS. Stake:5 Odds:2
+
+2023-03-25 13:37:27 {
+  "username": "sartodenis",
+  "tipster": "",
+  "message": "[sartodenis:2711Buruliddu.] SUCCESS. Stake:5 Odds:2",
+  "stake": 5.0,
+  "tipSource": "TELEGRAM",
+  "odds": 2.0,
+  "tournament": "Poland Ekstraliga Women",
+  "eventName": "Sportowa Czworka Radom Femminile vs Medyk Konin Femminile",
+  "probability": "OVER",
+  "market": "OVER 3.5",
+  "placedAt": "25/03/2023 13:37:24",
+  "selection": "OVER",
+  "handicap": 3.5,
+  "balance": 35.5,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-25 13:37:35 Trying to register tip at Bigstake
+
+2023-03-25 13:37:48 Registered tip at Bigstake Successfully!
+
+2023-03-25 13:37:52 This Line is already existed on Settled bets!
+
+2023-03-25 13:37:52 This Line is already existed on Settled bets!
+
+2023-03-25 13:52:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:52:13 New Score is updated...
+
+2023-03-25 13:52:13 {"home":"Ankaraspor","away":"Afjet Afyonspor","score":"2:2","gameTime":0}
+
+2023-03-25 13:52:13 New Score : Ankaraspor vs Afjet Afyonspor  2:2
+
+2023-03-25 13:52:13 Pending tip Score : Sportowa Czworka Radom Femminile vs Medyk Konin Femminile 2:1
+
+2023-03-25 13:52:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:52:13 New Score is updated...
+
+2023-03-25 13:52:13 {"home":"Ankaraspor","away":"Afjet Afyonspor","score":"2:2","gameTime":0}
+
+2023-03-25 13:52:13 New Score : Ankaraspor vs Afjet Afyonspor  2:2
+
+2023-03-25 13:52:14 Pending tip Score : Sportowa Czworka Radom Femminile vs Medyk Konin Femminile 2:1
+
+2023-03-25 13:52:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:52:14 New Score is updated...
+
+2023-03-25 13:52:14 {"home":"Ankaraspor","away":"Afjet Afyonspor","score":"2:2","gameTime":0}
+
+2023-03-25 13:52:14 New Score : Ankaraspor vs Afjet Afyonspor  2:2
+
+2023-03-25 13:52:14 Pending tip Score : Sportowa Czworka Radom Femminile vs Medyk Konin Femminile 2:1
+
+2023-03-25 13:52:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:52:14 New Score is updated...
+
+2023-03-25 13:52:14 {"home":"Ankaraspor","away":"Afjet Afyonspor","score":"2:2","gameTime":0}
+
+2023-03-25 13:52:14 New Score : Ankaraspor vs Afjet Afyonspor  2:2
+
+2023-03-25 13:52:14 Pending tip Score : Sportowa Czworka Radom Femminile vs Medyk Konin Femminile 2:1
+
+2023-03-25 13:52:15 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:52:15 New Score is updated...
+
+2023-03-25 13:52:15 {"home":"Ankaraspor","away":"Afjet Afyonspor","score":"2:2","gameTime":0}
+
+2023-03-25 13:52:15 New Score : Ankaraspor vs Afjet Afyonspor  2:2
+
+2023-03-25 13:52:15 Pending tip Score : Sportowa Czworka Radom Femminile vs Medyk Konin Femminile 2:1
+
+2023-03-25 13:52:15 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:52:15 New Score is updated...
+
+2023-03-25 13:52:15 {"home":"Ankaraspor","away":"Afjet Afyonspor","score":"2:2","gameTime":0}
+
+2023-03-25 13:52:15 New Score : Ankaraspor vs Afjet Afyonspor  2:2
+
+2023-03-25 13:52:15 Pending tip Score : Sportowa Czworka Radom Femminile vs Medyk Konin Femminile 2:1
+
+2023-03-25 13:52:15 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:52:15 New Score is updated...
+
+2023-03-25 13:52:15 {"home":"Ankaraspor","away":"Afjet Afyonspor","score":"2:2","gameTime":0}
+
+2023-03-25 13:52:15 New Score : Ankaraspor vs Afjet Afyonspor  2:2
+
+2023-03-25 13:52:15 Pending tip Score : Sportowa Czworka Radom Femminile vs Medyk Konin Femminile 2:1
+
+2023-03-25 13:54:21 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:54:21 New Score is updated...
+
+2023-03-25 13:54:21 {"home":"Legia Warsaw II","away":"Sokol Ostroda","score":"0:0","gameTime":2}
+
+2023-03-25 13:54:21 New Score : Legia Warsaw II vs Sokol Ostroda  0:0
+
+2023-03-25 13:54:21 Pending tip Score : Sportowa Czworka Radom Femminile vs Medyk Konin Femminile 2:1
+
+2023-03-25 13:54:22 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:54:22 New Score is updated...
+
+2023-03-25 13:54:22 {"home":"Legia Warsaw II","away":"Sokol Ostroda","score":"0:0","gameTime":2}
+
+2023-03-25 13:54:22 New Score : Legia Warsaw II vs Sokol Ostroda  0:0
+
+2023-03-25 13:54:22 Pending tip Score : Sportowa Czworka Radom Femminile vs Medyk Konin Femminile 2:1
+
+2023-03-25 13:58:16 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:58:16 New Score is updated...
+
+2023-03-25 13:58:16 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:3","gameTime":2}
+
+2023-03-25 13:58:16 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:3
+
+2023-03-25 13:58:16 Pending tip Score : Sportowa Czworka Radom Femminile vs Medyk Konin Femminile 2:1
+
+2023-03-25 13:58:17 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:58:17 New Score is updated...
+
+2023-03-25 13:58:17 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:3","gameTime":2}
+
+2023-03-25 13:58:17 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:3
+
+2023-03-25 13:58:17 Pending tip Score : Sportowa Czworka Radom Femminile vs Medyk Konin Femminile 2:1
+
+2023-03-25 13:58:17 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:58:17 New Score is updated...
+
+2023-03-25 13:58:17 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:3","gameTime":2}
+
+2023-03-25 13:58:17 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:3
+
+2023-03-25 13:58:17 Pending tip Score : Sportowa Czworka Radom Femminile vs Medyk Konin Femminile 2:1
+
+2023-03-25 13:58:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:58:18 New Score is updated...
+
+2023-03-25 13:58:18 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:3","gameTime":2}
+
+2023-03-25 13:58:18 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:3
+
+2023-03-25 13:58:18 Pending tip Score : Sportowa Czworka Radom Femminile vs Medyk Konin Femminile 2:1
+
+2023-03-25 13:58:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:58:18 New Score is updated...
+
+2023-03-25 13:58:18 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:3","gameTime":2}
+
+2023-03-25 13:58:18 New Score : Pogon Tczew Femminile vs Slask Wroclaw Femminile  3:3
+
+2023-03-25 13:58:18 Pending tip Score : Sportowa Czworka Radom Femminile vs Medyk Konin Femminile 2:1
+
+2023-03-25 13:58:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:58:18 New Score is updated...
+
+2023-03-25 13:58:18 {"home":"Sportowa Czworka Radom Femminile","away":"Medyk Konin Femminile","score":"2:1","gameTime":2}
+
+2023-03-25 13:58:18 New Score : Sportowa Czworka Radom Femminile vs Medyk Konin Femminile  2:1
+
+2023-03-25 13:58:18 Pending tip Score : Sportowa Czworka Radom Femminile vs Medyk Konin Femminile 2:1
+
+2023-03-25 13:58:18 Pending Tip is lost now...
+
+2023-03-25 13:58:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:58:18 New Score is updated...
+
+2023-03-25 13:58:18 {"home":"Sportowa Czworka Radom Femminile","away":"Medyk Konin Femminile","score":"2:1","gameTime":2}
+
+2023-03-25 13:58:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:58:19 New Score is updated...
+
+2023-03-25 13:58:19 {"home":"Pogon Tczew Femminile","away":"Slask Wroclaw Femminile","score":"3:3","gameTime":2}
+
+2023-03-25 13:58:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:58:19 New Score is updated...
+
+2023-03-25 13:58:19 {"home":"Sportowa Czworka Radom Femminile","away":"Medyk Konin Femminile","score":"2:1","gameTime":2}
+
+2023-03-25 13:58:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:58:19 New Score is updated...
+
+2023-03-25 13:58:19 {"home":"Sportowa Czworka Radom Femminile","away":"Medyk Konin Femminile","score":"2:1","gameTime":2}
+
+2023-03-25 13:58:20 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:58:20 New Score is updated...
+
+2023-03-25 13:58:20 {"home":"Sportowa Czworka Radom Femminile","away":"Medyk Konin Femminile","score":"2:1","gameTime":2}
+
+2023-03-25 13:58:22 Recieve new Match Score From Copybet Server!
+
+2023-03-25 13:58:22 New Score is updated...
+
+2023-03-25 13:58:22 {"home":"Sportowa Czworka Radom Femminile","away":"Medyk Konin Femminile","score":"2:1","gameTime":2}
+
+2023-03-25 13:59:32 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:59:32  *** MakeBet *** 
+
+2023-03-25 13:59:32 {"dbId":"","sport":"","country":"","league":"Iceland League Cup B","dateTime":"","match":"Ymir Kopavogur vs IH Hafnarfjordur","score":"2:2","EW":"0","marketName":"OVER 4.5","selection":"OVER","odds":0.0,"handicap":4.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-25 13:59:32 43.95
+
+2023-03-25 13:59:32 Current balance : 43.9
+
+2023-03-25 13:59:32 Current Balance : 43.9
+
+2023-03-25 13:59:32 CheckIfLoggedIn
+
+2023-03-25 13:59:32 Logged In Already!
+
+2023-03-25 13:59:32 bet365.com
+
+2023-03-25 13:59:33 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 13:59:40 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 13:59:42 Connected Socket Server!!!
+
+2023-03-25 13:59:43 Ymir Kopavogur v IH Hafnarfjordur Dis :0.00588235294117645
+
+2023-03-25 13:59:49 Not Found Odds on Bet365..
+
+2023-03-25 13:59:52  *** MakeBet *** 
+
+2023-03-25 13:59:52 {"dbId":"","sport":"","country":"","league":"Iceland League Cup B","dateTime":"","match":"Ymir Kopavogur vs IH Hafnarfjordur","score":"2:2","EW":"0","marketName":"OVER 4.5","selection":"OVER","odds":0.0,"handicap":4.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-25 13:59:52 43.95
+
+2023-03-25 13:59:52 Current balance : 43.9
+
+2023-03-25 13:59:52 Current Balance : 43.9
+
+2023-03-25 13:59:52 CheckIfLoggedIn
+
+2023-03-25 13:59:52 Logged In Already!
+
+2023-03-25 13:59:52 bet365.com
+
+2023-03-25 13:59:52 Wrong position detected!
+
+2023-03-25 13:59:57 Ymir Kopavogur v IH Hafnarfjordur Dis :0.00588235294117645
+
+2023-03-25 14:00:02 Not Found Odds on Bet365..
+
+2023-03-25 14:00:05  *** MakeBet *** 
+
+2023-03-25 14:00:05 {"dbId":"","sport":"","country":"","league":"Iceland League Cup B","dateTime":"","match":"Ymir Kopavogur vs IH Hafnarfjordur","score":"2:2","EW":"0","marketName":"OVER 4.5","selection":"OVER","odds":0.0,"handicap":4.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Test bottino","tipSource":0}
+
+2023-03-25 14:00:05 43.95
+
+2023-03-25 14:00:05 Current balance : 43.9
+
+2023-03-25 14:00:05 Current Balance : 43.9
+
+2023-03-25 14:00:05 CheckIfLoggedIn
+
+2023-03-25 14:00:05 Logged In Already!
+
+2023-03-25 14:00:05 bet365.com
+
+2023-03-25 14:00:05 Wrong position detected!
+
+2023-03-25 14:00:11 Ymir Kopavogur v IH Hafnarfjordur Dis :0.00588235294117645
+
+2023-03-25 14:00:17 Not Found Odds on Bet365..
+
+2023-03-25 14:00:20  *** MakeBet *** 
+
+2023-03-25 14:00:20 {"dbId":"","sport":"","country":"","league":"Iceland League Cup B","dateTime":"","match":"Ymir Kopavogur vs IH Hafnarfjordur","score":"2:2","EW":"0","marketName":"OVER 4.5","selection":"OVER","odds":0.0,"handicap":4.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Test bottino","tipSource":0}
+
+2023-03-25 14:00:20 43.95
+
+2023-03-25 14:00:20 Current balance : 43.9
+
+2023-03-25 14:00:20 Current Balance : 43.9
+
+2023-03-25 14:00:20 CheckIfLoggedIn
+
+2023-03-25 14:00:20 Logged In Already!
+
+2023-03-25 14:00:20 bet365.com
+
+2023-03-25 14:00:20 DoLoad365Page
+
+2023-03-25 14:00:20 365 page is loaded!
+
+2023-03-25 14:00:20 Wrong position detected!
+
+2023-03-25 14:00:28 Not Search Event
+
+2023-03-25 14:00:34 Ymir Kopavogur v IH Hafnarfjordur Dis :0.00588235294117645
+
+2023-03-25 14:00:39 Not Found Odds on Bet365..
+
+2023-03-25 14:01:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:01:13 New Score is updated...
+
+2023-03-25 14:01:13 {"home":"Ankaraspor","away":"Afjet Afyonspor","score":"2:2","gameTime":2}
+
+2023-03-25 14:01:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:01:14 New Score is updated...
+
+2023-03-25 14:01:14 {"home":"Ankaraspor","away":"Afjet Afyonspor","score":"2:2","gameTime":2}
+
+2023-03-25 14:01:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:01:14 New Score is updated...
+
+2023-03-25 14:01:14 {"home":"Ankaraspor","away":"Afjet Afyonspor","score":"2:2","gameTime":2}
+
+2023-03-25 14:01:15 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:01:15 New Score is updated...
+
+2023-03-25 14:01:15 {"home":"Ankaraspor","away":"Afjet Afyonspor","score":"2:2","gameTime":2}
+
+2023-03-25 14:01:17 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:01:17 New Score is updated...
+
+2023-03-25 14:01:17 {"home":"Ankaraspor","away":"Afjet Afyonspor","score":"2:2","gameTime":2}
+
+2023-03-25 14:04:39 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 14:04:39  *** MakeBet *** 
+
+2023-03-25 14:04:39 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"FC Ilves vs TPS","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-25 14:04:39 43.95
+
+2023-03-25 14:04:39 Current balance : 43.9
+
+2023-03-25 14:04:39 Current Balance : 43.9
+
+2023-03-25 14:04:39 CheckIfLoggedIn
+
+2023-03-25 14:04:39 Logged In Already!
+
+2023-03-25 14:04:39 bet365.com
+
+2023-03-25 14:04:39 Wrong position detected!
+
+2023-03-25 14:04:40 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 14:04:44 FC Ilves v TPS Dis :0.0133333333333333
+
+2023-03-25 14:04:45 Wrong position detected!
+
+2023-03-25 14:04:48 Stake : 6
+
+2023-03-25 14:04:48 Running AddbetScript...
+
+2023-03-25 14:04:48 scrollBetIntoView('357757505') => 1
+
+2023-03-25 14:04:48 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 14:04:50 Connected Socket Server!!!
+
+2023-03-25 14:04:50 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-25 14:04:51 {
+  "bg": "685894c2-2a05-42fb-ad7d-97d7386114b0",
+  "sr": 0,
+  "mr": false,
+  "cc": "LzSXdL6ES5IoGb+gcrvTE4ud1+WSEboH3iGyzw563BM=",
+  "ir": true,
+  "vr": "817",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/15",
+      "fi": 135036030,
+      "fd": "FC Ilves v TPS",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 357757505,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "641ef174-136BD447",
+      "tp": "BS135036030-357757505",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134954154,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-25 14:04:54 Fractional Odds : 8/15
+
+2023-03-25 14:04:54 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-03-25 14:04:54 Trying to place bet!
+
+2023-03-25 14:04:54 DoPlacebetUI
+
+2023-03-25 14:04:54 betslip pos => {
+  "x": 457,
+  "y": 672.375,
+  "width": 0.95001220703125,
+  "height": 22.79998779296875,
+  "top": 672.375,
+  "right": 457.95001220703125,
+  "bottom": 695.17498779296875,
+  "left": 457
+}
+
+2023-03-25 14:04:55 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-03-25 14:04:55 Placebet Button pos => {"x":656.5,"y":660.5,"width":213.75,"height":47.5,"top":660.5,"right":870.25,"bottom":708,"left":656.5}
+
+2023-03-25 14:05:04 43.95
+
+2023-03-25 14:05:04 Current balance : 43.9
+
+2023-03-25 14:05:04 DoLoad365Page
+
+2023-03-25 14:05:04 365 page is loaded!
+
+2023-03-25 14:05:07 [sartodenis:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.53333333333333
+
+2023-03-25 14:05:07 {
+  "username": "sartodenis",
+  "tipster": "",
+  "message": "[sartodenis:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.53333333333333",
+  "stake": 6.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.5333333333333332,
+  "tournament": "Europe Friendlies",
+  "eventName": "FC Ilves vs TPS",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "25/03/2023 14:05:04",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 37.9,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-25 14:05:15 Trying to register tip at Bigstake
+
+2023-03-25 14:05:28 Registered tip at Bigstake Successfully!
+
+2023-03-25 14:05:31 This Line is already existed on Settled bets!
+
+2023-03-25 14:05:31 This Line is already existed on Settled bets!
+
+2023-03-25 14:05:31 This Line is already existed on Settled bets!
+
+2023-03-25 14:15:25 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 14:15:25  *** MakeBet *** 
+
+2023-03-25 14:15:25 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"SalPa vs PK-35","score":"2:3","EW":"0","marketName":"OVER 5.5","selection":"OVER","odds":0.0,"handicap":5.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-25 14:15:25 37.95
+
+2023-03-25 14:15:25 Current balance : 37.9
+
+2023-03-25 14:15:25 Current Balance : 37.9
+
+2023-03-25 14:15:25 CheckIfLoggedIn
+
+2023-03-25 14:15:25 Logged In Already!
+
+2023-03-25 14:15:25 bet365.com
+
+2023-03-25 14:15:26 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 14:15:35 SalPa v PK-35 Dis :0.0142857142857142
+
+2023-03-25 14:15:36 Wrong position detected!
+
+2023-03-25 14:15:48 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 14:15:50 Connected Socket Server!!!
+
+2023-03-25 14:20:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:20:13 New Score is updated...
+
+2023-03-25 14:20:13 {"home":"Ymir Kopavogur","away":"IH Hafnarfjordur","score":"2:3","gameTime":0}
+
+2023-03-25 14:20:13 New Score : Ymir Kopavogur vs IH Hafnarfjordur  2:3
+
+2023-03-25 14:20:13 Pending tip Score : FC Ilves vs TPS 0:0
+
+2023-03-25 14:20:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:20:14 New Score is updated...
+
+2023-03-25 14:20:14 {"home":"Ymir Kopavogur","away":"IH Hafnarfjordur","score":"2:3","gameTime":0}
+
+2023-03-25 14:20:14 New Score : Ymir Kopavogur vs IH Hafnarfjordur  2:3
+
+2023-03-25 14:20:14 Pending tip Score : FC Ilves vs TPS 0:0
+
+2023-03-25 14:20:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:20:14 New Score is updated...
+
+2023-03-25 14:20:14 {"home":"Ymir Kopavogur","away":"IH Hafnarfjordur","score":"2:3","gameTime":0}
+
+2023-03-25 14:20:14 New Score : Ymir Kopavogur vs IH Hafnarfjordur  2:3
+
+2023-03-25 14:20:14 Pending tip Score : FC Ilves vs TPS 0:0
+
+2023-03-25 14:20:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:20:14 New Score is updated...
+
+2023-03-25 14:20:14 {"home":"Ymir Kopavogur","away":"IH Hafnarfjordur","score":"2:3","gameTime":0}
+
+2023-03-25 14:20:14 New Score : Ymir Kopavogur vs IH Hafnarfjordur  2:3
+
+2023-03-25 14:20:14 Pending tip Score : FC Ilves vs TPS 0:0
+
+2023-03-25 14:20:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:20:14 New Score is updated...
+
+2023-03-25 14:20:14 {"home":"Ymir Kopavogur","away":"IH Hafnarfjordur","score":"2:3","gameTime":0}
+
+2023-03-25 14:20:14 New Score : Ymir Kopavogur vs IH Hafnarfjordur  2:3
+
+2023-03-25 14:20:14 Pending tip Score : FC Ilves vs TPS 0:0
+
+2023-03-25 14:20:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:20:14 New Score is updated...
+
+2023-03-25 14:20:14 {"home":"Ymir Kopavogur","away":"IH Hafnarfjordur","score":"2:3","gameTime":0}
+
+2023-03-25 14:20:14 New Score : Ymir Kopavogur vs IH Hafnarfjordur  2:3
+
+2023-03-25 14:20:14 Pending tip Score : FC Ilves vs TPS 0:0
+
+2023-03-25 14:20:14 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:20:14 New Score is updated...
+
+2023-03-25 14:20:14 {"home":"Ymir Kopavogur","away":"IH Hafnarfjordur","score":"2:3","gameTime":0}
+
+2023-03-25 14:20:14 New Score : Ymir Kopavogur vs IH Hafnarfjordur  2:3
+
+2023-03-25 14:20:14 Pending tip Score : FC Ilves vs TPS 0:0
+
+2023-03-25 14:20:15 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:20:15 New Score is updated...
+
+2023-03-25 14:20:15 {"home":"Ymir Kopavogur","away":"IH Hafnarfjordur","score":"2:3","gameTime":0}
+
+2023-03-25 14:20:15 New Score : Ymir Kopavogur vs IH Hafnarfjordur  2:3
+
+2023-03-25 14:20:15 Pending tip Score : FC Ilves vs TPS 0:0
+
+2023-03-25 14:21:23 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 14:21:46 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 14:21:48 Connected Socket Server!!!
+
+2023-03-25 14:22:12 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:22:12 New Score is updated...
+
+2023-03-25 14:22:12 {"home":"FC Ilves","away":"TPS","score":"1:0","gameTime":0}
+
+2023-03-25 14:22:12 New Score : FC Ilves vs TPS  1:0
+
+2023-03-25 14:22:12 Pending tip Score : FC Ilves vs TPS 0:0
+
+2023-03-25 14:22:12 Pending Tip is winning now...
+
+2023-03-25 14:22:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:22:13 New Score is updated...
+
+2023-03-25 14:22:13 {"home":"FC Ilves","away":"TPS","score":"1:0","gameTime":0}
+
+2023-03-25 14:22:13 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:22:13 New Score is updated...
+
+2023-03-25 14:22:13 {"home":"FC Ilves","away":"TPS","score":"1:0","gameTime":0}
+
+2023-03-25 14:22:32 Stake : 6
+
+2023-03-25 14:22:32 Running AddbetScript...
+
+2023-03-25 14:22:32 scrollBetIntoView('357748013') => 1
+
+2023-03-25 14:22:34 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-25 14:22:36 {
+  "bg": "c00cca69-bdb6-4e95-953d-7d65657b9707",
+  "sr": 0,
+  "mr": false,
+  "cc": "q7FBja7dZ9RLgpUDMEAvh0HW8mji4DfzfrbjmlnK+6Q=",
+  "ir": true,
+  "vr": "817",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "2/5",
+      "fi": 135035973,
+      "fd": "SalPa v PK-35",
+      "pt": [
+        {
+          "hd": "5.5",
+          "pi": 357748013,
+          "bd": "Più di",
+          "ha": "5.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "641ef59c-B6546EF",
+      "tp": "BS135035973-357748013",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134962906,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-25 14:22:38 Fractional Odds : 2/5
+
+2023-03-25 14:22:38 Trademate Odds : 0 , Bet365 Odds : 1.4
+
+2023-03-25 14:22:38 Trying to place bet!
+
+2023-03-25 14:22:38 DoPlacebetUI
+
+2023-03-25 14:22:38 betslip pos => {
+  "x": 457,
+  "y": 672.375,
+  "width": 0.95001220703125,
+  "height": 22.79998779296875,
+  "top": 672.375,
+  "right": 457.95001220703125,
+  "bottom": 695.17498779296875,
+  "left": 457
+}
+
+2023-03-25 14:22:40 Trademate Odds : 0 , Bet365 Odds : 1.4
+
+2023-03-25 14:22:40 Placebet Button pos => {"x":656.5,"y":660.5,"width":213.75,"height":47.5,"top":660.5,"right":870.25,"bottom":708,"left":656.5}
+
+2023-03-25 14:22:49 47.14
+
+2023-03-25 14:22:49 Current balance : 47.1
+
+2023-03-25 14:22:49 DoLoad365Page
+
+2023-03-25 14:22:49 365 page is loaded!
+
+2023-03-25 14:22:52 [sartodenis:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.4
+
+2023-03-25 14:22:52 {
+  "username": "sartodenis",
+  "tipster": "",
+  "message": "[sartodenis:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.4",
+  "stake": 6.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.4000000000000001,
+  "tournament": "Europe Friendlies",
+  "eventName": "SalPa vs PK-35",
+  "probability": "OVER",
+  "market": "OVER 5.5",
+  "placedAt": "25/03/2023 14:22:49",
+  "selection": "OVER",
+  "handicap": 5.5,
+  "balance": 31.9,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-25 14:23:00 Trying to register tip at Bigstake
+
+2023-03-25 14:23:13 Registered tip at Bigstake Successfully!
+
+2023-03-25 14:23:16 This Line is already existed on Settled bets!
+
+2023-03-25 14:23:16 This Line is already existed on Settled bets!
+
+2023-03-25 14:23:16 This Line is already existed on Settled bets!
+
+2023-03-25 14:23:16  *** MakeBet *** 
+
+2023-03-25 14:23:16 {"dbId":"","sport":"","country":"","league":"Spain Youth League","dateTime":"","match":"Sevilla U19 vs CD Polillas Ceuta U19","score":"4:1","EW":"0","marketName":"OVER 5.5","selection":"OVER","odds":0.0,"handicap":5.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-25 14:23:16 LastLoginModule_Button Clicked
+
+2023-03-25 14:23:16 LastLoginModule_Button Clicked
+
+2023-03-25 14:23:16 LastLoginModule_Button Clicked
+
+2023-03-25 14:23:16 LastLoginModule_Button Clicked
+
+2023-03-25 14:23:21 
+
+2023-03-25 14:23:21 Current Balance : -1
+
+2023-03-25 14:23:21 CheckIfLoggedIn
+
+2023-03-25 14:23:21 Logged In Already!
+
+2023-03-25 14:23:21 bet365.com
+
+2023-03-25 14:23:33 Not Search Event
+
+2023-03-25 14:23:33 Wrong position detected!
+
+2023-03-25 14:23:38 Siviglia U19 v CD Polillas Ceuta U19 Dis :0.104545454545455
+
+2023-03-25 14:23:38 Wrong position detected!
+
+2023-03-25 14:23:42 Stake : 8
+
+2023-03-25 14:23:42 Running AddbetScript...
+
+2023-03-25 14:23:42 scrollBetIntoView('356332377') => 1
+
+2023-03-25 14:23:44 Odds Pos : X : 414.453125 , Y: 318
+
+2023-03-25 14:23:46 {
+  "bg": "b5359f1c-0ece-437f-bfd3-b5a5f6633540",
+  "sr": 0,
+  "mr": false,
+  "cc": "SjsHx1UpsOdL4awojG1bSTNyTyXlLHYI60TLP9uYfr8=",
+  "ir": true,
+  "vr": "817",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "1/5",
+      "fi": 135025697,
+      "fd": "Siviglia U19 v CD Polillas Ceuta U19",
+      "pt": [
+        {
+          "pi": 356332377,
+          "bd": "Più di 5.5",
+          "ha": "5.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "641ef5e2-9F721A4",
+      "tp": "BS135025697-356332377",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134903660,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-25 14:23:48 Fractional Odds : 1/5
+
+2023-03-25 14:23:48 Trademate Odds : 0 , Bet365 Odds : 1.2
+
+2023-03-25 14:23:48 Trying to place bet!
+
+2023-03-25 14:23:48 DoPlacebetUI
+
+2023-03-25 14:23:48 betslip pos => {
+  "x": 457,
+  "y": 672.375,
+  "width": 0.95001220703125,
+  "height": 22.79998779296875,
+  "top": 672.375,
+  "right": 457.95001220703125,
+  "bottom": 695.17498779296875,
+  "left": 457
+}
+
+2023-03-25 14:23:50 Trademate Odds : 0 , Bet365 Odds : 1.2
+
+2023-03-25 14:23:50 Placebet Button pos => {"x":656.5,"y":660.5,"width":213.75,"height":47.5,"top":660.5,"right":870.25,"bottom":708,"left":656.5}
+
+2023-03-25 14:23:59 41.14
+
+2023-03-25 14:23:59 Current balance : 41.1
+
+2023-03-25 14:23:59 DoLoad365Page
+
+2023-03-25 14:23:59 365 page is loaded!
+
+2023-03-25 14:24:02 [sartodenis:2711Buruliddu.] SUCCESS. Stake:8 Odds:1.2
+
+2023-03-25 14:24:02 {
+  "username": "sartodenis",
+  "tipster": "",
+  "message": "[sartodenis:2711Buruliddu.] SUCCESS. Stake:8 Odds:1.2",
+  "stake": 8.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.2,
+  "tournament": "Spain Youth League",
+  "eventName": "Sevilla U19 vs CD Polillas Ceuta U19",
+  "probability": "OVER",
+  "market": "OVER 5.5",
+  "placedAt": "25/03/2023 14:23:59",
+  "selection": "OVER",
+  "handicap": 5.5,
+  "balance": 23.9,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-25 14:24:10 Trying to register tip at Bigstake
+
+2023-03-25 14:24:23 Registered tip at Bigstake Successfully!
+
+2023-03-25 14:24:26 This Line is already existed on Settled bets!
+
+2023-03-25 14:27:15 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:27:15 New Score is updated...
+
+2023-03-25 14:27:15 {"home":"SalPa","away":"PK-35","score":"3:3","gameTime":0}
+
+2023-03-25 14:27:15 New Score : SalPa vs PK-35  3:3
+
+2023-03-25 14:27:15 Pending tip Score : Sevilla U19 vs CD Polillas Ceuta U19 4:1
+
+2023-03-25 14:27:16 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:27:16 New Score is updated...
+
+2023-03-25 14:27:16 {"home":"SalPa","away":"PK-35","score":"3:3","gameTime":0}
+
+2023-03-25 14:27:16 New Score : SalPa vs PK-35  3:3
+
+2023-03-25 14:27:16 Pending tip Score : Sevilla U19 vs CD Polillas Ceuta U19 4:1
+
+2023-03-25 14:27:16 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:27:16 New Score is updated...
+
+2023-03-25 14:27:16 {"home":"SalPa","away":"PK-35","score":"3:3","gameTime":0}
+
+2023-03-25 14:27:16 New Score : SalPa vs PK-35  3:3
+
+2023-03-25 14:27:16 Pending tip Score : Sevilla U19 vs CD Polillas Ceuta U19 4:1
+
+2023-03-25 14:28:31 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 14:28:31  *** MakeBet *** 
+
+2023-03-25 14:28:32 {"dbId":"","sport":"","country":"","league":"Denmark Danmarksserien Relegation","dateTime":"","match":"AaB 2 vs VRI","score":"💢quota goal successivo💢\nquota pre 1x2:\n1.61:4.00","EW":"0","marketName":"OVER 4.5","selection":"OVER","odds":0.0,"handicap":4.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"FiltridiLan@","tipSource":0}
+
+2023-03-25 14:28:32 41.54
+
+2023-03-25 14:28:32 Current balance : 41.5
+
+2023-03-25 14:28:32 Current Balance : 41.5
+
+2023-03-25 14:28:32 CheckIfLoggedIn
+
+2023-03-25 14:28:32 Logged In Already!
+
+2023-03-25 14:28:32 bet365.com
+
+2023-03-25 14:28:32 DoLoad365Page
+
+2023-03-25 14:28:32 365 page is loaded!
+
+2023-03-25 14:28:32 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 14:28:42 AaB 2 v VRI Dis :0.0166666666666667
+
+2023-03-25 14:28:43 Wrong position detected!
+
+2023-03-25 14:28:46 Stake : 6
+
+2023-03-25 14:28:46 Running AddbetScript...
+
+2023-03-25 14:28:46 scrollBetIntoView('354691507') => 1
+
+2023-03-25 14:28:48 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-25 14:28:50 {
+  "bg": "b4245113-061e-4464-b00a-a1b761f21554",
+  "sr": 0,
+  "mr": false,
+  "cc": "7dFXfu26OkBcy1+UrC7LqUa5k2Mk2I48lfAQGpDtjeQ=",
+  "ir": true,
+  "vr": "817",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/7",
+      "fi": 135013731,
+      "fd": "AaB 2 v VRI",
+      "pt": [
+        {
+          "hd": "4.5",
+          "pi": 354691507,
+          "bd": "Più di",
+          "ha": "4.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "641ef712-D0F0DFD9",
+      "tp": "BS135013731-354691507",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134795493,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-25 14:28:52 Fractional Odds : 4/7
+
+2023-03-25 14:28:52 Trademate Odds : 0 , Bet365 Odds : 1.57
+
+2023-03-25 14:28:52 Trying to place bet!
+
+2023-03-25 14:28:52 DoPlacebetUI
+
+2023-03-25 14:28:52 betslip pos => {
+  "x": 457,
+  "y": 672.375,
+  "width": 0.95001220703125,
+  "height": 22.79998779296875,
+  "top": 672.375,
+  "right": 457.95001220703125,
+  "bottom": 695.17498779296875,
+  "left": 457
+}
+
+2023-03-25 14:28:54 Trademate Odds : 0 , Bet365 Odds : 1.61
+
+2023-03-25 14:28:54 Placebet Button pos => {"x":656.5,"y":660.5,"width":213.75,"height":47.5,"top":660.5,"right":870.25,"bottom":708,"left":656.5}
+
+2023-03-25 14:29:00 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 14:29:01 Connected Socket Server!!!
+
+2023-03-25 14:29:03 41.54
+
+2023-03-25 14:29:03 Current balance : 41.5
+
+2023-03-25 14:29:03 DoLoad365Page
+
+2023-03-25 14:29:03 365 page is loaded!
+
+2023-03-25 14:29:06 [sartodenis:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.615
+
+2023-03-25 14:29:06 {
+  "username": "sartodenis",
+  "tipster": "",
+  "message": "[sartodenis:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.615",
+  "stake": 6.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.615,
+  "tournament": "Denmark Danmarksserien Relegation",
+  "eventName": "AaB 2 vs VRI",
+  "probability": "OVER",
+  "market": "OVER 4.5",
+  "placedAt": "25/03/2023 14:29:03",
+  "selection": "OVER",
+  "handicap": 4.5,
+  "balance": 35.5,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-25 14:29:14 Trying to register tip at Bigstake
+
+2023-03-25 14:29:27 Registered tip at Bigstake Successfully!
+
+2023-03-25 14:29:30 This Line is already existed on Settled bets!
+
+2023-03-25 14:29:30 This Line is already existed on Settled bets!
+
+2023-03-25 14:29:30 This Line is already existed on Settled bets!
+
+2023-03-25 14:30:33 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 14:30:33  *** MakeBet *** 
+
+2023-03-25 14:30:33 {"dbId":"","sport":"","country":"","league":"Denmark Danmarksserien Relegation","dateTime":"","match":"Viby vs FC Djursland","score":"💢quota goal successivo💢\nquota pre 1x2:\n1.30:5.00","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"FiltridiLan@","tipSource":0}
+
+2023-03-25 14:30:33 35.54
+
+2023-03-25 14:30:33 Current balance : 35.5
+
+2023-03-25 14:30:33 Current Balance : 35.5
+
+2023-03-25 14:30:33 CheckIfLoggedIn
+
+2023-03-25 14:30:33 Logged In Already!
+
+2023-03-25 14:30:33 bet365.com
+
+2023-03-25 14:30:34 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 14:30:43 Viby v FC Djursland Dis :0.0521052631578948
+
+2023-03-25 14:30:44 Wrong position detected!
+
+2023-03-25 14:30:47 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 14:30:48 Stake : 6
+
+2023-03-25 14:30:48 Running AddbetScript...
+
+2023-03-25 14:30:48 scrollBetIntoView('354688508') => 1
+
+2023-03-25 14:30:48 Connected Socket Server!!!
+
+2023-03-25 14:30:49 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-25 14:30:53 Trademate Odds : 0 , Bet365 Odds : 1.57
+
+2023-03-25 14:30:53 Trying to place bet!
+
+2023-03-25 14:30:53 DoPlacebetUI
+
+2023-03-25 14:30:53 betslip pos => {
+  "x": 457,
+  "y": 672.375,
+  "width": 0.95001220703125,
+  "height": 22.79998779296875,
+  "top": 672.375,
+  "right": 457.95001220703125,
+  "bottom": 695.17498779296875,
+  "left": 457
+}
+
+2023-03-25 14:30:55 Trademate Odds : 0 , Bet365 Odds : 1.57
+
+2023-03-25 14:30:55 Placebet Button pos => {"x":656.5,"y":660.5,"width":213.75,"height":47.5,"top":660.5,"right":870.25,"bottom":708,"left":656.5}
+
+2023-03-25 14:31:04 35.54
+
+2023-03-25 14:31:04 Current balance : 35.5
+
+2023-03-25 14:31:04 DoLoad365Page
+
+2023-03-25 14:31:04 365 page is loaded!
+
+2023-03-25 14:31:07 [sartodenis:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.57
+
+2023-03-25 14:31:07 {
+  "username": "sartodenis",
+  "tipster": "",
+  "message": "[sartodenis:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.57",
+  "stake": 6.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.57,
+  "tournament": "Denmark Danmarksserien Relegation",
+  "eventName": "Viby vs FC Djursland",
+  "probability": "OVER",
+  "market": "OVER 2.5",
+  "placedAt": "25/03/2023 14:31:04",
+  "selection": "OVER",
+  "handicap": 2.5,
+  "balance": 29.5,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-25 14:31:15 Trying to register tip at Bigstake
+
+2023-03-25 14:31:28 Registered tip at Bigstake Successfully!
+
+2023-03-25 14:31:31 This Line is already existed on Settled bets!
+
+2023-03-25 14:31:31 This Line is already existed on Settled bets!
+
+2023-03-25 14:31:31 This Line is already existed on Settled bets!
+
+2023-03-25 14:32:39 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 14:32:39  *** MakeBet *** 
+
+2023-03-25 14:32:39 {"dbId":"","sport":"","country":"","league":"Argentina Youth League","dateTime":"","match":"Godoy Cruz U20 vs Barracas Central U20","score":"💢quota goal successivo💢\nquota pre 1x2:\n1.50:4.00","EW":"0","marketName":"OVER 4.5","selection":"OVER","odds":0.0,"handicap":4.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"FiltridiLan@","tipSource":0}
+
+2023-03-25 14:32:39 29.54
+
+2023-03-25 14:32:39 Current balance : 29.5
+
+2023-03-25 14:32:39 Current Balance : 29.5
+
+2023-03-25 14:32:39 CheckIfLoggedIn
+
+2023-03-25 14:32:39 Logged In Already!
+
+2023-03-25 14:32:39 bet365.com
+
+2023-03-25 14:32:40 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 14:32:50 Godoy Cruz U20 v Barracas Central U20 Dis :0.0268847795163584
+
+2023-03-25 14:32:51 Wrong position detected!
+
+2023-03-25 14:32:53 Not Found Odds on Bet365..
+
+2023-03-25 14:32:56  *** MakeBet *** 
+
+2023-03-25 14:32:56 {"dbId":"","sport":"","country":"","league":"Argentina Youth League","dateTime":"","match":"Godoy Cruz U20 vs Barracas Central U20","score":"💢quota goal successivo💢\nquota pre 1x2:\n1.50:4.00","EW":"0","marketName":"OVER 4.5","selection":"OVER","odds":0.0,"handicap":4.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"FiltridiLan@","tipSource":0}
+
+2023-03-25 14:32:56 29.54
+
+2023-03-25 14:32:56 Current balance : 29.5
+
+2023-03-25 14:32:56 Current Balance : 29.5
+
+2023-03-25 14:32:57 CheckIfLoggedIn
+
+2023-03-25 14:32:57 Logged In Already!
+
+2023-03-25 14:32:57 bet365.com
+
+2023-03-25 14:32:57 Wrong position detected!
+
+2023-03-25 14:32:59 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 14:33:00 Connected Socket Server!!!
+
+2023-03-25 14:33:03 Godoy Cruz U20 v Barracas Central U20 Dis :0.0268847795163584
+
+2023-03-25 14:33:04 Wrong position detected!
+
+2023-03-25 14:33:06 Not Found Odds on Bet365..
+
+2023-03-25 14:33:09  *** MakeBet *** 
+
+2023-03-25 14:33:09 {"dbId":"","sport":"","country":"","league":"Argentina Youth League","dateTime":"","match":"Godoy Cruz U20 vs Barracas Central U20","score":"💢quota goal successivo💢\nquota pre 1x2:\n1.50:4.00","EW":"0","marketName":"OVER 4.5","selection":"OVER","odds":0.0,"handicap":4.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"PronosticiKlaus","tipSource":0}
+
+2023-03-25 14:33:09 29.54
+
+2023-03-25 14:33:09 Current balance : 29.5
+
+2023-03-25 14:33:10 Current Balance : 29.5
+
+2023-03-25 14:33:10 CheckIfLoggedIn
+
+2023-03-25 14:33:10 Logged In Already!
+
+2023-03-25 14:33:10 bet365.com
+
+2023-03-25 14:33:10 DoLoad365Page
+
+2023-03-25 14:33:10 365 page is loaded!
+
+2023-03-25 14:33:10 Wrong position detected!
+
+2023-03-25 14:33:20 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:33:20 New Score is updated...
+
+2023-03-25 14:33:20 {"home":"FC Ilves","away":"TPS","score":"1:0","gameTime":1}
+
+2023-03-25 14:33:20 New Score : FC Ilves vs TPS  1:0
+
+2023-03-25 14:33:20 Pending tip Score : Viby vs FC Djursland 💢quota goal successivo💢
+quota pre 1x2:
+1.30:5.00
+
+2023-03-25 14:33:21 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:33:21 New Score is updated...
+
+2023-03-25 14:33:21 {"home":"FC Ilves","away":"TPS","score":"1:0","gameTime":1}
+
+2023-03-25 14:33:21 New Score : FC Ilves vs TPS  1:0
+
+2023-03-25 14:33:21 Pending tip Score : Viby vs FC Djursland 💢quota goal successivo💢
+quota pre 1x2:
+1.30:5.00
+
+2023-03-25 14:33:22 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:33:22 New Score is updated...
+
+2023-03-25 14:33:22 {"home":"FC Ilves","away":"TPS","score":"1:0","gameTime":1}
+
+2023-03-25 14:33:22 New Score : FC Ilves vs TPS  1:0
+
+2023-03-25 14:33:22 Pending tip Score : Viby vs FC Djursland 💢quota goal successivo💢
+quota pre 1x2:
+1.30:5.00
+
+2023-03-25 14:33:22 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:33:22 New Score is updated...
+
+2023-03-25 14:33:22 {"home":"FC Ilves","away":"TPS","score":"1:0","gameTime":1}
+
+2023-03-25 14:33:22 New Score : FC Ilves vs TPS  1:0
+
+2023-03-25 14:33:22 Pending tip Score : Viby vs FC Djursland 💢quota goal successivo💢
+quota pre 1x2:
+1.30:5.00
+
+2023-03-25 14:33:22 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:33:22 Not Search Event
+
+2023-03-25 14:33:22 New Score is updated...
+
+2023-03-25 14:33:22 {"home":"SalPa","away":"PK-35","score":"4:3","gameTime":0}
+
+2023-03-25 14:33:22 New Score : SalPa vs PK-35  4:3
+
+2023-03-25 14:33:22 Pending tip Score : Viby vs FC Djursland 💢quota goal successivo💢
+quota pre 1x2:
+1.30:5.00
+
+2023-03-25 14:33:22 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:33:22 New Score is updated...
+
+2023-03-25 14:33:22 {"home":"SalPa","away":"PK-35","score":"4:3","gameTime":0}
+
+2023-03-25 14:33:22 New Score : SalPa vs PK-35  4:3
+
+2023-03-25 14:33:22 Pending tip Score : Viby vs FC Djursland 💢quota goal successivo💢
+quota pre 1x2:
+1.30:5.00
+
+2023-03-25 14:33:23 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:33:23 New Score is updated...
+
+2023-03-25 14:33:23 {"home":"SalPa","away":"PK-35","score":"4:3","gameTime":0}
+
+2023-03-25 14:33:23 New Score : SalPa vs PK-35  4:3
+
+2023-03-25 14:33:23 Pending tip Score : Viby vs FC Djursland 💢quota goal successivo💢
+quota pre 1x2:
+1.30:5.00
+
+2023-03-25 14:33:23 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:33:23 New Score is updated...
+
+2023-03-25 14:33:23 {"home":"SalPa","away":"PK-35","score":"4:3","gameTime":0}
+
+2023-03-25 14:33:23 New Score : SalPa vs PK-35  4:3
+
+2023-03-25 14:33:23 Pending tip Score : Viby vs FC Djursland 💢quota goal successivo💢
+quota pre 1x2:
+1.30:5.00
+
+2023-03-25 14:33:23 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:33:23 New Score is updated...
+
+2023-03-25 14:33:23 {"home":"Ymir Kopavogur","away":"IH Hafnarfjordur","score":"2:3","gameTime":2}
+
+2023-03-25 14:33:23 New Score : Ymir Kopavogur vs IH Hafnarfjordur  2:3
+
+2023-03-25 14:33:23 Pending tip Score : Viby vs FC Djursland 💢quota goal successivo💢
+quota pre 1x2:
+1.30:5.00
+
+2023-03-25 14:33:24 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:33:24 New Score is updated...
+
+2023-03-25 14:33:24 {"home":"Ymir Kopavogur","away":"IH Hafnarfjordur","score":"2:3","gameTime":2}
+
+2023-03-25 14:33:24 New Score : Ymir Kopavogur vs IH Hafnarfjordur  2:3
+
+2023-03-25 14:33:24 Pending tip Score : Viby vs FC Djursland 💢quota goal successivo💢
+quota pre 1x2:
+1.30:5.00
+
+2023-03-25 14:33:24 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:33:24 New Score is updated...
+
+2023-03-25 14:33:24 {"home":"Ymir Kopavogur","away":"IH Hafnarfjordur","score":"2:3","gameTime":2}
+
+2023-03-25 14:33:24 New Score : Ymir Kopavogur vs IH Hafnarfjordur  2:3
+
+2023-03-25 14:33:24 Pending tip Score : Viby vs FC Djursland 💢quota goal successivo💢
+quota pre 1x2:
+1.30:5.00
+
+2023-03-25 14:33:25 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:33:25 New Score is updated...
+
+2023-03-25 14:33:25 {"home":"Ymir Kopavogur","away":"IH Hafnarfjordur","score":"2:3","gameTime":2}
+
+2023-03-25 14:33:25 New Score : Ymir Kopavogur vs IH Hafnarfjordur  2:3
+
+2023-03-25 14:33:25 Pending tip Score : Viby vs FC Djursland 💢quota goal successivo💢
+quota pre 1x2:
+1.30:5.00
+
+2023-03-25 14:33:25 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:33:25 New Score is updated...
+
+2023-03-25 14:33:25 {"home":"Ymir Kopavogur","away":"IH Hafnarfjordur","score":"2:3","gameTime":2}
+
+2023-03-25 14:33:25 New Score : Ymir Kopavogur vs IH Hafnarfjordur  2:3
+
+2023-03-25 14:33:25 Pending tip Score : Viby vs FC Djursland 💢quota goal successivo💢
+quota pre 1x2:
+1.30:5.00
+
+2023-03-25 14:33:25 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:33:25 New Score is updated...
+
+2023-03-25 14:33:25 {"home":"Ymir Kopavogur","away":"IH Hafnarfjordur","score":"2:3","gameTime":2}
+
+2023-03-25 14:33:25 New Score : Ymir Kopavogur vs IH Hafnarfjordur  2:3
+
+2023-03-25 14:33:25 Pending tip Score : Viby vs FC Djursland 💢quota goal successivo💢
+quota pre 1x2:
+1.30:5.00
+
+2023-03-25 14:33:29 Godoy Cruz U20 v Barracas Central U20 Dis :0.0268847795163584
+
+2023-03-25 14:33:34 Not Found Odds on Bet365..
+
+2023-03-25 14:33:37  *** MakeBet *** 
+
+2023-03-25 14:33:37 {"dbId":"","sport":"","country":"","league":"Argentina Youth League","dateTime":"","match":"Godoy Cruz U20 vs Barracas Central U20","score":"💢quota goal successivo💢\nquota pre 1x2:\n1.50:4.00","EW":"0","marketName":"OVER 4.5","selection":"OVER","odds":0.0,"handicap":4.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"PronosticiKlaus","tipSource":0}
+
+2023-03-25 14:33:37 29.54
+
+2023-03-25 14:33:37 Current balance : 29.5
+
+2023-03-25 14:33:37 Current Balance : 29.5
+
+2023-03-25 14:33:37 CheckIfLoggedIn
+
+2023-03-25 14:33:37 Logged In Already!
+
+2023-03-25 14:33:37 bet365.com
+
+2023-03-25 14:33:37 Wrong position detected!
+
+2023-03-25 14:33:43 Godoy Cruz U20 v Barracas Central U20 Dis :0.0268847795163584
+
+2023-03-25 14:33:49 Not Found Odds on Bet365..
+
+2023-03-25 14:35:50 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 14:35:50  *** MakeBet *** 
+
+2023-03-25 14:35:50 {"dbId":"","sport":"","country":"","league":"Denmark Danmarksserien Promotion","dateTime":"","match":"Marienlyst vs Holbæk","score":"0:2","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-25 14:35:50 29.54
+
+2023-03-25 14:35:50 Current balance : 29.5
+
+2023-03-25 14:35:50 Current Balance : 29.5
+
+2023-03-25 14:35:50 CheckIfLoggedIn
+
+2023-03-25 14:35:50 Logged In Already!
+
+2023-03-25 14:35:50 bet365.com
+
+2023-03-25 14:35:50 Wrong position detected!
+
+2023-03-25 14:35:51 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 14:35:56 Marienlyst v Holbæk Dis :0.01
+
+2023-03-25 14:35:57 Wrong position detected!
+
+2023-03-25 14:36:00 Stake : 6
+
+2023-03-25 14:36:00 Running AddbetScript...
+
+2023-03-25 14:36:00 scrollBetIntoView('354699204') => 1
+
+2023-03-25 14:36:01 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 14:36:02 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-25 14:36:02 Connected Socket Server!!!
+
+2023-03-25 14:36:05 Trademate Odds : 0 , Bet365 Odds : 1.66
+
+2023-03-25 14:36:05 Trying to place bet!
+
+2023-03-25 14:36:05 DoPlacebetUI
+
+2023-03-25 14:36:06 betslip pos => {
+  "x": 457,
+  "y": 672.375,
+  "width": 0.95001220703125,
+  "height": 22.79998779296875,
+  "top": 672.375,
+  "right": 457.95001220703125,
+  "bottom": 695.17498779296875,
+  "left": 457
+}
+
+2023-03-25 14:36:07 Trademate Odds : 0 , Bet365 Odds : 1.66
+
+2023-03-25 14:36:07 Placebet Button pos => {"x":656.5,"y":660.5,"width":213.75,"height":47.5,"top":660.5,"right":870.25,"bottom":708,"left":656.5}
+
+2023-03-25 14:36:16 29.54
+
+2023-03-25 14:36:16 Current balance : 29.5
+
+2023-03-25 14:36:16 DoLoad365Page
+
+2023-03-25 14:36:16 365 page is loaded!
+
+2023-03-25 14:36:19 [sartodenis:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.66666666666667
+
+2023-03-25 14:36:19 {
+  "username": "sartodenis",
+  "tipster": "",
+  "message": "[sartodenis:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.66666666666667",
+  "stake": 6.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.6666666666666667,
+  "tournament": "Denmark Danmarksserien Promotion",
+  "eventName": "Marienlyst vs Holbæk",
+  "probability": "OVER",
+  "market": "OVER 3.5",
+  "placedAt": "25/03/2023 14:36:16",
+  "selection": "OVER",
+  "handicap": 3.5,
+  "balance": 23.5,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-25 14:36:27 Trying to register tip at Bigstake
+
+2023-03-25 14:36:41 Registered tip at Bigstake Successfully!
+
+2023-03-25 14:36:44 This Line is already existed on Settled bets!
+
+2023-03-25 14:36:44 This Line is already existed on Settled bets!
+
+2023-03-25 14:36:44 This Line is already existed on Settled bets!
+
+2023-03-25 14:38:16 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:38:16 New Score is updated...
+
+2023-03-25 14:38:16 {"home":"FC Ilves","away":"TPS","score":"1:0","gameTime":1}
+
+2023-03-25 14:38:16 New Score : FC Ilves vs TPS  1:0
+
+2023-03-25 14:38:16 Pending tip Score : Marienlyst vs Holbæk 0:2
+
+2023-03-25 14:38:16 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:38:16 New Score is updated...
+
+2023-03-25 14:38:16 {"home":"FC Ilves","away":"TPS","score":"1:0","gameTime":1}
+
+2023-03-25 14:38:16 New Score : FC Ilves vs TPS  1:0
+
+2023-03-25 14:38:16 Pending tip Score : Marienlyst vs Holbæk 0:2
+
+2023-03-25 14:38:17 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:38:17 New Score is updated...
+
+2023-03-25 14:38:17 {"home":"FC Ilves","away":"TPS","score":"1:0","gameTime":1}
+
+2023-03-25 14:38:17 New Score : FC Ilves vs TPS  1:0
+
+2023-03-25 14:38:17 Pending tip Score : Marienlyst vs Holbæk 0:2
+
+2023-03-25 14:38:17 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:38:17 New Score is updated...
+
+2023-03-25 14:38:17 {"home":"FC Ilves","away":"TPS","score":"1:0","gameTime":1}
+
+2023-03-25 14:38:17 New Score : FC Ilves vs TPS  1:0
+
+2023-03-25 14:38:17 Pending tip Score : Marienlyst vs Holbæk 0:2
+
+2023-03-25 14:38:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:38:18 New Score is updated...
+
+2023-03-25 14:38:18 {"home":"Marienlyst","away":"Holbæk","score":"0:3","gameTime":0}
+
+2023-03-25 14:38:18 New Score : Marienlyst vs Holbæk  0:3
+
+2023-03-25 14:38:18 Pending tip Score : Marienlyst vs Holbæk 0:2
+
+2023-03-25 14:38:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:38:19 New Score is updated...
+
+2023-03-25 14:38:19 {"home":"Marienlyst","away":"Holbæk","score":"0:3","gameTime":0}
+
+2023-03-25 14:38:19 New Score : Marienlyst vs Holbæk  0:3
+
+2023-03-25 14:38:19 Pending tip Score : Marienlyst vs Holbæk 0:2
+
+2023-03-25 14:38:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:38:19 New Score is updated...
+
+2023-03-25 14:38:19 {"home":"Marienlyst","away":"Holbæk","score":"0:3","gameTime":0}
+
+2023-03-25 14:38:19 New Score : Marienlyst vs Holbæk  0:3
+
+2023-03-25 14:38:19 Pending tip Score : Marienlyst vs Holbæk 0:2
+
+2023-03-25 14:41:20 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:41:20 New Score is updated...
+
+2023-03-25 14:41:20 {"home":"Godoy Cruz U20","away":"Barracas Central U20","score":"4:1","gameTime":0}
+
+2023-03-25 14:41:20 New Score : Godoy Cruz U20 vs Barracas Central U20  4:1
+
+2023-03-25 14:41:20 Pending tip Score : Marienlyst vs Holbæk 0:2
+
+2023-03-25 14:41:21 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:41:21 New Score is updated...
+
+2023-03-25 14:41:21 {"home":"Godoy Cruz U20","away":"Barracas Central U20","score":"4:1","gameTime":0}
+
+2023-03-25 14:41:21 New Score : Godoy Cruz U20 vs Barracas Central U20  4:1
+
+2023-03-25 14:41:21 Pending tip Score : Marienlyst vs Holbæk 0:2
+
+2023-03-25 14:41:22 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:41:22 New Score is updated...
+
+2023-03-25 14:41:22 {"home":"Godoy Cruz U20","away":"Barracas Central U20","score":"4:1","gameTime":0}
+
+2023-03-25 14:41:22 New Score : Godoy Cruz U20 vs Barracas Central U20  4:1
+
+2023-03-25 14:41:22 Pending tip Score : Marienlyst vs Holbæk 0:2
+
+2023-03-25 14:42:17 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:42:17 New Score is updated...
+
+2023-03-25 14:42:17 {"home":"Sevilla U19","away":"CD Polillas Ceuta U19","score":"5:1","gameTime":0}
+
+2023-03-25 14:42:17 New Score : Sevilla U19 vs CD Polillas Ceuta U19  5:1
+
+2023-03-25 14:42:17 Pending tip Score : Marienlyst vs Holbæk 0:2
+
+2023-03-25 14:42:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:42:18 New Score is updated...
+
+2023-03-25 14:42:18 {"home":"Sevilla U19","away":"CD Polillas Ceuta U19","score":"5:1","gameTime":0}
+
+2023-03-25 14:42:18 New Score : Sevilla U19 vs CD Polillas Ceuta U19  5:1
+
+2023-03-25 14:42:18 Pending tip Score : Marienlyst vs Holbæk 0:2
+
+2023-03-25 14:42:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:42:18 New Score is updated...
+
+2023-03-25 14:42:18 {"home":"Sevilla U19","away":"CD Polillas Ceuta U19","score":"5:1","gameTime":0}
+
+2023-03-25 14:42:18 New Score : Sevilla U19 vs CD Polillas Ceuta U19  5:1
+
+2023-03-25 14:42:18 Pending tip Score : Marienlyst vs Holbæk 0:2
+
+2023-03-25 14:45:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:45:19 New Score is updated...
+
+2023-03-25 14:45:19 {"home":"Marienlyst","away":"Holbæk","score":"0:4","gameTime":0}
+
+2023-03-25 14:45:19 New Score : Marienlyst vs Holbæk  0:4
+
+2023-03-25 14:45:19 Pending tip Score : Marienlyst vs Holbæk 0:2
+
+2023-03-25 14:45:19 Pending Tip is winning now...
+
+2023-03-25 14:45:20 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:45:20 New Score is updated...
+
+2023-03-25 14:45:20 {"home":"Marienlyst","away":"Holbæk","score":"0:4","gameTime":0}
+
+2023-03-25 14:45:20 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:45:20 New Score is updated...
+
+2023-03-25 14:45:20 {"home":"Marienlyst","away":"Holbæk","score":"0:4","gameTime":0}
+
+2023-03-25 14:45:20 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:45:20 New Score is updated...
+
+2023-03-25 14:45:20 {"home":"Marienlyst","away":"Holbæk","score":"0:4","gameTime":0}
+
+2023-03-25 14:45:20 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:45:20 New Score is updated...
+
+2023-03-25 14:45:20 {"home":"Marienlyst","away":"Holbæk","score":"0:4","gameTime":0}
+
+2023-03-25 14:45:20 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:45:20 New Score is updated...
+
+2023-03-25 14:45:20 {"home":"Marienlyst","away":"Holbæk","score":"0:4","gameTime":0}
+
+2023-03-25 14:45:20 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:45:20 New Score is updated...
+
+2023-03-25 14:45:20 {"home":"Marienlyst","away":"Holbæk","score":"0:4","gameTime":0}
+
+2023-03-25 14:47:17 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:47:17 New Score is updated...
+
+2023-03-25 14:47:17 {"home":"Viby","away":"FC Djursland","score":"2:1","gameTime":0}
+
+2023-03-25 14:47:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:47:18 New Score is updated...
+
+2023-03-25 14:47:18 {"home":"Viby","away":"FC Djursland","score":"2:1","gameTime":0}
+
+2023-03-25 14:47:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:47:19 New Score is updated...
+
+2023-03-25 14:47:19 {"home":"Viby","away":"FC Djursland","score":"2:1","gameTime":0}
+
+2023-03-25 14:49:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:49:18 New Score is updated...
+
+2023-03-25 14:49:18 {"home":"SalPa","away":"PK-35","score":"4:3","gameTime":2}
+
+2023-03-25 14:49:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:49:19 New Score is updated...
+
+2023-03-25 14:49:19 {"home":"SalPa","away":"PK-35","score":"4:3","gameTime":2}
+
+2023-03-25 14:49:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:49:19 New Score is updated...
+
+2023-03-25 14:49:19 {"home":"SalPa","away":"PK-35","score":"4:3","gameTime":2}
+
+2023-03-25 14:49:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:49:19 New Score is updated...
+
+2023-03-25 14:49:19 {"home":"SalPa","away":"PK-35","score":"4:3","gameTime":2}
+
+2023-03-25 14:49:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:49:19 New Score is updated...
+
+2023-03-25 14:49:19 {"home":"SalPa","away":"PK-35","score":"4:3","gameTime":2}
+
+2023-03-25 14:49:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:49:19 New Score is updated...
+
+2023-03-25 14:49:19 {"home":"SalPa","away":"PK-35","score":"4:3","gameTime":2}
+
+2023-03-25 14:52:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:52:18 New Score is updated...
+
+2023-03-25 14:52:18 {"home":"Viby","away":"FC Djursland","score":"2:2","gameTime":0}
+
+2023-03-25 14:52:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:52:18 New Score is updated...
+
+2023-03-25 14:52:18 {"home":"Viby","away":"FC Djursland","score":"2:2","gameTime":0}
+
+2023-03-25 14:52:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:52:19 New Score is updated...
+
+2023-03-25 14:52:19 {"home":"Viby","away":"FC Djursland","score":"2:2","gameTime":0}
+
+2023-03-25 14:52:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:52:19 New Score is updated...
+
+2023-03-25 14:52:19 {"home":"Viby","away":"FC Djursland","score":"2:2","gameTime":0}
+
+2023-03-25 14:54:18 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:54:18 New Score is updated...
+
+2023-03-25 14:54:18 {"home":"Sevilla U19","away":"CD Polillas Ceuta U19","score":"5:1","gameTime":2}
+
+2023-03-25 14:54:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:54:19 New Score is updated...
+
+2023-03-25 14:54:19 {"home":"Sevilla U19","away":"CD Polillas Ceuta U19","score":"5:1","gameTime":2}
+
+2023-03-25 14:54:19 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:54:19 New Score is updated...
+
+2023-03-25 14:54:19 {"home":"Sevilla U19","away":"CD Polillas Ceuta U19","score":"5:1","gameTime":2}
+
+2023-03-25 14:56:20 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:56:20 New Score is updated...
+
+2023-03-25 14:56:20 {"home":"Slough","away":"Ebbsfleet United","score":"0:1","gameTime":0}
+
+2023-03-25 14:56:20 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:56:20 New Score is updated...
+
+2023-03-25 14:56:20 {"home":"Slough","away":"Ebbsfleet United","score":"0:1","gameTime":0}
+
+2023-03-25 14:56:22 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:56:22 New Score is updated...
+
+2023-03-25 14:56:22 {"home":"Godoy Cruz U20","away":"Barracas Central U20","score":"4:1","gameTime":2}
+
+2023-03-25 14:56:24 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:56:24 New Score is updated...
+
+2023-03-25 14:56:24 {"home":"Godoy Cruz U20","away":"Barracas Central U20","score":"4:1","gameTime":2}
+
+2023-03-25 14:56:24 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:56:24 New Score is updated...
+
+2023-03-25 14:56:24 {"home":"Godoy Cruz U20","away":"Barracas Central U20","score":"4:1","gameTime":2}
+
+2023-03-25 14:56:25 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:56:25 New Score is updated...
+
+2023-03-25 14:56:25 {"home":"Godoy Cruz U20","away":"Barracas Central U20","score":"4:1","gameTime":2}
+
+2023-03-25 14:57:42 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 14:58:21 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:58:21 New Score is updated...
+
+2023-03-25 14:58:21 {"home":"FC Ilves","away":"TPS","score":"2:0","gameTime":0}
+
+2023-03-25 14:58:21 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:58:21 New Score is updated...
+
+2023-03-25 14:58:21 {"home":"Viby","away":"FC Djursland","score":"2:2","gameTime":2}
+
+2023-03-25 14:58:22 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:58:22 New Score is updated...
+
+2023-03-25 14:58:22 {"home":"Viby","away":"FC Djursland","score":"2:2","gameTime":2}
+
+2023-03-25 14:58:22 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:58:22 New Score is updated...
+
+2023-03-25 14:58:22 {"home":"FC Ilves","away":"TPS","score":"2:0","gameTime":0}
+
+2023-03-25 14:58:22 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:58:22 New Score is updated...
+
+2023-03-25 14:58:22 {"home":"FC Ilves","away":"TPS","score":"2:0","gameTime":0}
+
+2023-03-25 14:58:23 Recieve new Match Score From Copybet Server!
+
+2023-03-25 14:58:23 New Score is updated...
+
+2023-03-25 14:58:23 {"home":"Viby","away":"FC Djursland","score":"2:2","gameTime":2}
+
+2023-03-25 15:00:33 Recieve new Match Score From Copybet Server!
+
+2023-03-25 15:00:33 New Score is updated...
+
+2023-03-25 15:00:33 {"home":"AaB 2","away":"VRI","score":"2:2","gameTime":2}
+
+2023-03-25 15:00:45 Recieve new Match Score From Copybet Server!
+
+2023-03-25 15:00:45 New Score is updated...
+
+2023-03-25 15:00:45 {"home":"AaB 2","away":"VRI","score":"2:2","gameTime":2}
+
+2023-03-25 15:00:46 Recieve new Match Score From Copybet Server!
+
+2023-03-25 15:00:46 New Score is updated...
+
+2023-03-25 15:00:46 {"home":"AaB 2","away":"VRI","score":"2:2","gameTime":2}
+
+2023-03-25 15:05:24 Recieve new Match Score From Copybet Server!
+
+2023-03-25 15:05:24 New Score is updated...
+
+2023-03-25 15:05:24 {"home":"Znicz Pruszków","away":"Olimpia Elblag","score":"0:1","gameTime":2}
+
+2023-03-25 15:05:25 Recieve new Match Score From Copybet Server!
+
+2023-03-25 15:05:25 New Score is updated...
+
+2023-03-25 15:05:25 {"home":"Znicz Pruszków","away":"Olimpia Elblag","score":"0:1","gameTime":2}
+
+2023-03-25 15:09:22 Recieve new Match Score From Copybet Server!
+
+2023-03-25 15:09:22 New Score is updated...
+
+2023-03-25 15:09:22 {"home":"Roaring Leopard FC","away":"Singling Sporting Club","score":"1:1","gameTime":0}
+
+2023-03-25 15:09:23 Recieve new Match Score From Copybet Server!
+
+2023-03-25 15:09:23 New Score is updated...
+
+2023-03-25 15:09:23 {"home":"Marienlyst","away":"Holbæk","score":"0:5","gameTime":0}
+
+2023-03-25 15:09:23 Recieve new Match Score From Copybet Server!
+
+2023-03-25 15:09:23 New Score is updated...
+
+2023-03-25 15:09:23 {"home":"Roaring Leopard FC","away":"Singling Sporting Club","score":"1:1","gameTime":0}
+
+2023-03-25 15:09:24 Recieve new Match Score From Copybet Server!
+
+2023-03-25 15:09:24 New Score is updated...
+
+2023-03-25 15:09:24 {"home":"Marienlyst","away":"Holbæk","score":"0:5","gameTime":0}
+
+2023-03-25 15:09:24 Recieve new Match Score From Copybet Server!
+
+2023-03-25 15:09:24 New Score is updated...
+
+2023-03-25 15:09:24 {"home":"Marienlyst","away":"Holbæk","score":"0:5","gameTime":0}
+
+2023-03-25 15:09:50 Recieve 1 new bets From Copybet Server!
+
+2023-03-25 15:10:08 Disconnected Socket Server!!! || ping timeout
+
+2023-03-25 15:10:10 Connected Socket Server!!!
+
+2023-03-25 15:11:15 Disconnected Socket Server!!! || io client disconnect
+
+2023-03-25 15:11:15 The bot has been stopped!

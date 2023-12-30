@@ -1,0 +1,2168 @@
+﻿
+2023-03-20 00:02:19 Recieve 1 new bets From Copybet Server!
+
+2023-03-20 00:02:19 Pending bet is not finished.!
+
+2023-03-20 00:03:14 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:03:14 New Score is updated...
+
+2023-03-20 00:03:14 {"home":"Fortaleza","away":"Ferroviario","score":"4:0","gameTime":0}
+
+2023-03-20 00:03:14 New Score : Fortaleza vs Ferroviario  4:0
+
+2023-03-20 00:03:14 Pending tip Score : Retro vs Salgueiro 0:0
+
+2023-03-20 00:03:15 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:03:15 New Score is updated...
+
+2023-03-20 00:03:15 {"home":"Fortaleza","away":"Ferroviario","score":"4:0","gameTime":0}
+
+2023-03-20 00:03:15 New Score : Fortaleza vs Ferroviario  4:0
+
+2023-03-20 00:03:15 Pending tip Score : Retro vs Salgueiro 0:0
+
+2023-03-20 00:03:15 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:03:15 New Score is updated...
+
+2023-03-20 00:03:15 {"home":"Fortaleza","away":"Ferroviario","score":"4:0","gameTime":0}
+
+2023-03-20 00:03:15 New Score : Fortaleza vs Ferroviario  4:0
+
+2023-03-20 00:03:15 Pending tip Score : Retro vs Salgueiro 0:0
+
+2023-03-20 00:04:13 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:04:13 New Score is updated...
+
+2023-03-20 00:04:14 {"home":"Deportivo San Pedro","away":"Catarina FC","score":"0:0","gameTime":2}
+
+2023-03-20 00:04:14 New Score : Deportivo San Pedro vs Catarina FC  0:0
+
+2023-03-20 00:04:14 Pending tip Score : Retro vs Salgueiro 0:0
+
+2023-03-20 00:04:14 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:04:14 New Score is updated...
+
+2023-03-20 00:04:14 {"home":"Deportivo San Pedro","away":"Catarina FC","score":"0:0","gameTime":2}
+
+2023-03-20 00:04:14 New Score : Deportivo San Pedro vs Catarina FC  0:0
+
+2023-03-20 00:04:14 Pending tip Score : Retro vs Salgueiro 0:0
+
+2023-03-20 00:04:15 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:04:15 New Score is updated...
+
+2023-03-20 00:04:15 {"home":"Deportivo San Pedro","away":"Catarina FC","score":"0:0","gameTime":2}
+
+2023-03-20 00:04:15 New Score : Deportivo San Pedro vs Catarina FC  0:0
+
+2023-03-20 00:04:15 Pending tip Score : Retro vs Salgueiro 0:0
+
+2023-03-20 00:04:15 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:04:15 New Score is updated...
+
+2023-03-20 00:04:15 {"home":"Deportivo San Pedro","away":"Catarina FC","score":"0:0","gameTime":2}
+
+2023-03-20 00:04:15 New Score : Deportivo San Pedro vs Catarina FC  0:0
+
+2023-03-20 00:04:15 Pending tip Score : Retro vs Salgueiro 0:0
+
+2023-03-20 00:04:15 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:04:15 New Score is updated...
+
+2023-03-20 00:04:15 {"home":"Deportivo San Pedro","away":"Catarina FC","score":"0:0","gameTime":2}
+
+2023-03-20 00:04:15 New Score : Deportivo San Pedro vs Catarina FC  0:0
+
+2023-03-20 00:04:15 Pending tip Score : Retro vs Salgueiro 0:0
+
+2023-03-20 00:10:13 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:10:13 New Score is updated...
+
+2023-03-20 00:10:13 {"home":"Retro","away":"Salgueiro","score":"1:0","gameTime":2}
+
+2023-03-20 00:10:13 New Score : Retro vs Salgueiro  1:0
+
+2023-03-20 00:10:13 Pending tip Score : Retro vs Salgueiro 0:0
+
+2023-03-20 00:10:14 Pending Tip is lost now...
+
+2023-03-20 00:10:14 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:10:14 New Score is updated...
+
+2023-03-20 00:10:14 {"home":"Retro","away":"Salgueiro","score":"1:0","gameTime":2}
+
+2023-03-20 00:10:15 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:10:15 New Score is updated...
+
+2023-03-20 00:10:15 {"home":"Retro","away":"Salgueiro","score":"1:0","gameTime":2}
+
+2023-03-20 00:12:12 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:12:12 New Score is updated...
+
+2023-03-20 00:12:12 {"home":"Universidad de Chile","away":"Deportes Copiapo","score":"0:0","gameTime":2}
+
+2023-03-20 00:12:12 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:12:12 New Score is updated...
+
+2023-03-20 00:12:12 {"home":"Universidad de Chile","away":"Deportes Copiapo","score":"0:0","gameTime":2}
+
+2023-03-20 00:19:12 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:19:13 New Score is updated...
+
+2023-03-20 00:19:13 {"home":"San Martin de Mendoza","away":"Sportivo Atenas","score":"1:0","gameTime":2}
+
+2023-03-20 00:19:13 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:19:13 New Score is updated...
+
+2023-03-20 00:19:13 {"home":"San Martin de Mendoza","away":"Sportivo Atenas","score":"1:0","gameTime":2}
+
+2023-03-20 00:33:11 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:33:11 New Score is updated...
+
+2023-03-20 00:33:11 {"home":"Fortaleza","away":"Ferroviario","score":"4:0","gameTime":2}
+
+2023-03-20 00:33:12 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:33:12 New Score is updated...
+
+2023-03-20 00:33:12 {"home":"Fortaleza","away":"Ferroviario","score":"4:0","gameTime":2}
+
+2023-03-20 00:33:27 Recieve new Match Score From Copybet Server!
+
+2023-03-20 00:33:27 New Score is updated...
+
+2023-03-20 00:33:27 {"home":"Fortaleza","away":"Ferroviario","score":"4:0","gameTime":2}
+
+2023-03-20 01:23:15 Recieve 1 new bets From Copybet Server!
+
+2023-03-20 01:23:15  *** MakeBet *** 
+
+2023-03-20 01:23:15 {"dbId":"","sport":"","country":"","league":"Mexico Liga de Expansion","dateTime":"","match":"Club Celaya vs Alacranes de Durango","score":"0:1","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-20 01:23:15 338.28
+
+2023-03-20 01:23:15 Current balance : 338.2
+
+2023-03-20 01:23:15 Current Balance : 338.2
+
+2023-03-20 01:23:15 DoLoad365Page
+
+2023-03-20 01:23:15 365 page is loaded!
+
+2023-03-20 01:23:15 CheckIfLoggedIn
+
+2023-03-20 01:23:15 Logged In Already!
+
+2023-03-20 01:23:15 bet365.com
+
+2023-03-20 01:23:15 Wrong position detected!
+
+2023-03-20 01:23:24 Not Search Event
+
+2023-03-20 01:23:30 Club Celaya v Alacranes de Durango Dis :0.035126050420168
+
+2023-03-20 01:23:30 Alacranes de Durango v Pumas Tabasco Dis :0.271693121693122
+
+2023-03-20 01:23:36 Not Found Odds on Bet365..
+
+2023-03-20 01:23:39  *** MakeBet *** 
+
+2023-03-20 01:23:39 {"dbId":"","sport":"","country":"","league":"Mexico Liga de Expansion","dateTime":"","match":"Club Celaya vs Alacranes de Durango","score":"0:1","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-20 01:23:39 338.28
+
+2023-03-20 01:23:39 Current balance : 338.2
+
+2023-03-20 01:23:39 Current Balance : 338.2
+
+2023-03-20 01:23:39 DoLoad365Page
+
+2023-03-20 01:23:39 365 page is loaded!
+
+2023-03-20 01:23:39 CheckIfLoggedIn
+
+2023-03-20 01:23:39 Logged In Already!
+
+2023-03-20 01:23:39 bet365.com
+
+2023-03-20 01:23:49 Club Celaya v Alacranes de Durango Dis :0.035126050420168
+
+2023-03-20 01:23:50 Wrong position detected!
+
+2023-03-20 01:23:54 Stake : 15
+
+2023-03-20 01:23:54 Running AddbetScript...
+
+2023-03-20 01:23:54 scrollBetIntoView('319945698') => 1
+
+2023-03-20 01:23:56 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-20 01:23:58 {
+  "bg": "4ea5ef2c-8cb6-43a6-9f2f-896a16f3f7a7",
+  "sr": 0,
+  "mr": false,
+  "cc": "BBZo6r/6qa7OZO//RMduaHZT1+msjj5kzVlgmG8PKM0=",
+  "ir": true,
+  "vr": "814",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "1/2",
+      "fi": 134655756,
+      "fd": "Club Celaya v Alacranes de Durango",
+      "pt": [
+        {
+          "hd": "1.5",
+          "pi": 319945698,
+          "bd": "Più di",
+          "ha": "1.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "6417a79e-9D61F01A",
+      "tp": "BS134655756-319945698",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134083003,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-20 01:24:00 Fractional Odds : 1/2
+
+2023-03-20 01:24:00 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-03-20 01:24:00 Trying to place bet!
+
+2023-03-20 01:24:00 DoPlacebetUI
+
+2023-03-20 01:24:00 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-03-20 01:24:01 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-03-20 01:24:01 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-03-20 01:24:10 338.28
+
+2023-03-20 01:24:10 Current balance : 338.2
+
+2023-03-20 01:24:13 [concigrassi:Test123.] SUCCESS. Stake:15 Odds:1.5
+
+2023-03-20 01:24:13 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:15 Odds:1.5",
+  "stake": 15.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.5,
+  "tournament": "Mexico Liga de Expansion",
+  "eventName": "Club Celaya vs Alacranes de Durango",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "20/03/2023 01:24:10",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 323.2,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-20 01:24:21 Trying to register tip at Bigstake
+
+2023-03-20 01:24:36 Registered tip at Bigstake Successfully!
+
+2023-03-20 01:46:06 Recieve new Match Score From Copybet Server!
+
+2023-03-20 01:46:06 New Score is updated...
+
+2023-03-20 01:46:06 {"home":"Club Celaya","away":"Alacranes de Durango","score":"1:1","gameTime":0}
+
+2023-03-20 01:46:06 New Score : Club Celaya vs Alacranes de Durango  1:1
+
+2023-03-20 01:46:06 Pending tip Score : Club Celaya vs Alacranes de Durango 0:1
+
+2023-03-20 01:46:06 Pending Tip is winning now...
+
+2023-03-20 01:46:07 Recieve new Match Score From Copybet Server!
+
+2023-03-20 01:46:07 New Score is updated...
+
+2023-03-20 01:46:07 {"home":"Club Celaya","away":"Alacranes de Durango","score":"1:1","gameTime":0}
+
+2023-03-20 01:46:07 Recieve new Match Score From Copybet Server!
+
+2023-03-20 01:46:07 New Score is updated...
+
+2023-03-20 01:46:07 {"home":"Club Celaya","away":"Alacranes de Durango","score":"1:1","gameTime":0}
+
+2023-03-20 01:46:07 Recieve new Match Score From Copybet Server!
+
+2023-03-20 01:46:07 New Score is updated...
+
+2023-03-20 01:46:07 {"home":"Club Celaya","away":"Alacranes de Durango","score":"1:1","gameTime":0}
+
+2023-03-20 01:46:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 01:46:08 New Score is updated...
+
+2023-03-20 01:46:08 {"home":"Club Celaya","away":"Alacranes de Durango","score":"1:1","gameTime":0}
+
+2023-03-20 01:58:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 01:58:08 New Score is updated...
+
+2023-03-20 01:58:08 {"home":"Club Celaya","away":"Alacranes de Durango","score":"2:1","gameTime":0}
+
+2023-03-20 01:58:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 01:58:09 New Score is updated...
+
+2023-03-20 01:58:09 {"home":"Club Celaya","away":"Alacranes de Durango","score":"2:1","gameTime":0}
+
+2023-03-20 01:58:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 01:58:09 New Score is updated...
+
+2023-03-20 01:58:09 {"home":"Club Celaya","away":"Alacranes de Durango","score":"2:1","gameTime":0}
+
+2023-03-20 01:58:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 01:58:09 New Score is updated...
+
+2023-03-20 01:58:09 {"home":"Club Celaya","away":"Alacranes de Durango","score":"2:1","gameTime":0}
+
+2023-03-20 01:58:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 01:58:09 New Score is updated...
+
+2023-03-20 01:58:09 {"home":"Club Celaya","away":"Alacranes de Durango","score":"2:1","gameTime":0}
+
+2023-03-20 01:58:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 01:58:09 New Score is updated...
+
+2023-03-20 01:58:09 {"home":"Club Celaya","away":"Alacranes de Durango","score":"2:1","gameTime":0}
+
+2023-03-20 01:58:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 01:58:10 New Score is updated...
+
+2023-03-20 01:58:10 {"home":"Club Celaya","away":"Alacranes de Durango","score":"2:1","gameTime":0}
+
+2023-03-20 01:58:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 01:58:10 New Score is updated...
+
+2023-03-20 01:58:10 {"home":"Club Celaya","away":"Alacranes de Durango","score":"2:1","gameTime":0}
+
+2023-03-20 01:58:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 01:58:10 New Score is updated...
+
+2023-03-20 01:58:10 {"home":"Club Celaya","away":"Alacranes de Durango","score":"2:1","gameTime":0}
+
+2023-03-20 02:03:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 02:03:08 New Score is updated...
+
+2023-03-20 02:03:08 {"home":"Club Celaya","away":"Alacranes de Durango","score":"2:1","gameTime":2}
+
+2023-03-20 02:03:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 02:03:09 New Score is updated...
+
+2023-03-20 02:03:09 {"home":"Club Celaya","away":"Alacranes de Durango","score":"2:1","gameTime":2}
+
+2023-03-20 02:03:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 02:03:09 New Score is updated...
+
+2023-03-20 02:03:09 {"home":"Club Celaya","away":"Alacranes de Durango","score":"2:1","gameTime":2}
+
+2023-03-20 02:03:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 02:03:10 New Score is updated...
+
+2023-03-20 02:03:10 {"home":"Club Celaya","away":"Alacranes de Durango","score":"2:1","gameTime":2}
+
+2023-03-20 02:03:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 02:03:10 New Score is updated...
+
+2023-03-20 02:03:10 {"home":"Club Celaya","away":"Alacranes de Durango","score":"2:1","gameTime":2}
+
+2023-03-20 02:03:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 02:03:10 New Score is updated...
+
+2023-03-20 02:03:10 {"home":"Club Celaya","away":"Alacranes de Durango","score":"2:1","gameTime":2}
+
+2023-03-20 02:03:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 02:03:10 New Score is updated...
+
+2023-03-20 02:03:10 {"home":"Club Celaya","away":"Alacranes de Durango","score":"2:1","gameTime":2}
+
+2023-03-20 02:55:15 Recieve 1 new bets From Copybet Server!
+
+2023-03-20 02:55:15  *** MakeBet *** 
+
+2023-03-20 02:55:16 {"dbId":"","sport":"","country":"","league":"Argentina Liga Profesional","dateTime":"","match":"CA Talleres de Córdoba vs Banfield","score":"0:1","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-20 02:55:16 345.78
+
+2023-03-20 02:55:16 Current balance : 345.7
+
+2023-03-20 02:55:16 Current Balance : 345.7
+
+2023-03-20 02:55:16 DoLoad365Page
+
+2023-03-20 02:55:16 365 page is loaded!
+
+2023-03-20 02:55:16 CheckIfLoggedIn
+
+2023-03-20 02:55:16 Logged In Already!
+
+2023-03-20 02:55:16 bet365.com
+
+2023-03-20 02:55:16 Wrong position detected!
+
+2023-03-20 02:55:26 Not Search Event
+
+2023-03-20 02:55:31 CA Talleres de Córdoba v Banfield Dis :0.00588235294117645
+
+2023-03-20 02:55:32 Wrong position detected!
+
+2023-03-20 02:55:36 Stake : 16
+
+2023-03-20 02:55:36 Running AddbetScript...
+
+2023-03-20 02:55:36 scrollBetIntoView('312775756') => 1
+
+2023-03-20 02:55:38 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-20 02:55:40 {
+  "bg": "9c99e2d4-e53a-42ee-a8b7-3edd200cbb3f",
+  "sr": 0,
+  "mr": false,
+  "cc": "gNNyD65xXddtEu3eX6t/xcD/Vgw+BkSOsWVyfBIhlRI=",
+  "ir": true,
+  "vr": "814",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/15",
+      "fi": 134594800,
+      "fd": "CA Talleres de Córdoba v Banfield",
+      "pt": [
+        {
+          "hd": "1.5",
+          "pi": 312775756,
+          "bd": "Più di",
+          "ha": "1.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "6417bd1d-55935FBF",
+      "tp": "BS134594800-312775756",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 133696480,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-20 02:55:42 Fractional Odds : 8/15
+
+2023-03-20 02:55:42 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-03-20 02:55:42 Trying to place bet!
+
+2023-03-20 02:55:42 DoPlacebetUI
+
+2023-03-20 02:55:42 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-03-20 02:55:44 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-03-20 02:55:44 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-03-20 02:55:53 345.78
+
+2023-03-20 02:55:53 Current balance : 345.7
+
+2023-03-20 02:55:56 [concigrassi:Test123.] SUCCESS. Stake:16 Odds:1.533125
+
+2023-03-20 02:55:56 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:16 Odds:1.533125",
+  "stake": 16.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.533125,
+  "tournament": "Argentina Liga Profesional",
+  "eventName": "CA Talleres de Córdoba vs Banfield",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "20/03/2023 02:55:53",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 329.7,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-20 02:56:04 Trying to register tip at Bigstake
+
+2023-03-20 02:56:19 Registered tip at Bigstake Successfully!
+
+2023-03-20 02:56:22 This Line is already existed on Settled bets!
+
+2023-03-20 03:39:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 03:39:08 New Score is updated...
+
+2023-03-20 03:39:08 {"home":"CA Talleres de Córdoba","away":"Banfield","score":"0:1","gameTime":2}
+
+2023-03-20 03:39:08 New Score : CA Talleres de Córdoba vs Banfield  0:1
+
+2023-03-20 03:39:08 Pending tip Score : CA Talleres de Córdoba vs Banfield 0:1
+
+2023-03-20 03:39:08 Pending Tip is lost now...
+
+2023-03-20 03:39:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 03:39:09 New Score is updated...
+
+2023-03-20 03:39:09 {"home":"CA Talleres de Córdoba","away":"Banfield","score":"0:1","gameTime":2}
+
+2023-03-20 03:39:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 03:39:09 New Score is updated...
+
+2023-03-20 03:39:09 {"home":"CA Talleres de Córdoba","away":"Banfield","score":"0:1","gameTime":2}
+
+2023-03-20 03:39:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 03:39:10 New Score is updated...
+
+2023-03-20 03:39:10 {"home":"CA Talleres de Córdoba","away":"Banfield","score":"0:1","gameTime":2}
+
+2023-03-20 03:39:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 03:39:10 New Score is updated...
+
+2023-03-20 03:39:10 {"home":"CA Talleres de Córdoba","away":"Banfield","score":"0:1","gameTime":2}
+
+2023-03-20 04:58:40 LastLoginModule_Button Clicked
+
+2023-03-20 05:57:50 LastLoginModule_Button Clicked
+
+2023-03-20 06:49:00 Recieve new Match Score From Copybet Server!
+
+2023-03-20 06:49:00 New Score is updated...
+
+2023-03-20 06:49:00 {"home":"Magallanes","away":"Universidad Catolica","score":"1:1","gameTime":0}
+
+2023-03-20 06:49:01 Recieve new Match Score From Copybet Server!
+
+2023-03-20 06:49:01 New Score is updated...
+
+2023-03-20 06:49:01 {"home":"Magallanes","away":"Universidad Catolica","score":"1:1","gameTime":2}
+
+2023-03-20 06:49:01 Recieve new Match Score From Copybet Server!
+
+2023-03-20 06:49:01 New Score is updated...
+
+2023-03-20 06:49:01 {"home":"Magallanes","away":"Universidad Catolica","score":"1:1","gameTime":2}
+
+2023-03-20 06:59:00 LastLoginModule_Button Clicked
+
+2023-03-20 08:45:10 LastLoginModule_Button Clicked
+
+2023-03-20 09:07:40 Recieve new Match Score From Copybet Server!
+
+2023-03-20 09:07:40 New Score is updated...
+
+2023-03-20 09:07:40 {"home":"CA Talleres de Córdoba","away":"Banfield","score":"0:1","gameTime":2}
+
+2023-03-20 09:31:15 Recieve 1 new bets From Copybet Server!
+
+2023-03-20 09:31:15  *** MakeBet *** 
+
+2023-03-20 09:31:15 {"dbId":"","sport":"","country":"","league":"Australia Victoria NPL2 U21 League","dateTime":"","match":"Kingston City U21 vs Bulleen Lions U21","score":"3:2","EW":"0","marketName":"OVER 5.5","selection":"OVER","odds":0.0,"handicap":5.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-20 09:31:15 329.78
+
+2023-03-20 09:31:15 Current balance : 329.7
+
+2023-03-20 09:31:15 Current Balance : 329.7
+
+2023-03-20 09:31:15 DoLoad365Page
+
+2023-03-20 09:31:15 365 page is loaded!
+
+2023-03-20 09:31:15 CheckIfLoggedIn
+
+2023-03-20 09:31:16 Logged In Already!
+
+2023-03-20 09:31:16 bet365.com
+
+2023-03-20 09:31:16 Wrong position detected!
+
+2023-03-20 09:31:25 Not Search Event
+
+2023-03-20 09:31:31 Kingston City U21 v Bulleen Lions U21 Dis :0.0376955903271693
+
+2023-03-20 09:31:31 Wrong position detected!
+
+2023-03-20 09:35:15 Not Found Odds on Bet365..
+
+2023-03-20 09:35:18  *** MakeBet *** 
+
+2023-03-20 09:35:18 {"dbId":"","sport":"","country":"","league":"Australia Victoria NPL2 U21 League","dateTime":"","match":"Kingston City U21 vs Bulleen Lions U21","score":"3:2","EW":"0","marketName":"OVER 5.5","selection":"OVER","odds":0.0,"handicap":5.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-20 09:35:18 329.78
+
+2023-03-20 09:35:18 Current balance : 329.7
+
+2023-03-20 09:35:18 Current Balance : 329.7
+
+2023-03-20 09:35:18 DoLoad365Page
+
+2023-03-20 09:35:19 365 page is loaded!
+
+2023-03-20 09:35:19 CheckIfLoggedIn
+
+2023-03-20 09:35:19 Logged In Already!
+
+2023-03-20 09:35:19 bet365.com
+
+2023-03-20 09:35:31 Kingston City U21 v Bulleen Lions U21 Dis :0.0376955903271693
+
+2023-03-20 09:35:32 Wrong position detected!
+
+2023-03-20 09:36:25 Not Found Odds on Bet365..
+
+2023-03-20 10:04:07 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:04:07 New Score is updated...
+
+2023-03-20 10:04:07 {"home":"Kingston City U21","away":"Bulleen Lions U21","score":"3:2","gameTime":2}
+
+2023-03-20 10:04:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:04:08 New Score is updated...
+
+2023-03-20 10:04:08 {"home":"Kingston City U21","away":"Bulleen Lions U21","score":"3:2","gameTime":2}
+
+2023-03-20 10:04:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:04:08 New Score is updated...
+
+2023-03-20 10:04:08 {"home":"Kingston City U21","away":"Bulleen Lions U21","score":"3:2","gameTime":2}
+
+2023-03-20 10:04:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:04:08 New Score is updated...
+
+2023-03-20 10:04:08 {"home":"Kingston City U21","away":"Bulleen Lions U21","score":"3:2","gameTime":2}
+
+2023-03-20 10:04:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:04:09 New Score is updated...
+
+2023-03-20 10:04:09 {"home":"Kingston City U21","away":"Bulleen Lions U21","score":"3:2","gameTime":2}
+
+2023-03-20 10:18:17 Recieve 1 new bets From Copybet Server!
+
+2023-03-20 10:18:17  *** MakeBet *** 
+
+2023-03-20 10:18:17 {"dbId":"","sport":"","country":"","league":"Indonesia Liga 1","dateTime":"","match":"Persib Bandung vs Dewa United FC","score":"1:1","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-20 10:18:17 329.78
+
+2023-03-20 10:18:17 Recieve 1 new bets From Copybet Server!
+
+2023-03-20 10:18:17 Current balance : 329.7
+
+2023-03-20 10:18:17 Current Balance : 329.7
+
+2023-03-20 10:18:17 DoLoad365Page
+
+2023-03-20 10:18:17 365 page is loaded!
+
+2023-03-20 10:18:18 CheckIfLoggedIn
+
+2023-03-20 10:18:18 Logged In Already!
+
+2023-03-20 10:18:18 bet365.com
+
+2023-03-20 10:18:18 Wrong position detected!
+
+2023-03-20 10:18:27 Not Search Event
+
+2023-03-20 10:18:32 Persib Bandung v Dewa United FC Dis :0.00624999999999998
+
+2023-03-20 10:18:33 Wrong position detected!
+
+2023-03-20 10:18:38 Stake : 13
+
+2023-03-20 10:18:38 Running AddbetScript...
+
+2023-03-20 10:18:38 scrollBetIntoView('319971425') => 1
+
+2023-03-20 10:18:40 Odds Pos : X : 414.453125 , Y: 318
+
+2023-03-20 10:18:41 {
+  "bg": "b12db420-7ee9-444b-bcfa-13eaf38ab494",
+  "sr": 0,
+  "mr": false,
+  "cc": "AnnwgPAtmtTLXhJ0eOEMwhTXiqWDww30ScgMO8Xzfi4=",
+  "ir": true,
+  "vr": "814",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "2/7",
+      "fi": 134655910,
+      "fd": "Persib Bandung v Dewa United FC",
+      "pt": [
+        {
+          "pi": 319971425,
+          "bd": "Più di 2.5",
+          "ha": "2.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "641824f1-CE2E30B4",
+      "tp": "BS134655910-319971425",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134125472,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-20 10:18:43 Fractional Odds : 2/7
+
+2023-03-20 10:18:43 Trademate Odds : 0 , Bet365 Odds : 1.28
+
+2023-03-20 10:18:43 Trying to place bet!
+
+2023-03-20 10:18:43 DoPlacebetUI
+
+2023-03-20 10:18:44 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-03-20 10:18:46 Trademate Odds : 0 , Bet365 Odds : 1.28
+
+2023-03-20 10:18:46 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-03-20 10:18:47 Disconnected Socket Server!!! || ping timeout
+
+2023-03-20 10:18:49 Connected Socket Server!!!
+
+2023-03-20 10:18:55 329.78
+
+2023-03-20 10:18:55 Current balance : 329.7
+
+2023-03-20 10:18:58 [concigrassi:Test123.] SUCCESS. Stake:13 Odds:1.28538461538462
+
+2023-03-20 10:18:58 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:13 Odds:1.28538461538462",
+  "stake": 13.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.2853846153846154,
+  "tournament": "Indonesia Liga 1",
+  "eventName": "Persib Bandung vs Dewa United FC",
+  "probability": "OVER",
+  "market": "OVER 2.5",
+  "placedAt": "20/03/2023 10:18:55",
+  "selection": "OVER",
+  "handicap": 2.5,
+  "balance": 316.7,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-20 10:19:06 Trying to register tip at Bigstake
+
+2023-03-20 10:19:21 Registered tip at Bigstake Successfully!
+
+2023-03-20 10:19:24 This Line is already existed on Settled bets!
+
+2023-03-20 10:19:24 This Line is already existed on Settled bets!
+
+2023-03-20 10:19:24 This Line is already existed on Settled bets!
+
+2023-03-20 10:31:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:31:09 New Score is updated...
+
+2023-03-20 10:31:09 {"home":"Persib Bandung","away":"Dewa United FC","score":"2:1","gameTime":0}
+
+2023-03-20 10:31:09 New Score : Persib Bandung vs Dewa United FC  2:1
+
+2023-03-20 10:31:09 Pending tip Score : Persib Bandung vs Dewa United FC 1:1
+
+2023-03-20 10:31:09 Pending Tip is winning now...
+
+2023-03-20 10:31:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:31:10 New Score is updated...
+
+2023-03-20 10:31:10 {"home":"Persib Bandung","away":"Dewa United FC","score":"2:1","gameTime":0}
+
+2023-03-20 10:31:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:31:10 New Score is updated...
+
+2023-03-20 10:31:10 {"home":"Persib Bandung","away":"Dewa United FC","score":"2:1","gameTime":0}
+
+2023-03-20 10:31:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:31:10 New Score is updated...
+
+2023-03-20 10:31:10 {"home":"Persib Bandung","away":"Dewa United FC","score":"2:1","gameTime":0}
+
+2023-03-20 10:31:13 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:31:13 New Score is updated...
+
+2023-03-20 10:31:13 {"home":"Persib Bandung","away":"Dewa United FC","score":"2:1","gameTime":0}
+
+2023-03-20 10:32:01 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:32:01 New Score is updated...
+
+2023-03-20 10:32:01 {"home":"Persib Bandung","away":"Dewa United FC","score":"2:1","gameTime":0}
+
+2023-03-20 10:55:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:55:09 New Score is updated...
+
+2023-03-20 10:55:09 {"home":"Persib Bandung","away":"Dewa United FC","score":"2:1","gameTime":2}
+
+2023-03-20 10:55:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:55:09 New Score is updated...
+
+2023-03-20 10:55:09 {"home":"Persib Bandung","away":"Dewa United FC","score":"2:1","gameTime":2}
+
+2023-03-20 10:55:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:55:09 New Score is updated...
+
+2023-03-20 10:55:09 {"home":"Persib Bandung","away":"Dewa United FC","score":"2:1","gameTime":2}
+
+2023-03-20 10:55:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:55:10 New Score is updated...
+
+2023-03-20 10:55:10 {"home":"Persib Bandung","away":"Dewa United FC","score":"2:1","gameTime":2}
+
+2023-03-20 10:55:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:55:10 New Score is updated...
+
+2023-03-20 10:55:10 {"home":"Persib Bandung","away":"Dewa United FC","score":"2:1","gameTime":2}
+
+2023-03-20 10:55:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:55:10 New Score is updated...
+
+2023-03-20 10:55:10 {"home":"Persib Bandung","away":"Dewa United FC","score":"2:1","gameTime":2}
+
+2023-03-20 10:55:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 10:55:10 New Score is updated...
+
+2023-03-20 10:55:10 {"home":"Persib Bandung","away":"Dewa United FC","score":"2:1","gameTime":2}
+
+2023-03-20 11:47:13 Recieve new Match Score From Copybet Server!
+
+2023-03-20 11:47:13 New Score is updated...
+
+2023-03-20 11:47:13 {"home":"Kingston City","away":"Bulleen Lions","score":"1:1","gameTime":0}
+
+2023-03-20 11:47:14 Recieve new Match Score From Copybet Server!
+
+2023-03-20 11:47:14 New Score is updated...
+
+2023-03-20 11:47:15 {"home":"Kingston City","away":"Bulleen Lions","score":"1:1","gameTime":0}
+
+2023-03-20 11:50:40 LastLoginModule_Button Clicked
+
+2023-03-20 12:06:22 Recieve new Match Score From Copybet Server!
+
+2023-03-20 12:06:22 New Score is updated...
+
+2023-03-20 12:06:22 {"home":"Kingston City","away":"Bulleen Lions","score":"2:1","gameTime":0}
+
+2023-03-20 12:06:23 Recieve new Match Score From Copybet Server!
+
+2023-03-20 12:06:23 New Score is updated...
+
+2023-03-20 12:06:23 {"home":"Kingston City","away":"Bulleen Lions","score":"2:1","gameTime":0}
+
+2023-03-20 12:15:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 12:15:09 New Score is updated...
+
+2023-03-20 12:15:09 {"home":"Kingston City","away":"Bulleen Lions","score":"2:1","gameTime":2}
+
+2023-03-20 12:15:13 Recieve new Match Score From Copybet Server!
+
+2023-03-20 12:15:13 New Score is updated...
+
+2023-03-20 12:15:13 {"home":"Kingston City","away":"Bulleen Lions","score":"2:1","gameTime":2}
+
+2023-03-20 13:11:00 LastLoginModule_Button Clicked
+
+2023-03-20 13:55:07 Recieve new Match Score From Copybet Server!
+
+2023-03-20 13:55:07 New Score is updated...
+
+2023-03-20 13:55:07 {"home":"Gusii FC","away":"MCF FC","score":"0:1","gameTime":0}
+
+2023-03-20 13:55:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 13:55:08 New Score is updated...
+
+2023-03-20 13:55:08 {"home":"Gusii FC","away":"MCF FC","score":"0:1","gameTime":0}
+
+2023-03-20 14:00:24 Recieve new Match Score From Copybet Server!
+
+2023-03-20 14:00:24 New Score is updated...
+
+2023-03-20 14:00:24 {"home":"Al-Nabek","away":"Al Kesswh","score":"1:0","gameTime":0}
+
+2023-03-20 14:00:24 Recieve new Match Score From Copybet Server!
+
+2023-03-20 14:00:24 New Score is updated...
+
+2023-03-20 14:00:24 {"home":"Al-Nabek","away":"Al Kesswh","score":"1:0","gameTime":0}
+
+2023-03-20 14:10:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 14:10:09 New Score is updated...
+
+2023-03-20 14:10:09 {"home":"Gusii FC","away":"MCF FC","score":"0:1","gameTime":2}
+
+2023-03-20 14:10:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 14:10:10 New Score is updated...
+
+2023-03-20 14:10:10 {"home":"Gusii FC","away":"MCF FC","score":"0:1","gameTime":2}
+
+2023-03-20 14:17:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 14:17:08 New Score is updated...
+
+2023-03-20 14:17:08 {"home":"FK Sarajevo","away":"NK Posusje","score":"1:0","gameTime":0}
+
+2023-03-20 14:17:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 14:17:09 New Score is updated...
+
+2023-03-20 14:17:09 {"home":"FK Sarajevo","away":"NK Posusje","score":"1:0","gameTime":0}
+
+2023-03-20 14:22:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 14:22:10 New Score is updated...
+
+2023-03-20 14:22:10 {"home":"FK Sarajevo","away":"NK Posusje","score":"2:0","gameTime":0}
+
+2023-03-20 14:22:11 Recieve new Match Score From Copybet Server!
+
+2023-03-20 14:22:11 New Score is updated...
+
+2023-03-20 14:22:11 {"home":"FK Sarajevo","away":"NK Posusje","score":"2:0","gameTime":0}
+
+2023-03-20 14:22:11 Recieve new Match Score From Copybet Server!
+
+2023-03-20 14:22:11 New Score is updated...
+
+2023-03-20 14:22:11 {"home":"FK Sarajevo","away":"NK Posusje","score":"2:0","gameTime":0}
+
+2023-03-20 14:22:11 Recieve new Match Score From Copybet Server!
+
+2023-03-20 14:22:11 New Score is updated...
+
+2023-03-20 14:22:11 {"home":"FK Sarajevo","away":"NK Posusje","score":"2:0","gameTime":0}
+
+2023-03-20 14:25:00 Recieve new Match Score From Copybet Server!
+
+2023-03-20 14:25:00 New Score is updated...
+
+2023-03-20 14:25:00 {"home":"Al-Nabek","away":"Al Kesswh","score":"1:0","gameTime":2}
+
+2023-03-20 14:39:14 Recieve new Match Score From Copybet Server!
+
+2023-03-20 14:39:14 New Score is updated...
+
+2023-03-20 14:39:14 {"home":"FK Sarajevo","away":"NK Posusje","score":"3:0","gameTime":0}
+
+2023-03-20 14:39:15 Recieve new Match Score From Copybet Server!
+
+2023-03-20 14:39:15 New Score is updated...
+
+2023-03-20 14:39:15 {"home":"FK Sarajevo","away":"NK Posusje","score":"3:0","gameTime":0}
+
+2023-03-20 14:47:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 14:47:09 New Score is updated...
+
+2023-03-20 14:47:09 {"home":"FK Sarajevo","away":"NK Posusje","score":"3:1","gameTime":0}
+
+2023-03-20 14:47:11 Recieve new Match Score From Copybet Server!
+
+2023-03-20 14:47:11 New Score is updated...
+
+2023-03-20 14:47:11 {"home":"FK Sarajevo","away":"NK Posusje","score":"3:1","gameTime":0}
+
+2023-03-20 14:56:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 14:56:09 New Score is updated...
+
+2023-03-20 14:56:09 {"home":"FK Sarajevo","away":"NK Posusje","score":"3:1","gameTime":2}
+
+2023-03-20 14:56:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 14:56:10 New Score is updated...
+
+2023-03-20 14:56:10 {"home":"FK Sarajevo","away":"NK Posusje","score":"3:1","gameTime":2}
+
+2023-03-20 15:22:16 Recieve 1 new bets From Copybet Server!
+
+2023-03-20 15:22:16  *** MakeBet *** 
+
+2023-03-20 15:22:16 {"dbId":"","sport":"","country":"","league":"Denmark Future Cup","dateTime":"","match":"AC Horsens Reserves vs Lyngby Reserves","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-20 15:22:16 333.48
+
+2023-03-20 15:22:16 Recieve 1 new bets From Copybet Server!
+
+2023-03-20 15:22:16 Current balance : 333.4
+
+2023-03-20 15:22:16 Current Balance : 333.4
+
+2023-03-20 15:22:16 DoLoad365Page
+
+2023-03-20 15:22:16 365 page is loaded!
+
+2023-03-20 15:22:17 CheckIfLoggedIn
+
+2023-03-20 15:22:17 Logged In Already!
+
+2023-03-20 15:22:17 bet365.com
+
+2023-03-20 15:22:17 Wrong position detected!
+
+2023-03-20 15:22:23 Disconnected Socket Server!!! || ping timeout
+
+2023-03-20 15:22:24 Connected Socket Server!!!
+
+2023-03-20 15:22:26 Not Search Event
+
+2023-03-20 15:22:31 Not Search Event
+
+2023-03-20 15:22:33 Wrong position detected!
+
+2023-03-20 15:22:40 Not Search Event
+
+2023-03-20 15:22:40 Wrong position detected!
+
+2023-03-20 15:22:45 Not Search Event
+
+2023-03-20 15:22:46 Wrong position detected!
+
+2023-03-20 15:22:53 Not Search Event
+
+2023-03-20 15:22:53 Wrong position detected!
+
+2023-03-20 15:22:56 Not Search Event
+
+2023-03-20 15:22:58 Not Found Event on Bet365...
+
+2023-03-20 15:23:01  *** MakeBet *** 
+
+2023-03-20 15:23:01 {"dbId":"","sport":"","country":"","league":"Denmark Future Cup","dateTime":"","match":"AC Horsens Reserves vs Lyngby Reserves","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-20 15:23:01 333.48
+
+2023-03-20 15:23:01 Current balance : 333.4
+
+2023-03-20 15:23:02 Current Balance : 333.4
+
+2023-03-20 15:23:02 DoLoad365Page
+
+2023-03-20 15:23:02 365 page is loaded!
+
+2023-03-20 15:23:02 CheckIfLoggedIn
+
+2023-03-20 15:23:02 Logged In Already!
+
+2023-03-20 15:23:02 bet365.com
+
+2023-03-20 15:23:13 Not Search Event
+
+2023-03-20 15:23:13 Wrong position detected!
+
+2023-03-20 15:23:17 Not Search Event
+
+2023-03-20 15:23:19 Wrong position detected!
+
+2023-03-20 15:23:24 Not Search Event
+
+2023-03-20 15:23:24 Wrong position detected!
+
+2023-03-20 15:23:28 Not Search Event
+
+2023-03-20 15:23:30 Wrong position detected!
+
+2023-03-20 15:23:36 Not Search Event
+
+2023-03-20 15:23:36 Wrong position detected!
+
+2023-03-20 15:23:40 Not Search Event
+
+2023-03-20 15:23:42 Not Found Event on Bet365...
+
+2023-03-20 15:23:45  *** MakeBet *** 
+
+2023-03-20 15:23:45 {"dbId":"","sport":"","country":"","league":"Denmark Future Cup","dateTime":"","match":"AC Horsens Reserves vs Lyngby Reserves","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-20 15:23:45 333.48
+
+2023-03-20 15:23:45 LastLoginModule_Button Clicked
+
+2023-03-20 15:23:45 LastLoginModule_Button Clicked
+
+2023-03-20 15:23:45 LastLoginModule_Button Clicked
+
+2023-03-20 15:23:45 LastLoginModule_Button Clicked
+
+2023-03-20 15:23:45 Current balance : 333.4
+
+2023-03-20 15:23:45 Current Balance : 333.4
+
+2023-03-20 15:23:45 DoLoad365Page
+
+2023-03-20 15:23:45 365 page is loaded!
+
+2023-03-20 15:23:45 CheckIfLoggedIn
+
+2023-03-20 15:23:45 Logged In Already!
+
+2023-03-20 15:23:45 bet365.com
+
+2023-03-20 15:23:45 Wrong position detected!
+
+2023-03-20 15:23:58 Not Search Event
+
+2023-03-20 15:24:08 Not Found Odds on Bet365..
+
+2023-03-20 15:24:11  *** MakeBet *** 
+
+2023-03-20 15:24:11 {"dbId":"","sport":"","country":"","league":"Denmark Future Cup","dateTime":"","match":"AC Horsens Reserves vs Lyngby Reserves","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-20 15:24:11 333.48
+
+2023-03-20 15:24:11 Current balance : 333.4
+
+2023-03-20 15:24:11 Current Balance : 333.4
+
+2023-03-20 15:24:11 DoLoad365Page
+
+2023-03-20 15:24:11 365 page is loaded!
+
+2023-03-20 15:24:11 CheckIfLoggedIn
+
+2023-03-20 15:24:12 Logged In Already!
+
+2023-03-20 15:24:12 bet365.com
+
+2023-03-20 15:24:12 Wrong position detected!
+
+2023-03-20 15:24:24 Not Search Event
+
+2023-03-20 15:24:30 Not Search Event
+
+2023-03-20 15:24:32 Wrong position detected!
+
+2023-03-20 15:24:38 Not Search Event
+
+2023-03-20 15:24:38 Wrong position detected!
+
+2023-03-20 15:24:42 Not Search Event
+
+2023-03-20 15:24:44 Wrong position detected!
+
+2023-03-20 15:24:50 Not Search Event
+
+2023-03-20 15:24:50 Wrong position detected!
+
+2023-03-20 15:24:54 Not Search Event
+
+2023-03-20 15:24:56 Not Found Event on Bet365...
+
+2023-03-20 15:27:16 Recieve 1 new bets From Copybet Server!
+
+2023-03-20 15:27:16  *** MakeBet *** 
+
+2023-03-20 15:27:16 {"dbId":"","sport":"","country":"","league":"Egypt Division 2","dateTime":"","match":"Misr Lel Makasa vs Fayoum FC","score":"0:1","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-20 15:27:16 333.48
+
+2023-03-20 15:27:16 Current balance : 333.4
+
+2023-03-20 15:27:16 Current Balance : 333.4
+
+2023-03-20 15:27:16 DoLoad365Page
+
+2023-03-20 15:27:16 365 page is loaded!
+
+2023-03-20 15:27:17 CheckIfLoggedIn
+
+2023-03-20 15:27:17 Logged In Already!
+
+2023-03-20 15:27:17 bet365.com
+
+2023-03-20 15:27:27 Misr Lel Makasa v Fayoum FC Dis :0.00714285714285712
+
+2023-03-20 15:27:28 Wrong position detected!
+
+2023-03-20 15:27:33 Stake : 14
+
+2023-03-20 15:27:33 Running AddbetScript...
+
+2023-03-20 15:27:33 scrollBetIntoView('329452353') => 1
+
+2023-03-20 15:27:35 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-20 15:27:36 {
+  "bg": "6e8667d1-e5bb-4b73-91f8-d9889696f459",
+  "sr": 0,
+  "mr": false,
+  "cc": "Nw+Im1A9wtTm6gLIVQaVVl3mInLtkDqLQyA9UiD5zGs=",
+  "ir": true,
+  "vr": "814",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "1/2",
+      "fi": 134745193,
+      "fd": "Misr Lel Makasa v Fayoum FC",
+      "pt": [
+        {
+          "hd": "1.5",
+          "pi": 329452353,
+          "bd": "Più di",
+          "ha": "1.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64186d58-7689D7D3",
+      "tp": "BS134745193-329452353",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134648160,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-20 15:27:38 Fractional Odds : 1/2
+
+2023-03-20 15:27:38 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-03-20 15:27:38 Trying to place bet!
+
+2023-03-20 15:27:39 DoPlacebetUI
+
+2023-03-20 15:27:39 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-03-20 15:27:41 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-03-20 15:27:41 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-03-20 15:27:49 333.48
+
+2023-03-20 15:27:49 Current balance : 333.4
+
+2023-03-20 15:27:52 [concigrassi:Test123.] SUCCESS. Stake:14 Odds:1.5
+
+2023-03-20 15:27:52 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:14 Odds:1.5",
+  "stake": 14.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.5,
+  "tournament": "Egypt Division 2",
+  "eventName": "Misr Lel Makasa vs Fayoum FC",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "20/03/2023 15:27:49",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 319.4,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-20 15:28:00 Trying to register tip at Bigstake
+
+2023-03-20 15:28:16 Registered tip at Bigstake Successfully!
+
+2023-03-20 15:28:19 This Line is already existed on Settled bets!
+
+2023-03-20 15:31:18 Recieve 1 new bets From Copybet Server!
+
+2023-03-20 15:31:18 Pending bet is not finished.!
+
+2023-03-20 15:35:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:35:09 New Score is updated...
+
+2023-03-20 15:35:09 {"home":"AS Fap","away":"Dynamo de Douala","score":"0:1","gameTime":0}
+
+2023-03-20 15:35:09 New Score : AS Fap vs Dynamo de Douala  0:1
+
+2023-03-20 15:35:09 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:35:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:35:10 New Score is updated...
+
+2023-03-20 15:35:10 {"home":"Apolonia Fier","away":"KF Oriku","score":"1:0","gameTime":0}
+
+2023-03-20 15:35:10 New Score : Apolonia Fier vs KF Oriku  1:0
+
+2023-03-20 15:35:10 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:35:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:35:10 New Score is updated...
+
+2023-03-20 15:35:10 {"home":"AS Fap","away":"Dynamo de Douala","score":"0:1","gameTime":0}
+
+2023-03-20 15:35:10 New Score : AS Fap vs Dynamo de Douala  0:1
+
+2023-03-20 15:35:10 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:35:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:35:10 New Score is updated...
+
+2023-03-20 15:35:11 {"home":"Apolonia Fier","away":"KF Oriku","score":"1:0","gameTime":0}
+
+2023-03-20 15:35:11 New Score : Apolonia Fier vs KF Oriku  1:0
+
+2023-03-20 15:35:11 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:35:11 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:35:11 New Score is updated...
+
+2023-03-20 15:35:11 {"home":"AS Fap","away":"Dynamo de Douala","score":"0:1","gameTime":0}
+
+2023-03-20 15:35:11 New Score : AS Fap vs Dynamo de Douala  0:1
+
+2023-03-20 15:35:11 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:35:12 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:35:12 New Score is updated...
+
+2023-03-20 15:35:12 {"home":"AS Fap","away":"Dynamo de Douala","score":"0:1","gameTime":0}
+
+2023-03-20 15:35:12 New Score : AS Fap vs Dynamo de Douala  0:1
+
+2023-03-20 15:35:12 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:35:12 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:35:12 New Score is updated...
+
+2023-03-20 15:35:12 {"home":"AS Fap","away":"Dynamo de Douala","score":"0:1","gameTime":0}
+
+2023-03-20 15:35:12 New Score : AS Fap vs Dynamo de Douala  0:1
+
+2023-03-20 15:35:12 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:35:12 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:35:12 New Score is updated...
+
+2023-03-20 15:35:12 {"home":"AS Fap","away":"Dynamo de Douala","score":"0:1","gameTime":0}
+
+2023-03-20 15:35:12 New Score : AS Fap vs Dynamo de Douala  0:1
+
+2023-03-20 15:35:12 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:35:13 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:35:13 New Score is updated...
+
+2023-03-20 15:35:13 {"home":"AS Fap","away":"Dynamo de Douala","score":"0:1","gameTime":0}
+
+2023-03-20 15:35:13 New Score : AS Fap vs Dynamo de Douala  0:1
+
+2023-03-20 15:35:13 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:45:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:45:08 New Score is updated...
+
+2023-03-20 15:45:08 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"0:0","gameTime":1}
+
+2023-03-20 15:45:08 New Score : AC Horsens Reserves vs Lyngby Reserves  0:0
+
+2023-03-20 15:45:08 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:45:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:45:09 New Score is updated...
+
+2023-03-20 15:45:09 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"0:0","gameTime":1}
+
+2023-03-20 15:45:09 New Score : AC Horsens Reserves vs Lyngby Reserves  0:0
+
+2023-03-20 15:45:09 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:45:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:45:09 New Score is updated...
+
+2023-03-20 15:45:09 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"0:0","gameTime":1}
+
+2023-03-20 15:45:09 New Score : AC Horsens Reserves vs Lyngby Reserves  0:0
+
+2023-03-20 15:45:09 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:45:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:45:09 New Score is updated...
+
+2023-03-20 15:45:10 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"0:0","gameTime":1}
+
+2023-03-20 15:45:10 New Score : AC Horsens Reserves vs Lyngby Reserves  0:0
+
+2023-03-20 15:45:10 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:45:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:45:10 New Score is updated...
+
+2023-03-20 15:45:10 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"0:0","gameTime":1}
+
+2023-03-20 15:45:10 New Score : AC Horsens Reserves vs Lyngby Reserves  0:0
+
+2023-03-20 15:45:10 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:47:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:47:08 New Score is updated...
+
+2023-03-20 15:47:08 {"home":"AS Fap","away":"Dynamo de Douala","score":"1:1","gameTime":0}
+
+2023-03-20 15:47:08 New Score : AS Fap vs Dynamo de Douala  1:1
+
+2023-03-20 15:47:08 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:47:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:47:08 New Score is updated...
+
+2023-03-20 15:47:08 {"home":"AS Fap","away":"Dynamo de Douala","score":"1:1","gameTime":0}
+
+2023-03-20 15:47:09 New Score : AS Fap vs Dynamo de Douala  1:1
+
+2023-03-20 15:47:09 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:47:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:47:09 New Score is updated...
+
+2023-03-20 15:47:09 {"home":"AS Fap","away":"Dynamo de Douala","score":"1:1","gameTime":0}
+
+2023-03-20 15:47:09 New Score : AS Fap vs Dynamo de Douala  1:1
+
+2023-03-20 15:47:09 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:47:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:47:09 New Score is updated...
+
+2023-03-20 15:47:09 {"home":"AS Fap","away":"Dynamo de Douala","score":"1:1","gameTime":0}
+
+2023-03-20 15:47:09 New Score : AS Fap vs Dynamo de Douala  1:1
+
+2023-03-20 15:47:09 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:47:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:47:09 New Score is updated...
+
+2023-03-20 15:47:09 {"home":"AS Fap","away":"Dynamo de Douala","score":"1:1","gameTime":0}
+
+2023-03-20 15:47:10 New Score : AS Fap vs Dynamo de Douala  1:1
+
+2023-03-20 15:47:10 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:49:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:49:08 New Score is updated...
+
+2023-03-20 15:49:08 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"1:1","gameTime":0}
+
+2023-03-20 15:49:08 New Score : Misr Lel Makasa vs Fayoum FC  1:1
+
+2023-03-20 15:49:08 Pending tip Score : Misr Lel Makasa vs Fayoum FC 0:1
+
+2023-03-20 15:49:08 Pending Tip is winning now...
+
+2023-03-20 15:49:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:49:09 New Score is updated...
+
+2023-03-20 15:49:09 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"1:1","gameTime":0}
+
+2023-03-20 15:49:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:49:09 New Score is updated...
+
+2023-03-20 15:49:09 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"1:1","gameTime":0}
+
+2023-03-20 15:49:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:49:09 New Score is updated...
+
+2023-03-20 15:49:09 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"1:1","gameTime":0}
+
+2023-03-20 15:49:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:49:10 New Score is updated...
+
+2023-03-20 15:49:10 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"1:1","gameTime":0}
+
+2023-03-20 15:49:15 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:49:15 New Score is updated...
+
+2023-03-20 15:49:15 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"1:1","gameTime":0}
+
+2023-03-20 15:49:15 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:49:15 New Score is updated...
+
+2023-03-20 15:49:15 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"1:1","gameTime":0}
+
+2023-03-20 15:49:15 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:49:15 New Score is updated...
+
+2023-03-20 15:49:15 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"1:1","gameTime":0}
+
+2023-03-20 15:49:15 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:49:15 New Score is updated...
+
+2023-03-20 15:49:15 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"1:1","gameTime":0}
+
+2023-03-20 15:49:15 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:49:15 New Score is updated...
+
+2023-03-20 15:49:15 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"1:1","gameTime":0}
+
+2023-03-20 15:52:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:52:09 New Score is updated...
+
+2023-03-20 15:52:09 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"2:1","gameTime":0}
+
+2023-03-20 15:52:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:52:10 New Score is updated...
+
+2023-03-20 15:52:10 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"2:1","gameTime":0}
+
+2023-03-20 15:52:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:52:10 New Score is updated...
+
+2023-03-20 15:52:10 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"2:1","gameTime":0}
+
+2023-03-20 15:52:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:52:10 New Score is updated...
+
+2023-03-20 15:52:10 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"2:1","gameTime":0}
+
+2023-03-20 15:52:12 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:52:12 New Score is updated...
+
+2023-03-20 15:52:12 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"2:1","gameTime":0}
+
+2023-03-20 15:57:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:57:08 New Score is updated...
+
+2023-03-20 15:57:08 {"home":"AS Fap","away":"Dynamo de Douala","score":"1:2","gameTime":0}
+
+2023-03-20 15:57:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:57:09 New Score is updated...
+
+2023-03-20 15:57:09 {"home":"AS Fap","away":"Dynamo de Douala","score":"1:2","gameTime":0}
+
+2023-03-20 15:57:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:57:09 New Score is updated...
+
+2023-03-20 15:57:09 {"home":"AS Fap","away":"Dynamo de Douala","score":"1:2","gameTime":0}
+
+2023-03-20 15:57:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:57:09 New Score is updated...
+
+2023-03-20 15:57:09 {"home":"AS Fap","away":"Dynamo de Douala","score":"1:2","gameTime":0}
+
+2023-03-20 15:57:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:57:09 New Score is updated...
+
+2023-03-20 15:57:09 {"home":"AS Fap","away":"Dynamo de Douala","score":"1:2","gameTime":0}
+
+2023-03-20 15:57:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:57:09 New Score is updated...
+
+2023-03-20 15:57:09 {"home":"AS Fap","away":"Dynamo de Douala","score":"1:2","gameTime":0}
+
+2023-03-20 15:57:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:57:10 New Score is updated...
+
+2023-03-20 15:57:10 {"home":"AS Fap","away":"Dynamo de Douala","score":"1:2","gameTime":0}
+
+2023-03-20 15:59:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:59:10 New Score is updated...
+
+2023-03-20 15:59:10 {"home":"Apolonia Fier","away":"KF Oriku","score":"1:0","gameTime":2}
+
+2023-03-20 15:59:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:59:10 New Score is updated...
+
+2023-03-20 15:59:10 {"home":"Apolonia Fier","away":"KF Oriku","score":"1:0","gameTime":2}
+
+2023-03-20 15:59:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:59:10 New Score is updated...
+
+2023-03-20 15:59:10 {"home":"Apolonia Fier","away":"KF Oriku","score":"1:0","gameTime":2}
+
+2023-03-20 15:59:11 Recieve new Match Score From Copybet Server!
+
+2023-03-20 15:59:11 New Score is updated...
+
+2023-03-20 15:59:11 {"home":"Apolonia Fier","away":"KF Oriku","score":"1:0","gameTime":2}
+
+2023-03-20 16:02:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:02:09 New Score is updated...
+
+2023-03-20 16:02:09 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"0:0","gameTime":1}
+
+2023-03-20 16:02:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:02:09 New Score is updated...
+
+2023-03-20 16:02:09 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"0:0","gameTime":1}
+
+2023-03-20 16:02:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:02:10 New Score is updated...
+
+2023-03-20 16:02:10 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"0:0","gameTime":1}
+
+2023-03-20 16:02:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:02:10 New Score is updated...
+
+2023-03-20 16:02:10 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"0:0","gameTime":1}
+
+2023-03-20 16:04:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:04:09 New Score is updated...
+
+2023-03-20 16:04:09 {"home":"AS Fap","away":"Dynamo de Douala","score":"1:2","gameTime":2}
+
+2023-03-20 16:04:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:04:09 New Score is updated...
+
+2023-03-20 16:04:09 {"home":"AS Fap","away":"Dynamo de Douala","score":"1:2","gameTime":2}
+
+2023-03-20 16:04:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:04:10 New Score is updated...
+
+2023-03-20 16:04:10 {"home":"AS Fap","away":"Dynamo de Douala","score":"1:2","gameTime":2}
+
+2023-03-20 16:04:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:04:10 New Score is updated...
+
+2023-03-20 16:04:10 {"home":"AS Fap","away":"Dynamo de Douala","score":"1:2","gameTime":2}
+
+2023-03-20 16:04:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:04:10 New Score is updated...
+
+2023-03-20 16:04:10 {"home":"AS Fap","away":"Dynamo de Douala","score":"1:2","gameTime":2}
+
+2023-03-20 16:06:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:06:09 New Score is updated...
+
+2023-03-20 16:06:09 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"2:1","gameTime":2}
+
+2023-03-20 16:06:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:06:09 New Score is updated...
+
+2023-03-20 16:06:09 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"2:1","gameTime":2}
+
+2023-03-20 16:06:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:06:10 New Score is updated...
+
+2023-03-20 16:06:10 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"2:1","gameTime":2}
+
+2023-03-20 16:06:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:06:10 New Score is updated...
+
+2023-03-20 16:06:10 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"2:1","gameTime":2}
+
+2023-03-20 16:06:11 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:06:11 New Score is updated...
+
+2023-03-20 16:06:11 {"home":"Misr Lel Makasa","away":"Fayoum FC","score":"2:1","gameTime":2}
+
+2023-03-20 16:31:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:31:08 New Score is updated...
+
+2023-03-20 16:31:08 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"1:0","gameTime":0}
+
+2023-03-20 16:31:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:31:09 New Score is updated...
+
+2023-03-20 16:31:09 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"1:0","gameTime":0}
+
+2023-03-20 16:31:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:31:09 New Score is updated...
+
+2023-03-20 16:31:09 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"1:0","gameTime":0}
+
+2023-03-20 16:43:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:43:09 New Score is updated...
+
+2023-03-20 16:43:09 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"1:1","gameTime":0}
+
+2023-03-20 16:43:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:43:10 New Score is updated...
+
+2023-03-20 16:43:10 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"1:1","gameTime":0}
+
+2023-03-20 16:43:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:43:10 New Score is updated...
+
+2023-03-20 16:43:10 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"1:1","gameTime":0}
+
+2023-03-20 16:53:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:53:08 New Score is updated...
+
+2023-03-20 16:53:08 {"home":"Sassuolo U19","away":"FC Rukh Lviv U19","score":"1:0","gameTime":0}
+
+2023-03-20 16:53:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:53:08 New Score is updated...
+
+2023-03-20 16:53:08 {"home":"Sassuolo U19","away":"FC Rukh Lviv U19","score":"1:0","gameTime":0}
+
+2023-03-20 16:54:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:54:08 New Score is updated...
+
+2023-03-20 16:54:08 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"1:1","gameTime":2}
+
+2023-03-20 16:54:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:54:09 New Score is updated...
+
+2023-03-20 16:54:09 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"1:1","gameTime":2}
+
+2023-03-20 16:54:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 16:54:10 New Score is updated...
+
+2023-03-20 16:54:10 {"home":"AC Horsens Reserves","away":"Lyngby Reserves","score":"1:1","gameTime":2}
+
+2023-03-20 17:06:22 Recieve new Match Score From Copybet Server!
+
+2023-03-20 17:06:22 New Score is updated...
+
+2023-03-20 17:06:22 {"home":"Sassuolo U19","away":"FC Rukh Lviv U19","score":"1:0","gameTime":2}
+
+2023-03-20 17:08:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 17:08:09 New Score is updated...
+
+2023-03-20 17:08:09 {"home":"Hrvace","away":"NK Osijek II","score":"3:0","gameTime":0}
+
+2023-03-20 17:08:40 LastLoginModule_Button Clicked
+
+2023-03-20 17:23:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 17:23:10 New Score is updated...
+
+2023-03-20 17:23:10 {"home":"Hrvace","away":"NK Osijek II","score":"3:0","gameTime":2}
+
+2023-03-20 17:55:15 Recieve 1 new bets From Copybet Server!
+
+2023-03-20 17:55:15 Recieve 1 new bets From Copybet Server!
+
+2023-03-20 17:55:15  *** MakeBet *** 
+
+2023-03-20 17:55:15 {"dbId":"","sport":"","country":"","league":"Bahrain Cup","dateTime":"","match":"Al Shabab Manama vs Qalali","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-20 17:55:15 340.48
+
+2023-03-20 17:55:15 Current balance : 340.4
+
+2023-03-20 17:55:15 Current Balance : 340.4
+
+2023-03-20 17:55:15 DoLoad365Page
+
+2023-03-20 17:55:15 365 page is loaded!
+
+2023-03-20 17:55:16 CheckIfLoggedIn
+
+2023-03-20 17:55:16 Logged In Already!
+
+2023-03-20 17:55:16 bet365.com
+
+2023-03-20 17:55:16 Wrong position detected!
+
+2023-03-20 17:55:25 Not Search Event
+
+2023-03-20 17:55:30 Al-Shabab Manama v Qalali Dis :0.120068376068376
+
+2023-03-20 17:55:31 Wrong position detected!
+
+2023-03-20 17:55:35 Stake : 15
+
+2023-03-20 17:55:35 Running AddbetScript...
+
+2023-03-20 17:55:35 scrollBetIntoView('329142871') => 1
+
+2023-03-20 17:55:37 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-20 17:55:38 {
+  "bg": "ad602ec5-f1a2-4853-bb41-fb17e8fecdc1",
+  "sr": 0,
+  "mr": false,
+  "cc": "NE7uaREJ8rMEKrAAm6Vd6CClGt4CQ3kLEhJf/1jN/H8=",
+  "ir": true,
+  "vr": "815",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/6",
+      "fi": 134743001,
+      "fd": "Al-Shabab Manama v Qalali",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 329142871,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "6418900a-89E9ACDF",
+      "tp": "BS134743001-329142871",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134709246,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-20 17:55:40 Fractional Odds : 4/6
+
+2023-03-20 17:55:40 Trademate Odds : 0 , Bet365 Odds : 1.66
+
+2023-03-20 17:55:40 Trying to place bet!
+
+2023-03-20 17:55:40 DoPlacebetUI
+
+2023-03-20 17:55:40 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-03-20 17:55:42 Trademate Odds : 0 , Bet365 Odds : 1.66
+
+2023-03-20 17:55:42 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-03-20 17:55:51 340.48
+
+2023-03-20 17:55:51 Current balance : 340.4
+
+2023-03-20 17:55:54 [concigrassi:Test123.] SUCCESS. Stake:15 Odds:1.66666666666667
+
+2023-03-20 17:55:54 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:15 Odds:1.66666666666667",
+  "stake": 15.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.6666666666666667,
+  "tournament": "Bahrain Cup",
+  "eventName": "Al Shabab Manama vs Qalali",
+  "probability": "OVER",
+  "market": "OVER 0.5",
+  "placedAt": "20/03/2023 17:55:51",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 325.4,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-20 17:56:02 Trying to register tip at Bigstake
+
+2023-03-20 17:56:17 Registered tip at Bigstake Successfully!
+
+2023-03-20 17:56:20 This Line is already existed on Settled bets!
+
+2023-03-20 18:06:08 Recieve new Match Score From Copybet Server!
+
+2023-03-20 18:06:08 New Score is updated...
+
+2023-03-20 18:06:08 {"home":"King Faisal","away":"Bibiani Gold Stars","score":"0:0","gameTime":2}
+
+2023-03-20 18:06:08 New Score : King Faisal vs Bibiani Gold Stars  0:0
+
+2023-03-20 18:06:08 Pending tip Score : Al Shabab Manama vs Qalali 0:0
+
+2023-03-20 18:06:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 18:06:09 New Score is updated...
+
+2023-03-20 18:06:09 {"home":"King Faisal","away":"Bibiani Gold Stars","score":"0:0","gameTime":2}
+
+2023-03-20 18:06:09 New Score : King Faisal vs Bibiani Gold Stars  0:0
+
+2023-03-20 18:06:09 Pending tip Score : Al Shabab Manama vs Qalali 0:0
+
+2023-03-20 18:06:15 Recieve 1 new bets From Copybet Server!
+
+2023-03-20 18:06:15 Recieve 1 new bets From Copybet Server!
+
+2023-03-20 18:06:15 Pending bet is not finished.!
+
+2023-03-20 18:22:15 Recieve 1 new bets From Copybet Server!
+
+2023-03-20 18:22:15 Pending bet is not finished.!
+
+2023-03-20 18:28:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 18:28:09 New Score is updated...
+
+2023-03-20 18:28:09 {"home":"Al Shabab Manama","away":"Qalali","score":"0:0","gameTime":2}
+
+2023-03-20 18:28:09 New Score : Al Shabab Manama vs Qalali  0:0
+
+2023-03-20 18:28:09 Pending tip Score : Al Shabab Manama vs Qalali 0:0
+
+2023-03-20 18:28:09 Pending Tip is lost now...
+
+2023-03-20 18:28:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 18:28:10 New Score is updated...
+
+2023-03-20 18:28:10 {"home":"Al Shabab Manama","away":"Qalali","score":"0:0","gameTime":2}
+
+2023-03-20 18:28:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 18:28:10 New Score is updated...
+
+2023-03-20 18:28:10 {"home":"Al Shabab Manama","away":"Qalali","score":"0:0","gameTime":2}
+
+2023-03-20 18:28:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 18:28:10 New Score is updated...
+
+2023-03-20 18:28:10 {"home":"Al Shabab Manama","away":"Qalali","score":"0:0","gameTime":2}
+
+2023-03-20 18:28:11 Recieve new Match Score From Copybet Server!
+
+2023-03-20 18:28:11 New Score is updated...
+
+2023-03-20 18:28:11 {"home":"Al Shabab Manama","away":"Qalali","score":"0:0","gameTime":2}
+
+2023-03-20 19:07:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 19:07:09 New Score is updated...
+
+2023-03-20 19:07:09 {"home":"Kocaelispor","away":"Pazarspor","score":"1:1","gameTime":2}
+
+2023-03-20 19:07:09 Recieve new Match Score From Copybet Server!
+
+2023-03-20 19:07:09 New Score is updated...
+
+2023-03-20 19:07:09 {"home":"Kocaelispor","away":"Pazarspor","score":"1:1","gameTime":2}
+
+2023-03-20 19:07:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 19:07:10 New Score is updated...
+
+2023-03-20 19:07:10 {"home":"Kocaelispor","away":"Pazarspor","score":"1:1","gameTime":2}
+
+2023-03-20 19:07:10 Recieve new Match Score From Copybet Server!
+
+2023-03-20 19:07:10 New Score is updated...
+
+2023-03-20 19:07:10 {"home":"Kocaelispor","away":"Pazarspor","score":"1:1","gameTime":2}
+
+2023-03-20 19:07:11 Recieve new Match Score From Copybet Server!
+
+2023-03-20 19:07:11 New Score is updated...
+
+2023-03-20 19:07:11 {"home":"Kocaelispor","away":"Pazarspor","score":"1:1","gameTime":2}

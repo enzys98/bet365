@@ -1,0 +1,649 @@
+﻿
+2023-01-19 00:17:58 LastLoginModule_Button Clicked
+
+2023-01-19 00:27:13 Recieve 1 new bets From Copybet Server!
+
+2023-01-19 00:27:13  *** MakeBet *** 
+
+2023-01-19 00:27:13 {"dbId":"","sport":"","country":"","league":"Brazil Campeonato Pernambucano","dateTime":"","match":"Nautico Capibaribe vs Belo Jardim FC","score":"2:0","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-19 00:27:13 95.56
+
+2023-01-19 00:27:13 Current balance : 95.5
+
+2023-01-19 00:27:13 Current Balance : 95.5
+
+2023-01-19 00:27:14 Stake : 10
+
+2023-01-19 00:27:14 CheckIfLoggedIn
+
+2023-01-19 00:27:14 Logged In Already!
+
+2023-01-19 00:27:14 bet365.com
+
+2023-01-19 00:27:14 Wrong position detected!
+
+2023-01-19 00:27:20 Nautico Capibaribe v Belo Jardim FC Dis :0.00555555555555554
+
+2023-01-19 00:27:25 Running AddbetScript...
+
+2023-01-19 00:27:25 scrollBetIntoView('1372164') => 1
+
+2023-01-19 00:27:27 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-19 00:27:29 {
+  "bg": "0723f768-b7fd-4548-aa0a-5e91f0c8fd07",
+  "sr": 0,
+  "mr": false,
+  "cc": "CbHOS8ZCljT4IyFug9a1rgRTBi8qB5yWAgm7sBYGNss=",
+  "ir": true,
+  "vr": "779",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "5/2",
+      "fi": 131498765,
+      "fd": "Madureira RJ v Flamengo",
+      "pt": [
+        {
+          "pi": 1372164,
+          "bd": "Più di 2.5",
+          "ha": "2.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c88062-F07A9079",
+      "tp": "BS131498765-1372164",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131152261,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-19 00:27:31 Fractional Odds : 5/2
+
+2023-01-19 00:27:31 Trademate Odds : 0 , Bet365 Odds : 3.5
+
+2023-01-19 00:27:31 Trying to place bet!
+
+2023-01-19 00:27:31 DoPlacebetUI
+
+2023-01-19 00:27:31 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-19 00:27:33 Trademate Odds : 0 , Bet365 Odds : 3.5
+
+2023-01-19 00:27:33 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-19 00:27:42 95.56
+
+2023-01-19 00:27:42 Current balance : 95.5
+
+2023-01-19 00:27:45 [salvigrimaldi:Test123.] SUCCESS. Stake:10 Odds:3.5
+
+2023-01-19 00:27:45 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:10 Odds:3.5",
+  "stake": 10.0,
+  "tipSource": "TELEGRAM",
+  "odds": 3.5,
+  "tournament": "Brazil Campeonato Pernambucano",
+  "eventName": "Nautico Capibaribe vs Belo Jardim FC",
+  "probability": "OVER",
+  "market": "OVER 2.5",
+  "placedAt": "19/01/2023 00:27:42",
+  "selection": "OVER",
+  "handicap": 2.5,
+  "balance": 85.5,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-19 00:27:53 Trying to register tip at Bigstake
+
+2023-01-19 00:28:08 Registered tip at Bigstake Successfully!
+
+2023-01-19 00:28:11 This Line is already existed on Settled bets!
+
+2023-01-19 00:47:08 LastLoginModule_Button Clicked
+
+2023-01-19 01:06:18 LastLoginModule_Button Clicked
+
+2023-01-19 01:24:34 Recieve new Match Score From Copybet Server!
+
+2023-01-19 01:24:34 New Score is updated...
+
+2023-01-19 01:24:34 {"home":"Nautico Capibaribe","away":"Belo Jardim FC","score":"2:0","gameTime":2}
+
+2023-01-19 01:24:34 New Score : Nautico Capibaribe vs Belo Jardim FC  2:0
+
+2023-01-19 01:24:34 Pending tip Score : Nautico Capibaribe vs Belo Jardim FC 2:0
+
+2023-01-19 01:24:34 Pending Tip is lost now...
+
+2023-01-19 01:30:03 Recieve new Match Score From Copybet Server!
+
+2023-01-19 01:30:03 New Score is updated...
+
+2023-01-19 01:30:03 {"home":"Goianesia","away":"Morrinhos","score":"1:1","gameTime":0}
+
+2023-01-19 01:34:02 Recieve new Match Score From Copybet Server!
+
+2023-01-19 01:34:02 New Score is updated...
+
+2023-01-19 01:34:02 {"home":"Goianesia","away":"Morrinhos","score":"2:1","gameTime":0}
+
+2023-01-19 01:38:28 LastLoginModule_Button Clicked
+
+2023-01-19 01:57:38 LastLoginModule_Button Clicked
+
+2023-01-19 01:58:03 Recieve new Match Score From Copybet Server!
+
+2023-01-19 01:58:03 New Score is updated...
+
+2023-01-19 01:58:03 {"home":"Goianesia","away":"Morrinhos","score":"2:1","gameTime":2}
+
+2023-01-19 02:16:48 LastLoginModule_Button Clicked
+
+2023-01-19 02:22:13 Recieve 1 new bets From Copybet Server!
+
+2023-01-19 02:22:13  *** MakeBet *** 
+
+2023-01-19 02:22:13 {"dbId":"","sport":"","country":"","league":"Brazil Campeonato Catarinense","dateTime":"","match":"Joinville vs Marcilio Dias","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-19 02:22:13 85.56
+
+2023-01-19 02:22:13 Current balance : 85.5
+
+2023-01-19 02:22:13 Current Balance : 85.5
+
+2023-01-19 02:22:14 Stake : 15
+
+2023-01-19 02:22:14 CheckIfLoggedIn
+
+2023-01-19 02:22:14 Logged In Already!
+
+2023-01-19 02:22:14 bet365.com
+
+2023-01-19 02:22:14 Wrong position detected!
+
+2023-01-19 02:22:19 Joinville v Marcilio Dias Dis :0.00769230769230767
+
+2023-01-19 02:22:20 Wrong position detected!
+
+2023-01-19 02:22:22 Running AddbetScript...
+
+2023-01-19 02:22:22 scrollBetIntoView('1393895') => 1
+
+2023-01-19 02:22:24 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-19 02:22:25 {
+  "bg": "9a840ab0-614e-45d5-82f5-d67445442b66",
+  "sr": 0,
+  "mr": false,
+  "cc": "fzYfhLch50HozvZC/AogFsv50pMt8N+vKXEKzE1BSnw=",
+  "ir": true,
+  "vr": "779",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "5/6",
+      "fi": 131498891,
+      "fd": "Joinville v Marcilio Dias",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1393895,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c89b53-696E12C8",
+      "tp": "BS131498891-1393895",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131426111,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-19 02:22:28 Fractional Odds : 5/6
+
+2023-01-19 02:22:28 Trademate Odds : 0 , Bet365 Odds : 1.83
+
+2023-01-19 02:22:28 Trying to place bet!
+
+2023-01-19 02:22:28 DoPlacebetUI
+
+2023-01-19 02:22:28 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-19 02:22:30 Trademate Odds : 0 , Bet365 Odds : 1.83
+
+2023-01-19 02:22:30 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-19 02:22:38 85.56
+
+2023-01-19 02:22:38 Current balance : 85.5
+
+2023-01-19 02:22:41 [salvigrimaldi:Test123.] SUCCESS. Stake:15 Odds:1.83333333333333
+
+2023-01-19 02:22:41 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:15 Odds:1.83333333333333",
+  "stake": 15.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.8333333333333333,
+  "tournament": "Brazil Campeonato Catarinense",
+  "eventName": "Joinville vs Marcilio Dias",
+  "probability": "OVER",
+  "market": "OVER 0.5",
+  "placedAt": "19/01/2023 02:22:38",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 70.5,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-19 02:22:49 Trying to register tip at Bigstake
+
+2023-01-19 02:23:04 Registered tip at Bigstake Successfully!
+
+2023-01-19 02:23:07 This Line is already existed on Settled bets!
+
+2023-01-19 02:41:58 LastLoginModule_Button Clicked
+
+2023-01-19 02:47:13 Recieve 1 new bets From Copybet Server!
+
+2023-01-19 02:47:13 Pending bet is not finished.!
+
+2023-01-19 03:00:03 Recieve new Match Score From Copybet Server!
+
+2023-01-19 03:00:03 New Score is updated...
+
+2023-01-19 03:00:03 {"home":"Joinville","away":"Marcilio Dias","score":"0:0","gameTime":2}
+
+2023-01-19 03:00:03 New Score : Joinville vs Marcilio Dias  0:0
+
+2023-01-19 03:00:03 Pending tip Score : Joinville vs Marcilio Dias 0:0
+
+2023-01-19 03:00:03 Pending Tip is lost now...
+
+2023-01-19 03:01:03 Recieve new Match Score From Copybet Server!
+
+2023-01-19 03:01:03 New Score is updated...
+
+2023-01-19 03:01:03 {"home":"Londrina EC","away":"FC Cascavel","score":"0:1","gameTime":0}
+
+2023-01-19 03:15:13 Recieve 1 new bets From Copybet Server!
+
+2023-01-19 03:15:13  *** MakeBet *** 
+
+2023-01-19 03:15:13 {"dbId":"","sport":"","country":"","league":"Uruguay Amateur Cup","dateTime":"","match":"Maldonado Interior vs Maldonado Capital","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-19 03:15:13 70.56
+
+2023-01-19 03:15:13 Current balance : 70.5
+
+2023-01-19 03:15:13 Current Balance : 70.5
+
+2023-01-19 03:15:14 Stake : 19
+
+2023-01-19 03:15:14 CheckIfLoggedIn
+
+2023-01-19 03:15:14 Logged In Already!
+
+2023-01-19 03:15:14 bet365.com
+
+2023-01-19 03:15:14 Wrong position detected!
+
+2023-01-19 03:15:16 Wrong position detected!
+
+2023-01-19 03:15:19 Wrong position detected!
+
+2023-01-19 03:18:13 Not Found Odds on Bet365..
+
+2023-01-19 03:18:16  *** MakeBet *** 
+
+2023-01-19 03:18:16 {"dbId":"","sport":"","country":"","league":"Uruguay Amateur Cup","dateTime":"","match":"Maldonado Interior vs Maldonado Capital","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-19 03:18:21 
+
+2023-01-19 03:18:21 Current Balance : -1
+
+2023-01-19 03:18:22 Stake : 19
+
+2023-01-19 03:18:22 CheckIfLoggedIn
+
+2023-01-19 03:18:22 DoLogin
+
+2023-01-19 03:18:22 DoLoad365Page
+
+2023-01-19 03:18:22 365 page is loaded!
+
+2023-01-19 03:18:22 Executed login script!
+
+2023-01-19 03:18:49 DoLoad365Page
+
+2023-01-19 03:18:49 365 page is loaded!
+
+2023-01-19 03:18:52 Executed login script!
+
+2023-01-19 03:18:59 DoLoad365Page
+
+2023-01-19 03:18:59 365 page is loaded!
+
+2023-01-19 03:18:59 LastLoginModule_Button Clicked
+
+2023-01-19 03:19:04 Login Success!
+
+2023-01-19 03:19:08 bet365.com
+
+2023-01-19 03:19:19 Maldonado Interior v Maldonado Capital Dis :0.00512820512820511
+
+2023-01-19 03:19:24 Not Found Odds on Bet365..
+
+2023-01-19 03:23:14 Recieve 1 new bets From Copybet Server!
+
+2023-01-19 03:23:14  *** MakeBet *** 
+
+2023-01-19 03:23:14 {"dbId":"","sport":"","country":"","league":"Mexico Liga de Expansion","dateTime":"","match":"Universidad Guadalajara vs Cimarrones de Sonora FC","score":"0:1","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-19 03:23:14 70.56
+
+2023-01-19 03:23:14 Current balance : 70.5
+
+2023-01-19 03:23:14 Current Balance : 70.5
+
+2023-01-19 03:23:15 Stake : 19
+
+2023-01-19 03:23:15 CheckIfLoggedIn
+
+2023-01-19 03:23:15 Logged In Already!
+
+2023-01-19 03:23:15 bet365.com
+
+2023-01-19 03:23:15 Wrong position detected!
+
+2023-01-19 03:23:22 Universidad Guadalajara v Cimarrones de Sonora FC Dis :0.0244081632653061
+
+2023-01-19 03:23:22 Wrong position detected!
+
+2023-01-19 03:28:13 Not Found Odds on Bet365..
+
+2023-01-19 03:28:16  *** MakeBet *** 
+
+2023-01-19 03:28:16 {"dbId":"","sport":"","country":"","league":"Mexico Liga de Expansion","dateTime":"","match":"Universidad Guadalajara vs Cimarrones de Sonora FC","score":"0:1","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-19 03:28:16 70.56
+
+2023-01-19 03:28:16 Current balance : 70.5
+
+2023-01-19 03:28:16 Current Balance : 70.5
+
+2023-01-19 03:28:16 Stake : 19
+
+2023-01-19 03:28:16 CheckIfLoggedIn
+
+2023-01-19 03:28:17 Logged In Already!
+
+2023-01-19 03:28:17 bet365.com
+
+2023-01-19 03:28:17 Wrong position detected!
+
+2023-01-19 03:28:23 Universidad Guadalajara v Cimarrones de Sonora FC Dis :0.0244081632653061
+
+2023-01-19 03:28:24 Wrong position detected!
+
+2023-01-19 03:29:02 Recieve new Match Score From Copybet Server!
+
+2023-01-19 03:29:02 New Score is updated...
+
+2023-01-19 03:29:02 {"home":"Londrina EC","away":"FC Cascavel","score":"0:1","gameTime":2}
+
+2023-01-19 03:29:13 Not Found Odds on Bet365..
+
+2023-01-19 03:37:03 Recieve new Match Score From Copybet Server!
+
+2023-01-19 03:37:03 New Score is updated...
+
+2023-01-19 03:37:03 {"home":"Maldonado Interior","away":"Maldonado Capital","score":"1:0","gameTime":0}
+
+2023-01-19 03:37:04 Recieve new Match Score From Copybet Server!
+
+2023-01-19 03:37:04 New Score is updated...
+
+2023-01-19 03:37:04 {"home":"Universidad Guadalajara","away":"Cimarrones de Sonora FC","score":"0:2","gameTime":0}
+
+2023-01-19 03:48:08 LastLoginModule_Button Clicked
+
+2023-01-19 03:51:01 Recieve new Match Score From Copybet Server!
+
+2023-01-19 03:51:01 New Score is updated...
+
+2023-01-19 03:51:01 {"home":"Universidad Guadalajara","away":"Cimarrones de Sonora FC","score":"1:2","gameTime":0}
+
+2023-01-19 04:06:02 Recieve new Match Score From Copybet Server!
+
+2023-01-19 04:06:02 New Score is updated...
+
+2023-01-19 04:06:02 {"home":"Universidad Guadalajara","away":"Cimarrones de Sonora FC","score":"1:2","gameTime":2}
+
+2023-01-19 04:21:18 LastLoginModule_Button Clicked
+
+2023-01-19 04:40:29 LastLoginModule_Button Clicked
+
+2023-01-19 04:59:39 LastLoginModule_Button Clicked
+
+2023-01-19 05:18:49 LastLoginModule_Button Clicked
+
+2023-01-19 05:37:59 LastLoginModule_Button Clicked
+
+2023-01-19 05:57:09 LastLoginModule_Button Clicked
+
+2023-01-19 06:21:19 LastLoginModule_Button Clicked
+
+2023-01-19 06:40:29 LastLoginModule_Button Clicked
+
+2023-01-19 06:59:39 LastLoginModule_Button Clicked
+
+2023-01-19 07:19:49 LastLoginModule_Button Clicked
+
+2023-01-19 07:38:59 LastLoginModule_Button Clicked
+
+2023-01-19 07:58:09 LastLoginModule_Button Clicked
+
+2023-01-19 08:17:19 LastLoginModule_Button Clicked
+
+2023-01-19 08:36:29 LastLoginModule_Button Clicked
+
+2023-01-19 08:55:39 LastLoginModule_Button Clicked
+
+2023-01-19 09:03:18 Recieve 1 new bets From Copybet Server!
+
+2023-01-19 09:03:18  *** MakeBet *** 
+
+2023-01-19 09:03:18 {"dbId":"","sport":"","country":"","league":"Mexico Liga de Expansion","dateTime":"","match":"Universidad Guadalajara vs Cimarrones de Sonora FC","score":"0:1","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-19 09:03:18 70.56
+
+2023-01-19 09:03:18 Current balance : 70.5
+
+2023-01-19 09:03:18 Current Balance : 70.5
+
+2023-01-19 09:03:19 Stake : 19
+
+2023-01-19 09:03:19 CheckIfLoggedIn
+
+2023-01-19 09:03:19 Logged In Already!
+
+2023-01-19 09:03:19 bet365.com
+
+2023-01-19 09:03:19 Wrong position detected!
+
+2023-01-19 09:03:31 Not Found Odds on Bet365..
+
+2023-01-19 09:03:34  *** MakeBet *** 
+
+2023-01-19 09:03:34 {"dbId":"","sport":"","country":"","league":"Mexico Liga de Expansion","dateTime":"","match":"Universidad Guadalajara vs Cimarrones de Sonora FC","score":"0:1","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-19 09:03:34 70.56
+
+2023-01-19 09:03:34 Current balance : 70.5
+
+2023-01-19 09:03:34 Current Balance : 70.5
+
+2023-01-19 09:03:34 Stake : 19
+
+2023-01-19 09:03:34 CheckIfLoggedIn
+
+2023-01-19 09:03:34 Logged In Already!
+
+2023-01-19 09:03:34 bet365.com
+
+2023-01-19 09:03:34 Wrong position detected!
+
+2023-01-19 09:03:46 Not Found Odds on Bet365..
+
+2023-01-19 09:03:59 Recieve 1 new bets From Copybet Server!
+
+2023-01-19 09:03:59  *** MakeBet *** 
+
+2023-01-19 09:03:59 {"dbId":"","sport":"","country":"","league":"Mexico Liga de Expansion","dateTime":"","match":"Universidad Guadalajara vs Cimarrones de Sonora FC","score":"0:1","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-19 09:03:59 70.56
+
+2023-01-19 09:03:59 Current balance : 70.5
+
+2023-01-19 09:03:59 Current Balance : 70.5
+
+2023-01-19 09:04:00 Stake : 19
+
+2023-01-19 09:04:00 CheckIfLoggedIn
+
+2023-01-19 09:04:00 Logged In Already!
+
+2023-01-19 09:04:00 bet365.com
+
+2023-01-19 09:04:00 Wrong position detected!
+
+2023-01-19 09:04:12 Not Found Odds on Bet365..
+
+2023-01-19 09:04:15  *** MakeBet *** 
+
+2023-01-19 09:04:15 {"dbId":"","sport":"","country":"","league":"Mexico Liga de Expansion","dateTime":"","match":"Universidad Guadalajara vs Cimarrones de Sonora FC","score":"0:1","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-19 09:04:15 70.56
+
+2023-01-19 09:04:15 Current balance : 70.5
+
+2023-01-19 09:04:15 Current Balance : 70.5
+
+2023-01-19 09:04:16 Stake : 19
+
+2023-01-19 09:04:16 CheckIfLoggedIn
+
+2023-01-19 09:04:16 Logged In Already!
+
+2023-01-19 09:04:16 bet365.com
+
+2023-01-19 09:04:16 Wrong position detected!
+
+2023-01-19 09:04:28 Not Found Odds on Bet365..
+
+2023-01-19 09:06:25 Recieve 1 new bets From Copybet Server!
+
+2023-01-19 09:06:25  *** MakeBet *** 
+
+2023-01-19 09:06:25 {"dbId":"","sport":"","country":"","league":"Mexico Liga de Expansion","dateTime":"","match":"Astam vs serpong","score":"0:7","EW":"0","marketName":"OVER 7.5","selection":"OVER","odds":0.0,"handicap":7.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-19 09:06:25 70.56
+
+2023-01-19 09:06:25 Current balance : 70.5
+
+2023-01-19 09:06:25 Current Balance : 70.5
+
+2023-01-19 09:06:26 Stake : 19
+
+2023-01-19 09:06:26 CheckIfLoggedIn
+
+2023-01-19 09:06:26 Logged In Already!
+
+2023-01-19 09:06:26 bet365.com
+
+2023-01-19 09:06:32 Astam FC v Serpong City FC Dis :0.131593406593407
+
+2023-01-19 09:06:33 Wrong position detected!
+
+2023-01-19 09:06:35 Not Found Odds on Bet365..
+
+2023-01-19 09:06:38  *** MakeBet *** 
+
+2023-01-19 09:06:38 {"dbId":"","sport":"","country":"","league":"Mexico Liga de Expansion","dateTime":"","match":"Astam vs serpong","score":"0:7","EW":"0","marketName":"OVER 7.5","selection":"OVER","odds":0.0,"handicap":7.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-19 09:06:38 70.56
+
+2023-01-19 09:06:38 Current balance : 70.5
+
+2023-01-19 09:06:38 Current Balance : 70.5
+
+2023-01-19 09:06:38 Stake : 19
+
+2023-01-19 09:06:38 CheckIfLoggedIn
+
+2023-01-19 09:06:39 Logged In Already!
+
+2023-01-19 09:06:39 bet365.com
+
+2023-01-19 09:06:39 Wrong position detected!
+
+2023-01-19 09:06:44 Astam FC v Serpong City FC Dis :0.131593406593407
+
+2023-01-19 09:06:45 Wrong position detected!
+
+2023-01-19 09:06:47 Not Found Odds on Bet365..
+
+2023-01-19 10:25:45 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-19 10:25:45 The bot has been stopped!

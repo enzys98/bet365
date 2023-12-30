@@ -1,0 +1,2568 @@
+﻿
+2023-01-18 00:10:11 LastLoginModule_Button Clicked
+
+2023-01-18 00:23:13 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 00:23:13  *** MakeBet *** 
+
+2023-01-18 00:23:13 {"dbId":"","sport":"","country":"","league":"Brazil Campeonato Paulista","dateTime":"","match":"Mirassol vs Inter de Limeira","score":"0:1","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 00:23:13 107.73
+
+2023-01-18 00:23:13 Current balance : 107.7
+
+2023-01-18 00:23:14 Current Balance : 107.7
+
+2023-01-18 00:23:14 Stake : 2
+
+2023-01-18 00:23:14 CheckIfLoggedIn
+
+2023-01-18 00:23:14 Logged In Already!
+
+2023-01-18 00:23:14 bet365.com
+
+2023-01-18 00:23:14 Wrong position detected!
+
+2023-01-18 00:23:20 Mirassol v Inter de Limeira Dis :0.00714285714285712
+
+2023-01-18 00:23:20 Wrong position detected!
+
+2023-01-18 00:23:22 Running AddbetScript...
+
+2023-01-18 00:23:22 scrollBetIntoView('2144465489') => 1
+
+2023-01-18 00:23:24 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-18 00:23:26 {
+  "bg": "94b44d4e-4cc3-40a9-a884-a207c83ff64c",
+  "sr": 0,
+  "mr": false,
+  "cc": "LyOjib3HKV5pwnVqsyp0cpLJNrQdI42oHTspZZX4o0Y=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "5/4",
+      "fi": 131451161,
+      "fd": "Mirassol v Inter de Limeira",
+      "pt": [
+        {
+          "hd": "2.5",
+          "pi": 2144465489,
+          "bd": "Più di",
+          "ha": "2.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c72df0-908C7AA8",
+      "tp": "BS131451161-2144465489",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131152331,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-18 00:23:28 Fractional Odds : 5/4
+
+2023-01-18 00:23:28 Trademate Odds : 0 , Bet365 Odds : 2.25
+
+2023-01-18 00:23:28 Trying to place bet!
+
+2023-01-18 00:23:28 DoPlacebetUI
+
+2023-01-18 00:23:28 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-18 00:23:29 Trademate Odds : 0 , Bet365 Odds : 2.25
+
+2023-01-18 00:23:29 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-18 00:23:34 107.73
+
+2023-01-18 00:23:34 Current balance : 107.7
+
+2023-01-18 00:23:37 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.25
+
+2023-01-18 00:23:37 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.25",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 2.25,
+  "tournament": "Brazil Campeonato Paulista",
+  "eventName": "Mirassol vs Inter de Limeira",
+  "probability": "OVER",
+  "market": "OVER 2.5",
+  "placedAt": "18/01/2023 00:23:34",
+  "selection": "OVER",
+  "handicap": 2.5,
+  "balance": 105.7,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-18 00:23:45 Trying to register tip at Bigstake
+
+2023-01-18 00:24:00 Registered tip at Bigstake Successfully!
+
+2023-01-18 00:24:03 This Line is already existed on Settled bets!
+
+2023-01-18 00:24:04 Recieve new Match Score From Copybet Server!
+
+2023-01-18 00:24:04 New Score is updated...
+
+2023-01-18 00:24:04 {"home":"Mirassol","away":"Inter de Limeira","score":"0:1","gameTime":1}
+
+2023-01-18 00:24:04 New Score : Mirassol vs Inter de Limeira  0:1
+
+2023-01-18 00:24:04 Pending tip Score : Mirassol vs Inter de Limeira 0:1
+
+2023-01-18 00:42:01 Recieve new Match Score From Copybet Server!
+
+2023-01-18 00:42:01 New Score is updated...
+
+2023-01-18 00:42:01 {"home":"Mirassol","away":"Inter de Limeira","score":"0:1","gameTime":1}
+
+2023-01-18 00:42:01 New Score : Mirassol vs Inter de Limeira  0:1
+
+2023-01-18 00:42:01 Pending tip Score : Mirassol vs Inter de Limeira 0:1
+
+2023-01-18 00:43:21 LastLoginModule_Button Clicked
+
+2023-01-18 01:02:31 LastLoginModule_Button Clicked
+
+2023-01-18 01:21:41 LastLoginModule_Button Clicked
+
+2023-01-18 01:55:51 LastLoginModule_Button Clicked
+
+2023-01-18 02:15:01 LastLoginModule_Button Clicked
+
+2023-01-18 02:34:11 LastLoginModule_Button Clicked
+
+2023-01-18 02:53:21 LastLoginModule_Button Clicked
+
+2023-01-18 03:29:31 LastLoginModule_Button Clicked
+
+2023-01-18 03:48:41 LastLoginModule_Button Clicked
+
+2023-01-18 04:24:54 LastLoginModule_Button Clicked
+
+2023-01-18 04:44:04 LastLoginModule_Button Clicked
+
+2023-01-18 05:03:14 LastLoginModule_Button Clicked
+
+2023-01-18 05:22:24 LastLoginModule_Button Clicked
+
+2023-01-18 05:41:34 LastLoginModule_Button Clicked
+
+2023-01-18 06:00:44 LastLoginModule_Button Clicked
+
+2023-01-18 06:22:54 LastLoginModule_Button Clicked
+
+2023-01-18 06:42:04 LastLoginModule_Button Clicked
+
+2023-01-18 07:01:14 LastLoginModule_Button Clicked
+
+2023-01-18 07:20:24 LastLoginModule_Button Clicked
+
+2023-01-18 07:50:34 LastLoginModule_Button Clicked
+
+2023-01-18 08:09:44 LastLoginModule_Button Clicked
+
+2023-01-18 08:28:54 LastLoginModule_Button Clicked
+
+2023-01-18 08:32:12 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-18 08:32:12 The bot has been stopped!
+2023-01-18 09:55:47 Chrome_RenderWidgetHostHWND
+
+2023-01-18 09:55:47 Websocket server is listening on 8880
+
+2023-01-18 09:55:47 DoLogin
+
+2023-01-18 09:55:47 DoLoad365Page
+
+2023-01-18 09:55:53 365 page is loaded!
+
+2023-01-18 09:55:53 Executed login script!
+
+2023-01-18 09:56:01 DoLoad365Page
+
+2023-01-18 09:56:01 365 page is loaded!
+
+2023-01-18 09:56:01 LastLoginModule_Button Clicked
+
+2023-01-18 09:56:06 Login Success!
+
+2023-01-18 09:56:13 2 Settled bets!!!
+
+2023-01-18 09:56:13 Browser Connected!
+
+2023-01-18 09:58:10 The bot has been started!
+
+2023-01-18 09:58:10 DoLogin
+
+2023-01-18 09:58:10 DoLoad365Page
+
+2023-01-18 09:58:10 365 page is loaded!
+
+2023-01-18 09:58:10 Connected Socket Server!!!
+
+2023-01-18 09:58:13 105.73
+
+2023-01-18 09:58:13 Current balance : 105.7
+
+2023-01-18 09:58:18 Current Balance: 105.7
+
+2023-01-18 09:58:18 Page is initialized!
+
+2023-01-18 10:17:18 LastLoginModule_Button Clicked
+
+2023-01-18 10:17:28 LastLoginModule_Button Clicked
+
+2023-01-18 10:17:38 LastLoginModule_Button Clicked
+
+2023-01-18 10:17:48 LastLoginModule_Button Clicked
+
+2023-01-18 10:17:58 LastLoginModule_Button Clicked
+
+2023-01-18 10:18:08 LastLoginModule_Button Clicked
+
+2023-01-18 10:28:51 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-18 10:28:51 The bot has been stopped!
+2023-01-18 10:29:14 Chrome_RenderWidgetHostHWND
+
+2023-01-18 10:29:14 Websocket server is listening on 8880
+
+2023-01-18 10:29:14 DoLogin
+
+2023-01-18 10:29:14 DoLoad365Page
+
+2023-01-18 10:29:19 365 page is loaded!
+
+2023-01-18 10:29:19 Executed login script!
+
+2023-01-18 10:29:27 DoLoad365Page
+
+2023-01-18 10:29:27 365 page is loaded!
+
+2023-01-18 10:29:27 LastLoginModule_Button Clicked
+
+2023-01-18 10:29:33 Login Success!
+
+2023-01-18 10:29:40 2 Settled bets!!!
+
+2023-01-18 10:29:40 Browser Connected!
+
+2023-01-18 10:31:25 The bot has been started!
+
+2023-01-18 10:31:25 DoLogin
+
+2023-01-18 10:31:25 DoLoad365Page
+
+2023-01-18 10:31:25 365 page is loaded!
+
+2023-01-18 10:31:26 Connected Socket Server!!!
+
+2023-01-18 10:31:28 105.73
+
+2023-01-18 10:31:28 Current balance : 105.7
+
+2023-01-18 10:31:29 Current Balance: 105.7
+
+2023-01-18 10:31:29 Page is initialized!
+
+2023-01-18 10:38:15 Disconnected Socket Server!!! || ping timeout
+
+2023-01-18 10:38:23 Connected Socket Server!!!
+
+2023-01-18 10:44:45 Disconnected Socket Server!!! || transport close
+
+2023-01-18 10:45:02 Connected Socket Server!!!
+
+2023-01-18 10:50:29 LastLoginModule_Button Clicked
+
+2023-01-18 11:09:39 LastLoginModule_Button Clicked
+
+2023-01-18 11:09:58 Disconnected Socket Server!!! || ping timeout
+
+2023-01-18 11:10:14 Connected Socket Server!!!
+
+2023-01-18 11:28:49 LastLoginModule_Button Clicked
+
+2023-01-18 11:47:59 LastLoginModule_Button Clicked
+
+2023-01-18 12:07:09 LastLoginModule_Button Clicked
+
+2023-01-18 12:07:14 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-18 12:07:14 The bot has been stopped!
+2023-01-18 12:10:53 Chrome_RenderWidgetHostHWND
+
+2023-01-18 12:10:53 Websocket server is listening on 8880
+
+2023-01-18 12:10:53 DoLogin
+
+2023-01-18 12:10:53 DoLoad365Page
+
+2023-01-18 12:10:59 365 page is loaded!
+
+2023-01-18 12:10:59 Executed login script!
+
+2023-01-18 12:11:06 DoLoad365Page
+
+2023-01-18 12:11:06 365 page is loaded!
+
+2023-01-18 12:11:06 LastLoginModule_Button Clicked
+
+2023-01-18 12:11:12 Login Success!
+
+2023-01-18 12:11:19 2 Settled bets!!!
+
+2023-01-18 12:11:19 Browser Connected!
+
+2023-01-18 12:11:22 The bot has been started!
+
+2023-01-18 12:11:22 DoLogin
+
+2023-01-18 12:11:22 DoLoad365Page
+
+2023-01-18 12:11:22 365 page is loaded!
+
+2023-01-18 12:11:23 Connected Socket Server!!!
+
+2023-01-18 12:11:25 105.73
+
+2023-01-18 12:11:25 Current balance : 105.7
+
+2023-01-18 12:11:29 Current Balance: 105.7
+
+2023-01-18 12:11:29 Page is initialized!
+
+2023-01-18 12:11:52 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 12:11:53  *** MakeBet *** 
+
+2023-01-18 12:11:53 {"dbId":"","sport":"","country":"","league":"Turkey League Women","dateTime":"","match":"Besiktas Women vs Dudullu SK Women","score":"2:0","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 12:11:53 105.73
+
+2023-01-18 12:11:53 Current balance : 105.7
+
+2023-01-18 12:11:53 Current Balance : 105.7
+
+2023-01-18 12:11:54 Stake : 2
+
+2023-01-18 12:11:54 CheckIfLoggedIn
+
+2023-01-18 12:11:54 Logged In Already!
+
+2023-01-18 12:11:54 bet365.com
+
+2023-01-18 12:12:04 Not Search Event
+
+2023-01-18 12:12:04 Wrong position detected!
+
+2023-01-18 12:12:08 Not Search Event
+
+2023-01-18 12:12:10 Wrong position detected!
+
+2023-01-18 12:12:16 Not Search Event
+
+2023-01-18 12:12:16 Wrong position detected!
+
+2023-01-18 12:12:26 Not Found Odds on Bet365..
+
+2023-01-18 12:12:29  *** MakeBet *** 
+
+2023-01-18 12:12:29 {"dbId":"","sport":"","country":"","league":"Turkey League Women","dateTime":"","match":"Besiktas Women vs Dudullu SK Women","score":"2:0","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 12:12:29 105.73
+
+2023-01-18 12:12:29 Current balance : 105.7
+
+2023-01-18 12:12:29 Current Balance : 105.7
+
+2023-01-18 12:12:30 Stake : 2
+
+2023-01-18 12:12:30 CheckIfLoggedIn
+
+2023-01-18 12:12:30 Logged In Already!
+
+2023-01-18 12:12:30 bet365.com
+
+2023-01-18 12:12:30 Wrong position detected!
+
+2023-01-18 12:12:41 Not Found Odds on Bet365..
+
+2023-01-18 12:12:48 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 12:12:48  *** MakeBet *** 
+
+2023-01-18 12:12:48 {"dbId":"","sport":"","country":"","league":"Turkey League Women","dateTime":"","match":"Besiktas femminile vs Dudullu SK femminile","score":"2:0","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 12:12:48 105.73
+
+2023-01-18 12:12:48 Current balance : 105.7
+
+2023-01-18 12:12:48 Current Balance : 105.7
+
+2023-01-18 12:12:49 Stake : 2
+
+2023-01-18 12:12:49 CheckIfLoggedIn
+
+2023-01-18 12:12:49 Logged In Already!
+
+2023-01-18 12:12:49 bet365.com
+
+2023-01-18 12:12:49 Wrong position detected!
+
+2023-01-18 12:12:54 Besiktas femminile v Dudullu SK femminile Dis :0.00476190476190475
+
+2023-01-18 12:13:00 Not Found Odds on Bet365..
+
+2023-01-18 12:13:03  *** MakeBet *** 
+
+2023-01-18 12:13:03 {"dbId":"","sport":"","country":"","league":"Turkey League Women","dateTime":"","match":"Besiktas femminile vs Dudullu SK femminile","score":"2:0","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 12:13:03 105.73
+
+2023-01-18 12:13:03 Current balance : 105.7
+
+2023-01-18 12:13:03 Current Balance : 105.7
+
+2023-01-18 12:13:04 Stake : 2
+
+2023-01-18 12:13:04 CheckIfLoggedIn
+
+2023-01-18 12:13:04 Logged In Already!
+
+2023-01-18 12:13:04 bet365.com
+
+2023-01-18 12:13:04 Wrong position detected!
+
+2023-01-18 12:13:10 Besiktas femminile v Dudullu SK femminile Dis :0.00476190476190475
+
+2023-01-18 12:13:16 Not Found Odds on Bet365..
+
+2023-01-18 12:13:31 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-18 12:13:31 The bot has been stopped!
+2023-01-18 12:13:53 Chrome_RenderWidgetHostHWND
+
+2023-01-18 12:13:53 Websocket server is listening on 8880
+
+2023-01-18 12:13:53 DoLogin
+
+2023-01-18 12:13:53 DoLoad365Page
+
+2023-01-18 12:13:58 365 page is loaded!
+
+2023-01-18 12:13:58 Executed login script!
+
+2023-01-18 12:14:05 DoLoad365Page
+
+2023-01-18 12:14:05 365 page is loaded!
+
+2023-01-18 12:14:05 LastLoginModule_Button Clicked
+
+2023-01-18 12:14:11 Login Success!
+
+2023-01-18 12:14:18 2 Settled bets!!!
+
+2023-01-18 12:14:18 Browser Connected!
+
+2023-01-18 12:14:22 The bot has been started!
+
+2023-01-18 12:14:22 DoLogin
+
+2023-01-18 12:14:22 DoLoad365Page
+
+2023-01-18 12:14:22 365 page is loaded!
+
+2023-01-18 12:14:22 Connected Socket Server!!!
+
+2023-01-18 12:14:25 105.73
+
+2023-01-18 12:14:25 Current balance : 105.7
+
+2023-01-18 12:14:26 Current Balance: 105.7
+
+2023-01-18 12:14:26 Page is initialized!
+
+2023-01-18 12:14:52 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 12:14:52  *** MakeBet *** 
+
+2023-01-18 12:14:52 {"dbId":"","sport":"","country":"","league":"Turkey League Women","dateTime":"","match":"Besiktas femminile vs Dudullu SK femminile","score":"2:0","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 12:14:52 105.73
+
+2023-01-18 12:14:52 Current balance : 105.7
+
+2023-01-18 12:14:52 Current Balance : 105.7
+
+2023-01-18 12:14:53 Stake : 2
+
+2023-01-18 12:14:53 CheckIfLoggedIn
+
+2023-01-18 12:14:53 Logged In Already!
+
+2023-01-18 12:14:53 bet365.com
+
+2023-01-18 12:15:04 Besiktas femminile v Dudullu SK femminile Dis :0.00476190476190475
+
+2023-01-18 12:15:05 Wrong position detected!
+
+2023-01-18 12:15:07 Running AddbetScript...
+
+2023-01-18 12:15:07 scrollBetIntoView('2040417') => 1
+
+2023-01-18 12:15:09 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-18 12:15:11 {
+  "bg": "2b829959-774b-4b79-af4e-29709ba9739f",
+  "sr": 0,
+  "mr": false,
+  "cc": "7o51nJeb98ir1Lc3YpW5lYVrfW92G7CiJiUP9iuivAg=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/7",
+      "fi": 131504952,
+      "fd": "Besiktas femminile v Dudullu SK femminile",
+      "pt": [
+        {
+          "hd": "3.5",
+          "pi": 2040417,
+          "bd": "Più di",
+          "ha": "3.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c7d4bf-B95973F9",
+      "tp": "BS131504952-2040417",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131426563,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-18 12:15:13 Fractional Odds : 4/7
+
+2023-01-18 12:15:13 Trademate Odds : 0 , Bet365 Odds : 1.57
+
+2023-01-18 12:15:13 Trying to place bet!
+
+2023-01-18 12:15:13 DoPlacebetUI
+
+2023-01-18 12:15:13 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-18 12:15:15 Trademate Odds : 0 , Bet365 Odds : 1.57
+
+2023-01-18 12:15:15 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-18 12:15:24 105.73
+
+2023-01-18 12:15:24 Current balance : 105.7
+
+2023-01-18 12:15:27 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.57
+
+2023-01-18 12:15:27 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.57",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.57,
+  "tournament": "Turkey League Women",
+  "eventName": "Besiktas femminile vs Dudullu SK femminile",
+  "probability": "OVER",
+  "market": "OVER 3.5",
+  "placedAt": "18/01/2023 12:15:24",
+  "selection": "OVER",
+  "handicap": 3.5,
+  "balance": 103.7,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-18 12:15:35 Trying to register tip at Bigstake
+
+2023-01-18 12:15:52 Registered tip at Bigstake Successfully!
+
+2023-01-18 12:15:55 This Line is already existed on Settled bets!
+
+2023-01-18 12:16:12 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 12:16:12 Pending bet is not finished.!
+
+2023-01-18 12:17:03 Recieve new Match Score From Copybet Server!
+
+2023-01-18 12:17:03 New Score is updated...
+
+2023-01-18 12:17:03 {"home":"Kariobangi Sharks","away":"Vihiga Bullets","score":"3:1","gameTime":0}
+
+2023-01-18 12:17:03 New Score : Kariobangi Sharks vs Vihiga Bullets  3:1
+
+2023-01-18 12:17:03 Pending tip Score : Besiktas femminile vs Dudullu SK femminile 2:0
+
+2023-01-18 12:26:10 Recieve new Match Score From Copybet Server!
+
+2023-01-18 12:26:10 New Score is updated...
+
+2023-01-18 12:26:10 {"home":"Besiktas Women","away":"Dudullu SK Women","score":"3:0","gameTime":0}
+
+2023-01-18 12:26:10 New Score : Besiktas Women vs Dudullu SK Women  3:0
+
+2023-01-18 12:26:10 Pending tip Score : Besiktas femminile vs Dudullu SK femminile 2:0
+
+2023-01-18 12:33:08 Recieve new Match Score From Copybet Server!
+
+2023-01-18 12:33:08 New Score is updated...
+
+2023-01-18 12:33:08 {"home":"Kariobangi Sharks","away":"Vihiga Bullets","score":"3:2","gameTime":0}
+
+2023-01-18 12:33:08 New Score : Kariobangi Sharks vs Vihiga Bullets  3:2
+
+2023-01-18 12:33:08 Pending tip Score : Besiktas femminile vs Dudullu SK femminile 2:0
+
+2023-01-18 12:34:26 LastLoginModule_Button Clicked
+
+2023-01-18 12:40:07 Recieve new Match Score From Copybet Server!
+
+2023-01-18 12:40:07 New Score is updated...
+
+2023-01-18 12:40:07 {"home":"Kariobangi Sharks","away":"Vihiga Bullets","score":"3:3","gameTime":0}
+
+2023-01-18 12:40:07 New Score : Kariobangi Sharks vs Vihiga Bullets  3:3
+
+2023-01-18 12:40:07 Pending tip Score : Besiktas femminile vs Dudullu SK femminile 2:0
+
+2023-01-18 12:40:08 Recieve new Match Score From Copybet Server!
+
+2023-01-18 12:40:08 New Score is updated...
+
+2023-01-18 12:40:08 {"home":"Besiktas Women","away":"Dudullu SK Women","score":"4:0","gameTime":0}
+
+2023-01-18 12:40:08 New Score : Besiktas Women vs Dudullu SK Women  4:0
+
+2023-01-18 12:40:08 Pending tip Score : Besiktas femminile vs Dudullu SK femminile 2:0
+
+2023-01-18 12:40:08 Pending Tip is winning now...
+
+2023-01-18 12:53:36 LastLoginModule_Button Clicked
+
+2023-01-18 12:57:04 Recieve new Match Score From Copybet Server!
+
+2023-01-18 12:57:04 New Score is updated...
+
+2023-01-18 12:57:04 {"home":"Kariobangi Sharks","away":"Vihiga Bullets","score":"3:3","gameTime":2}
+
+2023-01-18 13:02:16 Recieve new Match Score From Copybet Server!
+
+2023-01-18 13:02:16 New Score is updated...
+
+2023-01-18 13:02:16 {"home":"Besiktas Women","away":"Dudullu SK Women","score":"4:0","gameTime":2}
+
+2023-01-18 13:09:10 Disconnected Socket Server!!! || ping timeout
+
+2023-01-18 13:09:12 Connected Socket Server!!!
+
+2023-01-18 13:21:46 LastLoginModule_Button Clicked
+
+2023-01-18 13:30:18 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 13:30:18  *** MakeBet *** 
+
+2023-01-18 13:30:18 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"NK Maribor vs Aluminij Kidricevo","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":1.72,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 13:30:18 103.73
+
+2023-01-18 13:30:18 Current balance : 103.7
+
+2023-01-18 13:30:18 Current Balance : 103.7
+
+2023-01-18 13:30:19 Stake : 2
+
+2023-01-18 13:30:19 CheckIfLoggedIn
+
+2023-01-18 13:30:19 Logged In Already!
+
+2023-01-18 13:30:19 bet365.com
+
+2023-01-18 13:30:19 Wrong position detected!
+
+2023-01-18 13:30:24 Not Search Event
+
+2023-01-18 13:30:24 Wrong position detected!
+
+2023-01-18 13:30:29 Maribor v Aluminij Kidricevo Dis :0.148809523809524
+
+2023-01-18 13:30:30 Wrong position detected!
+
+2023-01-18 13:30:31 Running AddbetScript...
+
+2023-01-18 13:30:31 scrollBetIntoView('2146101487') => 1
+
+2023-01-18 13:30:33 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-18 13:30:35 {
+  "bg": "78865621-9dc3-4e6c-a0ae-162119d851dd",
+  "sr": 0,
+  "mr": false,
+  "cc": "16OD1wr2izvlVxnZneW9hm93UV6KySAZTGGF4+5kcoc=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/15",
+      "fi": 131469793,
+      "fd": "Maribor v Aluminij Kidricevo",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 2146101487,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c7e66b-8D8148D3",
+      "tp": "BS131469793-2146101487",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131469612,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-18 13:30:37 Fractional Odds : 8/15
+
+2023-01-18 13:30:37 Trademate Odds : 1.72 , Bet365 Odds : 1.53
+
+2023-01-18 13:30:37 The Odd is change from 1.72 to 1.53
+
+2023-01-18 13:30:40 This Line 'NK Maribor vs Aluminij Kidricevo' - 'OVER' is already existed on Failed bets!
+
+2023-01-18 13:34:20 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 13:34:20 This Line 'NK Maribor vs Aluminij Kidricevo' - 'OVER' is already existed on Failed bets!
+
+2023-01-18 13:34:20 This Line 'NK Maribor vs Aluminij Kidricevo' - 'OVER' is already existed on Failed bets!
+
+2023-01-18 13:34:53 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-18 13:34:53 The bot has been stopped!
+2023-01-18 13:35:22 Chrome_RenderWidgetHostHWND
+
+2023-01-18 13:35:22 Websocket server is listening on 8880
+
+2023-01-18 13:35:22 DoLogin
+
+2023-01-18 13:35:22 DoLoad365Page
+
+2023-01-18 13:35:27 365 page is loaded!
+
+2023-01-18 13:35:27 Executed login script!
+
+2023-01-18 13:35:35 DoLoad365Page
+
+2023-01-18 13:35:35 365 page is loaded!
+
+2023-01-18 13:35:35 LastLoginModule_Button Clicked
+
+2023-01-18 13:35:41 Login Success!
+
+2023-01-18 13:35:49 2 Settled bets!!!
+
+2023-01-18 13:35:49 Browser Connected!
+
+2023-01-18 13:35:56 The bot has been started!
+
+2023-01-18 13:35:56 DoLogin
+
+2023-01-18 13:35:56 DoLoad365Page
+
+2023-01-18 13:35:56 365 page is loaded!
+
+2023-01-18 13:35:57 Connected Socket Server!!!
+
+2023-01-18 13:35:59 106.87
+
+2023-01-18 13:35:59 LastLoginModule_Button Clicked
+
+2023-01-18 13:35:59 Current balance : 106.8
+
+2023-01-18 13:36:04 Current Balance: 106.8
+
+2023-01-18 13:36:04 Page is initialized!
+
+2023-01-18 13:36:27 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 13:36:27  *** MakeBet *** 
+
+2023-01-18 13:36:27 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"NK Maribor vs Aluminij Kidricevo","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":1.72,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 13:36:27 106.87
+
+2023-01-18 13:36:27 Current balance : 106.8
+
+2023-01-18 13:36:27 Current Balance : 106.8
+
+2023-01-18 13:36:28 Stake : 2
+
+2023-01-18 13:36:28 CheckIfLoggedIn
+
+2023-01-18 13:36:28 Logged In Already!
+
+2023-01-18 13:36:28 bet365.com
+
+2023-01-18 13:36:39 Not Search Event
+
+2023-01-18 13:36:39 Wrong position detected!
+
+2023-01-18 13:36:43 Maribor v Aluminij Kidricevo Dis :0.148809523809524
+
+2023-01-18 13:36:44 Wrong position detected!
+
+2023-01-18 13:36:46 Running AddbetScript...
+
+2023-01-18 13:36:47 scrollBetIntoView('2146101487') => 1
+
+2023-01-18 13:36:48 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-18 13:36:50 {
+  "bg": "69139c8a-e050-45cb-8bf9-1770a5f96b41",
+  "sr": 14,
+  "mr": false,
+  "cc": "IfYrafALR8q1NpRmYGmVI8gD+J2jf/Yqp7B5NXp/PZM=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "5/4",
+      "fi": 131469793,
+      "fd": "Maribor v Aluminij Kidricevo",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 2146101487,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c7e7e3-AF0F86E3",
+      "tp": "BS131469793-2146101487",
+      "oc": true,
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131469612,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "mi": "selections_changed",
+  "mv": "",
+  "bs": [],
+  "sc": 4
+}
+
+2023-01-18 13:36:52 Fractional Odds : 5/4
+
+2023-01-18 13:36:53 Trademate Odds : 1.72 , Bet365 Odds : 2.25
+
+2023-01-18 13:36:53 Trying to place bet!
+
+2023-01-18 13:36:53 DoPlacebetUI
+
+2023-01-18 13:36:53 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-18 13:36:55 Trademate Odds : 1.72 , Bet365 Odds : 2.25
+
+2023-01-18 13:36:55 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-18 13:37:04 106.87
+
+2023-01-18 13:37:04 Current balance : 106.8
+
+2023-01-18 13:37:07 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.25
+
+2023-01-18 13:37:07 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.25",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 2.25,
+  "tournament": "Europe Friendlies",
+  "eventName": "NK Maribor vs Aluminij Kidricevo",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "18/01/2023 13:37:04",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 104.8,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-18 13:37:15 Trying to register tip at Bigstake
+
+2023-01-18 13:37:34 Registered tip at Bigstake Successfully!
+
+2023-01-18 13:37:37 This Line is already existed on Settled bets!
+
+2023-01-18 13:47:05 Recieve new Match Score From Copybet Server!
+
+2023-01-18 13:47:05 New Score is updated...
+
+2023-01-18 13:47:05 {"home":"NK Maribor","away":"Aluminij Kidricevo","score":"0:0","gameTime":1}
+
+2023-01-18 13:47:05 New Score : NK Maribor vs Aluminij Kidricevo  0:0
+
+2023-01-18 13:47:05 Pending tip Score : NK Maribor vs Aluminij Kidricevo 0:0
+
+2023-01-18 13:47:05 Pending Tip is lost now...
+
+2023-01-18 13:48:57 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-18 13:48:57 The bot has been stopped!
+2023-01-18 14:03:59 Chrome_RenderWidgetHostHWND
+
+2023-01-18 14:03:59 Websocket server is listening on 8880
+
+2023-01-18 14:03:59 DoLogin
+
+2023-01-18 14:03:59 DoLoad365Page
+
+2023-01-18 14:04:04 365 page is loaded!
+
+2023-01-18 14:04:04 Executed login script!
+
+2023-01-18 14:04:12 DoLoad365Page
+
+2023-01-18 14:04:12 365 page is loaded!
+
+2023-01-18 14:04:12 LastLoginModule_Button Clicked
+
+2023-01-18 14:04:18 Login Success!
+
+2023-01-18 14:04:25 2 Settled bets!!!
+
+2023-01-18 14:04:25 Browser Connected!
+
+2023-01-18 14:04:35 The bot has been started!
+
+2023-01-18 14:04:35 DoLogin
+
+2023-01-18 14:04:35 DoLoad365Page
+
+2023-01-18 14:04:35 365 page is loaded!
+
+2023-01-18 14:04:36 Connected Socket Server!!!
+
+2023-01-18 14:04:38 LastLoginModule_Button Clicked
+
+2023-01-18 14:04:38 104.87
+
+2023-01-18 14:04:38 Current balance : 104.8
+
+2023-01-18 14:04:43 Current Balance: 104.8
+
+2023-01-18 14:04:43 Page is initialized!
+
+2023-01-18 14:04:51 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 14:04:51  *** MakeBet *** 
+
+2023-01-18 14:04:51 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"LKS Lodz vs Pogon Siedlce","score":"1:2","EW":"0","marketName":"OVER 4.5","selection":"OVER","odds":0.0,"handicap":4.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 14:04:51 104.87
+
+2023-01-18 14:04:51 Current balance : 104.8
+
+2023-01-18 14:04:51 Current Balance : 104.8
+
+2023-01-18 14:04:53 Stake : 3
+
+2023-01-18 14:04:53 CheckIfLoggedIn
+
+2023-01-18 14:04:53 Logged In Already!
+
+2023-01-18 14:04:53 bet365.com
+
+2023-01-18 14:05:03 LKS Lodz v Pogon Siedlce Dis :0.00800000000000001
+
+2023-01-18 14:05:03 Wrong position detected!
+
+2023-01-18 14:05:06 Running AddbetScript...
+
+2023-01-18 14:05:06 scrollBetIntoView('1606149') => 1
+
+2023-01-18 14:05:07 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-18 14:05:09 {
+  "bg": "0f88990d-416e-4bc8-875f-3456b2d43241",
+  "sr": 0,
+  "mr": false,
+  "cc": "fhruE9ABo39EjSYDr0m1uUxF9WBzHiH8MDGpyyrPG3Y=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/7",
+      "fi": 131500802,
+      "fd": "LKS Lodz v Pogon Siedlce",
+      "pt": [
+        {
+          "hd": "4.5",
+          "pi": 1606149,
+          "bd": "Più di",
+          "ha": "4.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c7ee86-52DCF3AD",
+      "tp": "BS131500802-1606149",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131426265,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-18 14:05:11 Fractional Odds : 4/7
+
+2023-01-18 14:05:11 Trademate Odds : 0 , Bet365 Odds : 1.57
+
+2023-01-18 14:05:11 Trying to place bet!
+
+2023-01-18 14:05:11 DoPlacebetUI
+
+2023-01-18 14:05:11 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-18 14:05:14 Trademate Odds : 0 , Bet365 Odds : 1.57
+
+2023-01-18 14:05:14 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-18 14:05:23 104.87
+
+2023-01-18 14:05:23 Current balance : 104.8
+
+2023-01-18 14:05:26 [salvigrimaldi:Test123.] SUCCESS. Stake:3 Odds:1.57
+
+2023-01-18 14:05:26 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:3 Odds:1.57",
+  "stake": 3.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.57,
+  "tournament": "Europe Friendlies",
+  "eventName": "LKS Lodz vs Pogon Siedlce",
+  "probability": "OVER",
+  "market": "OVER 4.5",
+  "placedAt": "18/01/2023 14:05:23",
+  "selection": "OVER",
+  "handicap": 4.5,
+  "balance": 101.8,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-18 14:05:34 Trying to register tip at Bigstake
+
+2023-01-18 14:05:51 Registered tip at Bigstake Successfully!
+
+2023-01-18 14:05:54 This Line is already existed on Settled bets!
+
+2023-01-18 14:18:18 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 14:18:18 Pending bet is not finished.!
+
+2023-01-18 14:22:05 Recieve new Match Score From Copybet Server!
+
+2023-01-18 14:22:05 New Score is updated...
+
+2023-01-18 14:22:05 {"home":"LKS Lodz","away":"Pogon Siedlce","score":"1:3","gameTime":0}
+
+2023-01-18 14:22:05 New Score : LKS Lodz vs Pogon Siedlce  1:3
+
+2023-01-18 14:22:05 Pending tip Score : LKS Lodz vs Pogon Siedlce 1:2
+
+2023-01-18 14:24:46 LastLoginModule_Button Clicked
+
+2023-01-18 14:24:56 LastLoginModule_Button Clicked
+
+2023-01-18 14:25:06 LastLoginModule_Button Clicked
+
+2023-01-18 14:25:16 LastLoginModule_Button Clicked
+
+2023-01-18 14:25:26 LastLoginModule_Button Clicked
+
+2023-01-18 14:25:36 LastLoginModule_Button Clicked
+
+2023-01-18 14:28:19 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 14:28:19 Pending bet is not finished.!
+
+2023-01-18 14:36:05 Recieve new Match Score From Copybet Server!
+
+2023-01-18 14:36:05 New Score is updated...
+
+2023-01-18 14:36:05 {"home":"NK Maribor","away":"Aluminij Kidricevo","score":"1:0","gameTime":0}
+
+2023-01-18 14:36:05 New Score : NK Maribor vs Aluminij Kidricevo  1:0
+
+2023-01-18 14:36:05 Pending tip Score : LKS Lodz vs Pogon Siedlce 1:2
+
+2023-01-18 14:47:05 Recieve new Match Score From Copybet Server!
+
+2023-01-18 14:47:05 New Score is updated...
+
+2023-01-18 14:47:05 {"home":"NK Maribor","away":"Aluminij Kidricevo","score":"2:0","gameTime":0}
+
+2023-01-18 14:47:05 New Score : NK Maribor vs Aluminij Kidricevo  2:0
+
+2023-01-18 14:47:05 Pending tip Score : LKS Lodz vs Pogon Siedlce 1:2
+
+2023-01-18 14:48:04 Recieve new Match Score From Copybet Server!
+
+2023-01-18 14:48:04 New Score is updated...
+
+2023-01-18 14:48:04 {"home":"Grasshoppers","away":"FC Schaffhausen","score":"0:0","gameTime":1}
+
+2023-01-18 14:48:04 New Score : Grasshoppers vs FC Schaffhausen  0:0
+
+2023-01-18 14:48:04 Pending tip Score : LKS Lodz vs Pogon Siedlce 1:2
+
+2023-01-18 14:54:06 Recieve new Match Score From Copybet Server!
+
+2023-01-18 14:54:06 New Score is updated...
+
+2023-01-18 14:54:06 {"home":"LKS Lodz","away":"Pogon Siedlce","score":"1:3","gameTime":2}
+
+2023-01-18 14:54:06 New Score : LKS Lodz vs Pogon Siedlce  1:3
+
+2023-01-18 14:54:06 Pending tip Score : LKS Lodz vs Pogon Siedlce 1:2
+
+2023-01-18 14:54:06 Pending Tip is lost now...
+
+2023-01-18 14:55:06 Recieve new Match Score From Copybet Server!
+
+2023-01-18 14:55:06 New Score is updated...
+
+2023-01-18 14:55:06 {"home":"NK Maribor","away":"Aluminij Kidricevo","score":"2:0","gameTime":2}
+
+2023-01-18 15:03:17 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 15:03:17  *** MakeBet *** 
+
+2023-01-18 15:03:17 {"dbId":"","sport":"","country":"","league":"Greece Gamma Ethniki","dateTime":"","match":"Thermaikos Thermis vs Nestos Chrisoupolis","score":"0:1","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 15:03:22 
+
+2023-01-18 15:03:22 Current Balance : -1
+
+2023-01-18 15:03:23 Stake : 5
+
+2023-01-18 15:03:23 CheckIfLoggedIn
+
+2023-01-18 15:03:23 DoLogin
+
+2023-01-18 15:03:23 DoLoad365Page
+
+2023-01-18 15:03:23 365 page is loaded!
+
+2023-01-18 15:03:23 Executed login script!
+
+2023-01-18 15:03:55 DoLoad365Page
+
+2023-01-18 15:03:55 365 page is loaded!
+
+2023-01-18 15:04:03 Executed login script!
+
+2023-01-18 15:04:05 Recieve new Match Score From Copybet Server!
+
+2023-01-18 15:04:05 New Score is updated...
+
+2023-01-18 15:04:05 {"home":"Grasshoppers","away":"FC Schaffhausen","score":"0:0","gameTime":1}
+
+2023-01-18 15:04:12 DoLoad365Page
+
+2023-01-18 15:04:12 365 page is loaded!
+
+2023-01-18 15:04:12 LastLoginModule_Button Clicked
+
+2023-01-18 15:04:17 Login Success!
+
+2023-01-18 15:04:21 bet365.com
+
+2023-01-18 15:04:32 Thermaikos Thermis v Nestos Chrisoupolis Dis :0.0548780487804877
+
+2023-01-18 15:04:33 Wrong position detected!
+
+2023-01-18 15:04:36 Running AddbetScript...
+
+2023-01-18 15:04:36 scrollBetIntoView('1695858') => 1
+
+2023-01-18 15:04:38 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-18 15:04:40 {
+  "bg": "e0716af6-3093-4a0f-b4e7-65eed10b1d07",
+  "sr": 0,
+  "mr": false,
+  "cc": "l3ofvGQEa71MrpLBCD2EvTXw1k42si8BRRchkKL4reQ=",
+  "ir": true,
+  "vr": "779",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "13/8",
+      "fi": 131501596,
+      "fd": "Thermaikos Thermis v Nestos Chrisoupolis",
+      "pt": [
+        {
+          "hd": "2.5",
+          "pi": 1695858,
+          "bd": "Più di",
+          "ha": "2.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c7fc78-86252E66",
+      "tp": "BS131501596-1695858",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131426350,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-18 15:04:42 Fractional Odds : 13/8
+
+2023-01-18 15:04:42 Trademate Odds : 0 , Bet365 Odds : 2.62
+
+2023-01-18 15:04:42 Trying to place bet!
+
+2023-01-18 15:04:42 DoPlacebetUI
+
+2023-01-18 15:04:42 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-18 15:04:44 Trademate Odds : 0 , Bet365 Odds : 2.62
+
+2023-01-18 15:04:44 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-18 15:04:53 101.87
+
+2023-01-18 15:04:53 Current balance : 101.8
+
+2023-01-18 15:04:56 [salvigrimaldi:Test123.] SUCCESS. Stake:5 Odds:2.624
+
+2023-01-18 15:04:56 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:5 Odds:2.624",
+  "stake": 5.0,
+  "tipSource": "TELEGRAM",
+  "odds": 2.6239999999999997,
+  "tournament": "Greece Gamma Ethniki",
+  "eventName": "Thermaikos Thermis vs Nestos Chrisoupolis",
+  "probability": "OVER",
+  "market": "OVER 2.5",
+  "placedAt": "18/01/2023 15:04:53",
+  "selection": "OVER",
+  "handicap": 2.5,
+  "balance": 96.8,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-18 15:05:04 Trying to register tip at Bigstake
+
+2023-01-18 15:05:22 Registered tip at Bigstake Successfully!
+
+2023-01-18 15:05:25 This Line is already existed on Settled bets!
+
+2023-01-18 15:06:11 Disconnected Socket Server!!! || ping timeout
+
+2023-01-18 15:06:12 Connected Socket Server!!!
+
+2023-01-18 15:30:05 Recieve new Match Score From Copybet Server!
+
+2023-01-18 15:30:05 New Score is updated...
+
+2023-01-18 15:30:05 {"home":"Thermaikos Thermis","away":"Nestos Chrisoupolis","score":"1:1","gameTime":0}
+
+2023-01-18 15:30:05 New Score : Thermaikos Thermis vs Nestos Chrisoupolis  1:1
+
+2023-01-18 15:30:05 Pending tip Score : Thermaikos Thermis vs Nestos Chrisoupolis 0:1
+
+2023-01-18 15:34:05 Recieve new Match Score From Copybet Server!
+
+2023-01-18 15:34:05 New Score is updated...
+
+2023-01-18 15:34:05 {"home":"Thermaikos Thermis","away":"Nestos Chrisoupolis","score":"1:2","gameTime":0}
+
+2023-01-18 15:34:05 New Score : Thermaikos Thermis vs Nestos Chrisoupolis  1:2
+
+2023-01-18 15:34:05 Pending tip Score : Thermaikos Thermis vs Nestos Chrisoupolis 0:1
+
+2023-01-18 15:34:05 Pending Tip is winning now...
+
+2023-01-18 15:45:04 Recieve new Match Score From Copybet Server!
+
+2023-01-18 15:45:04 New Score is updated...
+
+2023-01-18 15:45:04 {"home":"Grasshoppers","away":"FC Schaffhausen","score":"1:0","gameTime":0}
+
+2023-01-18 15:45:15 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 15:45:15  *** MakeBet *** 
+
+2023-01-18 15:45:15 {"dbId":"","sport":"","country":"","league":"Cameroon League Women","dateTime":"","match":"Louves Minproff Women vs Authentic de Douala Women","score":"0:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 15:45:15 109.97
+
+2023-01-18 15:45:15 Current balance : 109.9
+
+2023-01-18 15:45:15 Current Balance : 109.9
+
+2023-01-18 15:45:16 Stake : 6
+
+2023-01-18 15:45:16 CheckIfLoggedIn
+
+2023-01-18 15:45:16 Logged In Already!
+
+2023-01-18 15:45:16 bet365.com
+
+2023-01-18 15:45:27 Not Search Event
+
+2023-01-18 15:45:27 Wrong position detected!
+
+2023-01-18 15:45:32 Not Search Event
+
+2023-01-18 15:45:34 Wrong position detected!
+
+2023-01-18 15:45:41 Not Search Event
+
+2023-01-18 15:45:41 Wrong position detected!
+
+2023-01-18 15:45:45 Not Search Event
+
+2023-01-18 15:45:47 Wrong position detected!
+
+2023-01-18 15:45:53 Not Search Event
+
+2023-01-18 15:45:53 Wrong position detected!
+
+2023-01-18 15:45:58 Not Search Event
+
+2023-01-18 15:45:59 Not Found Event on Bet365...
+
+2023-01-18 15:46:02  *** MakeBet *** 
+
+2023-01-18 15:46:02 {"dbId":"","sport":"","country":"","league":"Cameroon League Women","dateTime":"","match":"Louves Minproff Women vs Authentic de Douala Women","score":"0:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 15:46:02 109.97
+
+2023-01-18 15:46:02 Current balance : 109.9
+
+2023-01-18 15:46:02 Current Balance : 109.9
+
+2023-01-18 15:46:03 Stake : 6
+
+2023-01-18 15:46:03 CheckIfLoggedIn
+
+2023-01-18 15:46:03 Logged In Already!
+
+2023-01-18 15:46:03 bet365.com
+
+2023-01-18 15:46:03 Wrong position detected!
+
+2023-01-18 15:46:09 Not Search Event
+
+2023-01-18 15:46:09 Wrong position detected!
+
+2023-01-18 15:46:20 Not Found Odds on Bet365..
+
+2023-01-18 15:46:29 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 15:46:29  *** MakeBet *** 
+
+2023-01-18 15:46:29 {"dbId":"","sport":"","country":"","league":"Cameroon League Women","dateTime":"","match":"Louves Minproff vs Authentic de Douala","score":"0:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 15:46:29 109.97
+
+2023-01-18 15:46:29 Current balance : 109.9
+
+2023-01-18 15:46:29 Current Balance : 109.9
+
+2023-01-18 15:46:30 Stake : 6
+
+2023-01-18 15:46:30 CheckIfLoggedIn
+
+2023-01-18 15:46:30 Logged In Already!
+
+2023-01-18 15:46:30 bet365.com
+
+2023-01-18 15:46:30 Wrong position detected!
+
+2023-01-18 15:46:36 Louves Minproff femminile v Authentic de Douala femminile Dis :0.124087245139877
+
+2023-01-18 15:46:42 Not Found Odds on Bet365..
+
+2023-01-18 15:46:45  *** MakeBet *** 
+
+2023-01-18 15:46:45 {"dbId":"","sport":"","country":"","league":"Cameroon League Women","dateTime":"","match":"Louves Minproff vs Authentic de Douala","score":"0:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 15:46:45 109.97
+
+2023-01-18 15:46:45 Current balance : 109.9
+
+2023-01-18 15:46:45 Current Balance : 109.9
+
+2023-01-18 15:46:46 Stake : 6
+
+2023-01-18 15:46:46 CheckIfLoggedIn
+
+2023-01-18 15:46:46 Logged In Already!
+
+2023-01-18 15:46:46 bet365.com
+
+2023-01-18 15:46:46 Wrong position detected!
+
+2023-01-18 15:46:52 Louves Minproff femminile v Authentic de Douala femminile Dis :0.124087245139877
+
+2023-01-18 15:46:57 Not Found Odds on Bet365..
+
+2023-01-18 15:47:11 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 15:47:11  *** MakeBet *** 
+
+2023-01-18 15:47:11 {"dbId":"","sport":"","country":"","league":"Cameroon League Women","dateTime":"","match":"Louves Minproff femminile vs Authentic de Douala femminile","score":"0:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 15:47:11 109.97
+
+2023-01-18 15:47:11 Current balance : 109.9
+
+2023-01-18 15:47:11 Current Balance : 109.9
+
+2023-01-18 15:47:12 Stake : 6
+
+2023-01-18 15:47:12 CheckIfLoggedIn
+
+2023-01-18 15:47:12 Logged In Already!
+
+2023-01-18 15:47:12 bet365.com
+
+2023-01-18 15:47:12 Wrong position detected!
+
+2023-01-18 15:47:18 Louves Minproff femminile v Authentic de Douala femminile Dis :0.00344827586206897
+
+2023-01-18 15:47:24 Not Found Odds on Bet365..
+
+2023-01-18 15:47:27  *** MakeBet *** 
+
+2023-01-18 15:47:27 {"dbId":"","sport":"","country":"","league":"Cameroon League Women","dateTime":"","match":"Louves Minproff femminile vs Authentic de Douala femminile","score":"0:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 15:47:27 109.97
+
+2023-01-18 15:47:27 Current balance : 109.9
+
+2023-01-18 15:47:27 Current Balance : 109.9
+
+2023-01-18 15:47:27 Stake : 6
+
+2023-01-18 15:47:27 CheckIfLoggedIn
+
+2023-01-18 15:47:27 Logged In Already!
+
+2023-01-18 15:47:27 bet365.com
+
+2023-01-18 15:47:27 Wrong position detected!
+
+2023-01-18 15:47:34 Louves Minproff femminile v Authentic de Douala femminile Dis :0.00344827586206897
+
+2023-01-18 15:47:39 Not Found Odds on Bet365..
+
+2023-01-18 15:51:36 Disconnected Socket Server!!! || ping timeout
+
+2023-01-18 15:51:37 Connected Socket Server!!!
+
+2023-01-18 15:53:04 Recieve new Match Score From Copybet Server!
+
+2023-01-18 15:53:04 New Score is updated...
+
+2023-01-18 15:53:04 {"home":"Grasshoppers","away":"FC Schaffhausen","score":"1:0","gameTime":2}
+
+2023-01-18 16:03:03 Recieve new Match Score From Copybet Server!
+
+2023-01-18 16:03:03 New Score is updated...
+
+2023-01-18 16:03:03 {"home":"Thermaikos Thermis","away":"Nestos Chrisoupolis","score":"1:2","gameTime":2}
+
+2023-01-18 16:05:02 Recieve new Match Score From Copybet Server!
+
+2023-01-18 16:05:02 New Score is updated...
+
+2023-01-18 16:05:02 {"home":"Louves Minproff Women","away":"Authentic de Douala Women","score":"0:0","gameTime":1}
+
+2023-01-18 16:05:52 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 16:05:52  *** MakeBet *** 
+
+2023-01-18 16:05:52 {"dbId":"","sport":"","country":"","league":"Cameroon League Women","dateTime":"","match":"Louves Minproff femminile vs Authentic de Douala femminile","score":"0:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 16:05:52 109.97
+
+2023-01-18 16:05:52 Current balance : 109.9
+
+2023-01-18 16:05:52 Current Balance : 109.9
+
+2023-01-18 16:05:53 Stake : 6
+
+2023-01-18 16:05:53 CheckIfLoggedIn
+
+2023-01-18 16:05:53 Logged In Already!
+
+2023-01-18 16:05:53 bet365.com
+
+2023-01-18 16:06:05 Louves Minproff femminile v Authentic de Douala femminile Dis :0.00344827586206897
+
+2023-01-18 16:06:06 Wrong position detected!
+
+2023-01-18 16:06:08 Running AddbetScript...
+
+2023-01-18 16:06:08 scrollBetIntoView('2963943') => 1
+
+2023-01-18 16:06:10 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-18 16:06:12 {
+  "bg": "70523e27-9152-4e59-94ef-27382e9de3a8",
+  "sr": 0,
+  "mr": false,
+  "cc": "gZg/JEN3u3yVS00tGgSzyJggjpiYaNT1ZBfj5/tGsc4=",
+  "ir": true,
+  "vr": "779",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/6",
+      "fi": 131515018,
+      "fd": "Louves Minproff femminile v Authentic de Douala femminile",
+      "pt": [
+        {
+          "hd": "1.5",
+          "pi": 2963943,
+          "bd": "Più di",
+          "ha": "1.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c80ae5-AAE7B3C3",
+      "tp": "BS131515018-2963943",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131514173,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-18 16:06:14 Fractional Odds : 4/6
+
+2023-01-18 16:06:14 Trademate Odds : 0 , Bet365 Odds : 1.66
+
+2023-01-18 16:06:14 Trying to place bet!
+
+2023-01-18 16:06:14 DoPlacebetUI
+
+2023-01-18 16:06:14 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-18 16:06:16 Trademate Odds : 0 , Bet365 Odds : 1.66
+
+2023-01-18 16:06:16 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-18 16:06:25 109.97
+
+2023-01-18 16:06:25 Current balance : 109.9
+
+2023-01-18 16:06:29 [salvigrimaldi:Test123.] SUCCESS. Stake:6 Odds:1.66666666666667
+
+2023-01-18 16:06:29 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:6 Odds:1.66666666666667",
+  "stake": 6.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.6666666666666667,
+  "tournament": "Cameroon League Women",
+  "eventName": "Louves Minproff femminile vs Authentic de Douala femminile",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "18/01/2023 16:06:25",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 103.9,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-18 16:06:37 Trying to register tip at Bigstake
+
+2023-01-18 16:06:56 Registered tip at Bigstake Successfully!
+
+2023-01-18 16:06:59 This Line is already existed on Settled bets!
+
+2023-01-18 16:15:13 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 16:15:13 Pending bet is not finished.!
+
+2023-01-18 16:16:03 Recieve new Match Score From Copybet Server!
+
+2023-01-18 16:16:03 New Score is updated...
+
+2023-01-18 16:16:03 {"home":"Leopard Sportif de Douala","away":"Unisport Bafang","score":"0:1","gameTime":0}
+
+2023-01-18 16:16:03 New Score : Leopard Sportif de Douala vs Unisport Bafang  0:1
+
+2023-01-18 16:16:03 Pending tip Score : Louves Minproff femminile vs Authentic de Douala femminile 0:0
+
+2023-01-18 16:25:48 LastLoginModule_Button Clicked
+
+2023-01-18 16:25:58 LastLoginModule_Button Clicked
+
+2023-01-18 16:26:08 LastLoginModule_Button Clicked
+
+2023-01-18 16:45:18 LastLoginModule_Button Clicked
+
+2023-01-18 16:50:03 Recieve new Match Score From Copybet Server!
+
+2023-01-18 16:50:03 New Score is updated...
+
+2023-01-18 16:50:03 {"home":"Leopard Sportif de Douala","away":"Unisport Bafang","score":"0:2","gameTime":0}
+
+2023-01-18 16:50:03 New Score : Leopard Sportif de Douala vs Unisport Bafang  0:2
+
+2023-01-18 16:50:03 Pending tip Score : Louves Minproff femminile vs Authentic de Douala femminile 0:0
+
+2023-01-18 16:56:04 Recieve new Match Score From Copybet Server!
+
+2023-01-18 16:56:04 New Score is updated...
+
+2023-01-18 16:56:04 {"home":"Leopard Sportif de Douala","away":"Unisport Bafang","score":"0:2","gameTime":2}
+
+2023-01-18 16:56:04 New Score : Leopard Sportif de Douala vs Unisport Bafang  0:2
+
+2023-01-18 16:56:04 Pending tip Score : Louves Minproff femminile vs Authentic de Douala femminile 0:0
+
+2023-01-18 17:00:05 Recieve new Match Score From Copybet Server!
+
+2023-01-18 17:00:05 New Score is updated...
+
+2023-01-18 17:00:05 {"home":"Louves Minproff Women","away":"Authentic de Douala Women","score":"0:0","gameTime":2}
+
+2023-01-18 17:00:05 New Score : Louves Minproff Women vs Authentic de Douala Women  0:0
+
+2023-01-18 17:00:05 Pending tip Score : Louves Minproff femminile vs Authentic de Douala femminile 0:0
+
+2023-01-18 17:00:05 Pending Tip is lost now...
+
+2023-01-18 17:09:07 Disconnected Socket Server!!! || transport close
+
+2023-01-18 17:09:09 Connected Socket Server!!!
+
+2023-01-18 17:11:28 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 17:11:28  *** MakeBet *** 
+
+2023-01-18 17:11:28 {"dbId":"","sport":"","country":"","league":"Greece Cup","dateTime":"","match":"AEK Athens vs Panserraikos","score":"0:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 17:11:28 103.97
+
+2023-01-18 17:11:28 Current balance : 103.9
+
+2023-01-18 17:11:29 Current Balance : 103.9
+
+2023-01-18 17:11:29 Stake : 7
+
+2023-01-18 17:11:29 CheckIfLoggedIn
+
+2023-01-18 17:11:29 Logged In Already!
+
+2023-01-18 17:11:29 bet365.com
+
+2023-01-18 17:11:29 Wrong position detected!
+
+2023-01-18 17:11:35 Not Search Event
+
+2023-01-18 17:11:35 Wrong position detected!
+
+2023-01-18 17:11:39 Panserraikos v Iraklis Larissa Dis :0.365527065527066
+
+2023-01-18 17:11:39 AEK Atene v Panserraikos Dis :0.0835841694537347
+
+2023-01-18 17:11:40 Wrong position detected!
+
+2023-01-18 17:11:42 Running AddbetScript...
+
+2023-01-18 17:11:42 scrollBetIntoView('2157508') => 1
+
+2023-01-18 17:11:44 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-18 17:11:46 {
+  "bg": "156bef8f-61e2-4b1b-8cd1-a01982b8ed24",
+  "sr": 0,
+  "mr": false,
+  "cc": "J6RJ+Nl1+oh0deVjbdw6lgdzebMOmo9rA6H32MW0ulQ=",
+  "ir": true,
+  "vr": "779",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/13",
+      "fi": 131506046,
+      "fd": "AEK Atene v Panserraikos",
+      "pt": [
+        {
+          "hd": "1.5",
+          "pi": 2157508,
+          "bd": "Più di",
+          "ha": "1.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c81a43-27B4A50C",
+      "tp": "BS131506046-2157508",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131323974,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-18 17:11:48 Fractional Odds : 8/13
+
+2023-01-18 17:11:48 Trademate Odds : 0 , Bet365 Odds : 1.61
+
+2023-01-18 17:11:48 Trying to place bet!
+
+2023-01-18 17:11:48 DoPlacebetUI
+
+2023-01-18 17:11:48 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-18 17:11:50 Trademate Odds : 0 , Bet365 Odds : 1.61
+
+2023-01-18 17:11:50 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-18 17:12:00 103.97
+
+2023-01-18 17:12:00 Current balance : 103.9
+
+2023-01-18 17:12:03 [salvigrimaldi:Test123.] SUCCESS. Stake:7 Odds:1.61428571428571
+
+2023-01-18 17:12:03 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:7 Odds:1.61428571428571",
+  "stake": 7.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.6142857142857143,
+  "tournament": "Greece Cup",
+  "eventName": "AEK Athens vs Panserraikos",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "18/01/2023 17:12:00",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 96.9,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-18 17:12:11 Trying to register tip at Bigstake
+
+2023-01-18 17:12:28 Registered tip at Bigstake Successfully!
+
+2023-01-18 17:12:31 This Line is already existed on Settled bets!
+
+2023-01-18 17:17:04 Recieve new Match Score From Copybet Server!
+
+2023-01-18 17:17:04 New Score is updated...
+
+2023-01-18 17:17:04 {"home":"AEK Athens","away":"Panserraikos","score":"0:0","gameTime":1}
+
+2023-01-18 17:17:04 New Score : AEK Athens vs Panserraikos  0:0
+
+2023-01-18 17:17:04 Pending tip Score : AEK Athens vs Panserraikos 0:0
+
+2023-01-18 17:27:13 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 17:27:13 Pending bet is not finished.!
+
+2023-01-18 17:31:38 LastLoginModule_Button Clicked
+
+2023-01-18 17:34:03 Recieve new Match Score From Copybet Server!
+
+2023-01-18 17:34:03 New Score is updated...
+
+2023-01-18 17:34:03 {"home":"AEK Athens","away":"Panserraikos","score":"0:0","gameTime":1}
+
+2023-01-18 17:34:03 New Score : AEK Athens vs Panserraikos  0:0
+
+2023-01-18 17:34:03 Pending tip Score : AEK Athens vs Panserraikos 0:0
+
+2023-01-18 17:43:03 Recieve new Match Score From Copybet Server!
+
+2023-01-18 17:43:03 New Score is updated...
+
+2023-01-18 17:43:03 {"home":"AEK Athens","away":"Panserraikos","score":"1:0","gameTime":0}
+
+2023-01-18 17:43:03 New Score : AEK Athens vs Panserraikos  1:0
+
+2023-01-18 17:43:03 Pending tip Score : AEK Athens vs Panserraikos 0:0
+
+2023-01-18 17:50:48 LastLoginModule_Button Clicked
+
+2023-01-18 17:55:03 Recieve new Match Score From Copybet Server!
+
+2023-01-18 17:55:03 New Score is updated...
+
+2023-01-18 17:55:03 {"home":"AEK Athens","away":"Panserraikos","score":"2:0","gameTime":0}
+
+2023-01-18 17:55:03 New Score : AEK Athens vs Panserraikos  2:0
+
+2023-01-18 17:55:03 Pending tip Score : AEK Athens vs Panserraikos 0:0
+
+2023-01-18 17:55:03 Pending Tip is winning now...
+
+2023-01-18 17:57:04 Recieve new Match Score From Copybet Server!
+
+2023-01-18 17:57:04 New Score is updated...
+
+2023-01-18 17:57:04 {"home":"FC Robo Women","away":"Adamawa Queens Women","score":"3:0","gameTime":2}
+
+2023-01-18 18:09:58 LastLoginModule_Button Clicked
+
+2023-01-18 18:18:03 Recieve new Match Score From Copybet Server!
+
+2023-01-18 18:18:03 New Score is updated...
+
+2023-01-18 18:18:03 {"home":"AEK Athens","away":"Panserraikos","score":"3:0","gameTime":0}
+
+2023-01-18 18:20:13 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 18:20:13  *** MakeBet *** 
+
+2023-01-18 18:20:13 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"Nyiregyhaza vs Senyo Carnifex","score":"6:0","EW":"0","marketName":"OVER 6.5","selection":"OVER","odds":0.0,"handicap":6.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 18:20:13 96.97
+
+2023-01-18 18:20:13 Current balance : 96.9
+
+2023-01-18 18:20:13 Current Balance : 96.9
+
+2023-01-18 18:20:14 Stake : 9
+
+2023-01-18 18:20:14 CheckIfLoggedIn
+
+2023-01-18 18:20:14 Logged In Already!
+
+2023-01-18 18:20:14 bet365.com
+
+2023-01-18 18:20:14 Wrong position detected!
+
+2023-01-18 18:20:20 Nyiregyhaza v Senyo Carnifex Dis :0.00689655172413794
+
+2023-01-18 18:20:21 Wrong position detected!
+
+2023-01-18 18:21:34 Running AddbetScript...
+
+2023-01-18 18:21:34 scrollBetIntoView('2642706') => 1
+
+2023-01-18 18:21:36 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-18 18:21:37 {
+  "bg": "6befc4cb-9e19-4acf-bca0-41cc39c87b6d",
+  "sr": 0,
+  "mr": false,
+  "cc": "T2sYaBuJh/7NIwwuR9ZcfYGanx1cEO5+GEOvZ74Qy5I=",
+  "ir": true,
+  "vr": "779",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "2/5",
+      "fi": 131511275,
+      "fd": "Nyiregyhaza v Senyo Carnifex",
+      "pt": [
+        {
+          "hd": "6.5",
+          "pi": 2642706,
+          "bd": "Più di",
+          "ha": "6.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c82aa2-4A611992",
+      "tp": "BS131511275-2642706",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131504986,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-18 18:21:39 Fractional Odds : 2/5
+
+2023-01-18 18:21:39 Trademate Odds : 0 , Bet365 Odds : 1.4
+
+2023-01-18 18:21:39 Trying to place bet!
+
+2023-01-18 18:21:39 DoPlacebetUI
+
+2023-01-18 18:21:39 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-18 18:21:42 Trademate Odds : 0 , Bet365 Odds : 1.4
+
+2023-01-18 18:21:42 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-18 18:21:51 96.97
+
+2023-01-18 18:21:51 Current balance : 96.9
+
+2023-01-18 18:21:54 [salvigrimaldi:Test123.] SUCCESS. Stake:9 Odds:1.4
+
+2023-01-18 18:21:54 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:9 Odds:1.4",
+  "stake": 9.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.4,
+  "tournament": "Europe Friendlies",
+  "eventName": "Nyiregyhaza vs Senyo Carnifex",
+  "probability": "OVER",
+  "market": "OVER 6.5",
+  "placedAt": "18/01/2023 18:21:51",
+  "selection": "OVER",
+  "handicap": 6.5,
+  "balance": 87.9,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-18 18:22:02 Trying to register tip at Bigstake
+
+2023-01-18 18:22:20 Registered tip at Bigstake Successfully!
+
+2023-01-18 18:22:23 This Line is already existed on Settled bets!
+
+2023-01-18 18:33:04 Recieve new Match Score From Copybet Server!
+
+2023-01-18 18:33:04 New Score is updated...
+
+2023-01-18 18:33:04 {"home":"AEK Athens","away":"Panserraikos","score":"3:0","gameTime":2}
+
+2023-01-18 18:33:04 New Score : AEK Athens vs Panserraikos  3:0
+
+2023-01-18 18:33:04 Pending tip Score : Nyiregyhaza vs Senyo Carnifex 6:0
+
+2023-01-18 18:45:03 Recieve new Match Score From Copybet Server!
+
+2023-01-18 18:45:03 New Score is updated...
+
+2023-01-18 18:45:03 {"home":"Nyiregyhaza","away":"Senyo Carnifex","score":"6:0","gameTime":2}
+
+2023-01-18 18:45:03 New Score : Nyiregyhaza vs Senyo Carnifex  6:0
+
+2023-01-18 18:45:03 Pending tip Score : Nyiregyhaza vs Senyo Carnifex 6:0
+
+2023-01-18 18:45:03 Pending Tip is lost now...
+
+2023-01-18 18:59:29 LastLoginModule_Button Clicked
+
+2023-01-18 19:04:13 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 19:04:13  *** MakeBet *** 
+
+2023-01-18 19:04:13 {"dbId":"","sport":"","country":"","league":"Israel Liga Bet South","dateTime":"","match":"MS Hapoel Lod vs Ironi Beit Dagan","score":"0:1","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 19:04:13 99.24
+
+2023-01-18 19:04:13 Current balance : 99.2
+
+2023-01-18 19:04:13 Current Balance : 99.2
+
+2023-01-18 19:04:14 Stake : 8
+
+2023-01-18 19:04:14 CheckIfLoggedIn
+
+2023-01-18 19:04:14 Logged In Already!
+
+2023-01-18 19:04:14 bet365.com
+
+2023-01-18 19:04:14 Wrong position detected!
+
+2023-01-18 19:04:20 MS Hapoel Lod v Ironi Beit Dagan Dis :0.00606060606060599
+
+2023-01-18 19:04:20 Wrong position detected!
+
+2023-01-18 19:04:22 Running AddbetScript...
+
+2023-01-18 19:04:22 scrollBetIntoView('1751854') => 1
+
+2023-01-18 19:04:24 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-18 19:04:26 {
+  "bg": "c6e3df66-206a-4d16-a060-40f2bbd14e51",
+  "sr": 0,
+  "mr": false,
+  "cc": "HzMheq/eZBqwWefrNS/pvnf9lBIgdVR3gcRslwXrV9Y=",
+  "ir": true,
+  "vr": "779",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "1/1",
+      "fi": 131502303,
+      "fd": "MS Hapoel Lod v Ironi Beit Dagan",
+      "pt": [
+        {
+          "hd": "2.5",
+          "pi": 1751854,
+          "bd": "Più di",
+          "ha": "2.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c834ab-23EEEAA5",
+      "tp": "BS131502303-1751854",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131439099,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-18 19:04:28 Fractional Odds : 1/1
+
+2023-01-18 19:04:28 Trademate Odds : 0 , Bet365 Odds : 2
+
+2023-01-18 19:04:28 Trying to place bet!
+
+2023-01-18 19:04:28 DoPlacebetUI
+
+2023-01-18 19:04:28 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-18 19:04:30 Trademate Odds : 0 , Bet365 Odds : 2
+
+2023-01-18 19:04:30 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-18 19:04:39 99.24
+
+2023-01-18 19:04:39 Current balance : 99.2
+
+2023-01-18 19:04:42 [salvigrimaldi:Test123.] SUCCESS. Stake:8 Odds:2.1
+
+2023-01-18 19:04:42 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:8 Odds:2.1",
+  "stake": 8.0,
+  "tipSource": "TELEGRAM",
+  "odds": 2.1,
+  "tournament": "Israel Liga Bet South",
+  "eventName": "MS Hapoel Lod vs Ironi Beit Dagan",
+  "probability": "OVER",
+  "market": "OVER 2.5",
+  "placedAt": "18/01/2023 19:04:39",
+  "selection": "OVER",
+  "handicap": 2.5,
+  "balance": 91.2,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-18 19:04:50 Trying to register tip at Bigstake
+
+2023-01-18 19:05:07 Registered tip at Bigstake Successfully!
+
+2023-01-18 19:05:10 This Line is already existed on Settled bets!
+
+2023-01-18 19:22:03 Recieve new Match Score From Copybet Server!
+
+2023-01-18 19:22:03 New Score is updated...
+
+2023-01-18 19:22:03 {"home":"MS Hapoel Lod","away":"Ironi Beit Dagan","score":"1:1","gameTime":0}
+
+2023-01-18 19:22:03 New Score : MS Hapoel Lod vs Ironi Beit Dagan  1:1
+
+2023-01-18 19:22:03 Pending tip Score : MS Hapoel Lod vs Ironi Beit Dagan 0:1
+
+2023-01-18 19:23:39 LastLoginModule_Button Clicked
+
+2023-01-18 19:42:49 LastLoginModule_Button Clicked
+
+2023-01-18 21:09:00 Disconnected Socket Server!!! || transport close
+
+2023-01-18 21:09:04 Connected Socket Server!!!
+2023-01-18 21:16:31 Chrome_RenderWidgetHostHWND
+
+2023-01-18 21:16:31 Websocket server is listening on 8880
+
+2023-01-18 21:16:31 DoLogin
+
+2023-01-18 21:16:31 DoLoad365Page
+
+2023-01-18 21:16:46 365 page is loaded!
+
+2023-01-18 21:16:46 Executed login script!
+
+2023-01-18 21:17:14 DoLoad365Page
+
+2023-01-18 21:17:14 365 page is loaded!
+
+2023-01-18 21:17:14 LastLoginModule_Button Clicked
+
+2023-01-18 21:17:20 Login Success!
+
+2023-01-18 21:17:27 2 Settled bets!!!
+
+2023-01-18 21:17:27 Browser Connected!
+
+2023-01-18 21:17:30 The bot has been started!
+
+2023-01-18 21:17:30 DoLogin
+
+2023-01-18 21:17:30 DoLoad365Page
+
+2023-01-18 21:17:30 365 page is loaded!
+
+2023-01-18 21:17:31 Connected Socket Server!!!
+
+2023-01-18 21:17:33 91.24
+
+2023-01-18 21:17:33 Current balance : 91.2
+
+2023-01-18 21:17:38 Current Balance: 91.2
+
+2023-01-18 21:17:38 Page is initialized!
+
+2023-01-18 21:17:53 Recieve 1 new bets From Copybet Server!
+
+2023-01-18 21:17:53  *** MakeBet *** 
+
+2023-01-18 21:17:53 {"dbId":"","sport":"","country":"","league":"Scotland Premiership","dateTime":"","match":"Kilmarnock vs Rangers","score":"1:0","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-18 21:17:53 91.24
+
+2023-01-18 21:17:53 Current balance : 91.2
+
+2023-01-18 21:17:53 Current Balance : 91.2
+
+2023-01-18 21:17:54 Stake : 12
+
+2023-01-18 21:17:54 CheckIfLoggedIn
+
+2023-01-18 21:17:54 Logged In Already!
+
+2023-01-18 21:17:54 bet365.com
+
+2023-01-18 21:18:05 Kilmarnock v Glasgow Rangers Dis :0.0785714285714285
+
+2023-01-18 21:18:05 Kilmarnock v Dumbarton Dis :0.114664502164502
+
+2023-01-18 21:18:06 Wrong position detected!
+
+2023-01-18 21:18:08 Running AddbetScript...
+
+2023-01-18 21:18:08 scrollBetIntoView('1830694') => 1
+
+2023-01-18 21:18:10 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-18 21:18:12 {
+  "bg": "fed12f81-b03f-4308-99f2-0508a7c19b82",
+  "sr": 0,
+  "mr": false,
+  "cc": "uiyUjDN8kfckHgSBNxsmNEB0xvxiKL5qEqa03JMmHkQ=",
+  "ir": true,
+  "vr": "779",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/11",
+      "fi": 131502878,
+      "fd": "Kilmarnock v Glasgow Rangers",
+      "pt": [
+        {
+          "pi": 1830694,
+          "bd": "Più di 2.5",
+          "ha": "2.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c85405-BD9898BA",
+      "tp": "BS131502878-1830694",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 130042563,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-18 21:18:14 Fractional Odds : 4/11
+
+2023-01-18 21:18:14 Trademate Odds : 0 , Bet365 Odds : 1.36
+
+2023-01-18 21:18:14 Trying to place bet!
+
+2023-01-18 21:18:14 DoPlacebetUI
+
+2023-01-18 21:18:14 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-18 21:18:16 Trademate Odds : 0 , Bet365 Odds : 1.36
+
+2023-01-18 21:18:16 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-18 21:18:24 91.24
+
+2023-01-18 21:18:24 Current balance : 91.2
+
+2023-01-18 21:18:27 [salvigrimaldi:Test123.] SUCCESS. Stake:12 Odds:1.36333333333333
+
+2023-01-18 21:18:27 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:12 Odds:1.36333333333333",
+  "stake": 12.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.3633333333333333,
+  "tournament": "Scotland Premiership",
+  "eventName": "Kilmarnock vs Rangers",
+  "probability": "OVER",
+  "market": "OVER 2.5",
+  "placedAt": "18/01/2023 21:18:24",
+  "selection": "OVER",
+  "handicap": 2.5,
+  "balance": 79.2,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-18 21:18:35 Trying to register tip at Bigstake
+
+2023-01-18 21:18:51 Registered tip at Bigstake Successfully!
+
+2023-01-18 21:18:54 This Line is already existed on Settled bets!
+
+2023-01-18 21:24:04 Recieve new Match Score From Copybet Server!
+
+2023-01-18 21:24:04 New Score is updated...
+
+2023-01-18 21:24:04 {"home":"Kilmarnock","away":"Rangers","score":"1:1","gameTime":0}
+
+2023-01-18 21:24:04 New Score : Kilmarnock vs Rangers  1:1
+
+2023-01-18 21:24:04 Pending tip Score : Kilmarnock vs Rangers 1:0
+
+2023-01-18 21:32:05 Recieve new Match Score From Copybet Server!
+
+2023-01-18 21:32:05 New Score is updated...
+
+2023-01-18 21:32:05 {"home":"Ipora EC","away":"Atletico Goianiense","score":"1:2","gameTime":2}
+
+2023-01-18 21:32:05 New Score : Ipora EC vs Atletico Goianiense  1:2
+
+2023-01-18 21:32:05 Pending tip Score : Kilmarnock vs Rangers 1:0
+
+2023-01-18 21:34:04 Recieve new Match Score From Copybet Server!
+
+2023-01-18 21:34:04 New Score is updated...
+
+2023-01-18 21:34:04 {"home":"IR Reykjavik","away":"Fylkir Reykjavik","score":"3:0","gameTime":0}
+
+2023-01-18 21:34:04 New Score : IR Reykjavik vs Fylkir Reykjavik  3:0
+
+2023-01-18 21:34:04 Pending tip Score : Kilmarnock vs Rangers 1:0
+
+2023-01-18 21:37:38 LastLoginModule_Button Clicked
+
+2023-01-18 21:48:03 Recieve new Match Score From Copybet Server!
+
+2023-01-18 21:48:03 New Score is updated...
+
+2023-01-18 21:48:03 {"home":"Kilmarnock","away":"Rangers","score":"1:1","gameTime":1}
+
+2023-01-18 21:48:03 New Score : Kilmarnock vs Rangers  1:1
+
+2023-01-18 21:48:03 Pending tip Score : Kilmarnock vs Rangers 1:0
+
+2023-01-18 21:54:03 Recieve new Match Score From Copybet Server!
+
+2023-01-18 21:54:03 New Score is updated...
+
+2023-01-18 21:54:03 {"home":"IR Reykjavik","away":"Fylkir Reykjavik","score":"3:0","gameTime":2}
+
+2023-01-18 21:54:03 New Score : IR Reykjavik vs Fylkir Reykjavik  3:0
+
+2023-01-18 21:54:03 Pending tip Score : Kilmarnock vs Rangers 1:0
+
+2023-01-18 21:56:48 LastLoginModule_Button Clicked
+
+2023-01-18 22:03:03 Recieve new Match Score From Copybet Server!
+
+2023-01-18 22:03:03 New Score is updated...
+
+2023-01-18 22:03:03 {"home":"Kilmarnock","away":"Rangers","score":"1:1","gameTime":1}
+
+2023-01-18 22:03:03 New Score : Kilmarnock vs Rangers  1:1
+
+2023-01-18 22:03:03 Pending tip Score : Kilmarnock vs Rangers 1:0
+
+2023-01-18 22:09:03 Recieve new Match Score From Copybet Server!
+
+2023-01-18 22:09:03 New Score is updated...
+
+2023-01-18 22:09:03 {"home":"Kilmarnock","away":"Rangers","score":"1:2","gameTime":0}
+
+2023-01-18 22:09:03 New Score : Kilmarnock vs Rangers  1:2
+
+2023-01-18 22:09:03 Pending tip Score : Kilmarnock vs Rangers 1:0
+
+2023-01-18 22:09:03 Pending Tip is winning now...
+
+2023-01-18 22:15:58 LastLoginModule_Button Clicked
+
+2023-01-18 22:30:06 Recieve new Match Score From Copybet Server!
+
+2023-01-18 22:30:06 New Score is updated...
+
+2023-01-18 22:30:06 {"home":"Kilmarnock","away":"Rangers","score":"1:3","gameTime":0}
+
+2023-01-18 22:35:08 LastLoginModule_Button Clicked
+
+2023-01-18 22:42:03 Recieve new Match Score From Copybet Server!
+
+2023-01-18 22:42:03 New Score is updated...
+
+2023-01-18 22:42:03 {"home":"Kilmarnock","away":"Rangers","score":"2:3","gameTime":0}
+
+2023-01-18 22:58:04 Recieve new Match Score From Copybet Server!
+
+2023-01-18 22:58:04 New Score is updated...
+
+2023-01-18 22:58:04 {"home":"Kilmarnock","away":"Rangers","score":"2:3","gameTime":2}
+
+2023-01-18 23:15:28 LastLoginModule_Button Clicked
+
+2023-01-18 23:34:38 LastLoginModule_Button Clicked
+
+2023-01-18 23:58:48 LastLoginModule_Button Clicked

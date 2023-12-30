@@ -1,0 +1,87 @@
+IsJsInjected = true;
+console.log('Code is injected!');
+
+function add_element() {
+    console.log("onload");
+    var cursorObj = document.createElement("canvas");
+    cursorObj.id  = 'cursor';
+    cursorObj.width = 10;
+    cursorObj.height = 10;
+    var context = cursorObj.getContext("2d");
+    context.beginPath();
+    context.arc(5, 5, 5, 0, 2 * Math.PI, false);
+    context.fillStyle = 'red';
+    context.fill();
+    context.lineWidth = 1;
+    cursorObj.style.position = 'absolute';
+	cursorObj.style["z-index"] = 10000;
+    document.body.appendChild(cursorObj);
+	
+	/*
+	var clickedObj = document.createElement("canvas");
+    clickedObj.id  = 'clicked';
+    clickedObj.width = 16;
+    clickedObj.height = 16;
+    context = clickedObj.getContext("2d");
+    context.beginPath();
+    context.arc(8, 8, 8, 0, 2 * Math.PI, false);
+    context.fillStyle = 'yellow';
+    context.fill();
+    context.lineWidth = 1;
+    clickedObj.style.position = 'absolute';
+	clickedObj.style["z-index"] = 10000;
+    document.body.appendChild(clickedObj);
+	
+	
+	var clickedBetObj = document.createElement("canvas");
+    clickedBetObj.id  = 'clicked';
+    clickedBetObj.width = 200;
+    clickedBetObj.height = 60;
+    context = clickedBetObj.getContext("2d");
+    context.beginPath();
+    context.rect(0, 0, 200, 60);
+    context.fillStyle = 'yellow';
+    context.fill();
+    context.lineWidth = 1;
+    clickedBetObj.style.position = 'absolute';
+	clickedBetObj.style["z-index"] = 10000;
+    document.body.appendChild(clickedBetObj);
+	clickedBetObj.style.left = document.body.clientWidth / 2 + "px";
+    clickedBetObj.style.bottom = "5px";
+	*/
+}
+setTimeout(function(){
+	add_element();
+}, 5000);
+
+
+var pointerX = -1;
+var pointerY = -1;
+
+var clickedX = -1;
+var clickedY = -1;
+
+  
+document.onmousemove = function(event) {
+	pointerX = event.pageX;
+	pointerY = event.pageY;
+}
+
+document.onclick = function(event) {
+	clickedX = event.pageX;
+	clickedY = event.pageY;
+}
+
+setInterval(pointerCheck, 10);
+  
+function pointerCheck() {
+  try{
+    document.getElementById("cursor").style.left = (pointerX + 24)  + "px";
+    document.getElementById("cursor").style.top = (pointerY+ 24) + "px";
+	
+	//document.getElementById("clicked").style.left = clickedX + "px";
+    //document.getElementById("clicked").style.top = clickedY+ "px";
+	
+  }catch{
+  }
+}

@@ -1,0 +1,21 @@
+﻿2022-12-19 09:48:12 Chrome_RenderWidgetHostHWND
+
+2022-12-19 09:48:12 Websocket server is listening on 8880
+
+2022-12-19 09:48:12 DoLogin
+
+2022-12-19 09:48:12 DoLoad365Page
+
+2022-12-19 09:48:17 365 page is loaded!
+
+2022-12-19 09:48:17 Executed login script!
+
+2022-12-19 09:48:49 DoLoad365Page
+
+2022-12-19 09:48:49 365 page is loaded!
+
+2022-12-19 09:48:57 Executed login script!
+
+2022-12-19 09:49:19 DoLoad365Page
+
+2022-12-19 09:49:19 365 page is loaded!

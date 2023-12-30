@@ -1,0 +1,70 @@
+﻿2023-01-25 12:44:34 Chrome_RenderWidgetHostHWND
+
+2023-01-25 12:44:34 Websocket server is listening on 8880
+
+2023-01-25 12:44:34 DoLogin
+
+2023-01-25 12:44:34 DoLoad365Page
+
+2023-01-25 12:44:39 365 page is loaded!
+
+2023-01-25 12:44:39 Executed login script!
+
+2023-01-25 12:44:47 DoLoad365Page
+
+2023-01-25 12:44:47 365 page is loaded!
+
+2023-01-25 12:44:47 LastLoginModule_Button Clicked
+
+2023-01-25 12:44:58 Executed login script!
+
+2023-01-25 12:46:45 DoLoad365Page
+
+2023-01-25 12:46:45 365 page is loaded!
+
+2023-01-25 12:46:48 Login Success!
+
+2023-01-25 12:47:01 Browser Connected!
+2023-01-25 12:47:22 Chrome_RenderWidgetHostHWND
+
+2023-01-25 12:47:22 Websocket server is listening on 8880
+
+2023-01-25 12:47:22 DoLogin
+
+2023-01-25 12:47:22 DoLoad365Page
+
+2023-01-25 12:47:28 365 page is loaded!
+
+2023-01-25 12:47:28 Executed login script!
+
+2023-01-25 12:47:35 DoLoad365Page
+
+2023-01-25 12:47:35 365 page is loaded!
+
+2023-01-25 12:47:35 LastLoginModule_Button Clicked
+
+2023-01-25 12:47:41 Login Success!
+
+2023-01-25 12:47:44 LastLoginModule_Button Clicked
+
+2023-01-25 12:47:50 0 Settled bets!!!
+
+2023-01-25 12:47:50 Browser Connected!
+
+2023-01-25 12:49:33 The bot has been started!
+
+2023-01-25 12:49:33 DoLogin
+
+2023-01-25 12:49:33 DoLoad365Page
+
+2023-01-25 12:49:33 365 page is loaded!
+
+2023-01-25 12:49:33 Connected Socket Server!!!
+
+2023-01-25 12:49:41 
+
+2023-01-25 12:49:44 0 Settled bets!!!
+
+2023-01-25 12:49:44 Current Balance: -1
+
+2023-01-25 12:49:44 Page is initialized!

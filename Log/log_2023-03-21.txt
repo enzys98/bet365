@@ -1,0 +1,721 @@
+﻿
+2023-03-21 16:27:21 Disconnected Socket Server!!! || io client disconnect
+
+2023-03-21 16:27:21 The bot has been stopped!
+
+2023-03-21 16:29:16 The bot has been started!
+
+2023-03-21 16:29:16 DoLogin
+
+2023-03-21 16:29:16 DoLoad365Page
+
+2023-03-21 16:29:16 365 page is loaded!
+
+2023-03-21 16:29:16 Executed login script!
+
+2023-03-21 16:29:16 Connected Socket Server!!!
+
+2023-03-21 16:29:41 DoLoad365Page
+
+2023-03-21 16:29:41 365 page is loaded!
+
+2023-03-21 16:29:44 Executed login script!
+
+2023-03-21 16:29:50 LastLoginModule_Button Clicked
+
+2023-03-21 16:29:50 DoLoad365Page
+
+2023-03-21 16:29:50 365 page is loaded!
+
+2023-03-21 16:29:50 LastLoginModule_Button Clicked
+
+2023-03-21 16:29:55 Login Success!
+
+2023-03-21 16:30:01 310.48
+
+2023-03-21 16:30:01 Current balance : 310.4
+
+2023-03-21 16:30:06 Current Balance: 310.4
+
+2023-03-21 16:30:07 Page is initialized!
+
+2023-03-21 16:33:24 Disconnected Socket Server!!! || io client disconnect
+
+2023-03-21 16:33:24 The bot has been stopped!
+2023-03-21 16:36:02 Chrome_RenderWidgetHostHWND
+
+2023-03-21 16:36:02 Websocket server is listening on 8880
+
+2023-03-21 16:36:02 DoLogin
+
+2023-03-21 16:36:02 DoLoad365Page
+
+2023-03-21 16:36:08 365 page is loaded!
+
+2023-03-21 16:36:08 Executed login script!
+
+2023-03-21 16:36:15 DoLoad365Page
+
+2023-03-21 16:36:15 365 page is loaded!
+
+2023-03-21 16:36:15 LastLoginModule_Button Clicked
+
+2023-03-21 16:36:20 Login Success!
+
+2023-03-21 16:36:27 0 Settled bets!!!
+
+2023-03-21 16:36:27 Browser Connected!
+
+2023-03-21 16:36:45 The bot has been started!
+
+2023-03-21 16:36:45 DoLogin
+
+2023-03-21 16:36:45 DoLoad365Page
+
+2023-03-21 16:36:45 365 page is loaded!
+
+2023-03-21 16:36:45 Connected Socket Server!!!
+
+2023-03-21 16:36:48 LastLoginModule_Button Clicked
+
+2023-03-21 16:36:48 310.48
+
+2023-03-21 16:36:48 Current balance : 310.4
+
+2023-03-21 16:36:56 LastLoginModule_Button Clicked
+
+2023-03-21 16:36:56 0 Settled bets!!!
+
+2023-03-21 16:36:56 Current Balance: 310.4
+
+2023-03-21 16:36:56 Page is initialized!
+
+2023-03-21 20:20:42 Recieve 1 new bets From Copybet Server!
+
+2023-03-21 20:20:43  *** MakeBet *** 
+
+2023-03-21 20:20:43 {"dbId":"","sport":"","country":"","league":"Belgium Reserve League","dateTime":"","match":"Waasland-Beveren Reserves vs KV Oostende Reserves","score":"2:1","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-21 20:20:43 310.48
+
+2023-03-21 20:20:43 Current balance : 310.4
+
+2023-03-21 20:20:43 Current Balance : 310.4
+
+2023-03-21 20:20:43 DoLoad365Page
+
+2023-03-21 20:20:43 365 page is loaded!
+
+2023-03-21 20:20:43 CheckIfLoggedIn
+
+2023-03-21 20:20:43 Logged In Already!
+
+2023-03-21 20:20:43 bet365.com
+
+2023-03-21 20:20:55 Not Search Event
+
+2023-03-21 20:20:55 Wrong position detected!
+
+2023-03-21 20:21:00 Not Search Event
+
+2023-03-21 20:21:01 Wrong position detected!
+
+2023-03-21 20:21:08 Not Search Event
+
+2023-03-21 20:21:08 Wrong position detected!
+
+2023-03-21 20:21:12 Not Search Event
+
+2023-03-21 20:21:14 Wrong position detected!
+
+2023-03-21 20:21:27 Not Found Odds on Bet365..
+
+2023-03-21 20:21:30  *** MakeBet *** 
+
+2023-03-21 20:21:30 {"dbId":"","sport":"","country":"","league":"Belgium Reserve League","dateTime":"","match":"Waasland-Beveren Reserves vs KV Oostende Reserves","score":"2:1","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-21 20:21:30 310.48
+
+2023-03-21 20:21:30 Current balance : 310.4
+
+2023-03-21 20:21:30 Current Balance : 310.4
+
+2023-03-21 20:21:30 DoLoad365Page
+
+2023-03-21 20:21:30 365 page is loaded!
+
+2023-03-21 20:21:30 CheckIfLoggedIn
+
+2023-03-21 20:21:30 Logged In Already!
+
+2023-03-21 20:21:30 bet365.com
+
+2023-03-21 20:21:30 Wrong position detected!
+
+2023-03-21 20:21:39 Not Search Event
+
+2023-03-21 20:21:39 Wrong position detected!
+
+2023-03-21 20:21:50 Not Found Odds on Bet365..
+
+2023-03-21 20:22:39 Recieve 1 new bets From Copybet Server!
+
+2023-03-21 20:22:40  *** MakeBet *** 
+
+2023-03-21 20:22:40 {"dbId":"","sport":"","country":"","league":"Belgium Reserve League","dateTime":"","match":"Waasland-Beveren riserve vs KV Oostende riserve","score":"2:1","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-21 20:22:40 310.48
+
+2023-03-21 20:22:40 Current balance : 310.4
+
+2023-03-21 20:22:40 Current Balance : 310.4
+
+2023-03-21 20:22:40 DoLoad365Page
+
+2023-03-21 20:22:40 365 page is loaded!
+
+2023-03-21 20:22:40 CheckIfLoggedIn
+
+2023-03-21 20:22:40 Logged In Already!
+
+2023-03-21 20:22:40 bet365.com
+
+2023-03-21 20:22:40 Wrong position detected!
+
+2023-03-21 20:22:49 Not Search Event
+
+2023-03-21 20:22:49 Wrong position detected!
+
+2023-03-21 20:22:54 Not Search Event
+
+2023-03-21 20:22:56 Wrong position detected!
+
+2023-03-21 20:23:03 Not Search Event
+
+2023-03-21 20:23:03 Wrong position detected!
+
+2023-03-21 20:23:07 Not Search Event
+
+2023-03-21 20:23:08 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:23:08 New Score is updated...
+
+2023-03-21 20:23:08 {"home":"Waasland-Beveren Reserves","away":"KV Oostende Reserves","score":"2:2","gameTime":0}
+
+2023-03-21 20:23:09 Wrong position detected!
+
+2023-03-21 20:23:15 Not Search Event
+
+2023-03-21 20:23:15 Wrong position detected!
+
+2023-03-21 20:23:19 Not Search Event
+
+2023-03-21 20:23:21 Not Found Event on Bet365...
+
+2023-03-21 20:23:24  *** MakeBet *** 
+
+2023-03-21 20:23:24 {"dbId":"","sport":"","country":"","league":"Belgium Reserve League","dateTime":"","match":"Waasland-Beveren riserve vs KV Oostende riserve","score":"2:1","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-21 20:23:24 310.48
+
+2023-03-21 20:23:24 Current balance : 310.4
+
+2023-03-21 20:23:24 Current Balance : 310.4
+
+2023-03-21 20:23:24 DoLoad365Page
+
+2023-03-21 20:23:24 365 page is loaded!
+
+2023-03-21 20:23:24 CheckIfLoggedIn
+
+2023-03-21 20:23:24 Logged In Already!
+
+2023-03-21 20:23:24 bet365.com
+
+2023-03-21 20:23:24 Wrong position detected!
+
+2023-03-21 20:23:34 Not Search Event
+
+2023-03-21 20:23:34 Wrong position detected!
+
+2023-03-21 20:23:39 Not Search Event
+
+2023-03-21 20:23:40 Wrong position detected!
+
+2023-03-21 20:23:46 Not Search Event
+
+2023-03-21 20:23:46 Wrong position detected!
+
+2023-03-21 20:23:51 Not Search Event
+
+2023-03-21 20:23:53 Wrong position detected!
+
+2023-03-21 20:23:59 Not Search Event
+
+2023-03-21 20:23:59 Wrong position detected!
+
+2023-03-21 20:24:04 Not Search Event
+
+2023-03-21 20:24:05 Not Found Event on Bet365...
+
+2023-03-21 20:24:08 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:24:08 New Score is updated...
+
+2023-03-21 20:24:08 {"home":"Waasland-Beveren Reserves","away":"KV Oostende Reserves","score":"2:2","gameTime":0}
+
+2023-03-21 20:24:25 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:24:25 New Score is updated...
+
+2023-03-21 20:24:25 {"home":"Waasland-Beveren Reserves","away":"KV Oostende Reserves","score":"2:2","gameTime":0}
+
+2023-03-21 20:25:02 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:25:02 New Score is updated...
+
+2023-03-21 20:25:02 {"home":"Waasland-Beveren Reserves","away":"KV Oostende Reserves","score":"2:2","gameTime":0}
+
+2023-03-21 20:25:06 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:25:06 New Score is updated...
+
+2023-03-21 20:25:06 {"home":"Waasland-Beveren Reserves","away":"KV Oostende Reserves","score":"2:2","gameTime":0}
+
+2023-03-21 20:25:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:25:37 New Score is updated...
+
+2023-03-21 20:25:37 {"home":"Defensores de Cambaceres","away":"Sportivo Barracas","score":"0:2","gameTime":0}
+
+2023-03-21 20:25:38 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:25:38 New Score is updated...
+
+2023-03-21 20:25:38 {"home":"Defensores de Cambaceres","away":"Sportivo Barracas","score":"0:2","gameTime":0}
+
+2023-03-21 20:25:44 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:25:44 New Score is updated...
+
+2023-03-21 20:25:44 {"home":"Defensores de Cambaceres","away":"Sportivo Barracas","score":"0:2","gameTime":2}
+
+2023-03-21 20:25:44 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:25:44 New Score is updated...
+
+2023-03-21 20:25:44 {"home":"Defensores de Cambaceres","away":"Sportivo Barracas","score":"0:2","gameTime":2}
+
+2023-03-21 20:25:44 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:25:44 New Score is updated...
+
+2023-03-21 20:25:44 {"home":"Defensores de Cambaceres","away":"Sportivo Barracas","score":"0:2","gameTime":2}
+
+2023-03-21 20:25:56 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:25:56 New Score is updated...
+
+2023-03-21 20:25:56 {"home":"Waasland-Beveren Reserves","away":"KV Oostende Reserves","score":"2:2","gameTime":2}
+
+2023-03-21 20:25:56 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:25:56 New Score is updated...
+
+2023-03-21 20:25:56 {"home":"Waasland-Beveren Reserves","away":"KV Oostende Reserves","score":"2:2","gameTime":2}
+
+2023-03-21 20:25:56 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:25:56 New Score is updated...
+
+2023-03-21 20:25:56 {"home":"Waasland-Beveren Reserves","away":"KV Oostende Reserves","score":"2:2","gameTime":2}
+
+2023-03-21 20:25:56 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:25:56 New Score is updated...
+
+2023-03-21 20:25:56 {"home":"Waasland-Beveren Reserves","away":"KV Oostende Reserves","score":"2:2","gameTime":2}
+
+2023-03-21 20:25:56 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:25:56 New Score is updated...
+
+2023-03-21 20:25:56 {"home":"Waasland-Beveren Reserves","away":"KV Oostende Reserves","score":"2:2","gameTime":2}
+
+2023-03-21 20:25:56 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:25:56 New Score is updated...
+
+2023-03-21 20:25:56 {"home":"Waasland-Beveren Reserves","away":"KV Oostende Reserves","score":"2:2","gameTime":2}
+
+2023-03-21 20:25:57 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:25:57 New Score is updated...
+
+2023-03-21 20:25:57 {"home":"Waasland-Beveren Reserves","away":"KV Oostende Reserves","score":"2:2","gameTime":2}
+
+2023-03-21 20:26:36 Recieve new Match Score From Copybet Server!
+
+2023-03-21 20:26:36 New Score is updated...
+
+2023-03-21 20:26:36 {"home":"Waasland-Beveren Reserves","away":"KV Oostende Reserves","score":"2:2","gameTime":2}
+
+2023-03-21 21:23:35 LastLoginModule_Button Clicked
+
+2023-03-21 21:47:02 Recieve new Match Score From Copybet Server!
+
+2023-03-21 21:47:02 New Score is updated...
+
+2023-03-21 21:47:02 {"home":"RWD Molenbeek Reserves","away":"FCV Dender EH Reserves","score":"0:1","gameTime":2}
+
+2023-03-21 21:47:02 Recieve new Match Score From Copybet Server!
+
+2023-03-21 21:47:02 New Score is updated...
+
+2023-03-21 21:47:02 {"home":"RWD Molenbeek Reserves","away":"FCV Dender EH Reserves","score":"0:1","gameTime":2}
+
+2023-03-21 21:47:02 Recieve new Match Score From Copybet Server!
+
+2023-03-21 21:47:02 New Score is updated...
+
+2023-03-21 21:47:02 {"home":"RWD Molenbeek Reserves","away":"FCV Dender EH Reserves","score":"0:1","gameTime":2}
+
+2023-03-21 21:47:38 Recieve new Match Score From Copybet Server!
+
+2023-03-21 21:47:38 New Score is updated...
+
+2023-03-21 21:47:38 {"home":"Uruguay Montevideo","away":"IA Sud America","score":"0:2","gameTime":0}
+
+2023-03-21 21:49:01 Recieve new Match Score From Copybet Server!
+
+2023-03-21 21:49:01 New Score is updated...
+
+2023-03-21 21:49:01 {"home":"Uruguay Montevideo","away":"IA Sud America","score":"0:2","gameTime":0}
+
+2023-03-21 21:49:31 Recieve new Match Score From Copybet Server!
+
+2023-03-21 21:49:31 New Score is updated...
+
+2023-03-21 21:49:32 {"home":"Uruguay Montevideo","away":"IA Sud America","score":"0:2","gameTime":2}
+
+2023-03-21 21:50:01 Recieve new Match Score From Copybet Server!
+
+2023-03-21 21:50:01 New Score is updated...
+
+2023-03-21 21:50:01 {"home":"Uruguay Montevideo","away":"IA Sud America","score":"0:2","gameTime":2}
+
+2023-03-21 22:22:46 LastLoginModule_Button Clicked
+
+2023-03-21 22:44:36 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:36 New Score is updated...
+
+2023-03-21 22:44:36 {"home":"Universidad de Concepcion","away":"Deportes Iquique","score":"1:1","gameTime":0}
+
+2023-03-21 22:44:36 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:36 New Score is updated...
+
+2023-03-21 22:44:36 {"home":"Universidad de Concepcion","away":"Deportes Iquique","score":"1:1","gameTime":0}
+
+2023-03-21 22:44:36 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:36 New Score is updated...
+
+2023-03-21 22:44:36 {"home":"Universidad de Concepcion","away":"Deportes Iquique","score":"1:1","gameTime":2}
+
+2023-03-21 22:44:36 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:36 New Score is updated...
+
+2023-03-21 22:44:36 {"home":"Universidad de Concepcion","away":"Deportes Iquique","score":"1:1","gameTime":0}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Universidad de Concepcion","away":"Deportes Iquique","score":"1:1","gameTime":2}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Universidad de Concepcion","away":"Deportes Iquique","score":"1:1","gameTime":0}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Universidad de Concepcion","away":"Deportes Iquique","score":"1:1","gameTime":0}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Universidad de Concepcion","away":"Deportes Iquique","score":"1:1","gameTime":2}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Universidad de Concepcion","away":"Deportes Iquique","score":"1:1","gameTime":0}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Olimpia Asuncion Femminile","away":"Cerro Porteno Femminile","score":"1:1","gameTime":0}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Universidad de Concepcion","away":"Deportes Iquique","score":"1:1","gameTime":2}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Universidad de Concepcion","away":"Deportes Iquique","score":"1:1","gameTime":2}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Olimpia Asuncion Femminile","away":"Cerro Porteno Femminile","score":"1:1","gameTime":0}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Universidad de Concepcion","away":"Deportes Iquique","score":"1:1","gameTime":2}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Olimpia Asuncion Femminile","away":"Cerro Porteno Femminile","score":"1:1","gameTime":2}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Olimpia Asuncion Femminile","away":"Cerro Porteno Femminile","score":"1:1","gameTime":0}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Olimpia Asuncion Femminile","away":"Cerro Porteno Femminile","score":"1:1","gameTime":2}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Olimpia Asuncion Femminile","away":"Cerro Porteno Femminile","score":"1:1","gameTime":0}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Olimpia Asuncion Femminile","away":"Cerro Porteno Femminile","score":"1:1","gameTime":0}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Olimpia Asuncion Femminile","away":"Cerro Porteno Femminile","score":"1:1","gameTime":2}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Olimpia Asuncion Femminile","away":"Cerro Porteno Femminile","score":"1:1","gameTime":0}
+
+2023-03-21 22:44:37 Recieve 1 new bets From Copybet Server!
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Olimpia Asuncion Femminile","away":"Cerro Porteno Femminile","score":"1:1","gameTime":2}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"home":"Olimpia Asuncion Femminile","away":"Cerro Porteno Femminile","score":"1:1","gameTime":2}
+
+2023-03-21 22:44:37 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:44:37  *** MakeBet *** 
+
+2023-03-21 22:44:37 New Score is updated...
+
+2023-03-21 22:44:37 {"dbId":"","sport":"","country":"","league":"Jamaica Premier League","dateTime":"","match":"Faulkland FC vs Cavalier","score":"2:1","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-21 22:44:37 {"home":"Olimpia Asuncion Femminile","away":"Cerro Porteno Femminile","score":"1:1","gameTime":2}
+
+2023-03-21 22:44:37 310.48
+
+2023-03-21 22:44:37 Current balance : 310.4
+
+2023-03-21 22:44:37 Current Balance : 310.4
+
+2023-03-21 22:44:37 DoLoad365Page
+
+2023-03-21 22:44:37 365 page is loaded!
+
+2023-03-21 22:44:38 CheckIfLoggedIn
+
+2023-03-21 22:44:38 Logged In Already!
+
+2023-03-21 22:44:38 bet365.com
+
+2023-03-21 22:44:38 Wrong position detected!
+
+2023-03-21 22:44:38 Recieve 1 new bets From Copybet Server!
+
+2023-03-21 22:44:46 Not Search Event
+
+2023-03-21 22:44:46 Wrong position detected!
+
+2023-03-21 22:44:50 CLE Cavaliers (Duca) Esports @ PHX Suns (SpicyP) Esports Dis :0.524603174603175
+
+2023-03-21 22:44:50 Disconnected Socket Server!!! || ping timeout
+
+2023-03-21 22:44:52 Connected Socket Server!!!
+
+2023-03-21 22:44:55 Not Found Odds on Bet365..
+
+2023-03-21 22:44:58  *** MakeBet *** 
+
+2023-03-21 22:44:58 {"dbId":"","sport":"","country":"","league":"Jamaica Premier League","dateTime":"","match":"Faulkland FC vs Cavalier","score":"2:1","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-21 22:44:58 310.48
+
+2023-03-21 22:44:58 Current balance : 310.4
+
+2023-03-21 22:44:58 Current Balance : 310.4
+
+2023-03-21 22:44:58 DoLoad365Page
+
+2023-03-21 22:44:58 365 page is loaded!
+
+2023-03-21 22:44:58 CheckIfLoggedIn
+
+2023-03-21 22:44:58 Logged In Already!
+
+2023-03-21 22:44:58 bet365.com
+
+2023-03-21 22:44:58 Wrong position detected!
+
+2023-03-21 22:45:06 Not Search Event
+
+2023-03-21 22:45:07 Wrong position detected!
+
+2023-03-21 22:45:10 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:45:10 New Score is updated...
+
+2023-03-21 22:45:10 {"home":"St Albans","away":"Cheshunt","score":"1:1","gameTime":2}
+
+2023-03-21 22:45:10 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:45:10 New Score is updated...
+
+2023-03-21 22:45:10 {"home":"St Albans","away":"Cheshunt","score":"1:1","gameTime":2}
+
+2023-03-21 22:45:11 CLE Cavaliers (Duca) Esports @ PHX Suns (SpicyP) Esports Dis :0.524603174603175
+
+2023-03-21 22:45:11 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:45:11 New Score is updated...
+
+2023-03-21 22:45:11 {"home":"Spennymoor Town","away":"Leamington","score":"1:0","gameTime":2}
+
+2023-03-21 22:45:13 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:45:13 New Score is updated...
+
+2023-03-21 22:45:13 {"home":"Spennymoor Town","away":"Leamington","score":"1:0","gameTime":2}
+
+2023-03-21 22:45:14 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:45:14 New Score is updated...
+
+2023-03-21 22:45:14 {"home":"Bromsgrove","away":"AFC Rushden & Diamonds","score":"1:1","gameTime":2}
+
+2023-03-21 22:45:16 Not Found Odds on Bet365..
+
+2023-03-21 22:45:16 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:45:16 New Score is updated...
+
+2023-03-21 22:45:16 {"home":"Bromsgrove","away":"AFC Rushden & Diamonds","score":"1:1","gameTime":2}
+
+2023-03-21 22:45:19  *** MakeBet *** 
+
+2023-03-21 22:45:19 {"dbId":"","sport":"","country":"","league":"Jamaica Premier League","dateTime":"","match":"Faulkland FC vs Cavalier","score":"2:1","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-21 22:45:19 310.48
+
+2023-03-21 22:45:19 Current balance : 310.4
+
+2023-03-21 22:45:19 Current Balance : 310.4
+
+2023-03-21 22:45:19 DoLoad365Page
+
+2023-03-21 22:45:19 365 page is loaded!
+
+2023-03-21 22:45:19 CheckIfLoggedIn
+
+2023-03-21 22:45:19 Logged In Already!
+
+2023-03-21 22:45:19 bet365.com
+
+2023-03-21 22:45:19 Wrong position detected!
+
+2023-03-21 22:45:27 Not Search Event
+
+2023-03-21 22:45:32 CLE Cavaliers (Duca) Esports @ PHX Suns (SpicyP) Esports Dis :0.524603174603175
+
+2023-03-21 22:45:37 Not Found Odds on Bet365..
+
+2023-03-21 22:45:40  *** MakeBet *** 
+
+2023-03-21 22:45:40 {"dbId":"","sport":"","country":"","league":"Jamaica Premier League","dateTime":"","match":"Faulkland FC vs Cavalier","score":"2:1","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-21 22:45:40 310.48
+
+2023-03-21 22:45:40 Current balance : 310.4
+
+2023-03-21 22:45:40 Current Balance : 310.4
+
+2023-03-21 22:45:40 DoLoad365Page
+
+2023-03-21 22:45:40 365 page is loaded!
+
+2023-03-21 22:45:40 CheckIfLoggedIn
+
+2023-03-21 22:45:40 Logged In Already!
+
+2023-03-21 22:45:40 bet365.com
+
+2023-03-21 22:45:40 Wrong position detected!
+
+2023-03-21 22:45:49 Not Search Event
+
+2023-03-21 22:45:49 Wrong position detected!
+
+2023-03-21 22:45:53 CLE Cavaliers (Duca) Esports @ PHX Suns (SpicyP) Esports Dis :0.524603174603175
+
+2023-03-21 22:45:58 Not Found Odds on Bet365..
+
+2023-03-21 22:46:13 Recieve new Match Score From Copybet Server!
+
+2023-03-21 22:46:13 New Score is updated...
+
+2023-03-21 22:46:13 {"home":"Kempston Rovers","away":"Berkhamsted","score":"0:1","gameTime":2}
+
+2023-03-21 23:45:46 LastLoginModule_Button Clicked

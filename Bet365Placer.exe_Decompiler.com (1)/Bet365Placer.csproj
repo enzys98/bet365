@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>Bet365Placer</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net472</TargetFramework>
+    <Prefer32Bit>True</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Core">
+      <HintPath>../../../../usr/share/dotnet/shared/Microsoft.NETCore.App/6.0.25/System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json" />
+    <Reference Include="Siticone.Desktop.UI" />
+    <Reference Include="Siticone.UI" />
+    <Reference Include="System.Xml">
+      <HintPath>../../../../usr/share/dotnet/shared/Microsoft.NETCore.App/6.0.25/System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsInput" />
+    <Reference Include="HtmlAgilityPack" />
+    <Reference Include="SocketIoClientDotNet" />
+    <Reference Include="Telegram.Bot" />
+    <Reference Include="websocket-sharp-customheaders" />
+    <Reference Include="Microsoft.CSharp">
+      <HintPath>../../../../usr/share/dotnet/shared/Microsoft.NETCore.App/6.0.25/Microsoft.CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="EngineIoClientDotNet" />
+  </ItemGroup>
+</Project>

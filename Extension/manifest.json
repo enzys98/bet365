@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "messaging",
+  "version": "1.0",
+  "description": "Example messaging web extension.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "extension@xScruffers.github.com"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*/*"],
+      "js": ["messaging.js"]
+    }
+  ],
+  "permissions": [
+    "<all_urls>",
+    "clipboardWrite",
+    "cookies",
+    "downloads",
+    "notifications",
+    "storage",
+    "tabs",
+    "unlimitedStorage",
+    "webNavigation",
+    "webRequest",
+    "webRequestBlocking"
+  ]
+}

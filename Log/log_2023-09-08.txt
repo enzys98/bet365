@@ -1,0 +1,560 @@
+﻿2023-09-08 10:09:07 Chrome_RenderWidgetHostHWND
+
+2023-09-08 10:09:08 Websocket server is listening on 8880
+
+2023-09-08 10:09:08 DoLogin
+
+2023-09-08 10:09:08 DoLoad365Page
+
+2023-09-08 10:09:08 365 page is loaded!
+
+2023-09-08 10:09:08 Executed login script!
+
+2023-09-08 10:09:35 DoLoad365Page
+
+2023-09-08 10:09:35 365 page is loaded!
+
+2023-09-08 10:09:38 Executed login script!
+
+2023-09-08 10:09:45 DoLoad365Page
+
+2023-09-08 10:09:45 365 page is loaded!
+
+2023-09-08 10:09:45 LastLoginModule_Button Clicked
+
+2023-09-08 10:09:51 Login Success!
+
+2023-09-08 10:09:58 16 Settled bets!!!
+
+2023-09-08 10:09:58 Browser Connected!
+
+2023-09-08 10:10:16 The bot has been started!
+
+2023-09-08 10:10:16 DoLogin
+
+2023-09-08 10:10:16 DoLoad365Page
+
+2023-09-08 10:10:16 365 page is loaded!
+
+2023-09-08 10:10:16 Connected Socket Server!!!
+
+2023-09-08 10:10:19 42.09
+
+2023-09-08 10:10:19 Current balance : 42
+
+2023-09-08 10:10:24 Current Balance: 42
+
+2023-09-08 10:10:24 Page is initialized!
+
+2023-09-08 10:20:02 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-08 10:20:02 The bot has been stopped!
+2023-09-08 10:29:30 Chrome_RenderWidgetHostHWND
+
+2023-09-08 10:29:30 Websocket server is listening on 8880
+
+2023-09-08 10:29:30 DoLogin
+
+2023-09-08 10:29:30 DoLoad365Page
+2023-09-08 10:31:33 Chrome_RenderWidgetHostHWND
+
+2023-09-08 10:31:33 Websocket server is listening on 8880
+
+2023-09-08 10:31:33 DoLogin
+
+2023-09-08 10:31:33 DoLoad365Page
+2023-09-08 10:32:23 Chrome_RenderWidgetHostHWND
+
+2023-09-08 10:32:23 Websocket server is listening on 8880
+
+2023-09-08 10:32:23 DoLogin
+
+2023-09-08 10:32:23 DoLoad365Page
+
+2023-09-08 10:32:28 365 page is loaded!
+
+2023-09-08 10:32:28 Executed login script!
+
+2023-09-08 10:32:35 DoLoad365Page
+
+2023-09-08 10:32:35 365 page is loaded!
+
+2023-09-08 10:32:35 LastLoginModule_Button Clicked
+
+2023-09-08 10:32:41 Login Success!
+
+2023-09-08 10:32:48 16 Settled bets!!!
+
+2023-09-08 10:32:48 Browser Connected!
+
+2023-09-08 10:32:59 The bot has been started!
+
+2023-09-08 10:32:59 DoLogin
+
+2023-09-08 10:32:59 DoLoad365Page
+
+2023-09-08 10:32:59 365 page is loaded!
+
+2023-09-08 10:32:59 Connected Socket Server!!!
+
+2023-09-08 10:33:02 42.09
+
+2023-09-08 10:33:02 Current balance : 42
+
+2023-09-08 10:33:07 Current Balance: 42
+
+2023-09-08 10:33:07 Page is initialized!
+
+2023-09-08 10:33:24 Recieve 1 new bets From Copybet Server!
+
+2023-09-08 10:33:24  *** MakeBet *** 
+
+2023-09-08 10:33:24 {"dbId":"","sport":"","country":"","league":"Norway Interkretsserie U19","dateTime":"","match":"Kongsvinger U19 vs KFUM U19","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Test bottino","tipSource":0}
+
+2023-09-08 10:33:24 42.09
+
+2023-09-08 10:33:24 Current balance : 42
+
+2023-09-08 10:33:24 Current Balance : 42
+
+2023-09-08 10:33:24 CheckIfLoggedIn
+
+2023-09-08 10:33:24 Logged In Already!
+
+2023-09-08 10:33:24 bet365.com
+
+2023-09-08 10:33:38 Not Search Event
+
+2023-09-08 10:33:38 Wrong position detected!
+
+2023-09-08 10:33:42 Not Search Event
+
+2023-09-08 10:33:43 Wrong position detected!
+
+2023-09-08 10:33:44 Wrong position detected!
+
+2023-09-08 10:33:47 Not Search Event
+
+2023-09-08 10:33:47 Wrong position detected!
+
+2023-09-08 10:33:51 Not Search Event
+
+2023-09-08 10:33:52 Wrong position detected!
+
+2023-09-08 10:33:53 Wrong position detected!
+
+2023-09-08 10:33:56 Not Search Event
+
+2023-09-08 10:33:56 Wrong position detected!
+
+2023-09-08 10:33:59 Not Search Event
+
+2023-09-08 10:34:01 Not Found Event on Bet365...
+
+2023-09-08 10:34:04  *** MakeBet *** 
+
+2023-09-08 10:34:04 {"dbId":"","sport":"","country":"","league":"Norway Interkretsserie U19","dateTime":"","match":"Kongsvinger U19 vs KFUM U19","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Test bottino","tipSource":0}
+
+2023-09-08 10:34:04 42.09
+
+2023-09-08 10:34:04 Current balance : 42
+
+2023-09-08 10:34:04 Current Balance : 42
+
+2023-09-08 10:34:04 CheckIfLoggedIn
+
+2023-09-08 10:34:04 Logged In Already!
+
+2023-09-08 10:34:04 bet365.com
+
+2023-09-08 10:34:04 DoLoad365Page
+
+2023-09-08 10:34:04 365 page is loaded!
+
+2023-09-08 10:34:04 Wrong position detected!
+
+2023-09-08 10:34:13 Not Search Event
+
+2023-09-08 10:34:13 Wrong position detected!
+
+2023-09-08 10:34:17 Not Search Event
+
+2023-09-08 10:34:18 Wrong position detected!
+
+2023-09-08 10:34:20 Wrong position detected!
+
+2023-09-08 10:34:22 Not Search Event
+
+2023-09-08 10:34:22 Wrong position detected!
+
+2023-09-08 10:34:26 Not Search Event
+
+2023-09-08 10:34:27 Wrong position detected!
+
+2023-09-08 10:34:29 Wrong position detected!
+
+2023-09-08 10:34:31 Not Search Event
+
+2023-09-08 10:34:31 Wrong position detected!
+
+2023-09-08 10:34:35 Not Search Event
+
+2023-09-08 10:34:37 Not Found Event on Bet365...
+
+2023-09-08 10:34:51 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-08 10:34:51 The bot has been stopped!
+2023-09-08 10:37:23 Chrome_RenderWidgetHostHWND
+
+2023-09-08 10:37:23 Websocket server is listening on 8880
+
+2023-09-08 10:37:23 DoLogin
+
+2023-09-08 10:37:23 DoLoad365Page
+
+2023-09-08 10:37:28 365 page is loaded!
+
+2023-09-08 10:37:28 Executed login script!
+
+2023-09-08 10:37:35 DoLoad365Page
+
+2023-09-08 10:37:35 365 page is loaded!
+
+2023-09-08 10:37:35 LastLoginModule_Button Clicked
+
+2023-09-08 10:37:41 Login Success!
+
+2023-09-08 10:37:53 Browser Connected!
+
+2023-09-08 10:38:01 The bot has been started!
+
+2023-09-08 10:38:01 DoLogin
+
+2023-09-08 10:38:01 DoLoad365Page
+
+2023-09-08 10:38:01 365 page is loaded!
+
+2023-09-08 10:38:02 Connected Socket Server!!!
+
+2023-09-08 10:38:04 161.81
+
+2023-09-08 10:38:04 Current balance : 161.8
+
+2023-09-08 10:38:12 0 Settled bets!!!
+
+2023-09-08 10:38:12 Current Balance: 161.8
+
+2023-09-08 10:38:12 Page is initialized!
+
+2023-09-08 10:39:52 Recieve 1 new bets From Copybet Server!
+
+2023-09-08 10:39:52  *** MakeBet *** 
+
+2023-09-08 10:39:52 {"dbId":"","sport":"","country":"","league":"Norway Interkretsserie U19","dateTime":"","match":"Chanmari vs chawnpui","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Test bottino","tipSource":0}
+
+2023-09-08 10:39:52 161.81
+
+2023-09-08 10:39:52 Current balance : 161.8
+
+2023-09-08 10:39:52 Current Balance : 161.8
+
+2023-09-08 10:39:52 CheckIfLoggedIn
+
+2023-09-08 10:39:52 Logged In Already!
+
+2023-09-08 10:39:52 bet365.com
+
+2023-09-08 10:40:06 Chanmari FC v Chawnpui Dis :0.0674747474747475
+
+2023-09-08 10:40:07 Wrong position detected!
+
+2023-09-08 10:40:11 Stake : -1
+
+2023-09-08 10:40:11 Running AddbetScript...
+
+2023-09-08 10:40:11 scrollBetIntoView('1227098423') => 1
+
+2023-09-08 10:40:13 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-08 10:40:14 {
+  "bg": "d64ba292-d1b8-47e3-9e32-da7ae991a13f",
+  "sr": 0,
+  "mr": false,
+  "cc": "LShQqL+G17hpKMbQqClly+HXM3E9ZWhrGt6oAf4/83o=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "923",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/15",
+      "fi": 143473349,
+      "fd": "Chanmari FC v Chawnpui",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1227098423,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS143473349-1227098423",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 143405288,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-08 10:40:17 Fractional Odds : 8/15
+
+2023-09-08 10:40:17 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-09-08 10:40:17 Trying to place bet!
+
+2023-09-08 10:40:17 DoPlacebetUI
+
+2023-09-08 10:40:17 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-08 10:40:19 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-09-08 10:40:19 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-08 10:40:28 161.81
+
+2023-09-08 10:40:28 Current balance : 161.8
+
+2023-09-08 10:40:28 DoLoad365Page
+
+2023-09-08 10:40:28 365 page is loaded!
+
+2023-09-08 10:40:31 [ficiliroberto:2711Buruliddu.] SUCCESS. Stake:1 Odds:1.53
+
+2023-09-08 10:40:31 {
+  "username": "ficiliroberto",
+  "tipster": "",
+  "message": "[ficiliroberto:2711Buruliddu.] SUCCESS. Stake:1 Odds:1.53",
+  "stake": 1.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.53,
+  "tournament": "Norway Interkretsserie U19",
+  "eventName": "Chanmari vs chawnpui",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "08/09/2023 10:40:28",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 162.8,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-08 10:40:42 This Line is already existed on Settled bets!
+
+2023-09-08 10:52:52 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-08 10:52:52 The bot has been stopped!
+2023-09-08 12:21:32 Chrome_RenderWidgetHostHWND
+
+2023-09-08 12:21:32 Websocket server is listening on 8880
+
+2023-09-08 12:21:32 DoLogin
+
+2023-09-08 12:21:32 DoLoad365Page
+
+2023-09-08 12:21:32 365 page is loaded!
+
+2023-09-08 12:21:32 Executed login script!
+
+2023-09-08 12:21:59 DoLoad365Page
+
+2023-09-08 12:21:59 365 page is loaded!
+
+2023-09-08 12:22:02 Executed login script!
+
+2023-09-08 12:22:10 DoLoad365Page
+
+2023-09-08 12:22:10 365 page is loaded!
+
+2023-09-08 12:22:10 LastLoginModule_Button Clicked
+
+2023-09-08 12:22:15 Login Success!
+
+2023-09-08 12:22:22 0 Settled bets!!!
+
+2023-09-08 12:22:22 Browser Connected!
+
+2023-09-08 12:22:38 The bot has been started!
+
+2023-09-08 12:22:38 DoLogin
+
+2023-09-08 12:22:38 DoLoad365Page
+
+2023-09-08 12:22:38 365 page is loaded!
+
+2023-09-08 12:22:39 Connected Socket Server!!!
+
+2023-09-08 12:22:41 160.81
+
+2023-09-08 12:22:41 Current balance : 160.8
+
+2023-09-08 12:22:49 0 Settled bets!!!
+
+2023-09-08 12:22:49 Current Balance: 160.8
+
+2023-09-08 12:22:49 Page is initialized!
+
+2023-09-08 12:23:47 Recieve 1 new bets From Copybet Server!
+
+2023-09-08 12:23:47  *** MakeBet *** 
+
+2023-09-08 12:23:47 {"dbId":"","sport":"","country":"","league":"Norway Interkretsserie U19","dateTime":"","match":"Bangalore dream vs rebels fc","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Test bottino","tipSource":0}
+
+2023-09-08 12:23:47 160.81
+
+2023-09-08 12:23:47 Current balance : 160.8
+
+2023-09-08 12:23:47 Current Balance : 160.8
+
+2023-09-08 12:23:47 CheckIfLoggedIn
+
+2023-09-08 12:23:47 Logged In Already!
+
+2023-09-08 12:23:47 bet365.com
+
+2023-09-08 12:24:01 Bangalore Dream United FC v Rebels FC Dis :0.148841698841699
+
+2023-09-08 12:24:02 Wrong position detected!
+
+2023-09-08 12:24:05 Stake : 5
+
+2023-09-08 12:24:05 Running AddbetScript...
+
+2023-09-08 12:24:05 scrollBetIntoView('1226766829') => 1
+
+2023-09-08 12:24:07 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-08 12:24:09 {
+  "bg": "9fdc7a0f-7481-4c7e-aed2-a6cc8cd8690a",
+  "sr": 0,
+  "mr": false,
+  "cc": "B9RMMainhOvFDSOb3h1eKchVvvTo26+2P7WFoXUWrVA=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "923",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "2/5",
+      "fi": 143471004,
+      "fd": "Bangalore Dream United FC v Rebels FC",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1226766829,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS143471004-1226766829",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 143372213,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-08 12:24:11 Fractional Odds : 2/5
+
+2023-09-08 12:24:11 Trademate Odds : 0 , Bet365 Odds : 1.4
+
+2023-09-08 12:24:11 Trying to place bet!
+
+2023-09-08 12:24:11 DoPlacebetUI
+
+2023-09-08 12:24:11 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-08 12:24:13 Trademate Odds : 0 , Bet365 Odds : 1.4
+
+2023-09-08 12:24:13 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-08 12:24:22 160.81
+
+2023-09-08 12:24:22 Current balance : 160.8
+
+2023-09-08 12:24:22 DoLoad365Page
+
+2023-09-08 12:24:22 365 page is loaded!
+
+2023-09-08 12:24:22 LastLoginModule_Button Clicked
+
+2023-09-08 12:24:26 [ficiliroberto:2711Buruliddu.] SUCCESS. Stake:5 Odds:1.4
+
+2023-09-08 12:24:26 {
+  "username": "ficiliroberto",
+  "tipster": "",
+  "message": "[ficiliroberto:2711Buruliddu.] SUCCESS. Stake:5 Odds:1.4",
+  "stake": 5.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.4,
+  "tournament": "Norway Interkretsserie U19",
+  "eventName": "Bangalore dream vs rebels fc",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "08/09/2023 12:24:22",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 155.8,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-08 12:24:34 Trying to register tip at Bigstake
+
+2023-09-08 12:24:50 Registered tip at Bigstake Successfully!
+
+2023-09-08 12:24:53 This Line is already existed on Settled bets!
+
+2023-09-08 12:25:54 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-08 12:25:54 The bot has been stopped!

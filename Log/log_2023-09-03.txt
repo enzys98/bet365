@@ -1,0 +1,474 @@
+﻿
+2023-09-03 00:11:17 LastLoginModule_Button Clicked
+
+2023-09-03 00:30:47 LastLoginModule_Button Clicked
+
+2023-09-03 00:50:17 LastLoginModule_Button Clicked
+
+2023-09-03 01:09:47 LastLoginModule_Button Clicked
+
+2023-09-03 01:29:17 LastLoginModule_Button Clicked
+
+2023-09-03 01:48:47 LastLoginModule_Button Clicked
+
+2023-09-03 02:08:17 LastLoginModule_Button Clicked
+
+2023-09-03 02:27:47 LastLoginModule_Button Clicked
+
+2023-09-03 02:47:17 LastLoginModule_Button Clicked
+
+2023-09-03 03:06:47 LastLoginModule_Button Clicked
+
+2023-09-03 03:26:17 LastLoginModule_Button Clicked
+
+2023-09-03 03:45:47 LastLoginModule_Button Clicked
+
+2023-09-03 04:01:19 Recieve 1 new bets From Copybet Server!
+
+2023-09-03 04:01:19  *** MakeBet *** 
+
+2023-09-03 04:01:19 {"dbId":"","sport":"","country":"","league":"USA MLS","dateTime":"","match":"Nashville SC vs Charlotte FC","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-03 04:01:19 14.55
+
+2023-09-03 04:01:19 Current balance : 14.5
+
+2023-09-03 04:01:19 Current Balance : 14.5
+
+2023-09-03 04:01:19 CheckIfLoggedIn
+
+2023-09-03 04:01:19 Logged In Already!
+
+2023-09-03 04:01:19 bet365.com
+
+2023-09-03 04:01:19 DoLoad365Page
+
+2023-09-03 04:01:19 365 page is loaded!
+
+2023-09-03 04:01:33 Nashville SC v Charlotte FC Dis :0.00714285714285712
+
+2023-09-03 04:01:38 Not Found Odds on Bet365..
+
+2023-09-03 04:01:41  *** MakeBet *** 
+
+2023-09-03 04:01:41 {"dbId":"","sport":"","country":"","league":"USA MLS","dateTime":"","match":"Nashville SC vs Charlotte FC","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-03 04:01:41 14.55
+
+2023-09-03 04:01:41 Current balance : 14.5
+
+2023-09-03 04:01:41 Current Balance : 14.5
+
+2023-09-03 04:01:41 CheckIfLoggedIn
+
+2023-09-03 04:01:41 Logged In Already!
+
+2023-09-03 04:01:41 bet365.com
+
+2023-09-03 04:01:41 Wrong position detected!
+
+2023-09-03 04:01:46 Nashville SC v Charlotte FC Dis :0.00714285714285712
+
+2023-09-03 04:01:47 Wrong position detected!
+
+2023-09-03 04:01:51 Stake : 12
+
+2023-09-03 04:01:51 Running AddbetScript...
+
+2023-09-03 04:01:51 scrollBetIntoView('1191058333') => 1
+
+2023-09-03 04:01:52 Odds Pos : X : 201 , Y: 347
+
+2023-09-03 04:01:54 {
+  "bg": "53716f38-de8d-4ac3-96d4-c8dc3e39f254",
+  "sr": 0,
+  "mr": false,
+  "cc": "BlgM2ZYN7MhcVXfooWQbjCoBTUa18B8O5cNfnv58wwA=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "918",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/6",
+      "fi": 143155720,
+      "fd": "Nashville SC v Charlotte FC",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1191058333,
+          "bd": "Più di ",
+          "ha": "0.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS143155720-1191058333",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142719113,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-03 04:01:56 Fractional Odds : 4/6
+
+2023-09-03 04:01:56 Trademate Odds : 0 , Bet365 Odds : 1.66
+
+2023-09-03 04:01:56 Trying to place bet!
+
+2023-09-03 04:01:56 DoPlacebetUI
+
+2023-09-03 04:01:56 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-03 04:01:58 Trademate Odds : 0 , Bet365 Odds : 1.66
+
+2023-09-03 04:01:58 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-03 04:02:07 14.55
+
+2023-09-03 04:02:07 Current balance : 14.5
+
+2023-09-03 04:02:07 DoLoad365Page
+
+2023-09-03 04:02:07 365 page is loaded!
+
+2023-09-03 04:02:10 [scollodenis01:2711Buruliddu.] SUCCESS. Stake:12 Odds:1.66666666666667
+
+2023-09-03 04:02:10 {
+  "username": "scollodenis01",
+  "tipster": "",
+  "message": "[scollodenis01:2711Buruliddu.] SUCCESS. Stake:12 Odds:1.66666666666667",
+  "stake": 12.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.6666666666666667,
+  "tournament": "USA MLS",
+  "eventName": "Nashville SC vs Charlotte FC",
+  "probability": "OVER",
+  "market": "OVER 0.5",
+  "placedAt": "03/09/2023 04:02:07",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 2.5,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-03 04:02:18 Trying to register tip at Bigstake
+
+2023-09-03 04:02:31 Registered tip at Bigstake Successfully!
+
+2023-09-03 04:21:17 LastLoginModule_Button Clicked
+
+2023-09-03 04:29:13 Recieve new Match Score From Copybet Server!
+
+2023-09-03 04:29:13 New Score is updated...
+
+2023-09-03 04:29:13 {"home":"Nashville SC","away":"Charlotte FC","score":"0:1","gameTime":0}
+
+2023-09-03 04:29:13 New Score : Nashville SC vs Charlotte FC  0:1
+
+2023-09-03 04:29:13 Pending tip Score : Nashville SC vs Charlotte FC 0:0
+
+2023-09-03 04:29:13 Pending Tip is winning now...
+
+2023-09-03 04:34:14 Recieve new Match Score From Copybet Server!
+
+2023-09-03 04:34:14 New Score is updated...
+
+2023-09-03 04:34:14 {"home":"Nashville SC","away":"Charlotte FC","score":"1:1","gameTime":0}
+
+2023-09-03 04:40:14 Recieve new Match Score From Copybet Server!
+
+2023-09-03 04:40:14 New Score is updated...
+
+2023-09-03 04:40:14 {"home":"Nashville SC","away":"Charlotte FC","score":"1:1","gameTime":2}
+
+2023-09-03 04:40:47 LastLoginModule_Button Clicked
+
+2023-09-03 05:00:17 LastLoginModule_Button Clicked
+
+2023-09-03 05:19:47 LastLoginModule_Button Clicked
+
+2023-09-03 05:39:17 LastLoginModule_Button Clicked
+
+2023-09-03 05:58:47 LastLoginModule_Button Clicked
+
+2023-09-03 06:18:17 LastLoginModule_Button Clicked
+
+2023-09-03 06:31:18 Recieve 1 new bets From Copybet Server!
+
+2023-09-03 06:31:18  *** MakeBet *** 
+
+2023-09-03 06:31:18 {"dbId":"","sport":"","country":"","league":"Fiji National League","dateTime":"","match":"Rewa FC vs Nadi FC","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-03 06:31:18 22.54
+
+2023-09-03 06:31:18 Current balance : 22.5
+
+2023-09-03 06:31:18 Current Balance : 22.5
+
+2023-09-03 06:31:18 CheckIfLoggedIn
+
+2023-09-03 06:31:18 Logged In Already!
+
+2023-09-03 06:31:18 bet365.com
+
+2023-09-03 06:31:32 Rewa FC v Nadi FC Dis :0.0111111111111111
+
+2023-09-03 06:31:33 Wrong position detected!
+
+2023-09-03 06:31:36 Stake : 12
+
+2023-09-03 06:31:36 Running AddbetScript...
+
+2023-09-03 06:31:36 scrollBetIntoView('1195268898') => 1
+
+2023-09-03 06:31:38 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-03 06:31:40 {
+  "bg": "1df32b35-6c23-4602-afd8-e308d2ee4b33",
+  "sr": 0,
+  "mr": false,
+  "cc": "DHpvpnKXhFuca3GXeqyYwpNBHBpQmokTK6IXdH1Ve2w=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "918",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/13",
+      "fi": 143188810,
+      "fd": "Rewa FC v Nadi FC",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1195268898,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64f40c2c-86E47A9F",
+      "tp": "BS143188810-1195268898",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 143143221,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-03 06:31:42 Fractional Odds : 8/13
+
+2023-09-03 06:31:42 Trademate Odds : 0 , Bet365 Odds : 1.61
+
+2023-09-03 06:31:42 Trying to place bet!
+
+2023-09-03 06:31:42 DoPlacebetUI
+
+2023-09-03 06:31:42 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-03 06:31:44 Trademate Odds : 0 , Bet365 Odds : 1.61
+
+2023-09-03 06:31:44 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-03 06:31:53 22.54
+
+2023-09-03 06:31:53 Current balance : 22.5
+
+2023-09-03 06:31:53 DoLoad365Page
+
+2023-09-03 06:31:53 365 page is loaded!
+
+2023-09-03 06:31:56 [scollodenis01:2711Buruliddu.] SUCCESS. Stake:12 Odds:1.615
+
+2023-09-03 06:31:56 {
+  "username": "scollodenis01",
+  "tipster": "",
+  "message": "[scollodenis01:2711Buruliddu.] SUCCESS. Stake:12 Odds:1.615",
+  "stake": 12.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.615,
+  "tournament": "Fiji National League",
+  "eventName": "Rewa FC vs Nadi FC",
+  "probability": "OVER",
+  "market": "OVER 0.5",
+  "placedAt": "03/09/2023 06:31:53",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 10.5,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-03 06:32:04 Trying to register tip at Bigstake
+
+2023-09-03 06:32:17 Registered tip at Bigstake Successfully!
+
+2023-09-03 06:32:20 This Line is already existed on Settled bets!
+
+2023-09-03 06:51:17 LastLoginModule_Button Clicked
+
+2023-09-03 07:10:12 Recieve new Match Score From Copybet Server!
+
+2023-09-03 07:10:12 New Score is updated...
+
+2023-09-03 07:10:12 {"home":"Rewa FC","away":"Nadi FC","score":"0:0","gameTime":2}
+
+2023-09-03 07:10:12 New Score : Rewa FC vs Nadi FC  0:0
+
+2023-09-03 07:10:12 Pending tip Score : Rewa FC vs Nadi FC 0:0
+
+2023-09-03 07:10:12 Pending Tip is lost now...
+
+2023-09-03 07:10:47 LastLoginModule_Button Clicked
+
+2023-09-03 07:30:17 LastLoginModule_Button Clicked
+
+2023-09-03 07:49:47 LastLoginModule_Button Clicked
+
+2023-09-03 08:09:17 LastLoginModule_Button Clicked
+
+2023-09-03 08:28:47 LastLoginModule_Button Clicked
+
+2023-09-03 08:48:17 LastLoginModule_Button Clicked
+
+2023-09-03 09:07:47 LastLoginModule_Button Clicked
+
+2023-09-03 09:13:57 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-03 09:13:57 The bot has been stopped!
+2023-09-03 13:56:17 Chrome_RenderWidgetHostHWND
+
+2023-09-03 13:56:18 Websocket server is listening on 8880
+
+2023-09-03 13:56:18 DoLogin
+
+2023-09-03 13:56:18 DoLoad365Page
+
+2023-09-03 13:56:18 365 page is loaded!
+
+2023-09-03 13:56:18 Executed login script!
+
+2023-09-03 13:56:45 DoLoad365Page
+
+2023-09-03 13:56:45 365 page is loaded!
+
+2023-09-03 13:56:48 Executed login script!
+
+2023-09-03 13:56:55 DoLoad365Page
+
+2023-09-03 13:57:00 365 page is loaded!
+
+2023-09-03 13:57:03 Login Success!
+
+2023-09-03 13:57:10 0 Settled bets!!!
+
+2023-09-03 13:57:10 Browser Connected!
+
+2023-09-03 13:57:13 The bot has been started!
+
+2023-09-03 13:57:13 DoLogin
+
+2023-09-03 13:57:13 DoLoad365Page
+
+2023-09-03 13:57:13 365 page is loaded!
+
+2023-09-03 13:57:14 Connected Socket Server!!!
+
+2023-09-03 13:57:16 10.54
+
+2023-09-03 13:57:16 Current balance : 10.5
+
+2023-09-03 13:57:24 0 Settled bets!!!
+
+2023-09-03 13:57:24 Current Balance: 10.5
+
+2023-09-03 13:57:24 Page is initialized!
+
+2023-09-03 14:00:17 Recieve new Match Score From Copybet Server!
+
+2023-09-03 14:00:17 New Score is updated...
+
+2023-09-03 14:00:17 {"home":"Montedio Yamagata","away":"Omiya Ardija","score":"1:1","gameTime":2}
+
+2023-09-03 14:01:19 Recieve new Match Score From Copybet Server!
+
+2023-09-03 14:01:19 New Score is updated...
+
+2023-09-03 14:01:19 {"home":"Zwickau","away":"Hansa Rostock II","score":"1:1","gameTime":1}
+
+2023-09-03 14:02:19 Recieve new Match Score From Copybet Server!
+
+2023-09-03 14:02:19 New Score is updated...
+
+2023-09-03 14:02:19 {"home":"Renofa Yamaguchi","away":"Mito Hollyhock","score":"1:2","gameTime":2}
+
+2023-09-03 14:03:21 Recieve new Match Score From Copybet Server!
+
+2023-09-03 14:03:21 New Score is updated...
+
+2023-09-03 14:03:21 {"home":"Leganes U19","away":"Fuenlabrada U19","score":"1:1","gameTime":2}
+
+2023-09-03 14:12:18 Recieve new Match Score From Copybet Server!
+
+2023-09-03 14:12:18 New Score is updated...
+
+2023-09-03 14:12:18 {"home":"Zwickau","away":"Hansa Rostock II","score":"2:1","gameTime":0}
+
+2023-09-03 14:16:41 LastLoginModule_Button Clicked
+
+2023-09-03 14:33:21 Recieve new Match Score From Copybet Server!
+
+2023-09-03 14:33:21 New Score is updated...
+
+2023-09-03 14:33:21 {"home":"Zwickau","away":"Hansa Rostock II","score":"3:1","gameTime":0}
+
+2023-09-03 14:36:11 LastLoginModule_Button Clicked
+
+2023-09-03 14:39:20 Recieve new Match Score From Copybet Server!
+
+2023-09-03 14:39:20 New Score is updated...
+
+2023-09-03 14:39:20 {"home":"Zwickau","away":"Hansa Rostock II","score":"3:2","gameTime":0}
+
+2023-09-03 14:55:20 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-03 14:55:20 The bot has been stopped!

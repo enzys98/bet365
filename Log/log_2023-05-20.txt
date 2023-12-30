@@ -1,0 +1,882 @@
+﻿2023-05-20 16:12:52 Chrome_RenderWidgetHostHWND
+
+2023-05-20 16:12:52 Websocket server is listening on 8880
+
+2023-05-20 16:12:52 DoLogin
+
+2023-05-20 16:12:52 DoLoad365Page
+2023-05-20 16:21:48 Chrome_RenderWidgetHostHWND
+
+2023-05-20 16:21:48 Websocket server is listening on 8880
+
+2023-05-20 16:21:48 DoLogin
+
+2023-05-20 16:21:48 DoLoad365Page
+
+2023-05-20 16:21:48 365 page is loaded!
+
+2023-05-20 16:21:48 Executed login script!
+
+2023-05-20 16:22:15 DoLoad365Page
+
+2023-05-20 16:22:15 365 page is loaded!
+
+2023-05-20 16:22:18 Executed login script!
+
+2023-05-20 16:22:25 DoLoad365Page
+
+2023-05-20 16:22:26 365 page is loaded!
+
+2023-05-20 16:22:26 LastLoginModule_Button Clicked
+
+2023-05-20 16:22:31 Login Success!
+
+2023-05-20 16:22:43 Browser Connected!
+
+2023-05-20 16:23:10 The bot has been started!
+
+2023-05-20 16:23:10 DoLogin
+
+2023-05-20 16:23:10 DoLoad365Page
+
+2023-05-20 16:23:10 365 page is loaded!
+
+2023-05-20 16:23:11 Connected Socket Server!!!
+
+2023-05-20 16:23:13 77.61
+
+2023-05-20 16:23:13 Current balance : 77.6
+
+2023-05-20 16:23:22 1 Settled bets!!!
+
+2023-05-20 16:23:22 Current Balance: 77.6
+
+2023-05-20 16:23:22 Page is initialized!
+
+2023-05-20 16:25:27 Recieve 1 new bets From Copybet Server!
+
+2023-05-20 16:25:27  *** MakeBet *** 
+
+2023-05-20 16:25:27 {"dbId":"","sport":"","country":"","league":"Italy Campionato Primavera 2","dateTime":"","match":"Venezia U19 vs Benevento U19","score":"2:1","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-05-20 16:25:27 77.61
+
+2023-05-20 16:25:27 Current balance : 77.6
+
+2023-05-20 16:25:27 Current Balance : 77.6
+
+2023-05-20 16:25:27 CheckIfLoggedIn
+
+2023-05-20 16:25:27 Logged In Already!
+
+2023-05-20 16:25:27 bet365.com
+
+2023-05-20 16:25:38 Venezia U19 v Benevento U19 Dis :0.00714285714285712
+
+2023-05-20 16:25:39 Wrong position detected!
+
+2023-05-20 16:25:43 Stake : 13
+
+2023-05-20 16:25:43 Running AddbetScript...
+
+2023-05-20 16:25:43 scrollBetIntoView('666096547') => 1
+
+2023-05-20 16:25:45 Odds Pos : X : 411.171875 , Y: 404
+
+2023-05-20 16:25:47 {
+  "bg": "a69299d8-6e6b-4c4c-ab65-f470c45e154a",
+  "sr": 0,
+  "mr": false,
+  "cc": "8KI1iUhqST/sEP726WjeyXGzDW2JM8dJjQ609FY/sKA=",
+  "ir": true,
+  "vr": "852",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/1",
+      "fi": 137987726,
+      "fd": "Venezia U19 v Benevento U19",
+      "pt": [
+        {
+          "hd": "3.5",
+          "pi": 666096547,
+          "bd": "Più di",
+          "ha": "3.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "6468d86c-25A2BE2",
+      "tp": "BS137987726-666096547",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 137905127,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-05-20 16:25:50 Fractional Odds : 4/1
+
+2023-05-20 16:25:50 Trademate Odds : 0 , Bet365 Odds : 5
+
+2023-05-20 16:25:50 Trying to place bet!
+
+2023-05-20 16:25:50 DoPlacebetUI
+
+2023-05-20 16:25:50 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-05-20 16:25:51 Trademate Odds : 0 , Bet365 Odds : 5
+
+2023-05-20 16:25:51 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-05-20 16:26:00 77.61
+
+2023-05-20 16:26:00 Current balance : 77.6
+
+2023-05-20 16:26:00 DoLoad365Page
+
+2023-05-20 16:26:00 365 page is loaded!
+
+2023-05-20 16:26:03 [placcuzza01:2711Buruliddu.] SUCCESS. Stake:13 Odds:5
+
+2023-05-20 16:26:03 {
+  "username": "placcuzza01",
+  "tipster": "",
+  "message": "[placcuzza01:2711Buruliddu.] SUCCESS. Stake:13 Odds:5",
+  "stake": 13.0,
+  "tipSource": "TELEGRAM",
+  "odds": 5.0,
+  "tournament": "Italy Campionato Primavera 2",
+  "eventName": "Venezia U19 vs Benevento U19",
+  "probability": "OVER",
+  "market": "OVER 3.5",
+  "placedAt": "20/05/2023 16:26:00",
+  "selection": "OVER",
+  "handicap": 3.5,
+  "balance": 64.6,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-05-20 16:26:11 Trying to register tip at Bigstake
+
+2023-05-20 16:26:28 Registered tip at Bigstake Successfully!
+
+2023-05-20 16:26:31 This Line is already existed on Settled bets!
+
+2023-05-20 16:33:21 Recieve new Match Score From Copybet Server!
+
+2023-05-20 16:33:21 New Score is updated...
+
+2023-05-20 16:33:21 {"home":"Venezia U19","away":"Benevento U19","score":"2:1","gameTime":2}
+
+2023-05-20 16:33:21 New Score : Venezia U19 vs Benevento U19  2:1
+
+2023-05-20 16:33:21 Pending tip Score : Venezia U19 vs Benevento U19 2:1
+
+2023-05-20 16:33:21 Pending Tip is lost now...
+
+2023-05-20 16:33:22 Recieve new Match Score From Copybet Server!
+
+2023-05-20 16:33:22 New Score is updated...
+
+2023-05-20 16:33:22 {"home":"Venezia U19","away":"Benevento U19","score":"2:1","gameTime":2}
+
+2023-05-20 16:33:22 Recieve new Match Score From Copybet Server!
+
+2023-05-20 16:33:22 New Score is updated...
+
+2023-05-20 16:33:22 {"home":"Venezia U19","away":"Benevento U19","score":"2:1","gameTime":2}
+
+2023-05-20 16:33:23 Recieve new Match Score From Copybet Server!
+
+2023-05-20 16:33:23 New Score is updated...
+
+2023-05-20 16:33:23 {"home":"Venezia U19","away":"Benevento U19","score":"2:1","gameTime":2}
+
+2023-05-20 16:33:33 Recieve 1 new bets From Copybet Server!
+
+2023-05-20 16:33:33  *** MakeBet *** 
+
+2023-05-20 16:33:33 {"dbId":"","sport":"","country":"","league":"Austria Landesliga","dateTime":"","match":"Favoritner AC vs SC Mannswörth","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-05-20 16:33:33 64.61
+
+2023-05-20 16:33:33 Current balance : 64.6
+
+2023-05-20 16:33:33 Current Balance : 64.6
+
+2023-05-20 16:33:33 CheckIfLoggedIn
+
+2023-05-20 16:33:33 Logged In Already!
+
+2023-05-20 16:33:33 bet365.com
+
+2023-05-20 16:33:47 Not Search Event
+
+2023-05-20 16:33:56 Not Search Event
+
+2023-05-20 16:34:15 Not Search Event
+
+2023-05-20 16:34:22 Recieve new Match Score From Copybet Server!
+
+2023-05-20 16:34:22 New Score is updated...
+
+2023-05-20 16:34:22 {"home":"FC Honka Femminile","away":"Ilves Femminile","score":"0:2","gameTime":0}
+
+2023-05-20 16:34:23 Not Search Event
+
+2023-05-20 16:34:24 Recieve new Match Score From Copybet Server!
+
+2023-05-20 16:34:24 New Score is updated...
+
+2023-05-20 16:34:24 {"home":"FC Honka Femminile","away":"Ilves Femminile","score":"0:2","gameTime":0}
+
+2023-05-20 16:34:28 DoLoad365Page
+
+2023-05-20 16:34:28 365 page is loaded!
+
+2023-05-20 16:34:42 Not Search Event
+
+2023-05-20 16:34:50 Not Search Event
+
+2023-05-20 16:34:55 Not Found Event on Bet365...
+
+2023-05-20 16:34:58  *** MakeBet *** 
+
+2023-05-20 16:34:58 {"dbId":"","sport":"","country":"","league":"Austria Landesliga","dateTime":"","match":"Favoritner AC vs SC Mannswörth","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-05-20 16:34:58 64.61
+
+2023-05-20 16:34:58 Current balance : 64.6
+
+2023-05-20 16:34:58 Current Balance : 64.6
+
+2023-05-20 16:34:58 CheckIfLoggedIn
+
+2023-05-20 16:34:58 Logged In Already!
+
+2023-05-20 16:34:58 bet365.com
+
+2023-05-20 16:35:12 Not Search Event
+
+2023-05-20 16:35:20 Not Search Event
+
+2023-05-20 16:35:38 Not Search Event
+
+2023-05-20 16:35:47 Not Search Event
+
+2023-05-20 16:36:05 Not Search Event
+
+2023-05-20 16:36:14 Not Search Event
+
+2023-05-20 16:36:19 Not Found Event on Bet365...
+
+2023-05-20 16:42:30 Recieve 1 new bets From Copybet Server!
+
+2023-05-20 16:42:30  *** MakeBet *** 
+
+2023-05-20 16:42:30 {"dbId":"","sport":"","country":"","league":"Serbia Super Liga","dateTime":"","match":"FK Radnicki 1923 vs Crvena Zvezda","score":"0:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-05-20 16:42:30 64.61
+
+2023-05-20 16:42:30 Current balance : 64.6
+
+2023-05-20 16:42:30 Current Balance : 64.6
+
+2023-05-20 16:42:30 CheckIfLoggedIn
+
+2023-05-20 16:42:30 Logged In Already!
+
+2023-05-20 16:42:30 bet365.com
+
+2023-05-20 16:42:30 DoLoad365Page
+
+2023-05-20 16:42:30 365 page is loaded!
+
+2023-05-20 16:42:41 FK Radnicki 1923 v Stella Rossa Dis :0.116373411534702
+
+2023-05-20 16:42:42 Wrong position detected!
+
+2023-05-20 16:42:46 Stake : 15
+
+2023-05-20 16:42:46 Running AddbetScript...
+
+2023-05-20 16:42:46 scrollBetIntoView('670859251') => 1
+
+2023-05-20 16:42:47 Odds Pos : X : 411.171875 , Y: 404
+
+2023-05-20 16:42:49 {
+  "bg": "8301a8ab-feab-4fe9-a1fc-1fb15c4fcfa5",
+  "sr": 0,
+  "mr": false,
+  "cc": "g6/IkrpL22ZvUuaOXSfBCQ8U6tsz2sFjqiWDoypUZbM=",
+  "ir": true,
+  "vr": "852",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "1/2",
+      "fi": 138032319,
+      "fd": "FK Radnicki 1923 v Stella Rossa",
+      "pt": [
+        {
+          "hd": "1.5",
+          "pi": 670859251,
+          "bd": "Più di",
+          "ha": "1.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "6468dc6a-F7490F",
+      "tp": "BS138032319-670859251",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 137817081,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-05-20 16:42:51 Fractional Odds : 1/2
+
+2023-05-20 16:42:51 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-05-20 16:42:51 Trying to place bet!
+
+2023-05-20 16:42:51 DoPlacebetUI
+
+2023-05-20 16:42:51 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-05-20 16:42:53 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-05-20 16:42:53 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-05-20 16:43:02 64.61
+
+2023-05-20 16:43:02 Current balance : 64.6
+
+2023-05-20 16:43:02 DoLoad365Page
+
+2023-05-20 16:43:02 365 page is loaded!
+
+2023-05-20 16:43:05 [placcuzza01:2711Buruliddu.] SUCCESS. Stake:15 Odds:1.5
+
+2023-05-20 16:43:05 {
+  "username": "placcuzza01",
+  "tipster": "",
+  "message": "[placcuzza01:2711Buruliddu.] SUCCESS. Stake:15 Odds:1.5",
+  "stake": 15.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.5,
+  "tournament": "Serbia Super Liga",
+  "eventName": "FK Radnicki 1923 vs Crvena Zvezda",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "20/05/2023 16:43:02",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 49.599999999999994,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-05-20 16:43:13 Trying to register tip at Bigstake
+
+2023-05-20 16:43:30 Registered tip at Bigstake Successfully!
+
+2023-05-20 16:43:33 This Line is already existed on Settled bets!
+
+2023-05-20 16:51:21 Recieve new Match Score From Copybet Server!
+
+2023-05-20 16:51:21 New Score is updated...
+
+2023-05-20 16:51:21 {"home":"FC Honka Femminile","away":"Ilves Femminile","score":"1:2","gameTime":0}
+
+2023-05-20 16:51:21 New Score : FC Honka Femminile vs Ilves Femminile  1:2
+
+2023-05-20 16:51:21 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 16:51:21 Recieve new Match Score From Copybet Server!
+
+2023-05-20 16:51:21 New Score is updated...
+
+2023-05-20 16:51:21 {"home":"FK Radnicki 1923","away":"Crvena Zvezda","score":"0:0","gameTime":1}
+
+2023-05-20 16:51:21 New Score : FK Radnicki 1923 vs Crvena Zvezda  0:0
+
+2023-05-20 16:51:21 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 16:51:22 Recieve new Match Score From Copybet Server!
+
+2023-05-20 16:51:22 New Score is updated...
+
+2023-05-20 16:51:22 {"home":"FK Radnicki 1923","away":"Crvena Zvezda","score":"0:0","gameTime":1}
+
+2023-05-20 16:51:22 New Score : FK Radnicki 1923 vs Crvena Zvezda  0:0
+
+2023-05-20 16:51:22 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 16:51:22 Recieve new Match Score From Copybet Server!
+
+2023-05-20 16:51:22 New Score is updated...
+
+2023-05-20 16:51:22 {"home":"FC Honka Femminile","away":"Ilves Femminile","score":"1:2","gameTime":0}
+
+2023-05-20 16:51:22 New Score : FC Honka Femminile vs Ilves Femminile  1:2
+
+2023-05-20 16:51:22 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 16:52:19 Recieve new Match Score From Copybet Server!
+
+2023-05-20 16:52:19 New Score is updated...
+
+2023-05-20 16:52:19 {"home":"Favoritner AC","away":"SC Mannswörth","score":"0:0","gameTime":1}
+
+2023-05-20 16:52:19 New Score : Favoritner AC vs SC Mannswörth  0:0
+
+2023-05-20 16:52:19 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 16:52:21 Recieve new Match Score From Copybet Server!
+
+2023-05-20 16:52:21 New Score is updated...
+
+2023-05-20 16:52:21 {"home":"Favoritner AC","away":"SC Mannswörth","score":"0:0","gameTime":1}
+
+2023-05-20 16:52:21 New Score : Favoritner AC vs SC Mannswörth  0:0
+
+2023-05-20 16:52:21 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 16:58:28 Recieve new Match Score From Copybet Server!
+
+2023-05-20 16:58:28 New Score is updated...
+
+2023-05-20 16:58:28 {"home":"FC Honka Femminile","away":"Ilves Femminile","score":"1:2","gameTime":2}
+
+2023-05-20 16:58:28 New Score : FC Honka Femminile vs Ilves Femminile  1:2
+
+2023-05-20 16:58:28 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 16:58:30 Recieve new Match Score From Copybet Server!
+
+2023-05-20 16:58:30 New Score is updated...
+
+2023-05-20 16:58:30 {"home":"FC Honka Femminile","away":"Ilves Femminile","score":"1:2","gameTime":2}
+
+2023-05-20 16:58:30 New Score : FC Honka Femminile vs Ilves Femminile  1:2
+
+2023-05-20 16:58:30 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 17:02:10 LastLoginModule_Button Clicked
+
+2023-05-20 17:09:15 Recieve new Match Score From Copybet Server!
+
+2023-05-20 17:09:15 New Score is updated...
+
+2023-05-20 17:09:15 {"home":"Favoritner AC","away":"SC Mannswörth","score":"0:0","gameTime":1}
+
+2023-05-20 17:09:15 New Score : Favoritner AC vs SC Mannswörth  0:0
+
+2023-05-20 17:09:15 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 17:09:16 Recieve new Match Score From Copybet Server!
+
+2023-05-20 17:09:16 New Score is updated...
+
+2023-05-20 17:09:16 {"home":"Favoritner AC","away":"SC Mannswörth","score":"0:0","gameTime":1}
+
+2023-05-20 17:09:16 New Score : Favoritner AC vs SC Mannswörth  0:0
+
+2023-05-20 17:09:16 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 17:10:16 Recieve new Match Score From Copybet Server!
+
+2023-05-20 17:10:16 New Score is updated...
+
+2023-05-20 17:10:16 {"home":"FK Radnicki 1923","away":"Crvena Zvezda","score":"0:0","gameTime":1}
+
+2023-05-20 17:10:16 New Score : FK Radnicki 1923 vs Crvena Zvezda  0:0
+
+2023-05-20 17:10:16 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 17:10:18 Recieve new Match Score From Copybet Server!
+
+2023-05-20 17:10:18 New Score is updated...
+
+2023-05-20 17:10:18 {"home":"FK Radnicki 1923","away":"Crvena Zvezda","score":"0:0","gameTime":1}
+
+2023-05-20 17:10:18 New Score : FK Radnicki 1923 vs Crvena Zvezda  0:0
+
+2023-05-20 17:10:18 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 17:21:40 LastLoginModule_Button Clicked
+
+2023-05-20 17:37:19 Recieve new Match Score From Copybet Server!
+
+2023-05-20 17:37:19 New Score is updated...
+
+2023-05-20 17:37:19 {"home":"Favoritner AC","away":"SC Mannswörth","score":"1:0","gameTime":0}
+
+2023-05-20 17:37:19 New Score : Favoritner AC vs SC Mannswörth  1:0
+
+2023-05-20 17:37:19 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 17:37:19 Recieve new Match Score From Copybet Server!
+
+2023-05-20 17:37:19 New Score is updated...
+
+2023-05-20 17:37:19 {"home":"Favoritner AC","away":"SC Mannswörth","score":"1:0","gameTime":0}
+
+2023-05-20 17:37:19 New Score : Favoritner AC vs SC Mannswörth  1:0
+
+2023-05-20 17:37:19 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 17:41:10 LastLoginModule_Button Clicked
+
+2023-05-20 17:41:21 Recieve new Match Score From Copybet Server!
+
+2023-05-20 17:41:21 New Score is updated...
+
+2023-05-20 17:41:21 {"home":"Celtic","away":"St Mirren","score":"2:2","gameTime":0}
+
+2023-05-20 17:41:21 New Score : Celtic vs St Mirren  2:2
+
+2023-05-20 17:41:21 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 17:41:23 Recieve new Match Score From Copybet Server!
+
+2023-05-20 17:41:23 New Score is updated...
+
+2023-05-20 17:41:23 {"home":"Celtic","away":"St Mirren","score":"2:2","gameTime":0}
+
+2023-05-20 17:41:23 New Score : Celtic vs St Mirren  2:2
+
+2023-05-20 17:41:23 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 17:43:30 Recieve 1 new bets From Copybet Server!
+
+2023-05-20 17:43:30 Pending bet is not finished.!
+
+2023-05-20 17:47:21 Recieve new Match Score From Copybet Server!
+
+2023-05-20 17:47:21 New Score is updated...
+
+2023-05-20 17:47:21 {"home":"SaPa","away":"FC Finnkurd","score":"0:1","gameTime":0}
+
+2023-05-20 17:47:21 New Score : SaPa vs FC Finnkurd  0:1
+
+2023-05-20 17:47:21 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 17:48:18 Recieve new Match Score From Copybet Server!
+
+2023-05-20 17:48:18 New Score is updated...
+
+2023-05-20 17:48:18 {"home":"FK Radnicki 1923","away":"Crvena Zvezda","score":"0:1","gameTime":0}
+
+2023-05-20 17:48:18 New Score : FK Radnicki 1923 vs Crvena Zvezda  0:1
+
+2023-05-20 17:48:18 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 17:48:42 Recieve new Match Score From Copybet Server!
+
+2023-05-20 17:48:42 New Score is updated...
+
+2023-05-20 17:48:42 {"home":"SaPa","away":"FC Finnkurd","score":"0:1","gameTime":0}
+
+2023-05-20 17:48:42 New Score : SaPa vs FC Finnkurd  0:1
+
+2023-05-20 17:48:42 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 17:48:43 Recieve new Match Score From Copybet Server!
+
+2023-05-20 17:48:43 New Score is updated...
+
+2023-05-20 17:48:43 {"home":"FK Radnicki 1923","away":"Crvena Zvezda","score":"0:1","gameTime":0}
+
+2023-05-20 17:48:43 New Score : FK Radnicki 1923 vs Crvena Zvezda  0:1
+
+2023-05-20 17:48:43 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 17:50:22 Recieve new Match Score From Copybet Server!
+
+2023-05-20 17:50:22 New Score is updated...
+
+2023-05-20 17:50:22 {"home":"FK Radnicki 1923","away":"Crvena Zvezda","score":"1:1","gameTime":0}
+
+2023-05-20 17:50:22 New Score : FK Radnicki 1923 vs Crvena Zvezda  1:1
+
+2023-05-20 17:50:22 Pending tip Score : FK Radnicki 1923 vs Crvena Zvezda 0:0
+
+2023-05-20 17:50:22 Pending Tip is winning now...
+
+2023-05-20 17:50:31 Recieve new Match Score From Copybet Server!
+
+2023-05-20 17:50:31 New Score is updated...
+
+2023-05-20 17:50:31 {"home":"FK Radnicki 1923","away":"Crvena Zvezda","score":"1:1","gameTime":0}
+
+2023-05-20 17:56:26 Recieve new Match Score From Copybet Server!
+
+2023-05-20 17:56:26 New Score is updated...
+
+2023-05-20 17:56:26 {"home":"Favoritner AC","away":"SC Mannswörth","score":"2:0","gameTime":0}
+
+2023-05-20 17:56:26 Recieve new Match Score From Copybet Server!
+
+2023-05-20 17:56:26 New Score is updated...
+
+2023-05-20 17:56:26 {"home":"Favoritner AC","away":"SC Mannswörth","score":"2:0","gameTime":0}
+
+2023-05-20 18:00:33 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:00:33 New Score is updated...
+
+2023-05-20 18:00:33 {"home":"Celtic","away":"St Mirren","score":"2:2","gameTime":2}
+
+2023-05-20 18:00:33 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:00:33 New Score is updated...
+
+2023-05-20 18:00:33 {"home":"Celtic","away":"St Mirren","score":"2:2","gameTime":2}
+
+2023-05-20 18:00:40 LastLoginModule_Button Clicked
+
+2023-05-20 18:03:25 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:03:25 New Score is updated...
+
+2023-05-20 18:03:25 {"home":"FK Radnicki 1923","away":"Crvena Zvezda","score":"1:1","gameTime":2}
+
+2023-05-20 18:03:26 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:03:26 New Score is updated...
+
+2023-05-20 18:03:26 {"home":"FK Radnicki 1923","away":"Crvena Zvezda","score":"1:1","gameTime":2}
+
+2023-05-20 18:03:26 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:03:26 New Score is updated...
+
+2023-05-20 18:03:26 {"home":"Favoritner AC","away":"SC Mannswörth","score":"2:0","gameTime":2}
+
+2023-05-20 18:03:26 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:03:26 New Score is updated...
+
+2023-05-20 18:03:26 {"home":"Favoritner AC","away":"SC Mannswörth","score":"2:0","gameTime":2}
+
+2023-05-20 18:11:16 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:11:16 New Score is updated...
+
+2023-05-20 18:11:16 {"home":"SaPa","away":"FC Finnkurd","score":"0:1","gameTime":1}
+
+2023-05-20 18:11:17 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:11:17 New Score is updated...
+
+2023-05-20 18:11:17 {"home":"SaPa","away":"FC Finnkurd","score":"0:1","gameTime":1}
+
+2023-05-20 18:20:10 LastLoginModule_Button Clicked
+
+2023-05-20 18:21:17 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:21:17 New Score is updated...
+
+2023-05-20 18:21:17 {"home":"SaPa","away":"FC Finnkurd","score":"0:1","gameTime":1}
+
+2023-05-20 18:21:18 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:21:18 New Score is updated...
+
+2023-05-20 18:21:18 {"home":"SaPa","away":"FC Finnkurd","score":"0:1","gameTime":1}
+
+2023-05-20 18:23:42 Disconnected Socket Server!!! || ping timeout
+
+2023-05-20 18:25:25 Connected Socket Server!!!
+
+2023-05-20 18:35:19 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:35:19 New Score is updated...
+
+2023-05-20 18:35:19 {"home":"ToTe","away":"MPS","score":"1:3","gameTime":0}
+
+2023-05-20 18:35:21 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:35:21 New Score is updated...
+
+2023-05-20 18:35:21 {"home":"ToTe","away":"MPS","score":"1:3","gameTime":0}
+
+2023-05-20 18:39:40 LastLoginModule_Button Clicked
+
+2023-05-20 18:41:30 Recieve 1 new bets From Copybet Server!
+
+2023-05-20 18:41:30  *** MakeBet *** 
+
+2023-05-20 18:41:30 {"dbId":"","sport":"","country":"","league":"Portugal Liga 3","dateTime":"","match":"UD Leiria vs CF Os Belenenses","score":"1:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-05-20 18:41:30 49.61
+
+2023-05-20 18:41:31 Current balance : 49.6
+
+2023-05-20 18:41:31 Current Balance : 49.6
+
+2023-05-20 18:41:31 CheckIfLoggedIn
+
+2023-05-20 18:41:31 Logged In Already!
+
+2023-05-20 18:41:31 bet365.com
+
+2023-05-20 18:41:41 Not Search Event
+
+2023-05-20 18:41:41 Wrong position detected!
+
+2023-05-20 18:41:45 Not Search Event
+
+2023-05-20 18:41:47 Wrong position detected!
+
+2023-05-20 18:41:52 Not Search Event
+
+2023-05-20 18:41:52 Wrong position detected!
+
+2023-05-20 18:41:56 Not Search Event
+
+2023-05-20 18:41:58 Wrong position detected!
+
+2023-05-20 18:42:03 Not Search Event
+
+2023-05-20 18:42:03 Wrong position detected!
+
+2023-05-20 18:42:08 Not Search Event
+
+2023-05-20 18:42:10 Not Found Event on Bet365...
+
+2023-05-20 18:42:13  *** MakeBet *** 
+
+2023-05-20 18:42:13 {"dbId":"","sport":"","country":"","league":"Portugal Liga 3","dateTime":"","match":"UD Leiria vs CF Os Belenenses","score":"1:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-05-20 18:42:13 49.61
+
+2023-05-20 18:42:13 Current balance : 49.6
+
+2023-05-20 18:42:13 Current Balance : 49.6
+
+2023-05-20 18:42:13 CheckIfLoggedIn
+
+2023-05-20 18:42:13 Logged In Already!
+
+2023-05-20 18:42:13 bet365.com
+
+2023-05-20 18:42:13 DoLoad365Page
+
+2023-05-20 18:42:13 365 page is loaded!
+
+2023-05-20 18:42:13 Wrong position detected!
+
+2023-05-20 18:42:18 Not Search Event
+
+2023-05-20 18:42:22 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:42:22 New Score is updated...
+
+2023-05-20 18:42:22 {"home":"ToTe","away":"MPS","score":"1:4","gameTime":0}
+
+2023-05-20 18:42:24 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:42:24 New Score is updated...
+
+2023-05-20 18:42:24 {"home":"ToTe","away":"MPS","score":"1:4","gameTime":0}
+
+2023-05-20 18:42:25 Not Search Event
+
+2023-05-20 18:42:41 Not Search Event
+
+2023-05-20 18:42:41 Wrong position detected!
+
+2023-05-20 18:42:45 Not Search Event
+
+2023-05-20 18:42:47 Wrong position detected!
+
+2023-05-20 18:42:52 Not Search Event
+
+2023-05-20 18:42:52 Wrong position detected!
+
+2023-05-20 18:42:56 Not Search Event
+
+2023-05-20 18:42:58 Not Found Event on Bet365...
+
+2023-05-20 18:47:19 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:47:19 New Score is updated...
+
+2023-05-20 18:47:19 {"home":"SaPa","away":"FC Finnkurd","score":"0:2","gameTime":0}
+
+2023-05-20 18:47:20 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:47:20 New Score is updated...
+
+2023-05-20 18:47:20 {"home":"SaPa","away":"FC Finnkurd","score":"0:2","gameTime":0}
+
+2023-05-20 18:48:21 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:48:21 New Score is updated...
+
+2023-05-20 18:48:21 {"home":"ToTe","away":"MPS","score":"1:5","gameTime":0}
+
+2023-05-20 18:48:23 Recieve new Match Score From Copybet Server!
+
+2023-05-20 18:48:23 New Score is updated...
+
+2023-05-20 18:48:23 {"home":"ToTe","away":"MPS","score":"1:5","gameTime":0}
+
+2023-05-20 19:02:40 LastLoginModule_Button Clicked
+
+2023-05-20 19:04:19 Recieve new Match Score From Copybet Server!
+
+2023-05-20 19:04:19 New Score is updated...
+
+2023-05-20 19:04:19 {"home":"SaPa","away":"FC Finnkurd","score":"0:3","gameTime":0}
+
+2023-05-20 19:04:21 Recieve new Match Score From Copybet Server!
+
+2023-05-20 19:04:21 New Score is updated...
+
+2023-05-20 19:04:21 {"home":"SaPa","away":"FC Finnkurd","score":"0:3","gameTime":0}
+
+2023-05-20 19:05:31 Disconnected Socket Server!!! || ping timeout

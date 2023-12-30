@@ -1,0 +1,241 @@
+﻿2023-09-05 08:19:19 Chrome_RenderWidgetHostHWND
+
+2023-09-05 08:19:19 Websocket server is listening on 8880
+
+2023-09-05 08:19:19 DoLogin
+
+2023-09-05 08:19:19 DoLoad365Page
+
+2023-09-05 08:19:19 365 page is loaded!
+
+2023-09-05 08:19:19 Executed login script!
+
+2023-09-05 08:19:46 DoLoad365Page
+
+2023-09-05 08:19:46 365 page is loaded!
+
+2023-09-05 08:19:49 Executed login script!
+
+2023-09-05 08:19:57 DoLoad365Page
+
+2023-09-05 08:19:57 365 page is loaded!
+
+2023-09-05 08:19:57 LastLoginModule_Button Clicked
+
+2023-09-05 08:20:03 Login Success!
+
+2023-09-05 08:20:10 0 Settled bets!!!
+
+2023-09-05 08:20:10 Browser Connected!
+
+2023-09-05 08:20:30 The bot has been started!
+
+2023-09-05 08:20:30 DoLogin
+
+2023-09-05 08:20:30 DoLoad365Page
+
+2023-09-05 08:20:30 365 page is loaded!
+
+2023-09-05 08:20:30 Connected Socket Server!!!
+
+2023-09-05 08:20:33 10.54
+
+2023-09-05 08:20:33 Current balance : 10.5
+
+2023-09-05 08:20:41 0 Settled bets!!!
+
+2023-09-05 08:20:41 Current Balance: 10.5
+
+2023-09-05 08:20:41 Page is initialized!
+
+2023-09-05 08:39:45 LastLoginModule_Button Clicked
+
+2023-09-05 08:59:15 LastLoginModule_Button Clicked
+
+2023-09-05 09:18:45 LastLoginModule_Button Clicked
+
+2023-09-05 09:38:15 LastLoginModule_Button Clicked
+
+2023-09-05 09:57:45 LastLoginModule_Button Clicked
+
+2023-09-05 10:17:15 LastLoginModule_Button Clicked
+
+2023-09-05 10:36:45 LastLoginModule_Button Clicked
+
+2023-09-05 10:56:15 LastLoginModule_Button Clicked
+
+2023-09-05 11:15:45 LastLoginModule_Button Clicked
+
+2023-09-05 11:35:15 LastLoginModule_Button Clicked
+
+2023-09-05 11:54:45 LastLoginModule_Button Clicked
+
+2023-09-05 12:14:15 LastLoginModule_Button Clicked
+2023-09-05 19:32:13 Chrome_RenderWidgetHostHWND
+
+2023-09-05 19:32:13 Websocket server is listening on 8880
+
+2023-09-05 19:32:13 DoLogin
+
+2023-09-05 19:32:13 DoLoad365Page
+
+2023-09-05 19:32:18 365 page is loaded!
+
+2023-09-05 19:32:18 Executed login script!
+
+2023-09-05 19:32:26 DoLoad365Page
+
+2023-09-05 19:32:26 365 page is loaded!
+
+2023-09-05 19:32:26 LastLoginModule_Button Clicked
+
+2023-09-05 19:32:31 Login Success!
+
+2023-09-05 19:32:38 0 Settled bets!!!
+
+2023-09-05 19:32:38 Browser Connected!
+
+2023-09-05 19:32:43 The bot has been started!
+
+2023-09-05 19:32:43 DoLogin
+
+2023-09-05 19:32:43 DoLoad365Page
+
+2023-09-05 19:32:43 365 page is loaded!
+
+2023-09-05 19:32:43 Connected Socket Server!!!
+
+2023-09-05 19:32:46 10.54
+
+2023-09-05 19:32:46 Current balance : 10.5
+
+2023-09-05 19:32:54 0 Settled bets!!!
+
+2023-09-05 19:32:54 Current Balance: 10.5
+
+2023-09-05 19:32:54 Page is initialized!
+
+2023-09-05 19:43:16 Recieve new Match Score From Copybet Server!
+
+2023-09-05 19:43:16 New Score is updated...
+
+2023-09-05 19:43:16 {"home":"ATUS Ferlach","away":"SAK Klagenfurt","score":"1:2","gameTime":2}
+
+2023-09-05 19:51:21 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-05 19:51:21 The bot has been stopped!
+2023-09-05 20:24:16 Chrome_RenderWidgetHostHWND
+
+2023-09-05 20:24:16 Websocket server is listening on 8880
+
+2023-09-05 20:24:16 DoLogin
+
+2023-09-05 20:24:16 DoLoad365Page
+
+2023-09-05 20:24:16 365 page is loaded!
+
+2023-09-05 20:24:17 Executed login script!
+
+2023-09-05 20:24:44 DoLoad365Page
+
+2023-09-05 20:24:44 365 page is loaded!
+
+2023-09-05 20:24:47 Executed login script!
+
+2023-09-05 20:24:54 DoLoad365Page
+
+2023-09-05 20:24:54 365 page is loaded!
+
+2023-09-05 20:24:54 LastLoginModule_Button Clicked
+
+2023-09-05 20:25:00 Login Success!
+
+2023-09-05 20:25:07 0 Settled bets!!!
+
+2023-09-05 20:25:07 Browser Connected!
+
+2023-09-05 20:25:19 The bot has been started!
+
+2023-09-05 20:25:19 DoLogin
+
+2023-09-05 20:25:19 DoLoad365Page
+
+2023-09-05 20:25:19 365 page is loaded!
+
+2023-09-05 20:25:19 Connected Socket Server!!!
+
+2023-09-05 20:25:22 10.54
+
+2023-09-05 20:25:22 Current balance : 10.5
+
+2023-09-05 20:25:30 0 Settled bets!!!
+
+2023-09-05 20:25:30 Current Balance: 10.5
+
+2023-09-05 20:25:30 Page is initialized!
+
+2023-09-05 20:44:39 LastLoginModule_Button Clicked
+
+2023-09-05 21:04:09 LastLoginModule_Button Clicked
+
+2023-09-05 21:23:39 LastLoginModule_Button Clicked
+
+2023-09-05 21:43:09 LastLoginModule_Button Clicked
+
+2023-09-05 21:50:13 Recieve new Match Score From Copybet Server!
+
+2023-09-05 21:50:13 New Score is updated...
+
+2023-09-05 21:50:13 {"home":"Ipswich Wanderers","away":"Witham Town","score":"0:0","gameTime":1}
+
+2023-09-05 22:02:39 LastLoginModule_Button Clicked
+
+2023-09-05 22:13:22 Disconnected Socket Server!!! || ping timeout
+
+2023-09-05 22:13:23 Connected Socket Server!!!
+
+2023-09-05 22:13:30 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-05 22:13:30 The bot has been stopped!
+
+2023-09-05 22:13:33 The bot has been started!
+
+2023-09-05 22:13:33 DoLogin
+
+2023-09-05 22:13:33 DoLoad365Page
+
+2023-09-05 22:13:33 365 page is loaded!
+
+2023-09-05 22:13:33 Connected Socket Server!!!
+
+2023-09-05 22:13:36 10.54
+
+2023-09-05 22:13:36 Current balance : 10.5
+
+2023-09-05 22:13:44 0 Settled bets!!!
+
+2023-09-05 22:13:44 Current Balance: 10.5
+
+2023-09-05 22:13:44 Page is initialized!
+
+2023-09-05 22:26:13 Recieve new Match Score From Copybet Server!
+
+2023-09-05 22:26:13 New Score is updated...
+
+2023-09-05 22:26:13 {"home":"Ipswich Wanderers","away":"Witham Town","score":"3:0","gameTime":0}
+
+2023-09-05 22:33:01 LastLoginModule_Button Clicked
+
+2023-09-05 22:43:14 Recieve new Match Score From Copybet Server!
+
+2023-09-05 22:43:14 New Score is updated...
+
+2023-09-05 22:43:14 {"home":"Ipswich Wanderers","away":"Witham Town","score":"3:0","gameTime":2}
+
+2023-09-05 22:52:31 LastLoginModule_Button Clicked
+
+2023-09-05 23:12:01 LastLoginModule_Button Clicked
+
+2023-09-05 23:31:31 LastLoginModule_Button Clicked
+
+2023-09-05 23:51:01 LastLoginModule_Button Clicked

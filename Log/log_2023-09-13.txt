@@ -1,0 +1,176 @@
+﻿2023-09-13 15:46:29 Chrome_RenderWidgetHostHWND
+
+2023-09-13 15:46:30 Websocket server is listening on 8880
+
+2023-09-13 15:46:30 DoLogin
+
+2023-09-13 15:46:30 DoLoad365Page
+
+2023-09-13 15:46:35 365 page is loaded!
+
+2023-09-13 15:46:35 Executed login script!
+
+2023-09-13 15:46:42 DoLoad365Page
+
+2023-09-13 15:46:42 365 page is loaded!
+
+2023-09-13 15:46:42 LastLoginModule_Button Clicked
+
+2023-09-13 15:46:48 Login Success!
+
+2023-09-13 15:46:55 0 Settled bets!!!
+
+2023-09-13 15:46:55 Browser Connected!
+
+2023-09-13 15:47:18 The bot has been started!
+
+2023-09-13 15:47:18 DoLogin
+
+2023-09-13 15:47:18 DoLoad365Page
+
+2023-09-13 15:47:18 365 page is loaded!
+
+2023-09-13 15:47:18 Connected Socket Server!!!
+
+2023-09-13 15:47:21 109.29
+
+2023-09-13 15:47:21 Current balance : 109.2
+
+2023-09-13 15:47:29 0 Settled bets!!!
+
+2023-09-13 15:47:29 Current Balance: 109.2
+
+2023-09-13 15:47:29 Page is initialized!
+
+2023-09-13 15:50:36 Recieve 1 new bets From Copybet Server!
+
+2023-09-13 15:50:36  *** MakeBet *** 
+
+2023-09-13 15:50:36 {"dbId":"","sport":"","country":"","league":"Luxembourg Promotion D’Honneur","dateTime":"","match":"Hapoel kafr vs tzeirei kfar","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Test bottino","tipSource":0}
+
+2023-09-13 15:50:36 109.29
+
+2023-09-13 15:50:36 Current balance : 109.2
+
+2023-09-13 15:50:36 Current Balance : 109.2
+
+2023-09-13 15:50:36 CheckIfLoggedIn
+
+2023-09-13 15:50:36 Logged In Already!
+
+2023-09-13 15:50:36 bet365.com
+
+2023-09-13 15:50:50 Hapoel Kafr Kanna v Tzeirei Kfar Kanna Dis :0.152055258920247
+
+2023-09-13 15:50:51 Wrong position detected!
+
+2023-09-13 15:50:56 Stake : 3
+
+2023-09-13 15:50:56 Running AddbetScript...
+
+2023-09-13 15:50:56 scrollBetIntoView('1254255534') => 1
+
+2023-09-13 15:50:57 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-13 15:50:59 {
+  "bg": "e72b78c9-1ca0-4cba-ad2c-5ed24f7ec292",
+  "sr": 0,
+  "mr": false,
+  "cc": "4Uzc56BPQmJNBqGCiJXo23Mj7k+meb+mUtL5Dcpcrzw=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "927",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/11",
+      "fi": 143719596,
+      "fd": "Hapoel Kafr Kanna v Tzeirei Kfar Kanna",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1254255534,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal aggiuntivi 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS143719596-1254255534",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 143622258,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-13 15:51:01 Fractional Odds : 4/11
+
+2023-09-13 15:51:01 Trademate Odds : 0 , Bet365 Odds : 1.36
+
+2023-09-13 15:51:01 Trying to place bet!
+
+2023-09-13 15:51:01 DoPlacebetUI
+
+2023-09-13 15:51:01 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-13 15:51:03 Trademate Odds : 0 , Bet365 Odds : 1.36
+
+2023-09-13 15:51:03 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-13 15:51:12 109.29
+
+2023-09-13 15:51:12 Current balance : 109.2
+
+2023-09-13 15:51:12 DoLoad365Page
+
+2023-09-13 15:51:12 365 page is loaded!
+
+2023-09-13 15:51:15 [ficiliroberto:2711Buruliddu.] SUCCESS. Stake:3 Odds:1.36333333333333
+
+2023-09-13 15:51:16 {
+  "username": "ficiliroberto",
+  "tipster": "",
+  "message": "[ficiliroberto:2711Buruliddu.] SUCCESS. Stake:3 Odds:1.36333333333333",
+  "stake": 3.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.3633333333333333,
+  "tournament": "Luxembourg Promotion D’Honneur",
+  "eventName": "Hapoel kafr vs tzeirei kfar",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "13/09/2023 15:51:12",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 106.2,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-13 15:51:24 Trying to register tip at Bigstake
+
+2023-09-13 15:51:38 Registered tip at Bigstake Successfully!
+
+2023-09-13 15:51:41 This Line is already existed on Settled bets!
+
+2023-09-13 15:59:30 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-13 15:59:30 The bot has been stopped!

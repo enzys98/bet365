@@ -1,0 +1,1231 @@
+﻿2023-09-14 15:42:46 Chrome_RenderWidgetHostHWND
+
+2023-09-14 15:42:46 Websocket server is listening on 8880
+
+2023-09-14 15:42:46 DoLogin
+
+2023-09-14 15:42:46 DoLoad365Page
+
+2023-09-14 15:42:51 365 page is loaded!
+
+2023-09-14 15:42:51 Executed login script!
+
+2023-09-14 15:42:59 DoLoad365Page
+
+2023-09-14 15:42:59 365 page is loaded!
+
+2023-09-14 15:42:59 LastLoginModule_Button Clicked
+
+2023-09-14 15:43:04 Login Success!
+
+2023-09-14 15:43:11 1 Settled bets!!!
+
+2023-09-14 15:43:11 Browser Connected!
+
+2023-09-14 15:45:24 The bot has been started!
+
+2023-09-14 15:45:24 DoLogin
+
+2023-09-14 15:45:24 DoLoad365Page
+
+2023-09-14 15:45:24 365 page is loaded!
+
+2023-09-14 15:45:25 Connected Socket Server!!!
+
+2023-09-14 15:45:28 30.78
+
+2023-09-14 15:45:28 Current balance : 30.7
+
+2023-09-14 15:45:33 Current Balance: 30.7
+
+2023-09-14 15:45:33 Page is initialized!
+
+2023-09-14 15:47:30 Recieve 1 new bets From Copybet Server!
+
+2023-09-14 15:47:30  *** MakeBet *** 
+
+2023-09-14 15:47:30 {"dbId":"","sport":"","country":"","league":"Australia Cup","dateTime":"","match":"Al ain scc vs al bataeh","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Test bottino","tipSource":0}
+
+2023-09-14 15:47:30 30.78
+
+2023-09-14 15:47:30 Current balance : 30.7
+
+2023-09-14 15:47:30 Current Balance : 30.7
+
+2023-09-14 15:47:30 CheckIfLoggedIn
+
+2023-09-14 15:47:30 Logged In Already!
+
+2023-09-14 15:47:30 bet365.com
+
+2023-09-14 15:47:41 Al Ain SCC v Al Bataeh Dis :0.163817523056654
+
+2023-09-14 15:47:42 Wrong position detected!
+
+2023-09-14 15:47:45 Stake : 2
+
+2023-09-14 15:47:45 Running AddbetScript...
+
+2023-09-14 15:47:45 scrollBetIntoView('1258458603') => 1
+
+2023-09-14 15:47:47 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-14 15:47:49 {
+  "bg": "d249eda9-e3a8-4b56-aeef-0f8c80c493d7",
+  "sr": 0,
+  "mr": false,
+  "cc": "G+jFUgII2KLzJHJxo2v3JapSXHnDVvnjk7oE7WrlxNE=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "928",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/9",
+      "fi": 143757857,
+      "fd": "Al Ain SCC v Al Bataeh",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1258458603,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS143757857-1258458603",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 143634074,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-14 15:47:51 Fractional Odds : 4/9
+
+2023-09-14 15:47:51 Trademate Odds : 0 , Bet365 Odds : 1.44
+
+2023-09-14 15:47:51 Trying to place bet!
+
+2023-09-14 15:47:51 DoPlacebetUI
+
+2023-09-14 15:47:51 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-14 15:47:53 Trademate Odds : 0 , Bet365 Odds : 1.44
+
+2023-09-14 15:47:53 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-14 15:47:59 30.78
+
+2023-09-14 15:47:59 Current balance : 30.7
+
+2023-09-14 15:47:59 DoLoad365Page
+
+2023-09-14 15:47:59 365 page is loaded!
+
+2023-09-14 15:48:02 [ficiliroberto:2711Buruliddu.] SUCCESS. Stake:2 Odds:1.44
+
+2023-09-14 15:48:02 {
+  "username": "ficiliroberto",
+  "tipster": "",
+  "message": "[ficiliroberto:2711Buruliddu.] SUCCESS. Stake:2 Odds:1.44",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.44,
+  "tournament": "Australia Cup",
+  "eventName": "Al ain scc vs al bataeh",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "14/09/2023 15:47:59",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 28.7,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-14 15:48:10 Trying to register tip at Bigstake Masaniello Table
+
+2023-09-14 15:48:25 Registered tip at Masaniello Table Successfully!
+
+2023-09-14 15:48:28 This Line is already existed on Settled bets!
+
+2023-09-14 15:49:02 Recieve new Match Score From Copybet Server!
+
+2023-09-14 15:49:02 New Score is updated...
+
+2023-09-14 15:49:02 {"home":"al ain scc","away":"al bataeh","score":"0:1","gameTime":0}
+
+2023-09-14 15:49:02 New Score : al ain scc vs al bataeh  0:1
+
+2023-09-14 15:49:02 Pending tip Score : Al ain scc vs al bataeh 0:0
+
+2023-09-14 15:49:02 Pending Tip is winning now...
+
+2023-09-14 15:50:58 Recieve 1 new bets From Copybet Server!
+
+2023-09-14 15:50:58  *** MakeBet *** 
+
+2023-09-14 15:50:58 {"dbId":"","sport":"","country":"","league":"Australia Cup","dateTime":"","match":"Emirates club rak vs al wahda","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Test bottino","tipSource":0}
+
+2023-09-14 15:50:59 28.78
+
+2023-09-14 15:50:59 Current balance : 28.7
+
+2023-09-14 15:50:59 Current Balance : 28.7
+
+2023-09-14 15:50:59 CheckIfLoggedIn
+
+2023-09-14 15:50:59 Logged In Already!
+
+2023-09-14 15:50:59 bet365.com
+
+2023-09-14 15:51:13 Emirates Club RAK v Al Wahda Abu Dhabi Dis :0.163804939635446
+
+2023-09-14 15:51:14 Wrong position detected!
+
+2023-09-14 15:51:19 Stake : 2
+
+2023-09-14 15:51:19 Running AddbetScript...
+
+2023-09-14 15:51:19 scrollBetIntoView('1258462019') => 1
+
+2023-09-14 15:51:21 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-14 15:51:24 Trademate Odds : 0 , Bet365 Odds : 1.72
+
+2023-09-14 15:51:24 Trying to place bet!
+
+2023-09-14 15:51:24 DoPlacebetUI
+
+2023-09-14 15:51:24 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-14 15:51:27 Trademate Odds : 0 , Bet365 Odds : 1.72
+
+2023-09-14 15:51:27 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-14 15:51:33 28.78
+
+2023-09-14 15:51:33 Current balance : 28.7
+
+2023-09-14 15:51:33 DoLoad365Page
+
+2023-09-14 15:51:33 365 page is loaded!
+
+2023-09-14 15:51:36 [ficiliroberto:2711Buruliddu.] SUCCESS. Stake:2 Odds:1.725
+
+2023-09-14 15:51:36 {
+  "username": "ficiliroberto",
+  "tipster": "",
+  "message": "[ficiliroberto:2711Buruliddu.] SUCCESS. Stake:2 Odds:1.725",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.725,
+  "tournament": "Australia Cup",
+  "eventName": "Emirates club rak vs al wahda",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "14/09/2023 15:51:33",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 26.7,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-14 15:51:44 Trying to register tip at Bigstake Masaniello Table
+
+2023-09-14 15:51:59 Registered tip at Masaniello Table Successfully!
+
+2023-09-14 15:52:02 This Line is already existed on Settled bets!
+
+2023-09-14 15:55:59 Recieve new Match Score From Copybet Server!
+
+2023-09-14 15:55:59 New Score is updated...
+
+2023-09-14 15:55:59 {"home":"Emirates club rak","away":"al wahda","score":"0:0","gameTime":1}
+
+2023-09-14 15:55:59 New Score : Emirates club rak vs al wahda  0:0
+
+2023-09-14 15:55:59 Pending tip Score : Emirates club rak vs al wahda 0:0
+
+2023-09-14 15:55:59 Pending Tip is lost now...
+
+2023-09-14 15:56:09 Recieve new Match Score From Copybet Server!
+
+2023-09-14 15:56:09 New Score is updated...
+
+2023-09-14 15:56:09 {"home":"Al Shabab Riyadh U19","away":"Al Orubah U19","score":"0:2","gameTime":0}
+
+2023-09-14 15:56:10 Recieve new Match Score From Copybet Server!
+
+2023-09-14 15:56:10 New Score is updated...
+
+2023-09-14 15:56:10 {"home":"Al Shabab Riyadh U19","away":"Al Orubah U19","score":"0:2","gameTime":0}
+
+2023-09-14 16:03:47 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-14 16:03:47 The bot has been stopped!
+
+2023-09-14 17:22:30 The bot has been started!
+
+2023-09-14 17:22:30 DoLogin
+
+2023-09-14 17:22:30 DoLoad365Page
+
+2023-09-14 17:22:30 365 page is loaded!
+
+2023-09-14 17:22:30 Executed login script!
+
+2023-09-14 17:22:30 Connected Socket Server!!!
+
+2023-09-14 17:22:57 DoLoad365Page
+
+2023-09-14 17:22:57 365 page is loaded!
+
+2023-09-14 17:23:00 Executed login script!
+
+2023-09-14 17:23:07 DoLoad365Page
+
+2023-09-14 17:23:07 365 page is loaded!
+
+2023-09-14 17:23:07 LastLoginModule_Button Clicked
+
+2023-09-14 17:23:12 Login Success!
+
+2023-09-14 17:23:18 33.11
+
+2023-09-14 17:23:18 Current balance : 33.1
+
+2023-09-14 17:23:22 Current Balance: 33.1
+
+2023-09-14 17:23:22 Page is initialized!
+
+2023-09-14 17:25:11 Recieve new Match Score From Copybet Server!
+
+2023-09-14 17:25:11 New Score is updated...
+
+2023-09-14 17:25:11 {"home":"Al Shabab Riyadh U19","away":"Al Orubah U19","score":"1:3","gameTime":2}
+
+2023-09-14 17:25:11 Recieve new Match Score From Copybet Server!
+
+2023-09-14 17:25:11 New Score is updated...
+
+2023-09-14 17:25:11 {"home":"Al Shabab Riyadh U19","away":"Al Orubah U19","score":"1:3","gameTime":2}
+
+2023-09-14 17:31:11 Recieve new Match Score From Copybet Server!
+
+2023-09-14 17:31:11 New Score is updated...
+
+2023-09-14 17:31:11 {"home":"Al Ain SCC","away":"Al Bataeh","score":"2:1","gameTime":2}
+
+2023-09-14 17:31:11 Recieve new Match Score From Copybet Server!
+
+2023-09-14 17:31:11 New Score is updated...
+
+2023-09-14 17:31:11 {"home":"Al Ain SCC","away":"Al Bataeh","score":"2:1","gameTime":2}
+
+2023-09-14 17:31:36 Recieve new Match Score From Copybet Server!
+
+2023-09-14 17:31:36 New Score is updated...
+
+2023-09-14 17:31:36 {"home":"Al Ain SCC","away":"Al Bataeh","score":"2:1","gameTime":2}
+
+2023-09-14 17:38:11 Recieve new Match Score From Copybet Server!
+
+2023-09-14 17:38:11 New Score is updated...
+
+2023-09-14 17:38:11 {"home":"MC Alger U21","away":"ES Ben Aknoun U21","score":"0:1","gameTime":0}
+
+2023-09-14 17:42:22 LastLoginModule_Button Clicked
+
+2023-09-14 17:53:11 Recieve new Match Score From Copybet Server!
+
+2023-09-14 17:53:11 New Score is updated...
+
+2023-09-14 17:53:11 {"home":"Vidar","away":"Madla","score":"1:1","gameTime":0}
+
+2023-09-14 17:53:11 Recieve new Match Score From Copybet Server!
+
+2023-09-14 17:53:11 New Score is updated...
+
+2023-09-14 17:53:11 {"home":"Vidar","away":"Madla","score":"1:1","gameTime":0}
+
+2023-09-14 17:54:10 Recieve new Match Score From Copybet Server!
+
+2023-09-14 17:54:10 New Score is updated...
+
+2023-09-14 17:54:10 {"home":"Union Santa Fe Reserves","away":"Platense Reserves","score":"0:0","gameTime":2}
+
+2023-09-14 17:54:10 Recieve new Match Score From Copybet Server!
+
+2023-09-14 17:54:10 New Score is updated...
+
+2023-09-14 17:54:10 {"home":"Union Santa Fe Reserves","away":"Platense Reserves","score":"0:0","gameTime":2}
+
+2023-09-14 17:55:11 Recieve new Match Score From Copybet Server!
+
+2023-09-14 17:55:11 New Score is updated...
+
+2023-09-14 17:55:11 {"home":"MC Alger U21","away":"ES Ben Aknoun U21","score":"0:1","gameTime":1}
+
+2023-09-14 18:00:12 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:00:12 New Score is updated...
+
+2023-09-14 18:00:12 {"home":"Vidar","away":"Madla","score":"2:1","gameTime":0}
+
+2023-09-14 18:00:13 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:00:13 New Score is updated...
+
+2023-09-14 18:00:13 {"home":"Vidar","away":"Madla","score":"2:1","gameTime":0}
+
+2023-09-14 18:01:52 LastLoginModule_Button Clicked
+
+2023-09-14 18:12:16 Recieve 1 new bets From Copybet Server!
+
+2023-09-14 18:12:16  *** MakeBet *** 
+
+2023-09-14 18:12:16 {"dbId":"","sport":"","country":"","league":"Finland Kolmonen","dateTime":"","match":"Esse IK vs KPV Akatemia","score":"1:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Test bottino","tipSource":0}
+
+2023-09-14 18:12:16 33.11
+
+2023-09-14 18:12:16 Current balance : 33.1
+
+2023-09-14 18:12:16 Current Balance : 33.1
+
+2023-09-14 18:12:16 CheckIfLoggedIn
+
+2023-09-14 18:12:16 Logged In Already!
+
+2023-09-14 18:12:17 bet365.com
+
+2023-09-14 18:12:27 Esse IK v KPV Akatemia Dis :0.0086956521739131
+
+2023-09-14 18:12:28 Wrong position detected!
+
+2023-09-14 18:12:32 Stake : 2
+
+2023-09-14 18:12:32 Running AddbetScript...
+
+2023-09-14 18:12:32 scrollBetIntoView('1257810183') => 2
+
+2023-09-14 18:12:32 Bet is suspended!
+
+2023-09-14 18:12:32 Running AddbetScript...
+
+2023-09-14 18:12:32 scrollBetIntoView('1257810183') => 2
+
+2023-09-14 18:12:32 Bet is suspended!
+
+2023-09-14 18:12:32 PageSuspended :False
+
+2023-09-14 18:12:35  *** MakeBet *** 
+
+2023-09-14 18:12:35 {"dbId":"","sport":"","country":"","league":"Finland Kolmonen","dateTime":"","match":"Esse IK vs KPV Akatemia","score":"1:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"1.20","selectionId":"1257810183","matchId":"143751979","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Test bottino","tipSource":0}
+
+2023-09-14 18:12:35 33.11
+
+2023-09-14 18:12:35 Current balance : 33.1
+
+2023-09-14 18:12:35 Current Balance : 33.1
+
+2023-09-14 18:12:35 CheckIfLoggedIn
+
+2023-09-14 18:12:35 Logged In Already!
+
+2023-09-14 18:12:35 bet365.com
+
+2023-09-14 18:12:35 DoLoad365Page
+
+2023-09-14 18:12:35 365 page is loaded!
+
+2023-09-14 18:12:35 Wrong position detected!
+
+2023-09-14 18:12:44 Not Search Event
+
+2023-09-14 18:12:52 Esse IK v KPV Akatemia Dis :0.0086956521739131
+
+2023-09-14 18:12:53 Wrong position detected!
+
+2023-09-14 18:12:55 Stake : 3
+
+2023-09-14 18:12:55 Running AddbetScript...
+
+2023-09-14 18:12:55 scrollBetIntoView('1257810183') => 2
+
+2023-09-14 18:12:55 Bet is suspended!
+
+2023-09-14 18:12:55 Running AddbetScript...
+
+2023-09-14 18:12:55 scrollBetIntoView('1257810183') => 2
+
+2023-09-14 18:12:55 Bet is suspended!
+
+2023-09-14 18:12:55 PageSuspended :False
+
+2023-09-14 18:16:09 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:16:09 New Score is updated...
+
+2023-09-14 18:16:09 {"home":"Vidar","away":"Madla","score":"2:1","gameTime":1}
+
+2023-09-14 18:16:10 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:16:10 New Score is updated...
+
+2023-09-14 18:16:10 {"home":"Vidar","away":"Madla","score":"2:1","gameTime":1}
+
+2023-09-14 18:17:10 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:17:11 New Score is updated...
+
+2023-09-14 18:17:11 {"home":"MC Alger U21","away":"ES Ben Aknoun U21","score":"0:1","gameTime":1}
+
+2023-09-14 18:22:16 Recieve 1 new bets From Copybet Server!
+
+2023-09-14 18:22:17  *** MakeBet *** 
+
+2023-09-14 18:22:17 {"dbId":"","sport":"","country":"","league":"Argentina Reserve League","dateTime":"","match":"Victoriano Arenas Riserve vs San Martin Burzaco Riserve","score":"2:2","EW":"0","marketName":"OVER 4.5","selection":"OVER","odds":0.0,"handicap":4.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Test bottino","tipSource":0}
+
+2023-09-14 18:22:17 33.11
+
+2023-09-14 18:22:17 Current balance : 33.1
+
+2023-09-14 18:22:17 Current Balance : 33.1
+
+2023-09-14 18:22:17 CheckIfLoggedIn
+
+2023-09-14 18:22:17 Logged In Already!
+
+2023-09-14 18:22:17 bet365.com
+
+2023-09-14 18:22:17 Wrong position detected!
+
+2023-09-14 18:22:24 Victoriano Arenas riserve v San Martin Burzaco riserve Dis :0.0375472675472676
+
+2023-09-14 18:22:25 Wrong position detected!
+
+2023-09-14 18:28:10 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:28:10 New Score is updated...
+
+2023-09-14 18:28:10 {"home":"MC Alger U21","away":"ES Ben Aknoun U21","score":"1:1","gameTime":0}
+
+2023-09-14 18:29:10 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:29:10 New Score is updated...
+
+2023-09-14 18:29:10 {"home":"Esse IK","away":"KPV Akatemia","score":"2:0","gameTime":0}
+
+2023-09-14 18:29:10 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:29:10 New Score is updated...
+
+2023-09-14 18:29:10 {"home":"Esse IK","away":"KPV Akatemia","score":"2:0","gameTime":0}
+
+2023-09-14 18:30:16 Recieve 1 new bets From Copybet Server!
+
+2023-09-14 18:30:24 Stake : 2
+
+2023-09-14 18:30:24 Running AddbetScript...
+
+2023-09-14 18:30:24 scrollBetIntoView('1259991161') => 1
+
+2023-09-14 18:30:25 Disconnected Socket Server!!! || ping timeout
+
+2023-09-14 18:30:26 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-14 18:30:26 Connected Socket Server!!!
+
+2023-09-14 18:30:27 {
+  "bg": "95996c3c-b74e-4e10-ad78-45b77f32d655",
+  "sr": 0,
+  "mr": false,
+  "cc": "woXIgpdNP5/ydCfu0qe9o9E3joUZoHgyMl/Pg/l8NOE=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "928",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "2/5",
+      "fi": 143773003,
+      "fd": "Victoriano Arenas riserve v San Martin Burzaco riserve",
+      "pt": [
+        {
+          "hd": "4.5",
+          "pi": 1259991161,
+          "bd": "Più di ",
+          "ha": "4.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS143773003-1259991161",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 143772906,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-14 18:30:29 Fractional Odds : 2/5
+
+2023-09-14 18:30:29 Trademate Odds : 0 , Bet365 Odds : 1.4
+
+2023-09-14 18:30:29 Trying to place bet!
+
+2023-09-14 18:30:29 DoPlacebetUI
+
+2023-09-14 18:30:29 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-14 18:30:31 Trademate Odds : 0 , Bet365 Odds : 1.4
+
+2023-09-14 18:30:31 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-14 18:30:40 33.11
+
+2023-09-14 18:30:40 Current balance : 33.1
+
+2023-09-14 18:30:40 DoLoad365Page
+
+2023-09-14 18:30:40 365 page is loaded!
+
+2023-09-14 18:30:43 [ficiliroberto:2711Buruliddu.] SUCCESS. Stake:2 Odds:1.4
+
+2023-09-14 18:30:43 {
+  "username": "ficiliroberto",
+  "tipster": "",
+  "message": "[ficiliroberto:2711Buruliddu.] SUCCESS. Stake:2 Odds:1.4",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.4,
+  "tournament": "Argentina Reserve League",
+  "eventName": "Victoriano Arenas Riserve vs San Martin Burzaco Riserve",
+  "probability": "OVER",
+  "market": "OVER 4.5",
+  "placedAt": "14/09/2023 18:30:40",
+  "selection": "OVER",
+  "handicap": 4.5,
+  "balance": 31.1,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-14 18:30:51 Trying to register tip at Bigstake Masaniello Table
+
+2023-09-14 18:31:07 Registered tip at Masaniello Table Successfully!
+
+2023-09-14 18:31:10 This Line is already existed on Settled bets!
+
+2023-09-14 18:31:10 Pending bet is not finished.!
+
+2023-09-14 18:32:11 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:32:11 New Score is updated...
+
+2023-09-14 18:32:11 {"home":"Vidar","away":"Madla","score":"2:1","gameTime":1}
+
+2023-09-14 18:32:11 New Score : Vidar vs Madla  2:1
+
+2023-09-14 18:32:11 Pending tip Score : Victoriano Arenas Riserve vs San Martin Burzaco Riserve 2:2
+
+2023-09-14 18:32:11 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:32:11 New Score is updated...
+
+2023-09-14 18:32:11 {"home":"Vidar","away":"Madla","score":"2:1","gameTime":1}
+
+2023-09-14 18:32:11 New Score : Vidar vs Madla  2:1
+
+2023-09-14 18:32:11 Pending tip Score : Victoriano Arenas Riserve vs San Martin Burzaco Riserve 2:2
+
+2023-09-14 18:34:17 Recieve 1 new bets From Copybet Server!
+
+2023-09-14 18:34:18 Pending bet is not finished.!
+
+2023-09-14 18:34:19 Recieve 1 new bets From Copybet Server!
+
+2023-09-14 18:34:20 Pending bet is not finished.!
+
+2023-09-14 18:42:11 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:42:11 New Score is updated...
+
+2023-09-14 18:42:11 {"home":"MC Alger U21","away":"ES Ben Aknoun U21","score":"1:2","gameTime":0}
+
+2023-09-14 18:42:11 New Score : MC Alger U21 vs ES Ben Aknoun U21  1:2
+
+2023-09-14 18:42:11 Pending tip Score : Victoriano Arenas Riserve vs San Martin Burzaco Riserve 2:2
+
+2023-09-14 18:42:12 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:42:12 New Score is updated...
+
+2023-09-14 18:42:12 {"home":"MC Alger U21","away":"ES Ben Aknoun U21","score":"1:2","gameTime":0}
+
+2023-09-14 18:42:12 New Score : MC Alger U21 vs ES Ben Aknoun U21  1:2
+
+2023-09-14 18:42:12 Pending tip Score : Victoriano Arenas Riserve vs San Martin Burzaco Riserve 2:2
+
+2023-09-14 18:42:12 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:42:12 New Score is updated...
+
+2023-09-14 18:42:12 {"home":"MC Alger U21","away":"ES Ben Aknoun U21","score":"1:2","gameTime":0}
+
+2023-09-14 18:42:12 New Score : MC Alger U21 vs ES Ben Aknoun U21  1:2
+
+2023-09-14 18:42:12 Pending tip Score : Victoriano Arenas Riserve vs San Martin Burzaco Riserve 2:2
+
+2023-09-14 18:43:12 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:43:12 New Score is updated...
+
+2023-09-14 18:43:12 {"home":"Victoriano Arenas Reserves","away":"San Martin Burzaco Reserves","score":"3:2","gameTime":0}
+
+2023-09-14 18:43:12 New Score : Victoriano Arenas Reserves vs San Martin Burzaco Reserves  3:2
+
+2023-09-14 18:43:12 Pending tip Score : Victoriano Arenas Riserve vs San Martin Burzaco Riserve 2:2
+
+2023-09-14 18:43:12 Pending Tip is winning now...
+
+2023-09-14 18:43:12 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:43:13 New Score is updated...
+
+2023-09-14 18:43:13 {"home":"Victoriano Arenas Reserves","away":"San Martin Burzaco Reserves","score":"3:2","gameTime":0}
+
+2023-09-14 18:43:17 Recieve 1 new bets From Copybet Server!
+
+2023-09-14 18:43:17  *** MakeBet *** 
+
+2023-09-14 18:43:17 {"dbId":"","sport":"","country":"","league":"Saudi Arabia Division 1","dateTime":"","match":"Al Safa vs Al-Arabi Al-Saudi","score":"0:1","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Test bottino","tipSource":0}
+
+2023-09-14 18:43:17 33.91
+
+2023-09-14 18:43:17 Current balance : 33.9
+
+2023-09-14 18:43:17 Current Balance : 33.9
+
+2023-09-14 18:43:17 CheckIfLoggedIn
+
+2023-09-14 18:43:18 Logged In Already!
+
+2023-09-14 18:43:18 bet365.com
+
+2023-09-14 18:43:31 Al Safa v Al-Arabi Al-Saudi Dis :0.00714285714285712
+
+2023-09-14 18:43:32 Wrong position detected!
+
+2023-09-14 18:43:36 Stake : 2
+
+2023-09-14 18:43:36 Running AddbetScript...
+
+2023-09-14 18:43:36 scrollBetIntoView('1257427974') => 1
+
+2023-09-14 18:43:38 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-14 18:43:41 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-09-14 18:43:41 Trying to place bet!
+
+2023-09-14 18:43:41 DoPlacebetUI
+
+2023-09-14 18:43:41 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-14 18:43:44 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-09-14 18:43:44 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-14 18:43:52 33.91
+
+2023-09-14 18:43:52 Current balance : 33.9
+
+2023-09-14 18:43:52 DoLoad365Page
+
+2023-09-14 18:43:52 365 page is loaded!
+
+2023-09-14 18:43:55 [ficiliroberto:2711Buruliddu.] SUCCESS. Stake:2 Odds:1.53
+
+2023-09-14 18:43:55 {
+  "username": "ficiliroberto",
+  "tipster": "",
+  "message": "[ficiliroberto:2711Buruliddu.] SUCCESS. Stake:2 Odds:1.53",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.53,
+  "tournament": "Saudi Arabia Division 1",
+  "eventName": "Al Safa vs Al-Arabi Al-Saudi",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "14/09/2023 18:43:52",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 31.9,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-14 18:44:03 Trying to register tip at Bigstake Masaniello Table
+
+2023-09-14 18:44:18 Registered tip at Masaniello Table Successfully!
+
+2023-09-14 18:44:21 This Line is already existed on Settled bets!
+
+2023-09-14 18:53:12 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:53:12 New Score is updated...
+
+2023-09-14 18:53:12 {"home":"Victoriano Arenas Reserves","away":"San Martin Burzaco Reserves","score":"3:2","gameTime":2}
+
+2023-09-14 18:53:12 New Score : Victoriano Arenas Reserves vs San Martin Burzaco Reserves  3:2
+
+2023-09-14 18:53:12 Pending tip Score : Al Safa vs Al-Arabi Al-Saudi 0:1
+
+2023-09-14 18:53:12 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:53:12 New Score is updated...
+
+2023-09-14 18:53:12 {"home":"Victoriano Arenas Reserves","away":"San Martin Burzaco Reserves","score":"3:2","gameTime":2}
+
+2023-09-14 18:53:12 New Score : Victoriano Arenas Reserves vs San Martin Burzaco Reserves  3:2
+
+2023-09-14 18:53:12 Pending tip Score : Al Safa vs Al-Arabi Al-Saudi 0:1
+
+2023-09-14 18:54:12 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:54:12 New Score is updated...
+
+2023-09-14 18:54:12 {"home":"Esse IK","away":"KPV Akatemia","score":"2:0","gameTime":2}
+
+2023-09-14 18:54:12 New Score : Esse IK vs KPV Akatemia  2:0
+
+2023-09-14 18:54:12 Pending tip Score : Al Safa vs Al-Arabi Al-Saudi 0:1
+
+2023-09-14 18:54:13 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:54:13 New Score is updated...
+
+2023-09-14 18:54:13 {"home":"Esse IK","away":"KPV Akatemia","score":"2:0","gameTime":2}
+
+2023-09-14 18:54:13 New Score : Esse IK vs KPV Akatemia  2:0
+
+2023-09-14 18:54:13 Pending tip Score : Al Safa vs Al-Arabi Al-Saudi 0:1
+
+2023-09-14 18:56:10 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:56:10 New Score is updated...
+
+2023-09-14 18:56:10 {"home":"Al Safa","away":"Al-Arabi Al-Saudi","score":"0:2","gameTime":0}
+
+2023-09-14 18:56:10 New Score : Al Safa vs Al-Arabi Al-Saudi  0:2
+
+2023-09-14 18:56:10 Pending tip Score : Al Safa vs Al-Arabi Al-Saudi 0:1
+
+2023-09-14 18:56:10 Pending Tip is winning now...
+
+2023-09-14 18:56:11 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:56:11 New Score is updated...
+
+2023-09-14 18:56:11 {"home":"Al Safa","away":"Al-Arabi Al-Saudi","score":"0:2","gameTime":0}
+
+2023-09-14 18:57:11 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:57:11 New Score is updated...
+
+2023-09-14 18:57:11 {"home":"Ferrocarril Midland Reserves","away":"Lujan Reserves","score":"2:1","gameTime":0}
+
+2023-09-14 18:57:11 Recieve new Match Score From Copybet Server!
+
+2023-09-14 18:57:11 New Score is updated...
+
+2023-09-14 18:57:11 {"home":"Ferrocarril Midland Reserves","away":"Lujan Reserves","score":"2:1","gameTime":0}
+
+2023-09-14 18:57:21 Recieve 1 new bets From Copybet Server!
+
+2023-09-14 18:57:21  *** MakeBet *** 
+
+2023-09-14 18:57:21 {"dbId":"","sport":"","country":"","league":"Norway Division 3 Group 3","dateTime":"","match":"Vidar vs Madla","score":"2:1","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Test bottino","tipSource":0}
+
+2023-09-14 18:57:21 31.91
+
+2023-09-14 18:57:21 Current balance : 31.9
+
+2023-09-14 18:57:21 Current Balance : 31.9
+
+2023-09-14 18:57:21 CheckIfLoggedIn
+
+2023-09-14 18:57:22 Logged In Already!
+
+2023-09-14 18:57:22 bet365.com
+
+2023-09-14 18:57:35 Vidar v Madla Dis :0.0142857142857142
+
+2023-09-14 18:57:36 Wrong position detected!
+
+2023-09-14 18:57:40 Stake : 2
+
+2023-09-14 18:57:40 Running AddbetScript...
+
+2023-09-14 18:57:40 scrollBetIntoView('1257538410') => 1
+
+2023-09-14 18:57:41 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-14 18:57:43 {
+  "bg": "744f9670-9d60-4d9d-adb1-b00c9c7b32eb",
+  "sr": 0,
+  "mr": false,
+  "cc": "wlyOIgCIAUoLe2Ll0B5/xT4b2TdVOAlDlzRskqtkxyg=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "928",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/9",
+      "fi": 143748847,
+      "fd": "Vidar v Madla",
+      "pt": [
+        {
+          "hd": "3.5",
+          "pi": 1257538410,
+          "bd": "Più di",
+          "ha": "3.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "65033b89-C2F0BB06",
+      "tp": "BS143748847-1257538410",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 143632014,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-14 18:57:45 Fractional Odds : 4/9
+
+2023-09-14 18:57:45 Trademate Odds : 0 , Bet365 Odds : 1.44
+
+2023-09-14 18:57:45 Trying to place bet!
+
+2023-09-14 18:57:45 DoPlacebetUI
+
+2023-09-14 18:57:45 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-14 18:57:47 Trademate Odds : 0 , Bet365 Odds : 1.44
+
+2023-09-14 18:57:47 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-14 18:57:56 31.91
+
+2023-09-14 18:57:56 Current balance : 31.9
+
+2023-09-14 18:57:56 DoLoad365Page
+
+2023-09-14 18:57:56 365 page is loaded!
+
+2023-09-14 18:57:59 [ficiliroberto:2711Buruliddu.] SUCCESS. Stake:2 Odds:1.44
+
+2023-09-14 18:57:59 {
+  "username": "ficiliroberto",
+  "tipster": "",
+  "message": "[ficiliroberto:2711Buruliddu.] SUCCESS. Stake:2 Odds:1.44",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.44,
+  "tournament": "Norway Division 3 Group 3",
+  "eventName": "Vidar vs Madla",
+  "probability": "OVER",
+  "market": "OVER 3.5",
+  "placedAt": "14/09/2023 18:57:56",
+  "selection": "OVER",
+  "handicap": 3.5,
+  "balance": 29.9,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-14 18:58:07 Trying to register tip at Bigstake Masaniello Table
+
+2023-09-14 18:58:22 Registered tip at Masaniello Table Successfully!
+
+2023-09-14 18:58:25 This Line is already existed on Settled bets!
+
+2023-09-14 19:01:08 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-14 19:01:08 The bot has been stopped!
+2023-09-14 19:01:48 Chrome_RenderWidgetHostHWND
+
+2023-09-14 19:01:48 Websocket server is listening on 8880
+
+2023-09-14 19:01:48 DoLogin
+
+2023-09-14 19:01:48 DoLoad365Page
+
+2023-09-14 19:01:54 365 page is loaded!
+
+2023-09-14 19:01:54 Executed login script!
+
+2023-09-14 19:02:01 DoLoad365Page
+
+2023-09-14 19:02:01 365 page is loaded!
+
+2023-09-14 19:02:01 LastLoginModule_Button Clicked
+
+2023-09-14 19:02:06 Login Success!
+
+2023-09-14 19:02:14 1 Settled bets!!!
+
+2023-09-14 19:02:14 Browser Connected!
+
+2023-09-14 19:02:19 The bot has been started!
+
+2023-09-14 19:02:19 DoLogin
+
+2023-09-14 19:02:19 DoLoad365Page
+
+2023-09-14 19:02:19 365 page is loaded!
+
+2023-09-14 19:02:19 Connected Socket Server!!!
+
+2023-09-14 19:02:22 32.97
+
+2023-09-14 19:02:22 Current balance : 32.9
+
+2023-09-14 19:02:27 Current Balance: 32.9
+
+2023-09-14 19:02:27 Page is initialized!
+
+2023-09-14 19:02:38 Recieve 1 new bets From Copybet Server!
+
+2023-09-14 19:02:38  *** MakeBet *** 
+
+2023-09-14 19:02:38 {"dbId":"","sport":"","country":"","league":"Norway Division 3 Group 3","dateTime":"","match":"Vidar vs Madla","score":"2:1","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Test bottino","tipSource":0}
+
+2023-09-14 19:02:38 32.97
+
+2023-09-14 19:02:38 Current balance : 32.9
+
+2023-09-14 19:02:38 Current Balance : 32.9
+
+2023-09-14 19:02:38 CheckIfLoggedIn
+
+2023-09-14 19:02:38 Logged In Already!
+
+2023-09-14 19:02:38 bet365.com
+
+2023-09-14 19:02:51 Vidar v Madla Dis :0.0142857142857142
+
+2023-09-14 19:02:53 Wrong position detected!
+
+2023-09-14 19:02:56 Stake : -1
+
+2023-09-14 19:02:56 Running AddbetScript...
+
+2023-09-14 19:02:56 scrollBetIntoView('1257538410') => 1
+
+2023-09-14 19:02:58 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-14 19:02:59 {
+  "bg": "3e8cbb0f-6b83-41c6-87b9-15e3a909e657",
+  "sr": 0,
+  "mr": false,
+  "cc": "dkiKsZhm8+bZRCYOb2FcOUFdr8j6mVRtDCeC1jp7dbk=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "928",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/6",
+      "fi": 143748847,
+      "fd": "Vidar v Madla",
+      "pt": [
+        {
+          "hd": "3.5",
+          "pi": 1257538410,
+          "bd": "Più di ",
+          "ha": "3.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS143748847-1257538410",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 143632014,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-14 19:03:01 Fractional Odds : 4/6
+
+2023-09-14 19:03:01 Trademate Odds : 0 , Bet365 Odds : 1.66
+
+2023-09-14 19:03:01 Trying to place bet!
+
+2023-09-14 19:03:01 DoPlacebetUI
+
+2023-09-14 19:03:02 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-14 19:03:04 Trademate Odds : 0 , Bet365 Odds : 1.66
+
+2023-09-14 19:03:04 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-14 19:03:08 32.97
+
+2023-09-14 19:03:08 Current balance : 32.9
+
+2023-09-14 19:03:09 DoLoad365Page
+
+2023-09-14 19:03:09 365 page is loaded!
+
+2023-09-14 19:03:12 [ficiliroberto:2711Buruliddu.] SUCCESS. Stake:1 Odds:1.66
+
+2023-09-14 19:03:12 {
+  "username": "ficiliroberto",
+  "tipster": "",
+  "message": "[ficiliroberto:2711Buruliddu.] SUCCESS. Stake:1 Odds:1.66",
+  "stake": 1.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.66,
+  "tournament": "Norway Division 3 Group 3",
+  "eventName": "Vidar vs Madla",
+  "probability": "OVER",
+  "market": "OVER 3.5",
+  "placedAt": "14/09/2023 19:03:08",
+  "selection": "OVER",
+  "handicap": 3.5,
+  "balance": 33.9,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-14 19:03:13 Recieve new Match Score From Copybet Server!
+
+2023-09-14 19:03:13 New Score is updated...
+
+2023-09-14 19:03:13 {"home":"Ferrocarril Midland Reserves","away":"Lujan Reserves","score":"2:1","gameTime":2}
+
+2023-09-14 19:03:13 New Score : Ferrocarril Midland Reserves vs Lujan Reserves  2:1
+
+2023-09-14 19:03:13 Pending tip Score : Vidar vs Madla 2:1
+
+2023-09-14 19:03:13 Recieve new Match Score From Copybet Server!
+
+2023-09-14 19:03:13 New Score is updated...
+
+2023-09-14 19:03:13 {"home":"Ferrocarril Midland Reserves","away":"Lujan Reserves","score":"2:1","gameTime":2}
+
+2023-09-14 19:03:13 New Score : Ferrocarril Midland Reserves vs Lujan Reserves  2:1
+
+2023-09-14 19:03:13 Pending tip Score : Vidar vs Madla 2:1
+
+2023-09-14 19:03:20 Trying to register tip at Bigstake Roserpina Table
+
+2023-09-14 19:03:30 Registered tip at Roserpina Table Successfully!
+
+2023-09-14 19:03:33 This Line is already existed on Settled bets!
+
+2023-09-14 19:09:18 Recieve 1 new bets From Copybet Server!
+
+2023-09-14 19:09:18 Pending bet is not finished.!

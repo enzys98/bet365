@@ -1,0 +1,777 @@
+﻿
+2023-09-01 00:32:19 LastLoginModule_Button Clicked
+
+2023-09-01 01:31:49 LastLoginModule_Button Clicked
+
+2023-09-01 02:31:19 LastLoginModule_Button Clicked
+
+2023-09-01 03:30:49 LastLoginModule_Button Clicked
+
+2023-09-01 04:30:19 LastLoginModule_Button Clicked
+
+2023-09-01 05:29:49 LastLoginModule_Button Clicked
+
+2023-09-01 06:29:19 LastLoginModule_Button Clicked
+
+2023-09-01 07:28:49 LastLoginModule_Button Clicked
+
+2023-09-01 08:28:19 LastLoginModule_Button Clicked
+2023-09-01 13:46:48 Chrome_RenderWidgetHostHWND
+
+2023-09-01 13:46:48 Websocket server is listening on 8880
+
+2023-09-01 13:46:48 DoLogin
+
+2023-09-01 13:46:48 DoLoad365Page
+
+2023-09-01 13:46:54 365 page is loaded!
+
+2023-09-01 13:46:54 Executed login script!
+
+2023-09-01 13:47:01 DoLoad365Page
+
+2023-09-01 13:47:01 365 page is loaded!
+
+2023-09-01 13:47:01 LastLoginModule_Button Clicked
+
+2023-09-01 13:47:07 Login Success!
+
+2023-09-01 13:47:14 0 Settled bets!!!
+
+2023-09-01 13:47:14 Browser Connected!
+
+2023-09-01 13:47:18 The bot has been started!
+
+2023-09-01 13:47:18 DoLogin
+
+2023-09-01 13:47:18 DoLoad365Page
+
+2023-09-01 13:47:18 365 page is loaded!
+
+2023-09-01 13:47:19 Connected Socket Server!!!
+
+2023-09-01 13:47:22 113.68
+
+2023-09-01 13:47:22 Current balance : 113.6
+
+2023-09-01 13:47:30 0 Settled bets!!!
+
+2023-09-01 13:47:30 Current Balance: 113.6
+
+2023-09-01 13:47:30 Page is initialized!
+
+2023-09-01 14:47:13 LastLoginModule_Button Clicked
+
+2023-09-01 15:22:17 Recieve 1 new bets From Copybet Server!
+
+2023-09-01 15:22:17  *** MakeBet *** 
+
+2023-09-01 15:22:17 {"dbId":"","sport":"","country":"","league":"England Development League 2","dateTime":"","match":"Cardiff U21 vs Barnsley U21","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-01 15:22:22 
+
+2023-09-01 15:22:22 Current Balance : -1
+
+2023-09-01 15:22:22 CheckIfLoggedIn
+
+2023-09-01 15:22:22 DoLogin
+
+2023-09-01 15:22:22 DoLoad365Page
+
+2023-09-01 15:22:22 365 page is loaded!
+
+2023-09-01 15:22:22 Executed login script!
+
+2023-09-01 15:22:49 DoLoad365Page
+
+2023-09-01 15:22:49 365 page is loaded!
+
+2023-09-01 15:22:57 Executed login script!
+
+2023-09-01 15:23:06 DoLoad365Page
+
+2023-09-01 15:23:06 365 page is loaded!
+
+2023-09-01 15:23:14 Login Success!
+
+2023-09-01 15:23:17 bet365.com
+
+2023-09-01 15:23:31 Not Search Event
+
+2023-09-01 15:23:39 Not Search Event
+
+2023-09-01 15:23:58 Not Search Event
+
+2023-09-01 15:24:06 Cardiff U21 v Barnsley U21 Dis :0.0304843304843305
+
+2023-09-01 15:24:07 Wrong position detected!
+
+2023-09-01 15:24:11 Stake : 57
+
+2023-09-01 15:24:11 Running AddbetScript...
+
+2023-09-01 15:24:11 scrollBetIntoView('1189550278') => 0
+
+2023-09-01 15:24:11 Bet is not found!
+
+2023-09-01 15:24:15 Odds Pos : X : 189.5 , Y: 304
+
+2023-09-01 15:24:17 {
+  "bg": "a50bb92c-1853-48d8-a89d-fbbb75bcc71a",
+  "sr": 0,
+  "mr": false,
+  "cc": "C8yuedncXdeQn6KeqvnaqPnPAqDlkMRVYQDeqZPBJZM=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "916",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/15",
+      "fi": 143146017,
+      "fd": "Cardiff U21 v Barnsley U21",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1189550278,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS143146017-1189550278",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 143051915,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-01 15:24:19 Fractional Odds : 8/15
+
+2023-09-01 15:24:19 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-09-01 15:24:19 Trying to place bet!
+
+2023-09-01 15:24:19 DoPlacebetUI
+
+2023-09-01 15:24:19 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-09-01 15:24:21 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-09-01 15:24:21 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-09-01 15:24:30 113.68
+
+2023-09-01 15:24:30 Current balance : 113.6
+
+2023-09-01 15:24:30 DoLoad365Page
+
+2023-09-01 15:24:30 365 page is loaded!
+
+2023-09-01 15:24:33 [concigrassi:Test123.] SUCCESS. Stake:57 Odds:1.53333333333333
+
+2023-09-01 15:24:33 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:57 Odds:1.53333333333333",
+  "stake": 57.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.5333333333333334,
+  "tournament": "England Development League 2",
+  "eventName": "Cardiff U21 vs Barnsley U21",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "01/09/2023 15:24:30",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": -57.0,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-01 15:24:41 Trying to register tip at Bigstake
+
+2023-09-01 15:24:57 Registered tip at Bigstake Successfully!
+
+2023-09-01 15:25:00 This Line is already existed on Settled bets!
+
+2023-09-01 15:26:01 Recieve 1 new bets From Copybet Server!
+
+2023-09-01 15:26:01 This Line is already existed on Settled bets!
+
+2023-09-01 15:26:01 This Line is already existed on Settled bets!
+
+2023-09-01 15:26:41 Recieve 1 new bets From Copybet Server!
+
+2023-09-01 15:26:41 This Line is already existed on Settled bets!
+
+2023-09-01 15:26:41 This Line is already existed on Settled bets!
+
+2023-09-01 15:48:12 Recieve new Match Score From Copybet Server!
+
+2023-09-01 15:48:12 New Score is updated...
+
+2023-09-01 15:48:12 {"home":"Cardiff U21","away":"Barnsley U21","score":"0:0","gameTime":1}
+
+2023-09-01 15:48:12 New Score : Cardiff U21 vs Barnsley U21  0:0
+
+2023-09-01 15:48:12 Pending tip Score : Cardiff U21 vs Barnsley U21 0:0
+
+2023-09-01 15:48:12 Pending Tip is lost now...
+
+2023-09-01 16:02:10 Disconnected Socket Server!!! || ping timeout
+
+2023-09-01 16:02:14 Connected Socket Server!!!
+
+2023-09-01 16:04:13 Recieve new Match Score From Copybet Server!
+
+2023-09-01 16:04:13 New Score is updated...
+
+2023-09-01 16:04:13 {"home":"Cardiff U21","away":"Barnsley U21","score":"0:0","gameTime":1}
+
+2023-09-01 16:06:12 Recieve new Match Score From Copybet Server!
+
+2023-09-01 16:06:12 New Score is updated...
+
+2023-09-01 16:06:12 {"home":"Cardiff U21","away":"Barnsley U21","score":"1:0","gameTime":0}
+
+2023-09-01 16:12:13 Recieve new Match Score From Copybet Server!
+
+2023-09-01 16:12:13 New Score is updated...
+
+2023-09-01 16:12:13 {"home":"Cardiff U21","away":"Barnsley U21","score":"1:1","gameTime":0}
+
+2023-09-01 16:44:13 Recieve new Match Score From Copybet Server!
+
+2023-09-01 16:44:13 New Score is updated...
+
+2023-09-01 16:44:13 {"home":"Cardiff U21","away":"Barnsley U21","score":"2:1","gameTime":0}
+
+2023-09-01 16:44:13 Recieve new Match Score From Copybet Server!
+
+2023-09-01 16:44:13 New Score is updated...
+
+2023-09-01 16:44:13 {"home":"Cardiff U21","away":"Barnsley U21","score":"2:1","gameTime":0}
+
+2023-09-01 17:01:13 Recieve new Match Score From Copybet Server!
+
+2023-09-01 17:01:13 New Score is updated...
+
+2023-09-01 17:01:13 {"home":"Cardiff U21","away":"Barnsley U21","score":"2:1","gameTime":2}
+
+2023-09-01 17:01:13 Recieve new Match Score From Copybet Server!
+
+2023-09-01 17:01:13 New Score is updated...
+
+2023-09-01 17:01:13 {"home":"Cardiff U21","away":"Barnsley U21","score":"2:1","gameTime":2}
+
+2023-09-01 17:04:28 LastLoginModule_Button Clicked
+
+2023-09-01 17:19:20 Recieve new Match Score From Copybet Server!
+
+2023-09-01 17:19:20 New Score is updated...
+
+2023-09-01 17:19:20 {"home":"Cardiff U21","away":"Barnsley U21","score":"2:1","gameTime":2}
+
+2023-09-01 17:28:23 Recieve 1 new bets From Copybet Server!
+
+2023-09-01 17:28:23  *** MakeBet *** 
+
+2023-09-01 17:28:23 {"dbId":"","sport":"","country":"","league":"Finland Kolmonen","dateTime":"","match":"FC Kirkkonummi vs HIFK 2","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-01 17:28:28 
+
+2023-09-01 17:28:28 Current Balance : -1
+
+2023-09-01 17:28:28 CheckIfLoggedIn
+
+2023-09-01 17:28:28 DoLogin
+
+2023-09-01 17:28:28 DoLoad365Page
+
+2023-09-01 17:28:28 365 page is loaded!
+
+2023-09-01 17:28:28 Executed login script!
+
+2023-09-01 17:28:55 DoLoad365Page
+
+2023-09-01 17:28:55 365 page is loaded!
+
+2023-09-01 17:29:03 Executed login script!
+
+2023-09-01 17:29:12 DoLoad365Page
+
+2023-09-01 17:29:12 365 page is loaded!
+
+2023-09-01 17:29:20 Login Success!
+
+2023-09-01 17:29:23 bet365.com
+
+2023-09-01 17:29:37 Not Search Event
+
+2023-09-01 17:29:45 Not Search Event
+
+2023-09-01 17:29:50 DoLoad365Page
+
+2023-09-01 17:29:50 365 page is loaded!
+
+2023-09-01 17:30:04 Not Search Event
+
+2023-09-01 17:30:12 Not Search Event
+
+2023-09-01 17:30:13 Recieve new Match Score From Copybet Server!
+
+2023-09-01 17:30:13 New Score is updated...
+
+2023-09-01 17:30:13 {"home":"CS U Craiova II","away":"CS Gilortul Targu Carbunesti","score":"4:1","gameTime":0}
+
+2023-09-01 17:30:30 Not Search Event
+
+2023-09-01 17:30:39 Not Search Event
+
+2023-09-01 17:30:44 Not Found Event on Bet365...
+
+2023-09-01 17:30:47  *** MakeBet *** 
+
+2023-09-01 17:30:47 {"dbId":"","sport":"","country":"","league":"Finland Kolmonen","dateTime":"","match":"FC Kirkkonummi vs HIFK 2","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-01 17:30:47 56.68
+
+2023-09-01 17:30:47 Current balance : 56.6
+
+2023-09-01 17:30:47 Current Balance : 56.6
+
+2023-09-01 17:30:47 CheckIfLoggedIn
+
+2023-09-01 17:30:47 Logged In Already!
+
+2023-09-01 17:30:47 bet365.com
+
+2023-09-01 17:31:00 Not Search Event
+
+2023-09-01 17:31:08 Not Search Event
+
+2023-09-01 17:31:26 Not Search Event
+
+2023-09-01 17:31:34 Not Search Event
+
+2023-09-01 17:31:39 DoLoad365Page
+
+2023-09-01 17:31:39 365 page is loaded!
+
+2023-09-01 17:31:53 Not Search Event
+
+2023-09-01 17:32:01 Not Search Event
+
+2023-09-01 17:32:06 Not Found Event on Bet365...
+
+2023-09-01 17:35:13 Recieve new Match Score From Copybet Server!
+
+2023-09-01 17:35:13 New Score is updated...
+
+2023-09-01 17:35:13 {"home":"FC Kirkkonummi","away":"HIFK 2","score":"0:1","gameTime":0}
+
+2023-09-01 17:37:14 Recieve new Match Score From Copybet Server!
+
+2023-09-01 17:37:14 New Score is updated...
+
+2023-09-01 17:37:14 {"home":"FC Kirkkonummi","away":"HIFK 2","score":"0:2","gameTime":0}
+
+2023-09-01 17:43:15 Recieve new Match Score From Copybet Server!
+
+2023-09-01 17:43:15 New Score is updated...
+
+2023-09-01 17:43:15 {"home":"CS U Craiova II","away":"CS Gilortul Targu Carbunesti","score":"5:1","gameTime":0}
+
+2023-09-01 17:44:14 Recieve new Match Score From Copybet Server!
+
+2023-09-01 17:44:14 New Score is updated...
+
+2023-09-01 17:44:14 {"home":"CS U Craiova II","away":"CS Gilortul Targu Carbunesti","score":"6:1","gameTime":0}
+
+2023-09-01 17:48:18 Recieve new Match Score From Copybet Server!
+
+2023-09-01 17:48:18 New Score is updated...
+
+2023-09-01 17:48:18 {"home":"Fulham U21","away":"Southampton U21","score":"3:1","gameTime":0}
+
+2023-09-01 17:49:13 Recieve new Match Score From Copybet Server!
+
+2023-09-01 17:49:13 New Score is updated...
+
+2023-09-01 17:49:13 {"home":"ACS Sepsi II","away":"AS Viitorul Curita","score":"5:0","gameTime":0}
+
+2023-09-01 17:50:14 Recieve new Match Score From Copybet Server!
+
+2023-09-01 17:50:14 New Score is updated...
+
+2023-09-01 17:50:14 {"home":"Fulham U21","away":"Southampton U21","score":"4:1","gameTime":0}
+
+2023-09-01 17:51:14 Recieve new Match Score From Copybet Server!
+
+2023-09-01 17:51:14 New Score is updated...
+
+2023-09-01 17:51:14 {"home":"CS U Craiova II","away":"CS Gilortul Targu Carbunesti","score":"7:1","gameTime":0}
+
+2023-09-01 17:53:14 Recieve new Match Score From Copybet Server!
+
+2023-09-01 17:53:14 New Score is updated...
+
+2023-09-01 17:53:14 {"home":"Fulham U21","away":"Southampton U21","score":"5:1","gameTime":0}
+
+2023-09-01 17:56:14 Recieve new Match Score From Copybet Server!
+
+2023-09-01 17:56:14 New Score is updated...
+
+2023-09-01 17:56:14 {"home":"ACS Sepsi II","away":"AS Viitorul Curita","score":"5:0","gameTime":2}
+
+2023-09-01 17:57:14 Recieve new Match Score From Copybet Server!
+
+2023-09-01 17:57:14 New Score is updated...
+
+2023-09-01 17:57:14 {"home":"CS U Craiova II","away":"CS Gilortul Targu Carbunesti","score":"7:1","gameTime":2}
+
+2023-09-01 17:59:14 Recieve new Match Score From Copybet Server!
+
+2023-09-01 17:59:14 New Score is updated...
+
+2023-09-01 17:59:14 {"home":"FC Kirkkonummi","away":"HIFK 2","score":"0:2","gameTime":1}
+
+2023-09-01 18:02:14 Recieve new Match Score From Copybet Server!
+
+2023-09-01 18:02:14 New Score is updated...
+
+2023-09-01 18:02:14 {"home":"Excursionistas U20","away":"Real Pilar U20","score":"6:0","gameTime":0}
+
+2023-09-01 18:13:15 Recieve new Match Score From Copybet Server!
+
+2023-09-01 18:13:15 New Score is updated...
+
+2023-09-01 18:13:15 {"home":"Excursionistas U20","away":"Real Pilar U20","score":"6:1","gameTime":0}
+
+2023-09-01 18:14:15 Recieve new Match Score From Copybet Server!
+
+2023-09-01 18:14:15 New Score is updated...
+
+2023-09-01 18:14:15 {"home":"FC Kirkkonummi","away":"HIFK 2","score":"0:2","gameTime":1}
+
+2023-09-01 18:23:17 Recieve new Match Score From Copybet Server!
+
+2023-09-01 18:23:17 New Score is updated...
+
+2023-09-01 18:23:17 {"home":"Excursionistas U20","away":"Real Pilar U20","score":"6:1","gameTime":2}
+
+2023-09-01 18:29:15 Recieve new Match Score From Copybet Server!
+
+2023-09-01 18:29:15 New Score is updated...
+
+2023-09-01 18:29:15 {"home":"FC Kirkkonummi","away":"HIFK 2","score":"1:2","gameTime":0}
+
+2023-09-01 18:53:18 Recieve new Match Score From Copybet Server!
+
+2023-09-01 18:53:18 New Score is updated...
+
+2023-09-01 18:53:18 {"home":"FC Kirkkonummi","away":"HIFK 2","score":"2:2","gameTime":0}
+
+2023-09-01 18:55:19 Recieve new Match Score From Copybet Server!
+
+2023-09-01 18:55:19 New Score is updated...
+
+2023-09-01 18:55:19 {"home":"Olimpija Ljubljana U19","away":"NK Rudar Velenje U19","score":"0:2","gameTime":2}
+
+2023-09-01 19:00:28 LastLoginModule_Button Clicked
+
+2023-09-01 19:07:19 Recieve new Match Score From Copybet Server!
+
+2023-09-01 19:07:19 New Score is updated...
+
+2023-09-01 19:07:19 {"home":"TSV Dachau 1865","away":"SV Erlbach","score":"4:2","gameTime":0}
+
+2023-09-01 19:12:18 Recieve new Match Score From Copybet Server!
+
+2023-09-01 19:12:18 New Score is updated...
+
+2023-09-01 19:12:18 {"home":"TSV Dachau 1865","away":"SV Erlbach","score":"5:2","gameTime":0}
+
+2023-09-01 19:18:32 Recieve 1 new bets From Copybet Server!
+
+2023-09-01 19:18:32  *** MakeBet *** 
+
+2023-09-01 19:18:32 {"dbId":"","sport":"","country":"","league":"Denmark Division 1","dateTime":"","match":"Vendsyssel FF vs FC Fredericia","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-01 19:18:32 56.68
+
+2023-09-01 19:18:32 Current balance : 56.6
+
+2023-09-01 19:18:32 Current Balance : 56.6
+
+2023-09-01 19:18:32 CheckIfLoggedIn
+
+2023-09-01 19:18:32 Logged In Already!
+
+2023-09-01 19:18:32 bet365.com
+
+2023-09-01 19:18:46 Vendsyssel FF v FC Fredericia Dis :0.0066666666666666
+
+2023-09-01 19:18:47 Wrong position detected!
+
+2023-09-01 19:18:52 Stake : 48
+
+2023-09-01 19:18:52 Running AddbetScript...
+
+2023-09-01 19:18:52 scrollBetIntoView('1189770222') => 0
+
+2023-09-01 19:18:52 Bet is not found!
+
+2023-09-01 19:18:56 Odds Pos : X : 189.5 , Y: 304
+
+2023-09-01 19:18:58 {
+  "bg": "cc43d245-4568-483b-81ff-1e31bdd60aa4",
+  "sr": 0,
+  "mr": false,
+  "cc": "TXWDpMiqqfwgH+9xceAxHNVIAQ8+yZePMOjubzkuSew=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "917",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "1/2",
+      "fi": 143147441,
+      "fd": "Vendsyssel FF v FC Fredericia",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1189770222,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS143147441-1189770222",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142397402,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-01 19:19:00 Fractional Odds : 1/2
+
+2023-09-01 19:19:00 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-09-01 19:19:00 Trying to place bet!
+
+2023-09-01 19:19:00 DoPlacebetUI
+
+2023-09-01 19:19:00 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-09-01 19:19:02 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-09-01 19:19:02 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-09-01 19:19:11 56.68
+
+2023-09-01 19:19:11 Current balance : 56.6
+
+2023-09-01 19:19:11 DoLoad365Page
+
+2023-09-01 19:19:11 365 page is loaded!
+
+2023-09-01 19:19:14 [concigrassi:Test123.] SUCCESS. Stake:48 Odds:1.53333333333333
+
+2023-09-01 19:19:14 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:48 Odds:1.53333333333333",
+  "stake": 48.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.5333333333333332,
+  "tournament": "Denmark Division 1",
+  "eventName": "Vendsyssel FF vs FC Fredericia",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "01/09/2023 19:19:11",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 8.6000000000000014,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-01 19:19:22 Trying to register tip at Bigstake
+
+2023-09-01 19:19:37 Registered tip at Bigstake Successfully!
+
+2023-09-01 19:19:40 This Line is already existed on Settled bets!
+
+2023-09-01 19:48:23 Recieve new Match Score From Copybet Server!
+
+2023-09-01 19:48:23 New Score is updated...
+
+2023-09-01 19:48:23 {"home":"Vendsyssel FF","away":"FC Fredericia","score":"0:0","gameTime":1}
+
+2023-09-01 19:48:23 New Score : Vendsyssel FF vs FC Fredericia  0:0
+
+2023-09-01 19:48:23 Pending tip Score : Vendsyssel FF vs FC Fredericia 0:0
+
+2023-09-01 19:48:23 Pending Tip is lost now...
+
+2023-09-01 19:48:34 Recieve 1 new bets From Copybet Server!
+
+2023-09-01 19:48:34  *** MakeBet *** 
+
+2023-09-01 19:48:34 {"dbId":"","sport":"","country":"","league":"Denmark Division 1","dateTime":"","match":"Vendsyssel FF vs FC Fredericia","score":"0:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-01 19:48:34 0.68
+
+2023-09-01 19:48:34 Current balance : 0.6
+
+2023-09-01 19:48:34 Current Balance : 0.6
+
+2023-09-01 19:48:34 CheckIfLoggedIn
+
+2023-09-01 19:48:34 Logged In Already!
+
+2023-09-01 19:48:34 bet365.com
+
+2023-09-01 19:48:48 Vendsyssel FF v FC Fredericia Dis :0.0066666666666666
+
+2023-09-01 19:48:49 Wrong position detected!
+
+2023-09-01 19:48:52 Stake : 35
+
+2023-09-01 19:48:52 Balance is Low now! Skip bets now!
+
+2023-09-01 19:48:55  *** MakeBet *** 
+
+2023-09-01 19:48:55 {"dbId":"","sport":"","country":"","league":"Denmark Division 1","dateTime":"","match":"Vendsyssel FF vs FC Fredericia","score":"0:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"1.66","selectionId":"1189770210","matchId":"143147441","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-01 19:48:55 0.68
+
+2023-09-01 19:48:55 Current balance : 0.6
+
+2023-09-01 19:48:55 Current Balance : 0.6
+
+2023-09-01 19:48:55 CheckIfLoggedIn
+
+2023-09-01 19:48:55 Logged In Already!
+
+2023-09-01 19:48:55 bet365.com
+
+2023-09-01 19:48:55 Wrong position detected!
+
+2023-09-01 19:48:57 Wrong position detected!
+
+2023-09-01 19:49:00 Vendsyssel FF v FC Fredericia Dis :0.0066666666666666
+
+2023-09-01 19:49:01 Wrong position detected!
+
+2023-09-01 19:49:02 Stake : 37
+
+2023-09-01 19:49:02 Balance is Low now! Skip bets now!
+
+2023-09-01 19:50:33 Recieve 1 new bets From Copybet Server!
+
+2023-09-01 19:50:33  *** MakeBet *** 
+
+2023-09-01 19:50:33 {"dbId":"","sport":"","country":"","league":"Finland Kolmonen","dateTime":"","match":"ESPA vs EBK","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-01 19:50:33 0.68
+
+2023-09-01 19:50:33 Current balance : 0.6
+
+2023-09-01 19:50:33 Current Balance : 0.6
+
+2023-09-01 19:50:33 CheckIfLoggedIn
+
+2023-09-01 19:50:33 Logged In Already!
+
+2023-09-01 19:50:33 bet365.com
+
+2023-09-01 19:50:33 DoLoad365Page
+
+2023-09-01 19:50:33 365 page is loaded!
+
+2023-09-01 19:50:33 Wrong position detected!
+
+2023-09-01 19:50:41 Not Search Event
+
+2023-09-01 19:50:49 ESPA v EBK Dis :0.0181818181818182
+
+2023-09-01 19:50:50 Wrong position detected!
+
+2023-09-01 19:50:54 Stake : 34
+
+2023-09-01 19:50:54 Balance is Low now! Skip bets now!
+
+2023-09-01 19:50:57  *** MakeBet *** 
+
+2023-09-01 19:50:57 {"dbId":"","sport":"","country":"","league":"Finland Kolmonen","dateTime":"","match":"ESPA vs EBK","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"1.57","selectionId":"1189958723","matchId":"143148848","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-01 19:50:57 0.68
+
+2023-09-01 19:50:57 Current balance : 0.6
+
+2023-09-01 19:50:57 Current Balance : 0.6
+
+2023-09-01 19:50:57 CheckIfLoggedIn
+
+2023-09-01 19:50:57 Logged In Already!
+
+2023-09-01 19:50:57 bet365.com
+
+2023-09-01 19:50:57 Wrong position detected!
+
+2023-09-01 19:50:58 Wrong position detected!
+
+2023-09-01 19:51:00 Not Search Event
+
+2023-09-01 19:51:00 Wrong position detected!
+
+2023-09-01 19:51:04 ESPA v EBK Dis :0.0181818181818182
+
+2023-09-01 19:51:04 Wrong position detected!
+
+2023-09-01 19:51:06 Stake : 37
+
+2023-09-01 19:51:06 Balance is Low now! Skip bets now!

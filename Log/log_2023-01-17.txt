@@ -1,0 +1,3384 @@
+﻿
+2023-01-17 00:07:16 LastLoginModule_Button Clicked
+
+2023-01-17 00:07:26 LastLoginModule_Button Clicked
+
+2023-01-17 00:07:36 LastLoginModule_Button Clicked
+
+2023-01-17 00:07:46 LastLoginModule_Button Clicked
+
+2023-01-17 00:07:56 LastLoginModule_Button Clicked
+
+2023-01-17 00:08:06 LastLoginModule_Button Clicked
+
+2023-01-17 00:19:13 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 00:19:13  *** MakeBet *** 
+
+2023-01-17 00:19:13 {"dbId":"","sport":"","country":"","league":"Mexico Segunda Division","dateTime":"","match":"Colima vs Catedraticos Elite","score":"4:0","EW":"0","marketName":"OVER 5.5","selection":"OVER","odds":0.0,"handicap":5.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 00:19:18 
+
+2023-01-17 00:19:18 Current Balance : -1
+
+2023-01-17 00:19:18 Stake : 2
+
+2023-01-17 00:19:18 CheckIfLoggedIn
+
+2023-01-17 00:19:18 DoLogin
+
+2023-01-17 00:19:18 DoLoad365Page
+
+2023-01-17 00:19:18 365 page is loaded!
+
+2023-01-17 00:19:19 Executed login script!
+
+2023-01-17 00:19:46 DoLoad365Page
+
+2023-01-17 00:19:46 365 page is loaded!
+
+2023-01-17 00:19:49 Executed login script!
+
+2023-01-17 00:19:56 DoLoad365Page
+
+2023-01-17 00:19:56 365 page is loaded!
+
+2023-01-17 00:19:56 LastLoginModule_Button Clicked
+
+2023-01-17 00:20:02 Login Success!
+
+2023-01-17 00:20:03 Recieve new Match Score From Copybet Server!
+
+2023-01-17 00:20:03 New Score is updated...
+
+2023-01-17 00:20:03 {"home":"Colima","away":"Catedraticos Elite","score":"4:0","gameTime":1}
+
+2023-01-17 00:20:05 bet365.com
+
+2023-01-17 00:20:18 Not Search Event
+
+2023-01-17 00:20:27 Not Search Event
+
+2023-01-17 00:20:45 Not Search Event
+
+2023-01-17 00:20:54 Not Search Event
+
+2023-01-17 00:21:12 Not Search Event
+
+2023-01-17 00:21:20 Not Search Event
+
+2023-01-17 00:21:25 Not Found Event on Bet365...
+
+2023-01-17 00:21:28  *** MakeBet *** 
+
+2023-01-17 00:21:28 {"dbId":"","sport":"","country":"","league":"Mexico Segunda Division","dateTime":"","match":"Colima vs Catedraticos Elite","score":"4:0","EW":"0","marketName":"OVER 5.5","selection":"OVER","odds":0.0,"handicap":5.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 00:21:28 118.49
+
+2023-01-17 00:21:28 Current balance : 118.4
+
+2023-01-17 00:21:28 Current Balance : 118.4
+
+2023-01-17 00:21:28 Stake : 2
+
+2023-01-17 00:21:28 CheckIfLoggedIn
+
+2023-01-17 00:21:28 Logged In Already!
+
+2023-01-17 00:21:28 bet365.com
+
+2023-01-17 00:21:42 Not Search Event
+
+2023-01-17 00:21:50 Not Search Event
+
+2023-01-17 00:22:08 Not Search Event
+
+2023-01-17 00:22:17 Not Search Event
+
+2023-01-17 00:22:35 Not Search Event
+
+2023-01-17 00:22:44 Not Search Event
+
+2023-01-17 00:22:49 Not Found Event on Bet365...
+
+2023-01-17 00:38:03 Recieve new Match Score From Copybet Server!
+
+2023-01-17 00:38:03 New Score is updated...
+
+2023-01-17 00:38:03 {"home":"Colima","away":"Catedraticos Elite","score":"4:0","gameTime":1}
+
+2023-01-17 00:39:06 LastLoginModule_Button Clicked
+
+2023-01-17 00:39:16 LastLoginModule_Button Clicked
+
+2023-01-17 00:39:26 LastLoginModule_Button Clicked
+
+2023-01-17 00:39:36 LastLoginModule_Button Clicked
+
+2023-01-17 00:39:46 LastLoginModule_Button Clicked
+
+2023-01-17 00:39:56 LastLoginModule_Button Clicked
+
+2023-01-17 00:51:04 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 00:51:04  *** MakeBet *** 
+
+2023-01-17 00:51:04 {"dbId":"","sport":"","country":"","league":"Mexico Segunda Division","dateTime":"","match":"Colima vs Catedraticos Elite","score":"4:0","EW":"0","marketName":"OVER 5.5","selection":"OVER","odds":0.0,"handicap":5.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 00:51:09 
+
+2023-01-17 00:51:09 Current Balance : -1
+
+2023-01-17 00:51:09 Stake : 2
+
+2023-01-17 00:51:09 CheckIfLoggedIn
+
+2023-01-17 00:51:09 DoLogin
+
+2023-01-17 00:51:09 DoLoad365Page
+
+2023-01-17 00:51:09 365 page is loaded!
+
+2023-01-17 00:51:09 Executed login script!
+
+2023-01-17 00:51:36 DoLoad365Page
+
+2023-01-17 00:51:36 365 page is loaded!
+
+2023-01-17 00:51:39 Executed login script!
+
+2023-01-17 00:51:46 DoLoad365Page
+
+2023-01-17 00:51:46 365 page is loaded!
+
+2023-01-17 00:51:46 LastLoginModule_Button Clicked
+
+2023-01-17 00:51:51 Login Success!
+
+2023-01-17 00:51:55 bet365.com
+
+2023-01-17 00:52:09 Not Search Event
+
+2023-01-17 00:52:18 Not Search Event
+
+2023-01-17 00:52:36 Not Search Event
+
+2023-01-17 00:52:45 Not Search Event
+
+2023-01-17 00:52:47 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 00:53:03 Not Search Event
+
+2023-01-17 00:53:05 Disconnected Socket Server!!! || ping timeout
+
+2023-01-17 00:53:06 Connected Socket Server!!!
+
+2023-01-17 00:53:12 Not Search Event
+
+2023-01-17 00:53:17 Not Found Event on Bet365...
+
+2023-01-17 00:53:20  *** MakeBet *** 
+
+2023-01-17 00:53:20 {"dbId":"","sport":"","country":"","league":"Mexico Segunda Division","dateTime":"","match":"Colima vs Catedraticos Elite","score":"4:0","EW":"0","marketName":"OVER 5.5","selection":"OVER","odds":0.0,"handicap":5.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 00:53:20 118.49
+
+2023-01-17 00:53:20 Current balance : 118.4
+
+2023-01-17 00:53:20 Current Balance : 118.4
+
+2023-01-17 00:53:20 Stake : 2
+
+2023-01-17 00:53:20 CheckIfLoggedIn
+
+2023-01-17 00:53:20 Logged In Already!
+
+2023-01-17 00:53:20 bet365.com
+
+2023-01-17 00:53:21 Wrong position detected!
+
+2023-01-17 00:53:25 Colima v Catedraticos Elite Dis :0.0515873015873015
+
+2023-01-17 00:53:30 Not Found Odds on Bet365..
+
+2023-01-17 00:53:33  *** MakeBet *** 
+
+2023-01-17 00:53:33 {"dbId":"","sport":"","country":"","league":"Mexico Segunda Division","dateTime":"","match":"Colima vs Catedraticos Elite","score":"4:0","EW":"0","marketName":"OVER 5.5","selection":"OVER","odds":0.0,"handicap":5.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 00:53:33 118.49
+
+2023-01-17 00:53:33 Current balance : 118.4
+
+2023-01-17 00:53:33 Current Balance : 118.4
+
+2023-01-17 00:53:33 Stake : 2
+
+2023-01-17 00:53:33 CheckIfLoggedIn
+
+2023-01-17 00:53:33 Logged In Already!
+
+2023-01-17 00:53:33 bet365.com
+
+2023-01-17 00:53:34 Wrong position detected!
+
+2023-01-17 00:53:42 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-17 00:53:42 The bot has been stopped!
+
+2023-01-17 00:53:42 Exception in MakeBet: System.Threading.ThreadAbortException: Thread interrotto.
+   in System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   in System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   in CEBet365Placer.Controller.BetController.FindOdds(TelegramTip tip)
+   in CEBet365Placer.Controller.BetController.MakeBet(TelegramTip betitem, Boolean& isSucccssed)
+
+2023-01-17 00:53:42 checkWrongLine :    in CEBet365Placer.Controller.BetController.MakeBet(TelegramTip betitem, Boolean& isSucccssed)
+   in CEBet365Placer.Form1.refreshThreadFunc()
+
+2023-01-17 00:53:44 The bot has been started!
+
+2023-01-17 00:53:44 DoLogin
+
+2023-01-17 00:53:44 DoLoad365Page
+
+2023-01-17 00:53:44 365 page is loaded!
+
+2023-01-17 00:53:44 Connected Socket Server!!!
+
+2023-01-17 00:53:47 118.49
+
+2023-01-17 00:53:47 Current balance : 118.4
+
+2023-01-17 00:53:52 Current Balance: 118.4
+
+2023-01-17 00:53:52 Page is initialized!
+2023-01-17 00:55:49 Chrome_RenderWidgetHostHWND
+
+2023-01-17 00:55:49 Websocket server is listening on 8880
+
+2023-01-17 00:55:49 DoLogin
+
+2023-01-17 00:55:49 DoLoad365Page
+
+2023-01-17 00:55:54 365 page is loaded!
+
+2023-01-17 00:55:54 Executed login script!
+
+2023-01-17 00:56:02 DoLoad365Page
+
+2023-01-17 00:56:02 365 page is loaded!
+
+2023-01-17 00:56:02 LastLoginModule_Button Clicked
+
+2023-01-17 00:56:08 Login Success!
+
+2023-01-17 00:56:15 2 Settled bets!!!
+
+2023-01-17 00:56:15 Browser Connected!
+
+2023-01-17 00:56:24 The bot has been started!
+
+2023-01-17 00:56:24 DoLogin
+
+2023-01-17 00:56:24 DoLoad365Page
+
+2023-01-17 00:56:24 365 page is loaded!
+
+2023-01-17 00:56:24 Connected Socket Server!!!
+
+2023-01-17 00:56:27 118.49
+
+2023-01-17 00:56:27 Current balance : 118.4
+
+2023-01-17 00:56:32 Current Balance: 118.4
+
+2023-01-17 00:56:32 Page is initialized!
+
+2023-01-17 00:57:06 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 00:57:06  *** MakeBet *** 
+
+2023-01-17 00:57:06 {"dbId":"","sport":"","country":"","league":"Mexico Segunda Division","dateTime":"","match":"Colima vs Catedraticos Elite","score":"4:0","EW":"0","marketName":"OVER 5.5","selection":"OVER","odds":0.0,"handicap":5.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 00:57:06 118.49
+
+2023-01-17 00:57:06 Current balance : 118.4
+
+2023-01-17 00:57:06 Current Balance : 118.4
+
+2023-01-17 00:57:06 Stake : 2
+
+2023-01-17 00:57:06 CheckIfLoggedIn
+
+2023-01-17 00:57:06 Logged In Already!
+
+2023-01-17 00:57:06 bet365.com
+
+2023-01-17 00:57:16 Colima v Catedraticos Elite Dis :0.0515873015873015
+
+2023-01-17 00:57:17 Wrong position detected!
+
+2023-01-17 00:57:19 Running AddbetScript...
+
+2023-01-17 00:57:19 scrollBetIntoView('2139170749') => 1
+
+2023-01-17 00:57:21 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-17 00:57:22 {
+  "bg": "35cfcb85-021a-4941-9de8-fe7e18264932",
+  "sr": 0,
+  "mr": false,
+  "cc": "OKy6MQeFOTGXMPIaK/OonikeiUJsNNS/vVYV12SEW/s=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "13/8",
+      "fi": 131390925,
+      "fd": "Colima v Catedraticos Elite",
+      "pt": [
+        {
+          "hd": "5.5",
+          "pi": 2139170749,
+          "bd": "Più di",
+          "ha": "5.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c5e462-4DB0CB45",
+      "tp": "BS131390925-2139170749",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131150061,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-17 00:57:24 Fractional Odds : 13/8
+
+2023-01-17 00:57:24 Trademate Odds : 1.3 , Bet365 Odds : 2.62
+
+2023-01-17 00:57:24 Trying to place bet!
+
+2023-01-17 00:57:24 DoPlacebetUI
+
+2023-01-17 00:57:24 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-17 00:57:26 Trademate Odds : 2.62 , Bet365 Odds : 2.62
+
+2023-01-17 00:57:26 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-17 00:57:34 118.49
+
+2023-01-17 00:57:34 Current balance : 118.4
+
+2023-01-17 00:57:37 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.625
+
+2023-01-17 00:57:37 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.625",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 2.625,
+  "tournament": "Mexico Segunda Division",
+  "eventName": "Colima vs Catedraticos Elite",
+  "probability": "OVER",
+  "market": "OVER 5.5",
+  "placedAt": "17/01/2023 00:57:34",
+  "selection": "OVER",
+  "handicap": 5.5,
+  "balance": 116.4,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-17 00:57:48 This Line is already existed on Settled bets!
+
+2023-01-17 01:16:33 LastLoginModule_Button Clicked
+
+2023-01-17 01:45:43 LastLoginModule_Button Clicked
+
+2023-01-17 02:20:53 LastLoginModule_Button Clicked
+
+2023-01-17 02:40:03 LastLoginModule_Button Clicked
+
+2023-01-17 02:59:13 LastLoginModule_Button Clicked
+
+2023-01-17 03:18:23 LastLoginModule_Button Clicked
+
+2023-01-17 03:37:33 LastLoginModule_Button Clicked
+
+2023-01-17 04:25:53 LastLoginModule_Button Clicked
+
+2023-01-17 04:45:03 LastLoginModule_Button Clicked
+
+2023-01-17 05:04:13 LastLoginModule_Button Clicked
+
+2023-01-17 05:23:23 LastLoginModule_Button Clicked
+
+2023-01-17 05:42:33 LastLoginModule_Button Clicked
+
+2023-01-17 06:01:43 LastLoginModule_Button Clicked
+
+2023-01-17 06:30:53 LastLoginModule_Button Clicked
+
+2023-01-17 06:50:03 LastLoginModule_Button Clicked
+
+2023-01-17 07:09:13 LastLoginModule_Button Clicked
+
+2023-01-17 07:28:23 LastLoginModule_Button Clicked
+
+2023-01-17 08:01:34 LastLoginModule_Button Clicked
+
+2023-01-17 08:20:44 LastLoginModule_Button Clicked
+
+2023-01-17 08:39:54 LastLoginModule_Button Clicked
+
+2023-01-17 08:45:25 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-17 08:45:25 The bot has been stopped!
+2023-01-17 11:13:31 Chrome_RenderWidgetHostHWND
+
+2023-01-17 11:13:31 Websocket server is listening on 8880
+
+2023-01-17 11:13:31 DoLogin
+
+2023-01-17 11:13:31 DoLoad365Page
+
+2023-01-17 11:13:36 365 page is loaded!
+
+2023-01-17 11:13:36 Executed login script!
+
+2023-01-17 11:13:44 DoLoad365Page
+
+2023-01-17 11:13:44 365 page is loaded!
+
+2023-01-17 11:13:44 LastLoginModule_Button Clicked
+
+2023-01-17 11:13:50 Login Success!
+
+2023-01-17 11:13:57 2 Settled bets!!!
+
+2023-01-17 11:13:57 Browser Connected!
+
+2023-01-17 11:25:48 The bot has been started!
+
+2023-01-17 11:25:48 DoLogin
+
+2023-01-17 11:25:48 DoLoad365Page
+
+2023-01-17 11:25:48 365 page is loaded!
+
+2023-01-17 11:25:49 Connected Socket Server!!!
+
+2023-01-17 11:25:56 
+
+2023-01-17 11:26:01 Current Balance: -1
+
+2023-01-17 11:26:01 Page is initialized!
+
+2023-01-17 11:32:51 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 11:32:51  *** MakeBet *** 
+
+2023-01-17 11:32:51 {"dbId":"","sport":"","country":"","league":"Mexico Segunda Division","dateTime":"","match":"Afak vs akbou","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 11:32:51 116.49
+
+2023-01-17 11:32:51 Current balance : 116.4
+
+2023-01-17 11:32:51 Current Balance : 116.4
+
+2023-01-17 11:32:53 Stake : 2
+
+2023-01-17 11:32:53 CheckIfLoggedIn
+
+2023-01-17 11:32:53 Logged In Already!
+
+2023-01-17 11:32:53 bet365.com
+
+2023-01-17 11:33:03 Afak Relizane femminile v CF Akbou femminile Dis :0.177505827505828
+
+2023-01-17 11:33:04 Wrong position detected!
+
+2023-01-17 11:33:38 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 11:33:53 Disconnected Socket Server!!! || ping timeout
+
+2023-01-17 11:33:54 Connected Socket Server!!!
+
+2023-01-17 11:34:46 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 11:35:14 Disconnected Socket Server!!! || ping timeout
+
+2023-01-17 11:35:16 Connected Socket Server!!!
+
+2023-01-17 11:35:46 Not Found Odds on Bet365..
+
+2023-01-17 11:35:49  *** MakeBet *** 
+
+2023-01-17 11:35:49 {"dbId":"","sport":"","country":"","league":"Mexico Segunda Division","dateTime":"","match":"Afak vs akbou","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 11:35:49 116.49
+
+2023-01-17 11:35:49 Current balance : 116.4
+
+2023-01-17 11:35:49 Current Balance : 116.4
+
+2023-01-17 11:35:50 Stake : 2
+
+2023-01-17 11:35:50 CheckIfLoggedIn
+
+2023-01-17 11:35:50 Logged In Already!
+
+2023-01-17 11:35:50 bet365.com
+
+2023-01-17 11:35:50 Wrong position detected!
+
+2023-01-17 11:35:56 Afak Relizane femminile v CF Akbou femminile Dis :0.177505827505828
+
+2023-01-17 11:37:07 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-17 11:37:07 The bot has been stopped!
+
+2023-01-17 11:37:07 Exception in MakeBet: System.Threading.ThreadAbortException: Thread interrotto.
+   in CEBet365Placer.Controller.BetController.FindOdds(TelegramTip tip)
+   in CEBet365Placer.Controller.BetController.MakeBet(TelegramTip betitem, Boolean& isSucccssed)
+
+2023-01-17 11:37:07 checkWrongLine :    in CEBet365Placer.Controller.BetController.MakeBet(TelegramTip betitem, Boolean& isSucccssed)
+   in CEBet365Placer.Form1.refreshThreadFunc()
+
+2023-01-17 11:37:25 The bot has been started!
+
+2023-01-17 11:37:25 DoLogin
+
+2023-01-17 11:37:25 DoLoad365Page
+
+2023-01-17 11:37:25 365 page is loaded!
+
+2023-01-17 11:37:26 Connected Socket Server!!!
+
+2023-01-17 11:37:28 116.49
+
+2023-01-17 11:37:28 Current balance : 116.4
+
+2023-01-17 11:37:33 Current Balance: 116.4
+
+2023-01-17 11:37:33 Page is initialized!
+
+2023-01-17 11:37:46 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 11:39:18 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-17 11:39:18 The bot has been stopped!
+2023-01-17 11:39:39 Chrome_RenderWidgetHostHWND
+
+2023-01-17 11:39:39 Websocket server is listening on 8880
+
+2023-01-17 11:39:39 DoLogin
+
+2023-01-17 11:39:39 DoLoad365Page
+
+2023-01-17 11:39:44 365 page is loaded!
+
+2023-01-17 11:39:44 Executed login script!
+
+2023-01-17 11:39:52 DoLoad365Page
+
+2023-01-17 11:39:52 365 page is loaded!
+
+2023-01-17 11:39:52 LastLoginModule_Button Clicked
+
+2023-01-17 11:39:58 Login Success!
+
+2023-01-17 11:40:05 2 Settled bets!!!
+
+2023-01-17 11:40:05 Browser Connected!
+
+2023-01-17 11:40:10 The bot has been started!
+
+2023-01-17 11:40:10 DoLogin
+
+2023-01-17 11:40:10 DoLoad365Page
+
+2023-01-17 11:40:10 365 page is loaded!
+
+2023-01-17 11:40:11 Connected Socket Server!!!
+
+2023-01-17 11:40:13 116.49
+
+2023-01-17 11:40:13 Current balance : 116.4
+
+2023-01-17 11:40:15 Current Balance: 116.4
+
+2023-01-17 11:40:15 Page is initialized!
+
+2023-01-17 11:40:29 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 11:40:29  *** MakeBet *** 
+
+2023-01-17 11:40:29 {"dbId":"","sport":"","country":"","league":"Mexico Segunda Division","dateTime":"","match":"Afak vs akbou","score":"0:0","EW":"0","marketName":"OVER 1.5 HT","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 11:40:29 116.49
+
+2023-01-17 11:40:29 Current balance : 116.4
+
+2023-01-17 11:40:29 Current Balance : 116.4
+
+2023-01-17 11:40:30 Stake : 2
+
+2023-01-17 11:40:30 CheckIfLoggedIn
+
+2023-01-17 11:40:30 Logged In Already!
+
+2023-01-17 11:40:30 bet365.com
+
+2023-01-17 11:40:40 Afak Relizane femminile v CF Akbou femminile Dis :0.177505827505828
+
+2023-01-17 11:40:41 Wrong position detected!
+
+2023-01-17 11:40:43 Running AddbetScript...
+
+2023-01-17 11:40:43 scrollBetIntoView('2144501122') => 1
+
+2023-01-17 11:40:45 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-17 11:40:47 {
+  "bg": "797baa1d-d06e-452d-ae2d-51bbaaa000ea",
+  "sr": 0,
+  "mr": false,
+  "cc": "iU//YHOqag6haHMFOdaO84S9zJ0xN1A+vqdEorr9Gog=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "13/8",
+      "fi": 131451498,
+      "fd": "Afak Relizane femminile v CF Akbou femminile",
+      "pt": [
+        {
+          "hd": "1.5",
+          "pi": 2144501122,
+          "bd": "Più di",
+          "ha": "1.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c67b30-D45FCA2D",
+      "tp": "BS131451498-2144501122",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131319424,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-17 11:40:49 Fractional Odds : 13/8
+
+2023-01-17 11:40:49 Trademate Odds : 0 , Bet365 Odds : 2.62
+
+2023-01-17 11:40:49 Trying to place bet!
+
+2023-01-17 11:40:49 DoPlacebetUI
+
+2023-01-17 11:40:49 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-17 11:40:51 Trademate Odds : 0 , Bet365 Odds : 2.62
+
+2023-01-17 11:40:51 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-17 11:41:00 116.49
+
+2023-01-17 11:41:00 Current balance : 116.4
+
+2023-01-17 11:41:03 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.625
+
+2023-01-17 11:41:03 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.625",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 2.625,
+  "tournament": "Mexico Segunda Division",
+  "eventName": "Afak vs akbou",
+  "probability": "OVER",
+  "market": "OVER 1.5 HT",
+  "placedAt": "17/01/2023 11:41:00",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 114.4,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-17 11:41:11 Trying to register tip at Bigstake
+
+2023-01-17 11:41:29 Registered tip at Bigstake Successfully!
+
+2023-01-17 11:41:32 This Line is already existed on Settled bets!
+
+2023-01-17 11:43:08 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 11:43:08 This Line is already existed on Settled bets!
+
+2023-01-17 11:43:08 This Line is already existed on Settled bets!
+
+2023-01-17 11:43:17 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 11:43:17 Pending bet is not finished.!
+
+2023-01-17 11:45:48 Recieve new Match Score From Copybet Server!
+
+2023-01-17 11:45:48 New Score is updated...
+
+2023-01-17 11:45:48 {"home":"afak","away":"akbou","score":"0:1","gameTime":0}
+
+2023-01-17 11:45:48 New Score : afak vs akbou  0:1
+
+2023-01-17 11:45:48 Pending tip Score : Afak vs akbou 0:0
+
+2023-01-17 11:45:48 Pending Tip is winning now...
+
+2023-01-17 11:49:16 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 11:49:16  *** MakeBet *** 
+
+2023-01-17 11:49:16 {"dbId":"","sport":"","country":"","league":"Mexico Segunda Division","dateTime":"","match":"Afak vs akbou","score":"0:0","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 11:49:16 114.49
+
+2023-01-17 11:49:16 Current balance : 114.4
+
+2023-01-17 11:49:16 Current Balance : 114.4
+
+2023-01-17 11:49:17 Stake : 2
+
+2023-01-17 11:49:17 CheckIfLoggedIn
+
+2023-01-17 11:49:17 Logged In Already!
+
+2023-01-17 11:49:17 bet365.com
+
+2023-01-17 11:49:17 Wrong position detected!
+
+2023-01-17 11:49:22 Afak Relizane femminile v CF Akbou femminile Dis :0.177505827505828
+
+2023-01-17 11:49:26 Running AddbetScript...
+
+2023-01-17 11:49:26 scrollBetIntoView('2144501108') => 1
+
+2023-01-17 11:49:28 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-17 11:49:31 {
+  "bg": "36a5abfa-9492-400b-87d4-cff1f479a8ef",
+  "sr": 0,
+  "mr": false,
+  "cc": "OShHkRLAsBMTu/gG7U/odIASTfqTYDgrgPjbeyNjjBg=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/13",
+      "fi": 131451498,
+      "fd": "Afak Relizane femminile v CF Akbou femminile",
+      "pt": [
+        {
+          "hd": "2.5",
+          "pi": 2144501108,
+          "bd": "Più di",
+          "ha": "2.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c67d3c-DCDBF903",
+      "tp": "BS131451498-2144501108",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131319424,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-17 11:49:33 Fractional Odds : 8/13
+
+2023-01-17 11:49:33 Trademate Odds : 0 , Bet365 Odds : 1.61
+
+2023-01-17 11:49:33 Trying to place bet!
+
+2023-01-17 11:49:33 DoPlacebetUI
+
+2023-01-17 11:49:33 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-17 11:49:35 Trademate Odds : 0 , Bet365 Odds : 1.61
+
+2023-01-17 11:49:35 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-17 11:49:44 114.49
+
+2023-01-17 11:49:44 Current balance : 114.4
+
+2023-01-17 11:49:47 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.615
+
+2023-01-17 11:49:47 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.615",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.615,
+  "tournament": "Mexico Segunda Division",
+  "eventName": "Afak vs akbou",
+  "probability": "OVER",
+  "market": "OVER 2.5",
+  "placedAt": "17/01/2023 11:49:44",
+  "selection": "OVER",
+  "handicap": 2.5,
+  "balance": 112.4,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-17 11:49:55 Trying to register tip at Bigstake
+
+2023-01-17 11:50:13 Registered tip at Bigstake Successfully!
+
+2023-01-17 11:50:16 This Line is already existed on Settled bets!
+
+2023-01-17 11:51:24 Recieve new Match Score From Copybet Server!
+
+2023-01-17 11:51:24 New Score is updated...
+
+2023-01-17 11:51:24 {"home":"afak","away":"akbou","score":"0:1","gameTime":0}
+
+2023-01-17 11:51:24 New Score : afak vs akbou  0:1
+
+2023-01-17 11:51:24 Pending tip Score : Afak vs akbou 0:0
+
+2023-01-17 11:51:24 Pending Tip is winning now...
+
+2023-01-17 11:54:25 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-17 11:54:25 The bot has been stopped!
+2023-01-17 11:55:01 Chrome_RenderWidgetHostHWND
+
+2023-01-17 11:55:01 Websocket server is listening on 8880
+
+2023-01-17 11:55:01 DoLogin
+
+2023-01-17 11:55:01 DoLoad365Page
+
+2023-01-17 11:55:06 365 page is loaded!
+
+2023-01-17 11:55:06 Executed login script!
+
+2023-01-17 11:55:15 DoLoad365Page
+
+2023-01-17 11:55:15 365 page is loaded!
+
+2023-01-17 11:55:15 LastLoginModule_Button Clicked
+
+2023-01-17 11:55:21 Login Success!
+
+2023-01-17 11:55:33 Browser Connected!
+
+2023-01-17 11:55:40 The bot has been started!
+
+2023-01-17 11:55:40 DoLogin
+
+2023-01-17 11:55:40 DoLoad365Page
+
+2023-01-17 11:55:40 365 page is loaded!
+
+2023-01-17 11:55:40 Connected Socket Server!!!
+
+2023-01-17 11:55:43 112.49
+
+2023-01-17 11:55:43 Current balance : 112.4
+
+2023-01-17 11:55:51 LastLoginModule_Button Clicked
+
+2023-01-17 11:55:51 4 Settled bets!!!
+
+2023-01-17 11:55:51 Current Balance: 112.4
+
+2023-01-17 11:55:51 Page is initialized!
+
+2023-01-17 12:03:14 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 12:03:14  *** MakeBet *** 
+
+2023-01-17 12:03:14 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"WSG Swarovski Tirol vs AS Trencin","score":"0:1","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 12:03:14 112.49
+
+2023-01-17 12:03:14 Current balance : 112.4
+
+2023-01-17 12:03:14 Current Balance : 112.4
+
+2023-01-17 12:03:14 Stake : 2
+
+2023-01-17 12:03:14 CheckIfLoggedIn
+
+2023-01-17 12:03:14 Logged In Already!
+
+2023-01-17 12:03:14 bet365.com
+
+2023-01-17 12:03:26 WSG Swarovski Tirol v AS Trencin Dis :0.00606060606060599
+
+2023-01-17 12:03:27 Wrong position detected!
+
+2023-01-17 12:03:29 Running AddbetScript...
+
+2023-01-17 12:03:29 scrollBetIntoView('2144752817') => 1
+
+2023-01-17 12:03:31 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-17 12:03:33 {
+  "bg": "4e71a8f0-bf99-48f1-b863-f993262d7a15",
+  "sr": 0,
+  "mr": false,
+  "cc": "VsIz53eBEMACPwRzrJXWy69Do6HXPe6HgP+dWhXB+hQ=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "10/11",
+      "fi": 131454292,
+      "fd": "WSG Swarovski Tirol v AS Trencin",
+      "pt": [
+        {
+          "hd": "2.5",
+          "pi": 2144752817,
+          "bd": "Più di",
+          "ha": "2.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c68087-3F9FEEDE",
+      "tp": "BS131454292-2144752817",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131421916,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-17 12:03:35 Fractional Odds : 10/11
+
+2023-01-17 12:03:35 Trademate Odds : 1.2 , Bet365 Odds : 1.9
+
+2023-01-17 12:03:35 Trying to place bet!
+
+2023-01-17 12:03:35 DoPlacebetUI
+
+2023-01-17 12:03:35 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-17 12:03:38 Trademate Odds : 1.2 , Bet365 Odds : 2
+
+2023-01-17 12:03:38 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-17 12:03:46 112.49
+
+2023-01-17 12:03:46 Current balance : 112.4
+
+2023-01-17 12:03:49 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2
+
+2023-01-17 12:03:49 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 2.0,
+  "tournament": "Europe Friendlies",
+  "eventName": "WSG Swarovski Tirol vs AS Trencin",
+  "probability": "OVER",
+  "market": "OVER 2.5",
+  "placedAt": "17/01/2023 12:03:46",
+  "selection": "OVER",
+  "handicap": 2.5,
+  "balance": 110.4,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-17 12:04:01 This Line is already existed on Settled bets!
+
+2023-01-17 12:22:59 LastLoginModule_Button Clicked
+
+2023-01-17 12:36:04 Recieve new Match Score From Copybet Server!
+
+2023-01-17 12:36:04 New Score is updated...
+
+2023-01-17 12:36:04 {"home":"WSG Swarovski Tirol","away":"AS Trencin","score":"1:1","gameTime":0}
+
+2023-01-17 12:42:03 Recieve new Match Score From Copybet Server!
+
+2023-01-17 12:42:03 New Score is updated...
+
+2023-01-17 12:42:03 {"home":"WSG Swarovski Tirol","away":"AS Trencin","score":"2:1","gameTime":0}
+
+2023-01-17 12:42:09 LastLoginModule_Button Clicked
+
+2023-01-17 12:50:07 Recieve new Match Score From Copybet Server!
+
+2023-01-17 12:50:07 New Score is updated...
+
+2023-01-17 12:50:07 {"home":"WSG Swarovski Tirol","away":"AS Trencin","score":"3:1","gameTime":0}
+
+2023-01-17 12:57:06 Disconnected Socket Server!!! || transport close
+
+2023-01-17 12:57:08 Connected Socket Server!!!
+
+2023-01-17 12:57:13 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 12:57:13  *** MakeBet *** 
+
+2023-01-17 12:57:13 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"SK Prostejov vs Dukla Banska Bystrica","score":"0:0","EW":"0","marketName":"OVER 1.5 HT","selection":"OVER","odds":2.2,"handicap":1.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 12:57:13 110.49
+
+2023-01-17 12:57:13 Current balance : 110.4
+
+2023-01-17 12:57:13 Current Balance : 110.4
+
+2023-01-17 12:57:13 Stake : 2
+
+2023-01-17 12:57:13 CheckIfLoggedIn
+
+2023-01-17 12:57:13 Logged In Already!
+
+2023-01-17 12:57:13 bet365.com
+
+2023-01-17 12:57:14 Wrong position detected!
+
+2023-01-17 12:57:19 Not Search Event
+
+2023-01-17 12:57:20 Wrong position detected!
+
+2023-01-17 12:57:24 Not Search Event
+
+2023-01-17 12:57:26 Wrong position detected!
+
+2023-01-17 12:57:31 Not Search Event
+
+2023-01-17 12:57:31 Wrong position detected!
+
+2023-01-17 12:57:36 SK Prostejov v Dukla Banska Bystrica Dis :0.0498498498498497
+
+2023-01-17 12:57:36 Dukla Banska Bystrica v AS Trencin Dis :0.331376625494273
+
+2023-01-17 12:57:37 Wrong position detected!
+
+2023-01-17 12:57:38 Running AddbetScript...
+
+2023-01-17 12:57:38 scrollBetIntoView('2144756065') => 1
+
+2023-01-17 12:57:40 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-17 12:57:42 {
+  "bg": "fa6bec24-4f77-4fc8-90ec-25403d626f43",
+  "sr": 0,
+  "mr": false,
+  "cc": "fpzFOju2vzY6OFQdG+q3WBM3dDNQfEroAdTuK/XQ3Kg=",
+  "ir": false,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "6/5",
+      "fi": 131454306,
+      "fd": "SK Prostejov v Dukla Banska Bystrica",
+      "pt": [
+        {
+          "hd": "1.5",
+          "pi": 2144756065,
+          "bd": "Più di",
+          "ha": "1.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c68d38-80312BC0",
+      "tp": "BS131454306-2144756065",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131421920,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-17 12:57:44 Fractional Odds : 6/5
+
+2023-01-17 12:57:44 Trademate Odds : 1.3 , Bet365 Odds : 2.2
+
+2023-01-17 12:57:44 Trying to place bet!
+
+2023-01-17 12:57:44 DoPlacebetUI
+
+2023-01-17 12:57:44 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-17 12:57:46 Trademate Odds : 1.3 , Bet365 Odds : 2.2
+
+2023-01-17 12:57:46 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-17 12:57:50 110.49
+
+2023-01-17 12:57:50 Current balance : 110.4
+
+2023-01-17 12:57:58 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.2
+
+2023-01-17 12:57:58 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.2",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 2.2,
+  "tournament": "Europe Friendlies",
+  "eventName": "SK Prostejov vs Dukla Banska Bystrica",
+  "probability": "OVER",
+  "market": "OVER 1.5 HT",
+  "placedAt": "17/01/2023 12:57:50",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 108.4,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-17 12:58:02 Recieve new Match Score From Copybet Server!
+
+2023-01-17 12:58:02 New Score is updated...
+
+2023-01-17 12:58:02 {"home":"WSG Swarovski Tirol","away":"AS Trencin","score":"3:1","gameTime":2}
+
+2023-01-17 12:58:09 This Line is already existed on Settled bets!
+
+2023-01-17 13:27:14 LastLoginModule_Button Clicked
+
+2023-01-17 13:39:09 Recieve new Match Score From Copybet Server!
+
+2023-01-17 13:39:09 New Score is updated...
+
+2023-01-17 13:39:09 {"home":"SK Prostejov","away":"Dukla Banska Bystrica","score":"0:1","gameTime":0}
+
+2023-01-17 13:46:24 LastLoginModule_Button Clicked
+
+2023-01-17 13:49:06 Recieve new Match Score From Copybet Server!
+
+2023-01-17 13:49:06 New Score is updated...
+
+2023-01-17 13:49:06 {"home":"SK Prostejov","away":"Dukla Banska Bystrica","score":"0:1","gameTime":1}
+
+2023-01-17 13:59:02 Recieve new Match Score From Copybet Server!
+
+2023-01-17 13:59:02 New Score is updated...
+
+2023-01-17 13:59:02 {"home":"SK Prostejov","away":"Dukla Banska Bystrica","score":"0:2","gameTime":0}
+
+2023-01-17 14:03:39 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-17 14:03:39 The bot has been stopped!
+
+2023-01-17 14:03:47 The bot has been started!
+
+2023-01-17 14:03:47 DoLogin
+
+2023-01-17 14:03:47 DoLoad365Page
+
+2023-01-17 14:03:47 365 page is loaded!
+
+2023-01-17 14:03:48 Connected Socket Server!!!
+
+2023-01-17 14:03:54 nodialog
+
+2023-01-17 14:03:54 Current balance : 0
+
+2023-01-17 14:03:59 Current Balance: 0
+
+2023-01-17 14:03:59 Page is initialized!
+
+2023-01-17 14:04:06 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 14:04:06  *** MakeBet *** 
+
+2023-01-17 14:04:06 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"Ohod vs hajer","score":"0:0","EW":"0","marketName":"OVER 1.5 HT","selection":"OVER","odds":2.2,"handicap":1.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 14:04:06 114.49
+
+2023-01-17 14:04:06 Current balance : 114.4
+
+2023-01-17 14:04:06 Current Balance : 114.4
+
+2023-01-17 14:04:07 Stake : 2
+
+2023-01-17 14:04:07 CheckIfLoggedIn
+
+2023-01-17 14:04:07 Logged In Already!
+
+2023-01-17 14:04:07 bet365.com
+
+2023-01-17 14:04:17 Ohod Madinah v Hajer Dis :0.128717948717949
+
+2023-01-17 14:04:18 Wrong position detected!
+
+2023-01-17 14:04:20 Running AddbetScript...
+
+2023-01-17 14:04:20 scrollBetIntoView('2144927522') => 1
+
+2023-01-17 14:04:22 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-17 14:04:24 {
+  "bg": "a892839c-2394-40b8-9b6c-fe94aa3ad2b3",
+  "sr": 0,
+  "mr": false,
+  "cc": "VIYzqUkTCpcP6kR36m/sEy6Z4adClj9qmZmSI9a4KGo=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "7/2",
+      "fi": 131456043,
+      "fd": "Ohod Madinah v Hajer",
+      "pt": [
+        {
+          "hd": "1.5",
+          "pi": 2144927522,
+          "bd": "Più di",
+          "ha": "1.5",
+          "md": "Goal aggiuntivi 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c69cda-B0CB145E",
+      "tp": "BS131456043-2144927522",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 130390733,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-17 14:04:26 Fractional Odds : 7/2
+
+2023-01-17 14:04:26 Trademate Odds : 2.2 , Bet365 Odds : 4.5
+
+2023-01-17 14:04:26 Trying to place bet!
+
+2023-01-17 14:04:26 DoPlacebetUI
+
+2023-01-17 14:04:26 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-17 14:04:29 Trademate Odds : 2.2 , Bet365 Odds : 4.5
+
+2023-01-17 14:04:29 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-17 14:04:42 114.49
+
+2023-01-17 14:04:42 Current balance : 114.4
+
+2023-01-17 14:04:45 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:4.5
+
+2023-01-17 14:04:45 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:4.5",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 4.5,
+  "tournament": "Europe Friendlies",
+  "eventName": "Ohod vs hajer",
+  "probability": "OVER",
+  "market": "OVER 1.5 HT",
+  "placedAt": "17/01/2023 14:04:42",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 112.4,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-17 14:04:53 Trying to register tip at Bigstake
+
+2023-01-17 14:05:11 Registered tip at Bigstake Successfully!
+
+2023-01-17 14:05:14 This Line is already existed on Settled bets!
+
+2023-01-17 14:06:17 Recieve new Match Score From Copybet Server!
+
+2023-01-17 14:06:17 New Score is updated...
+
+2023-01-17 14:06:17 {"home":"ohod","away":"hajer","score":"0:1","gameTime":0}
+
+2023-01-17 14:06:17 New Score : ohod vs hajer  0:1
+
+2023-01-17 14:06:17 Pending tip Score : Ohod vs hajer 0:0
+
+2023-01-17 14:06:17 Pending Tip is winning now...
+2023-01-17 14:13:37 Chrome_RenderWidgetHostHWND
+
+2023-01-17 14:13:37 Websocket server is listening on 8880
+
+2023-01-17 14:13:37 DoLogin
+
+2023-01-17 14:13:37 DoLoad365Page
+
+2023-01-17 14:14:03 365 page is loaded!
+
+2023-01-17 14:14:12 Browser Connected!
+
+2023-01-17 14:14:12 Chrome_RenderWidgetHostHWND
+
+2023-01-17 14:14:12 Chrome_RenderWidgetHostHWND
+
+2023-01-17 14:14:12 Chrome_RenderWidgetHostHWND
+
+2023-01-17 14:14:48 The bot has been started!
+
+2023-01-17 14:14:48 DoLogin
+
+2023-01-17 14:14:48 DoLoad365Page
+
+2023-01-17 14:14:49 Connected Socket Server!!!
+
+2023-01-17 14:17:17 365 page is loaded!
+
+2023-01-17 14:17:27 Executed login script!
+
+2023-01-17 14:26:08 DoLoad365Page
+
+2023-01-17 14:26:18 365 page is loaded!
+
+2023-01-17 14:26:31 Executed login script!
+
+2023-01-17 14:27:03 Recieve new Match Score From Copybet Server!
+
+2023-01-17 14:27:03 New Score is updated...
+
+2023-01-17 14:27:03 {"home":"SK Prostejov","away":"Dukla Banska Bystrica","score":"0:3","gameTime":0}
+
+2023-01-17 14:28:02 Recieve new Match Score From Copybet Server!
+
+2023-01-17 14:28:02 New Score is updated...
+
+2023-01-17 14:28:02 {"home":"[79'] SK Prostejov 0","away":"[2] Dukla Banska Bystrica","score":"0:2","gameTime":2}
+
+2023-01-17 14:29:03 Recieve new Match Score From Copybet Server!
+
+2023-01-17 14:29:03 New Score is updated...
+
+2023-01-17 14:29:03 {"home":"SK Prostejov","away":"Dukla Banska Bystrica","score":"0:3","gameTime":0}
+
+2023-01-17 14:35:02 Recieve new Match Score From Copybet Server!
+
+2023-01-17 14:35:02 New Score is updated...
+
+2023-01-17 14:35:02 {"home":"SK Prostejov","away":"Dukla Banska Bystrica","score":"0:4","gameTime":0}
+
+2023-01-17 14:35:12 DoLoad365Page
+
+2023-01-17 14:35:17 365 page is loaded!
+
+2023-01-17 14:35:30 Login Success!
+
+2023-01-17 14:35:46 
+
+2023-01-17 14:36:04 Current Balance: -1
+
+2023-01-17 14:36:04 Page is initialized!
+
+2023-01-17 14:37:02 Recieve new Match Score From Copybet Server!
+
+2023-01-17 14:37:02 New Score is updated...
+
+2023-01-17 14:37:02 {"home":"SK Prostejov","away":"Dukla Banska Bystrica","score":"0:5","gameTime":0}
+
+2023-01-17 14:46:02 Recieve new Match Score From Copybet Server!
+
+2023-01-17 14:46:02 New Score is updated...
+
+2023-01-17 14:46:02 {"home":"SK Prostejov","away":"Dukla Banska Bystrica","score":"0:5","gameTime":2}
+
+2023-01-17 14:54:09 Disconnected Socket Server!!! || ping timeout
+
+2023-01-17 14:54:10 Connected Socket Server!!!
+
+2023-01-17 15:20:37 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-17 15:20:37 The bot has been stopped!
+
+2023-01-17 15:20:55 The bot has been started!
+
+2023-01-17 15:20:55 DoLogin
+
+2023-01-17 15:20:55 DoLoad365Page
+
+2023-01-17 15:20:56 Connected Socket Server!!!
+
+2023-01-17 15:21:55 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 15:22:16 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-17 15:22:16 The bot has been stopped!
+
+2023-01-17 15:22:16 Exception in DoLoad365Page: System.Threading.ThreadAbortException: Thread interrotto.
+   in CEBet365Placer.Controller.BetController.DoLoad365Page(String visitUrl)
+
+2023-01-17 15:22:16 refreshThreadFunc :System.Threading.ThreadAbortException: Thread interrotto.
+   in CEBet365Placer.Controller.BetController.DoLogin(String visitUrl)
+   in CEBet365Placer.Form1.refreshThreadFunc()
+2023-01-17 15:22:42 Chrome_RenderWidgetHostHWND
+
+2023-01-17 15:22:42 Websocket server is listening on 8880
+
+2023-01-17 15:22:42 DoLogin
+
+2023-01-17 15:22:42 DoLoad365Page
+
+2023-01-17 15:22:47 365 page is loaded!
+
+2023-01-17 15:22:47 Executed login script!
+
+2023-01-17 15:22:55 DoLoad365Page
+
+2023-01-17 15:22:55 365 page is loaded!
+
+2023-01-17 15:22:55 LastLoginModule_Button Clicked
+
+2023-01-17 15:23:01 Login Success!
+
+2023-01-17 15:23:08 2 Settled bets!!!
+
+2023-01-17 15:23:08 Browser Connected!
+
+2023-01-17 15:23:12 The bot has been started!
+
+2023-01-17 15:23:12 DoLogin
+
+2023-01-17 15:23:12 DoLoad365Page
+
+2023-01-17 15:23:12 365 page is loaded!
+
+2023-01-17 15:23:12 Connected Socket Server!!!
+
+2023-01-17 15:23:15 110.49
+
+2023-01-17 15:23:15 Current balance : 110.4
+
+2023-01-17 15:23:15 Current Balance: 110.4
+
+2023-01-17 15:23:15 Page is initialized!
+
+2023-01-17 15:23:24 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 15:23:24  *** MakeBet *** 
+
+2023-01-17 15:23:24 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"Jerusalem vs shimshon","score":"0:0","EW":"0","marketName":"OVER 1.5 HT","selection":"OVER","odds":2.2,"handicap":1.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 15:23:24 110.49
+
+2023-01-17 15:23:24 Current balance : 110.4
+
+2023-01-17 15:23:24 Current Balance : 110.4
+
+2023-01-17 15:23:26 Stake : 2
+
+2023-01-17 15:23:26 CheckIfLoggedIn
+
+2023-01-17 15:23:26 Logged In Already!
+
+2023-01-17 15:23:26 bet365.com
+
+2023-01-17 15:23:35 Hapoel Jerusalem FC v Hapoel Tel-Aviv Dis :0.497046497046497
+
+2023-01-17 15:23:35 Maccabi Bnei Raina v Beitar Jerusalem Dis :0.590876590876591
+
+2023-01-17 15:23:35 Hapoel Jerusalem U19 v Shimshon Tel Aviv U19 Dis :0.343946988683831
+
+2023-01-17 15:23:35 Kiryat Gat SC femminile v Hapoel Jerusalem femminile Dis :0.473748473748474
+
+2023-01-17 15:23:36 Wrong position detected!
+
+2023-01-17 15:23:38 Running AddbetScript...
+
+2023-01-17 15:23:38 scrollBetIntoView('2144846585') => 1
+
+2023-01-17 15:23:40 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-17 15:23:42 {
+  "bg": "efb5c22f-d09d-44a9-bd61-c9c3260fa89d",
+  "sr": 0,
+  "mr": false,
+  "cc": "w4/FPI0P4H4aMTnDSGLw2BtSJtkUrDIhyjLHeGYz2/Q=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "5/4",
+      "fi": 131455346,
+      "fd": "Hapoel Jerusalem U19 v Shimshon Tel Aviv U19",
+      "pt": [
+        {
+          "hd": "1.5",
+          "pi": 2144846585,
+          "bd": "Più di",
+          "ha": "1.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c6af6f-49E01D30",
+      "tp": "BS131455346-2144846585",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131138227,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-17 15:23:44 Fractional Odds : 5/4
+
+2023-01-17 15:23:44 Trademate Odds : 2.2 , Bet365 Odds : 2.25
+
+2023-01-17 15:23:44 Trying to place bet!
+
+2023-01-17 15:23:44 DoPlacebetUI
+
+2023-01-17 15:23:44 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-17 15:23:45 Trademate Odds : 2.2 , Bet365 Odds : 2.25
+
+2023-01-17 15:23:45 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-17 15:23:55 110.49
+
+2023-01-17 15:23:55 Current balance : 110.4
+
+2023-01-17 15:23:58 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.375
+
+2023-01-17 15:23:58 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.375",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 2.375,
+  "tournament": "Europe Friendlies",
+  "eventName": "Jerusalem vs shimshon",
+  "probability": "OVER",
+  "market": "OVER 1.5 HT",
+  "placedAt": "17/01/2023 15:23:55",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 108.4,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-17 15:24:06 Trying to register tip at Bigstake
+
+2023-01-17 15:24:23 Registered tip at Bigstake Successfully!
+
+2023-01-17 15:24:26 This Line is already existed on Settled bets!
+
+2023-01-17 15:24:57 Recieve new Match Score From Copybet Server!
+
+2023-01-17 15:24:57 New Score is updated...
+
+2023-01-17 15:24:57 {"home":"jerusalem","away":"shimshon","score":"0:1","gameTime":0}
+
+2023-01-17 15:24:57 New Score : jerusalem vs shimshon  0:1
+
+2023-01-17 15:24:57 Pending tip Score : Jerusalem vs shimshon 0:0
+
+2023-01-17 15:25:50 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 15:25:50 Pending bet is not finished.!
+
+2023-01-17 15:26:18 Recieve new Match Score From Copybet Server!
+
+2023-01-17 15:26:18 New Score is updated...
+
+2023-01-17 15:26:18 {"home":"jerusalem","away":"shimshon","score":"1:1","gameTime":0}
+
+2023-01-17 15:26:18 New Score : jerusalem vs shimshon  1:1
+
+2023-01-17 15:26:18 Pending tip Score : Jerusalem vs shimshon 0:0
+
+2023-01-17 15:26:18 Pending Tip is winning now...
+
+2023-01-17 15:27:54 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 15:27:54  *** MakeBet *** 
+
+2023-01-17 15:27:54 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"Antalyaspor vs kayserispor","score":"0:0","EW":"0","marketName":"OVER 1.5 HT","selection":"OVER","odds":2.2,"handicap":1.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 15:27:54 108.49
+
+2023-01-17 15:27:54 Current balance : 108.4
+
+2023-01-17 15:27:54 Current Balance : 108.4
+
+2023-01-17 15:27:55 Stake : 2
+
+2023-01-17 15:27:55 CheckIfLoggedIn
+
+2023-01-17 15:27:55 Logged In Already!
+
+2023-01-17 15:27:55 bet365.com
+
+2023-01-17 15:27:55 Wrong position detected!
+
+2023-01-17 15:28:01 Antalyaspor v Kayserispor Dis :0.0567179487179488
+
+2023-01-17 15:28:01 Galatasaray v Antalyaspor Dis :0.373205128205128
+
+2023-01-17 15:28:01 Galatasaray femminile v 1207 Antalyaspor femminile Dis :0.436761133603239
+
+2023-01-17 15:28:02 Wrong position detected!
+
+2023-01-17 15:28:04 Running AddbetScript...
+
+2023-01-17 15:28:04 scrollBetIntoView('2145138783') => 1
+
+2023-01-17 15:28:06 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-17 15:28:08 {
+  "bg": "014fa6ae-9316-4cd5-a992-ce1569e2c2b3",
+  "sr": 0,
+  "mr": false,
+  "cc": "SK1PDk0K87RF3kImjl4DuDYx53hAkHammab41qsdJ54=",
+  "ir": false,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "7/4",
+      "fi": 131457897,
+      "fd": "Antalyaspor v Kayserispor",
+      "pt": [
+        {
+          "hd": "1.5",
+          "pi": 2145138783,
+          "bd": "Più di",
+          "ha": "1.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c6b079-3949F761",
+      "tp": "BS131457897-2145138783",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131265588,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-17 15:28:10 Fractional Odds : 7/4
+
+2023-01-17 15:28:10 Trademate Odds : 2.2 , Bet365 Odds : 2.75
+
+2023-01-17 15:28:10 Trying to place bet!
+
+2023-01-17 15:28:10 DoPlacebetUI
+
+2023-01-17 15:28:10 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-17 15:28:11 Trademate Odds : 2.2 , Bet365 Odds : 2.75
+
+2023-01-17 15:28:11 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-17 15:28:15 108.49
+
+2023-01-17 15:28:15 Current balance : 108.4
+
+2023-01-17 15:28:18 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.75
+
+2023-01-17 15:28:18 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.75",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 2.75,
+  "tournament": "Europe Friendlies",
+  "eventName": "Antalyaspor vs kayserispor",
+  "probability": "OVER",
+  "market": "OVER 1.5 HT",
+  "placedAt": "17/01/2023 15:28:15",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 106.4,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-17 15:28:26 Trying to register tip at Bigstake
+
+2023-01-17 15:28:36 Recieve new Match Score From Copybet Server!
+
+2023-01-17 15:28:36 New Score is updated...
+
+2023-01-17 15:28:36 {"home":"jerusalem","away":"shimshon","score":"0:1","gameTime":0}
+
+2023-01-17 15:28:36 New Score : jerusalem vs shimshon  0:1
+
+2023-01-17 15:28:36 Pending tip Score : Antalyaspor vs kayserispor 0:0
+
+2023-01-17 15:28:45 Registered tip at Bigstake Successfully!
+
+2023-01-17 15:28:48 This Line is already existed on Settled bets!
+
+2023-01-17 15:29:19 Recieve new Match Score From Copybet Server!
+
+2023-01-17 15:29:19 New Score is updated...
+
+2023-01-17 15:29:19 {"home":"jerusalem","away":"shimshon","score":"1:1","gameTime":0}
+
+2023-01-17 15:29:19 New Score : jerusalem vs shimshon  1:1
+
+2023-01-17 15:29:19 Pending tip Score : Antalyaspor vs kayserispor 0:0
+
+2023-01-17 15:30:37 Recieve new Match Score From Copybet Server!
+
+2023-01-17 15:30:37 New Score is updated...
+
+2023-01-17 15:30:37 {"home":"Antalyaspor","away":"kayserispor","score":"0:1","gameTime":1}
+
+2023-01-17 15:30:37 New Score : Antalyaspor vs kayserispor  0:1
+
+2023-01-17 15:30:37 Pending tip Score : Antalyaspor vs kayserispor 0:0
+
+2023-01-17 15:30:37 Pending Tip is lost now...
+
+2023-01-17 15:31:49 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 15:31:49  *** MakeBet *** 
+
+2023-01-17 15:31:49 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"Antalyaspor vs kayserispor","score":"0:0","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":2.2,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 15:31:50 106.49
+
+2023-01-17 15:31:50 Current balance : 106.4
+
+2023-01-17 15:31:50 Current Balance : 106.4
+
+2023-01-17 15:31:50 Stake : 2
+
+2023-01-17 15:31:50 CheckIfLoggedIn
+
+2023-01-17 15:31:50 Logged In Already!
+
+2023-01-17 15:31:50 bet365.com
+
+2023-01-17 15:31:50 Wrong position detected!
+
+2023-01-17 15:31:56 Antalyaspor v Kayserispor Dis :0.0567179487179488
+
+2023-01-17 15:31:56 Galatasaray v Antalyaspor Dis :0.373205128205128
+
+2023-01-17 15:31:56 Galatasaray femminile v 1207 Antalyaspor femminile Dis :0.436761133603239
+
+2023-01-17 15:32:02 Running AddbetScript...
+
+2023-01-17 15:32:02 scrollBetIntoView('2145138771') => 1
+
+2023-01-17 15:32:04 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-17 15:32:06 {
+  "bg": "1ad88d0d-f14f-4063-a8e6-af5164c74a50",
+  "sr": 0,
+  "mr": false,
+  "cc": "ZP6OK9d1LKc2KcLPwBQ9aW/FCe4L0tU3t0agqk/czJg=",
+  "ir": false,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "5/6",
+      "fi": 131457897,
+      "fd": "Antalyaspor v Kayserispor",
+      "pt": [
+        {
+          "hd": "2.5",
+          "pi": 2145138771,
+          "bd": "Più di",
+          "ha": "2.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c6b167-76EF2AE5",
+      "tp": "BS131457897-2145138771",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131265588,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-17 15:32:08 Fractional Odds : 5/6
+
+2023-01-17 15:32:08 Trademate Odds : 2.2 , Bet365 Odds : 1.83
+
+2023-01-17 15:32:08 The Odd is change from 2.2 to 1.83
+
+2023-01-17 15:32:11 This Line 'Antalyaspor vs kayserispor' - 'OVER' is already existed on Failed bets!
+
+2023-01-17 15:34:34 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 15:34:34  *** MakeBet *** 
+
+2023-01-17 15:34:34 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"Antalyaspor vs kayserispor","score":"0:0","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":3.25,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 15:34:35 106.49
+
+2023-01-17 15:34:35 Current balance : 106.4
+
+2023-01-17 15:34:35 Current Balance : 106.4
+
+2023-01-17 15:34:35 Stake : 2
+
+2023-01-17 15:34:35 CheckIfLoggedIn
+
+2023-01-17 15:34:35 Logged In Already!
+
+2023-01-17 15:34:35 bet365.com
+
+2023-01-17 15:34:35 Wrong position detected!
+
+2023-01-17 15:34:41 Antalyaspor v Kayserispor Dis :0.0567179487179488
+
+2023-01-17 15:34:41 Galatasaray v Antalyaspor Dis :0.373205128205128
+
+2023-01-17 15:34:41 Galatasaray femminile v 1207 Antalyaspor femminile Dis :0.436761133603239
+
+2023-01-17 15:34:47 Running AddbetScript...
+
+2023-01-17 15:34:47 scrollBetIntoView('2145138971') => 1
+
+2023-01-17 15:34:49 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-17 15:34:51 {
+  "bg": "1ad88d0d-f14f-4063-a8e6-af5164c74a50",
+  "sr": 14,
+  "mr": false,
+  "cc": "ZP6OK9d1LKc2KcLPwBQ9aW/FCe4L0tU3t0agqk/czJg=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "5/2",
+      "fi": 131457897,
+      "fd": "Antalyaspor v Kayserispor",
+      "pt": [
+        {
+          "pi": 2145138971,
+          "bd": "Più di 3.5",
+          "ha": "3.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c6b20c-9A48927F",
+      "tp": "BS131457897-2145138971",
+      "oc": true,
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131265588,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "mi": "selections_changed",
+  "mv": "",
+  "bs": [],
+  "sc": 4
+}
+
+2023-01-17 15:34:53 Fractional Odds : 5/2
+
+2023-01-17 15:34:53 Trademate Odds : 3.25 , Bet365 Odds : 3.5
+
+2023-01-17 15:34:53 Trying to place bet!
+
+2023-01-17 15:34:53 DoPlacebetUI
+
+2023-01-17 15:34:53 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-17 15:34:54 Trademate Odds : 3.25 , Bet365 Odds : 3.5
+
+2023-01-17 15:34:54 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-17 15:35:03 106.49
+
+2023-01-17 15:35:03 Current balance : 106.4
+
+2023-01-17 15:35:06 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:3.5
+
+2023-01-17 15:35:06 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:3.5",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 3.5,
+  "tournament": "Europe Friendlies",
+  "eventName": "Antalyaspor vs kayserispor",
+  "probability": "OVER",
+  "market": "OVER 3.5",
+  "placedAt": "17/01/2023 15:35:03",
+  "selection": "OVER",
+  "handicap": 3.5,
+  "balance": 104.4,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-17 15:35:14 Trying to register tip at Bigstake
+
+2023-01-17 15:35:33 Registered tip at Bigstake Successfully!
+
+2023-01-17 15:35:36 This Line is already existed on Settled bets!
+
+2023-01-17 15:36:17 Recieve new Match Score From Copybet Server!
+
+2023-01-17 15:36:17 New Score is updated...
+
+2023-01-17 15:36:17 {"home":"antalyaspor","away":"kayserispor","score":"0:1","gameTime":0}
+
+2023-01-17 15:36:17 New Score : antalyaspor vs kayserispor  0:1
+
+2023-01-17 15:36:17 Pending tip Score : Antalyaspor vs kayserispor 0:0
+
+2023-01-17 15:36:36 Recieve new Match Score From Copybet Server!
+
+2023-01-17 15:36:36 New Score is updated...
+
+2023-01-17 15:36:36 {"home":"antalyaspor","away":"kayserispor","score":"0:2","gameTime":0}
+
+2023-01-17 15:36:36 New Score : antalyaspor vs kayserispor  0:2
+
+2023-01-17 15:36:36 Pending tip Score : Antalyaspor vs kayserispor 0:0
+
+2023-01-17 15:36:58 Recieve new Match Score From Copybet Server!
+
+2023-01-17 15:36:58 New Score is updated...
+
+2023-01-17 15:36:58 {"home":"antalyaspor","away":"kayserispor","score":"1:2","gameTime":0}
+
+2023-01-17 15:36:58 New Score : antalyaspor vs kayserispor  1:2
+
+2023-01-17 15:36:58 Pending tip Score : Antalyaspor vs kayserispor 0:0
+
+2023-01-17 15:37:42 Recieve new Match Score From Copybet Server!
+
+2023-01-17 15:37:42 New Score is updated...
+
+2023-01-17 15:37:42 {"home":"Antalyaspor","away":"kayserispor","score":"1:2","gameTime":2}
+
+2023-01-17 15:37:42 New Score : Antalyaspor vs kayserispor  1:2
+
+2023-01-17 15:37:42 Pending tip Score : Antalyaspor vs kayserispor 0:0
+
+2023-01-17 15:37:42 Pending Tip is lost now...
+
+2023-01-17 15:39:28 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 15:39:28  *** MakeBet *** 
+
+2023-01-17 15:39:28 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"Antalyaspor vs kayserispor","score":"0:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":3.25,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 15:39:28 104.49
+
+2023-01-17 15:39:28 Current balance : 104.4
+
+2023-01-17 15:39:28 Current Balance : 104.4
+
+2023-01-17 15:39:29 Stake : 5
+
+2023-01-17 15:39:29 CheckIfLoggedIn
+
+2023-01-17 15:39:29 Logged In Already!
+
+2023-01-17 15:39:29 bet365.com
+
+2023-01-17 15:39:29 Wrong position detected!
+
+2023-01-17 15:39:35 Antalyaspor v Kayserispor Dis :0.0567179487179488
+
+2023-01-17 15:39:35 Galatasaray v Antalyaspor Dis :0.373205128205128
+
+2023-01-17 15:39:35 Galatasaray femminile v 1207 Antalyaspor femminile Dis :0.436761133603239
+
+2023-01-17 15:39:40 Running AddbetScript...
+
+2023-01-17 15:39:40 scrollBetIntoView('2145138965') => 1
+
+2023-01-17 15:39:41 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-17 15:39:43 {
+  "bg": "0484febd-3056-46e7-ae0a-3b494bc58998",
+  "sr": 14,
+  "mr": false,
+  "cc": "QX2uGIh1NO7H27L2mfHuFFPorZFCrXBJPDP6whOyoMQ=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/11",
+      "fi": 131457897,
+      "fd": "Antalyaspor v Kayserispor",
+      "pt": [
+        {
+          "pi": 2145138965,
+          "bd": "Più di 1.5",
+          "ha": "1.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c6b331-F3DA14FD",
+      "tp": "BS131457897-2145138965",
+      "oc": true,
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131265588,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "mi": "selections_changed",
+  "mv": "",
+  "bs": [],
+  "sc": 4
+}
+
+2023-01-17 15:39:45 Fractional Odds : 4/11
+
+2023-01-17 15:39:45 Trademate Odds : 3.25 , Bet365 Odds : 1.36
+
+2023-01-17 15:39:45 The Odd is change from 3.25 to 1.36
+
+2023-01-17 15:39:48 This Line 'Antalyaspor vs kayserispor' - 'OVER' is already existed on Failed bets!
+
+2023-01-17 15:40:32 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 15:40:32  *** MakeBet *** 
+
+2023-01-17 15:40:32 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"Antalyaspor vs kayserispor","score":"0:0","EW":"0","marketName":"UNDER 3.5","selection":"UNDER","odds":3.75,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 15:40:32 104.49
+
+2023-01-17 15:40:32 Current balance : 104.4
+
+2023-01-17 15:40:32 Current Balance : 104.4
+
+2023-01-17 15:40:33 Stake : 5
+
+2023-01-17 15:40:33 CheckIfLoggedIn
+
+2023-01-17 15:40:33 Logged In Already!
+
+2023-01-17 15:40:33 bet365.com
+
+2023-01-17 15:40:33 Wrong position detected!
+
+2023-01-17 15:40:39 Antalyaspor v Kayserispor Dis :0.0567179487179488
+
+2023-01-17 15:40:39 Galatasaray v Antalyaspor Dis :0.373205128205128
+
+2023-01-17 15:40:39 Galatasaray femminile v 1207 Antalyaspor femminile Dis :0.436761133603239
+
+2023-01-17 15:40:44 Running AddbetScript...
+
+2023-01-17 15:40:44 scrollBetIntoView('2145138972') => 1
+
+2023-01-17 15:40:46 Odds Pos : X : 614.6875 , Y: 396
+
+2023-01-17 15:40:48 {
+  "bg": "0484febd-3056-46e7-ae0a-3b494bc58998",
+  "sr": 14,
+  "mr": false,
+  "cc": "QX2uGIh1NO7H27L2mfHuFFPorZFCrXBJPDP6whOyoMQ=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "2/9",
+      "fi": 131457897,
+      "fd": "Antalyaspor v Kayserispor",
+      "pt": [
+        {
+          "pi": 2145138972,
+          "bd": "Meno di 3.5",
+          "ha": "3.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c6b372-2424F5DD",
+      "tp": "BS131457897-2145138972",
+      "oc": true,
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131265588,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "mi": "selections_changed",
+  "mv": "",
+  "bs": [],
+  "sc": 4
+}
+
+2023-01-17 15:40:50 Fractional Odds : 2/9
+
+2023-01-17 15:40:50 Trademate Odds : 3.75 , Bet365 Odds : 1.22
+
+2023-01-17 15:40:50 The Odd is change from 3.75 to 1.22
+
+2023-01-17 15:40:53 This Line 'Antalyaspor vs kayserispor' - 'UNDER' is already existed on Failed bets!
+
+2023-01-17 15:41:20 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 15:41:20  *** MakeBet *** 
+
+2023-01-17 15:41:20 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"Antalyaspor vs kayserispor","score":"0:0","EW":"0","marketName":"UNDER 1.5","selection":"UNDER","odds":3.75,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 15:41:20 104.49
+
+2023-01-17 15:41:20 Current balance : 104.4
+
+2023-01-17 15:41:20 Current Balance : 104.4
+
+2023-01-17 15:41:21 Stake : 5
+
+2023-01-17 15:41:21 CheckIfLoggedIn
+
+2023-01-17 15:41:21 Logged In Already!
+
+2023-01-17 15:41:21 bet365.com
+
+2023-01-17 15:41:21 Wrong position detected!
+
+2023-01-17 15:41:26 Antalyaspor v Kayserispor Dis :0.0567179487179488
+
+2023-01-17 15:41:26 Galatasaray v Antalyaspor Dis :0.373205128205128
+
+2023-01-17 15:41:26 Galatasaray femminile v 1207 Antalyaspor femminile Dis :0.436761133603239
+
+2023-01-17 15:41:31 Running AddbetScript...
+
+2023-01-17 15:41:31 scrollBetIntoView('2145138966') => 1
+
+2023-01-17 15:41:32 Odds Pos : X : 614.6875 , Y: 396
+
+2023-01-17 15:41:34 {
+  "bg": "0484febd-3056-46e7-ae0a-3b494bc58998",
+  "sr": 14,
+  "mr": false,
+  "cc": "QX2uGIh1NO7H27L2mfHuFFPorZFCrXBJPDP6whOyoMQ=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "2/1",
+      "fi": 131457897,
+      "fd": "Antalyaspor v Kayserispor",
+      "pt": [
+        {
+          "pi": 2145138966,
+          "bd": "Meno di 1.5",
+          "ha": "1.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c6b3a0-A73E6202",
+      "tp": "BS131457897-2145138966",
+      "oc": true,
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131265588,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "mi": "selections_changed",
+  "mv": "",
+  "bs": [],
+  "sc": 4
+}
+
+2023-01-17 15:41:36 Fractional Odds : 2/1
+
+2023-01-17 15:41:36 Trademate Odds : 3.75 , Bet365 Odds : 3
+
+2023-01-17 15:41:36 The Odd is change from 3.75 to 3
+
+2023-01-17 15:41:39 This Line 'Antalyaspor vs kayserispor' - 'UNDER' is already existed on Failed bets!
+
+2023-01-17 15:42:16 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 15:42:16  *** MakeBet *** 
+
+2023-01-17 15:42:16 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"Antalyaspor vs kayserispor","score":"0:0","EW":"0","marketName":"UNDER 2.5","selection":"UNDER","odds":1.83,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 15:42:16 104.49
+
+2023-01-17 15:42:16 Current balance : 104.4
+
+2023-01-17 15:42:16 Current Balance : 104.4
+
+2023-01-17 15:42:17 Stake : 5
+
+2023-01-17 15:42:17 CheckIfLoggedIn
+
+2023-01-17 15:42:17 Logged In Already!
+
+2023-01-17 15:42:17 bet365.com
+
+2023-01-17 15:42:17 Wrong position detected!
+
+2023-01-17 15:42:23 Antalyaspor v Kayserispor Dis :0.0567179487179488
+
+2023-01-17 15:42:23 Galatasaray v Antalyaspor Dis :0.373205128205128
+
+2023-01-17 15:42:23 Galatasaray femminile v 1207 Antalyaspor femminile Dis :0.436761133603239
+
+2023-01-17 15:42:28 Running AddbetScript...
+
+2023-01-17 15:42:28 scrollBetIntoView('2145138772') => 1
+
+2023-01-17 15:42:30 Odds Pos : X : 614.6875 , Y: 396
+
+2023-01-17 15:42:32 {
+  "bg": "0484febd-3056-46e7-ae0a-3b494bc58998",
+  "sr": 14,
+  "mr": false,
+  "cc": "QX2uGIh1NO7H27L2mfHuFFPorZFCrXBJPDP6whOyoMQ=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/7",
+      "fi": 131457897,
+      "fd": "Antalyaspor v Kayserispor",
+      "pt": [
+        {
+          "hd": "2.5",
+          "pi": 2145138772,
+          "bd": "Meno di",
+          "ha": "2.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c6b3d9-20DD468A",
+      "tp": "BS131457897-2145138772",
+      "oc": true,
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131265588,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "mi": "selections_changed",
+  "mv": "",
+  "bs": [],
+  "sc": 4
+}
+
+2023-01-17 15:42:34 Fractional Odds : 4/7
+
+2023-01-17 15:42:34 Trademate Odds : 1.83 , Bet365 Odds : 1.57
+
+2023-01-17 15:42:34 The Odd is change from 1.83 to 1.57
+
+2023-01-17 15:42:37 This Line 'Antalyaspor vs kayserispor' - 'UNDER' is already existed on Failed bets!
+
+2023-01-17 15:45:11 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 15:45:11  *** MakeBet *** 
+
+2023-01-17 15:45:11 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"Rajasthan vs churchill","score":"0:3","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":1.44,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 15:45:11 104.49
+
+2023-01-17 15:45:11 Current balance : 104.4
+
+2023-01-17 15:45:11 Current Balance : 104.4
+
+2023-01-17 15:45:12 Stake : 5
+
+2023-01-17 15:45:12 CheckIfLoggedIn
+
+2023-01-17 15:45:12 Logged In Already!
+
+2023-01-17 15:45:12 bet365.com
+
+2023-01-17 15:45:12 Wrong position detected!
+
+2023-01-17 15:45:17 Rajasthan v Churchill Brothers SC Dis :0.116969696969697
+
+2023-01-17 15:45:18 Wrong position detected!
+
+2023-01-17 15:45:20 Not Found Odds on Bet365..
+
+2023-01-17 15:45:23  *** MakeBet *** 
+
+2023-01-17 15:45:23 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"Rajasthan vs churchill","score":"0:3","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":1.44,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"4/9","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 15:45:23 104.49
+
+2023-01-17 15:45:23 Current balance : 104.4
+
+2023-01-17 15:45:23 Current Balance : 104.4
+
+2023-01-17 15:45:24 Stake : 5
+
+2023-01-17 15:45:24 CheckIfLoggedIn
+
+2023-01-17 15:45:24 Logged In Already!
+
+2023-01-17 15:45:24 bet365.com
+
+2023-01-17 15:45:24 Wrong position detected!
+
+2023-01-17 15:45:30 Rajasthan v Churchill Brothers SC Dis :0.116969696969697
+
+2023-01-17 15:45:31 Wrong position detected!
+
+2023-01-17 15:45:33 Not Found Odds on Bet365..
+
+2023-01-17 15:46:10 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 15:46:10  *** MakeBet *** 
+
+2023-01-17 15:46:10 {"dbId":"","sport":"","country":"","league":"Europe Friendlies","dateTime":"","match":"Rajasthan vs churchill","score":"0:3","EW":"0","marketName":"OVER 4.5","selection":"OVER","odds":3.4,"handicap":4.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 15:46:10 104.49
+
+2023-01-17 15:46:10 Current balance : 104.4
+
+2023-01-17 15:46:10 Current Balance : 104.4
+
+2023-01-17 15:46:11 Stake : 5
+
+2023-01-17 15:46:11 CheckIfLoggedIn
+
+2023-01-17 15:46:11 Logged In Already!
+
+2023-01-17 15:46:11 bet365.com
+
+2023-01-17 15:46:22 Rajasthan v Churchill Brothers SC Dis :0.116969696969697
+
+2023-01-17 15:46:22 Wrong position detected!
+
+2023-01-17 15:46:24 Running AddbetScript...
+
+2023-01-17 15:46:24 scrollBetIntoView('2144777530') => 1
+
+2023-01-17 15:46:26 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-17 15:46:28 {
+  "bg": "0484febd-3056-46e7-ae0a-3b494bc58998",
+  "sr": 0,
+  "mr": false,
+  "cc": "QX2uGIh1NO7H27L2mfHuFFPorZFCrXBJPDP6whOyoMQ=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "9/4",
+      "fi": 131454512,
+      "fd": "Rajasthan v Churchill Brothers SC",
+      "pt": [
+        {
+          "pi": 2144777530,
+          "bd": "Più di 4.5",
+          "ha": "4.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c6b4c5-3F46A90B",
+      "tp": "BS131454512-2144777530",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131291987,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-17 15:46:30 Fractional Odds : 9/4
+
+2023-01-17 15:46:30 Trademate Odds : 3.4 , Bet365 Odds : 3.25
+
+2023-01-17 15:46:30 The Odd is change from 3.4 to 3.25
+
+2023-01-17 15:46:33 This Line 'Rajasthan vs churchill' - 'OVER' is already existed on Failed bets!
+
+2023-01-17 15:47:13 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 15:47:13  *** MakeBet *** 
+
+2023-01-17 15:47:13 {"dbId":"","sport":"","country":"","league":"Israel Youth League","dateTime":"","match":"Maccabi Haifa U19 vs Bnei Sakhnin U19","score":"0:1","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 15:47:13 104.49
+
+2023-01-17 15:47:13 Current balance : 104.4
+
+2023-01-17 15:47:13 Current Balance : 104.4
+
+2023-01-17 15:47:13 Stake : 5
+
+2023-01-17 15:47:13 CheckIfLoggedIn
+
+2023-01-17 15:47:13 Logged In Already!
+
+2023-01-17 15:47:14 bet365.com
+
+2023-01-17 15:47:14 Wrong position detected!
+
+2023-01-17 15:47:21 Maccabi Haifa U19 v Bnei Sakhnin  U19 Dis :0.0108108108108108
+
+2023-01-17 15:47:53 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 15:48:08 Disconnected Socket Server!!! || ping timeout
+
+2023-01-17 15:48:09 Connected Socket Server!!!
+
+2023-01-17 15:49:11 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-17 15:49:11 The bot has been stopped!
+
+2023-01-17 15:49:11 Exception in MakeBet: System.Threading.ThreadAbortException: Thread interrotto.
+   in CEBet365Placer.Controller.BetController.FindOdds(TelegramTip tip)
+   in CEBet365Placer.Controller.BetController.MakeBet(TelegramTip betitem, Boolean& isSucccssed)
+
+2023-01-17 15:49:11 checkWrongLine :    in CEBet365Placer.Controller.BetController.MakeBet(TelegramTip betitem, Boolean& isSucccssed)
+   in CEBet365Placer.Form1.refreshThreadFunc()
+2023-01-17 15:50:30 Chrome_RenderWidgetHostHWND
+
+2023-01-17 15:50:30 Websocket server is listening on 8880
+
+2023-01-17 15:50:30 DoLogin
+
+2023-01-17 15:50:30 DoLoad365Page
+
+2023-01-17 15:50:35 365 page is loaded!
+
+2023-01-17 15:50:35 Executed login script!
+
+2023-01-17 15:50:43 DoLoad365Page
+
+2023-01-17 15:50:43 365 page is loaded!
+
+2023-01-17 15:50:43 LastLoginModule_Button Clicked
+
+2023-01-17 15:50:49 Login Success!
+
+2023-01-17 15:50:56 4 Settled bets!!!
+
+2023-01-17 15:50:56 Browser Connected!
+
+2023-01-17 15:51:08 The bot has been started!
+
+2023-01-17 15:51:08 DoLogin
+
+2023-01-17 15:51:08 DoLoad365Page
+
+2023-01-17 15:51:08 365 page is loaded!
+
+2023-01-17 15:51:08 Connected Socket Server!!!
+
+2023-01-17 15:51:11 109.23
+
+2023-01-17 15:51:11 Current balance : 109.2
+
+2023-01-17 15:51:13 Current Balance: 109.2
+
+2023-01-17 15:51:13 Page is initialized!
+
+2023-01-17 15:51:27 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 15:51:27  *** MakeBet *** 
+
+2023-01-17 15:51:28 {"dbId":"","sport":"","country":"","league":"Israel Youth League","dateTime":"","match":"Maccabi Haifa U19 vs Bnei Sakhnin U19","score":"0:1","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 15:51:28 109.23
+
+2023-01-17 15:51:28 Current balance : 109.2
+
+2023-01-17 15:51:28 Current Balance : 109.2
+
+2023-01-17 15:51:29 Stake : 5
+
+2023-01-17 15:51:29 CheckIfLoggedIn
+
+2023-01-17 15:51:29 Logged In Already!
+
+2023-01-17 15:51:29 bet365.com
+
+2023-01-17 15:51:40 Maccabi Haifa U19 v Bnei Sakhnin  U19 Dis :0.0108108108108108
+
+2023-01-17 15:51:44 Not Found Odds on Bet365..
+
+2023-01-17 15:51:47  *** MakeBet *** 
+
+2023-01-17 15:51:47 {"dbId":"","sport":"","country":"","league":"Israel Youth League","dateTime":"","match":"Maccabi Haifa U19 vs Bnei Sakhnin U19","score":"0:1","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 15:51:47 109.23
+
+2023-01-17 15:51:47 Current balance : 109.2
+
+2023-01-17 15:51:48 Current Balance : 109.2
+
+2023-01-17 15:51:48 Stake : 5
+
+2023-01-17 15:51:48 CheckIfLoggedIn
+
+2023-01-17 15:51:48 Logged In Already!
+
+2023-01-17 15:51:48 bet365.com
+
+2023-01-17 15:51:48 Wrong position detected!
+
+2023-01-17 15:51:54 Maccabi Haifa U19 v Bnei Sakhnin  U19 Dis :0.0108108108108108
+
+2023-01-17 15:51:59 Not Found Odds on Bet365..
+
+2023-01-17 15:52:30 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 15:52:30  *** MakeBet *** 
+
+2023-01-17 15:52:30 {"dbId":"","sport":"","country":"","league":"Israel Youth League","dateTime":"","match":"Maccabi Haifa U19 vs Bnei Sakhnin U19","score":"0:1","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 15:52:30 109.23
+
+2023-01-17 15:52:30 Current balance : 109.2
+
+2023-01-17 15:52:30 Current Balance : 109.2
+
+2023-01-17 15:52:31 Stake : 5
+
+2023-01-17 15:52:31 CheckIfLoggedIn
+
+2023-01-17 15:52:31 Logged In Already!
+
+2023-01-17 15:52:31 bet365.com
+
+2023-01-17 15:52:42 Maccabi Haifa U19 v Bnei Sakhnin  U19 Dis :0.0108108108108108
+
+2023-01-17 15:52:47 Not Found Odds on Bet365..
+
+2023-01-17 15:52:50  *** MakeBet *** 
+
+2023-01-17 15:52:50 {"dbId":"","sport":"","country":"","league":"Israel Youth League","dateTime":"","match":"Maccabi Haifa U19 vs Bnei Sakhnin U19","score":"0:1","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 15:52:50 109.23
+
+2023-01-17 15:52:50 Current balance : 109.2
+
+2023-01-17 15:52:50 Current Balance : 109.2
+
+2023-01-17 15:52:50 Stake : 5
+
+2023-01-17 15:52:50 CheckIfLoggedIn
+
+2023-01-17 15:52:50 Logged In Already!
+
+2023-01-17 15:52:50 bet365.com
+
+2023-01-17 15:52:50 Wrong position detected!
+
+2023-01-17 15:52:56 Maccabi Haifa U19 v Bnei Sakhnin  U19 Dis :0.0108108108108108
+
+2023-01-17 15:53:02 Not Found Odds on Bet365..
+
+2023-01-17 15:54:02 Recieve new Match Score From Copybet Server!
+
+2023-01-17 15:54:02 New Score is updated...
+
+2023-01-17 15:54:02 {"home":"Maccabi Haifa U19","away":"Bnei Sakhnin U19","score":"0:1","gameTime":1}
+
+2023-01-17 15:54:36 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-17 15:54:36 The bot has been stopped!
+2023-01-17 16:08:06 Chrome_RenderWidgetHostHWND
+
+2023-01-17 16:08:06 Websocket server is listening on 8880
+
+2023-01-17 16:08:06 DoLogin
+
+2023-01-17 16:08:06 DoLoad365Page
+
+2023-01-17 16:08:16 365 page is loaded!
+
+2023-01-17 16:08:16 Executed login script!
+
+2023-01-17 16:08:24 DoLoad365Page
+
+2023-01-17 16:08:24 365 page is loaded!
+
+2023-01-17 16:08:24 LastLoginModule_Button Clicked
+
+2023-01-17 16:08:29 Login Success!
+
+2023-01-17 16:08:37 4 Settled bets!!!
+
+2023-01-17 16:08:37 Browser Connected!
+
+2023-01-17 16:08:55 The bot has been started!
+
+2023-01-17 16:08:55 DoLogin
+
+2023-01-17 16:08:55 DoLoad365Page
+
+2023-01-17 16:08:55 365 page is loaded!
+
+2023-01-17 16:08:55 Connected Socket Server!!!
+
+2023-01-17 16:08:58 109.23
+
+2023-01-17 16:08:58 Current balance : 109.2
+
+2023-01-17 16:09:02 Current Balance: 109.2
+
+2023-01-17 16:09:02 Page is initialized!
+
+2023-01-17 16:10:01 Recieve new Match Score From Copybet Server!
+
+2023-01-17 16:10:01 New Score is updated...
+
+2023-01-17 16:10:01 {"home":"Maccabi Haifa U19","away":"Bnei Sakhnin U19","score":"0:1","gameTime":1}
+
+2023-01-17 16:17:12 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 16:17:12  *** MakeBet *** 
+
+2023-01-17 16:17:12 {"dbId":"","sport":"","country":"","league":"Portugal U23 League","dateTime":"","match":"Portimonense U23 vs Benfica U23","score":"1:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 16:17:12 109.23
+
+2023-01-17 16:17:12 Current balance : 109.2
+
+2023-01-17 16:17:12 Current Balance : 109.2
+
+2023-01-17 16:17:14 Stake : 2
+
+2023-01-17 16:17:14 CheckIfLoggedIn
+
+2023-01-17 16:17:14 Logged In Already!
+
+2023-01-17 16:17:14 bet365.com
+
+2023-01-17 16:17:25 Portimonense U23 v Benfica U23 Dis :0.00645161290322582
+
+2023-01-17 16:17:26 Wrong position detected!
+
+2023-01-17 16:17:28 Running AddbetScript...
+
+2023-01-17 16:17:28 scrollBetIntoView('2144905731') => 1
+
+2023-01-17 16:17:30 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-17 16:17:32 {
+  "bg": "255d66c9-be64-46cf-8dd7-c26293b2f6c2",
+  "sr": 0,
+  "mr": false,
+  "cc": "viqVAzC4axfvo3fO6SLGz1/v0pJgH+G0R5kMXDRFlZQ=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "1/4",
+      "fi": 131455887,
+      "fd": "Portimonense U23 v Benfica U23",
+      "pt": [
+        {
+          "pi": 2144905731,
+          "bd": "Più di 1.5",
+          "ha": "1.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c6bc0d-6ACD2F11",
+      "tp": "BS131455887-2144905731",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131291996,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-17 16:17:34 Fractional Odds : 1/4
+
+2023-01-17 16:17:34 Trademate Odds : 0 , Bet365 Odds : 1.25
+
+2023-01-17 16:17:34 Trying to place bet!
+
+2023-01-17 16:17:34 DoPlacebetUI
+
+2023-01-17 16:17:34 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-17 16:17:36 Trademate Odds : 0 , Bet365 Odds : 1.25
+
+2023-01-17 16:17:36 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-17 16:17:44 109.23
+
+2023-01-17 16:17:44 Current balance : 109.2
+
+2023-01-17 16:17:48 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.25
+
+2023-01-17 16:17:48 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.25",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.25,
+  "tournament": "Portugal U23 League",
+  "eventName": "Portimonense U23 vs Benfica U23",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "17/01/2023 16:17:44",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 107.2,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-17 16:17:56 Trying to register tip at Bigstake
+
+2023-01-17 16:18:14 Registered tip at Bigstake Successfully!
+
+2023-01-17 16:18:17 This Line is already existed on Settled bets!
+
+2023-01-17 16:19:03 Recieve new Match Score From Copybet Server!
+
+2023-01-17 16:19:03 New Score is updated...
+
+2023-01-17 16:19:03 {"home":"Maccabi Haifa U19","away":"Bnei Sakhnin U19","score":"1:1","gameTime":0}
+
+2023-01-17 16:19:03 New Score : Maccabi Haifa U19 vs Bnei Sakhnin U19  1:1
+
+2023-01-17 16:19:03 Pending tip Score : Portimonense U23 vs Benfica U23 1:0
+
+2023-01-17 16:19:04 Recieve new Match Score From Copybet Server!
+
+2023-01-17 16:19:04 New Score is updated...
+
+2023-01-17 16:19:04 {"home":"Portimonense U23","away":"Benfica U23","score":"1:1","gameTime":0}
+
+2023-01-17 16:19:04 New Score : Portimonense U23 vs Benfica U23  1:1
+
+2023-01-17 16:19:04 Pending tip Score : Portimonense U23 vs Benfica U23 1:0
+
+2023-01-17 16:19:04 Pending Tip is winning now...
+
+2023-01-17 16:25:02 Recieve new Match Score From Copybet Server!
+
+2023-01-17 16:25:02 New Score is updated...
+
+2023-01-17 16:25:02 {"home":"Maccabi Haifa U19","away":"Bnei Sakhnin U19","score":"2:1","gameTime":0}
+
+2023-01-17 16:26:03 Recieve new Match Score From Copybet Server!
+
+2023-01-17 16:26:03 New Score is updated...
+
+2023-01-17 16:26:03 {"home":"Portimonense U23","away":"Benfica U23","score":"2:1","gameTime":0}
+
+2023-01-17 16:31:03 Recieve new Match Score From Copybet Server!
+
+2023-01-17 16:31:03 New Score is updated...
+
+2023-01-17 16:31:03 {"home":"Portimonense U23","away":"Benfica U23","score":"2:2","gameTime":0}
+
+2023-01-17 16:35:08 Recieve new Match Score From Copybet Server!
+
+2023-01-17 16:35:08 New Score is updated...
+
+2023-01-17 16:35:08 {"home":"Portimonense U23","away":"Benfica U23","score":"3:2","gameTime":0}
+
+2023-01-17 16:38:12 LastLoginModule_Button Clicked
+
+2023-01-17 16:38:22 LastLoginModule_Button Clicked
+
+2023-01-17 16:38:32 LastLoginModule_Button Clicked
+
+2023-01-17 16:38:42 LastLoginModule_Button Clicked
+
+2023-01-17 16:38:52 LastLoginModule_Button Clicked
+
+2023-01-17 16:39:02 LastLoginModule_Button Clicked
+
+2023-01-17 16:49:02 Recieve new Match Score From Copybet Server!
+
+2023-01-17 16:49:02 New Score is updated...
+
+2023-01-17 16:49:02 {"home":"Portimonense U23","away":"Benfica U23","score":"3:3","gameTime":0}
+
+2023-01-17 16:58:03 Recieve new Match Score From Copybet Server!
+
+2023-01-17 16:58:03 New Score is updated...
+
+2023-01-17 16:58:03 {"home":"Portimonense U23","away":"Benfica U23","score":"3:3","gameTime":2}
+
+2023-01-17 17:01:01 Recieve new Match Score From Copybet Server!
+
+2023-01-17 17:01:01 New Score is updated...
+
+2023-01-17 17:01:01 {"home":"Maccabi Haifa U19","away":"Bnei Sakhnin U19","score":"3:1","gameTime":0}
+
+2023-01-17 17:08:02 Recieve new Match Score From Copybet Server!
+
+2023-01-17 17:08:02 New Score is updated...
+
+2023-01-17 17:08:02 {"home":"Maccabi Haifa U19","away":"Bnei Sakhnin U19","score":"3:1","gameTime":2}
+
+2023-01-17 18:31:28 Disconnected Socket Server!!! || ping timeout
+
+2023-01-17 18:31:30 Connected Socket Server!!!
+
+2023-01-17 18:38:18 Disconnected Socket Server!!! || ping timeout
+
+2023-01-17 18:38:24 Connected Socket Server!!!
+
+2023-01-17 19:07:02 Disconnected Socket Server!!! || ping timeout
+
+2023-01-17 19:07:08 Connected Socket Server!!!
+
+2023-01-17 19:08:20 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-17 19:08:20 The bot has been stopped!
+
+2023-01-17 19:08:35 Chrome_RenderWidgetHostHWND
+
+2023-01-17 19:08:48 Chrome_RenderWidgetHostHWND
+2023-01-17 19:09:27 Websocket server is listening on 8880
+
+2023-01-17 19:09:27 DoLogin
+
+2023-01-17 19:09:27 DoLoad365Page
+
+2023-01-17 19:09:32 365 page is loaded!
+
+2023-01-17 19:09:32 Executed login script!
+
+2023-01-17 19:09:41 DoLoad365Page
+
+2023-01-17 19:09:41 365 page is loaded!
+
+2023-01-17 19:09:41 LastLoginModule_Button Clicked
+
+2023-01-17 19:09:47 Login Success!
+
+2023-01-17 19:09:58 Browser Connected!
+
+2023-01-17 19:10:30 The bot has been started!
+
+2023-01-17 19:10:30 DoLogin
+
+2023-01-17 19:10:30 DoLoad365Page
+
+2023-01-17 19:10:30 365 page is loaded!
+
+2023-01-17 19:10:30 Connected Socket Server!!!
+
+2023-01-17 19:10:33 109.73
+
+2023-01-17 19:10:33 LastLoginModule_Button Clicked
+
+2023-01-17 19:10:33 Current balance : 109.7
+
+2023-01-17 19:10:41 0 Settled bets!!!
+
+2023-01-17 19:10:41 Current Balance: 109.7
+
+2023-01-17 19:10:41 Page is initialized!
+2023-01-17 21:54:44 Chrome_RenderWidgetHostHWND
+
+2023-01-17 21:54:44 Websocket server is listening on 8880
+
+2023-01-17 21:54:44 DoLogin
+
+2023-01-17 21:54:44 DoLoad365Page
+
+2023-01-17 21:54:49 365 page is loaded!
+
+2023-01-17 21:54:49 Executed login script!
+
+2023-01-17 21:54:57 DoLoad365Page
+
+2023-01-17 21:54:57 365 page is loaded!
+
+2023-01-17 21:54:57 LastLoginModule_Button Clicked
+
+2023-01-17 21:55:03 Login Success!
+
+2023-01-17 21:55:10 2 Settled bets!!!
+
+2023-01-17 21:55:10 Browser Connected!
+
+2023-01-17 21:55:21 The bot has been started!
+
+2023-01-17 21:55:21 DoLogin
+
+2023-01-17 21:55:21 DoLoad365Page
+
+2023-01-17 21:55:21 365 page is loaded!
+
+2023-01-17 21:55:22 Connected Socket Server!!!
+
+2023-01-17 21:55:24 109.73
+
+2023-01-17 21:55:24 LastLoginModule_Button Clicked
+
+2023-01-17 21:55:24 Current balance : 109.7
+
+2023-01-17 21:55:29 Current Balance: 109.7
+
+2023-01-17 21:55:29 Page is initialized!
+
+2023-01-17 21:55:38 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 21:55:38  *** MakeBet *** 
+
+2023-01-17 21:55:38 {"dbId":"","sport":"","country":"","league":"Youth Tournament","dateTime":"","match":"Wolverhampton U21 vs Celtic U21","score":"2:4","EW":"0","marketName":"OVER 6.5","selection":"OVER","odds":0.0,"handicap":6.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 21:55:38 109.73
+
+2023-01-17 21:55:38 Current balance : 109.7
+
+2023-01-17 21:55:38 Current Balance : 109.7
+
+2023-01-17 21:55:39 Stake : 2
+
+2023-01-17 21:55:39 CheckIfLoggedIn
+
+2023-01-17 21:55:39 Logged In Already!
+
+2023-01-17 21:55:39 bet365.com
+
+2023-01-17 21:55:50 Not Search Event
+
+2023-01-17 21:55:50 Wrong position detected!
+
+2023-01-17 21:55:59 Not Found Odds on Bet365..
+
+2023-01-17 21:56:02  *** MakeBet *** 
+
+2023-01-17 21:56:02 {"dbId":"","sport":"","country":"","league":"Youth Tournament","dateTime":"","match":"Wolverhampton U21 vs Celtic U21","score":"2:4","EW":"0","marketName":"OVER 6.5","selection":"OVER","odds":0.0,"handicap":6.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 21:56:02 109.73
+
+2023-01-17 21:56:02 Current balance : 109.7
+
+2023-01-17 21:56:02 Current Balance : 109.7
+
+2023-01-17 21:56:03 Stake : 2
+
+2023-01-17 21:56:03 CheckIfLoggedIn
+
+2023-01-17 21:56:03 Logged In Already!
+
+2023-01-17 21:56:03 bet365.com
+
+2023-01-17 21:56:03 Wrong position detected!
+
+2023-01-17 21:56:15 Not Found Odds on Bet365..
+
+2023-01-17 21:58:03 Recieve new Match Score From Copybet Server!
+
+2023-01-17 21:58:03 New Score is updated...
+
+2023-01-17 21:58:03 {"home":"Wolverhampton U21","away":"Celtic U21","score":"2:4","gameTime":2}
+
+2023-01-17 22:15:31 LastLoginModule_Button Clicked
+
+2023-01-17 22:27:13 Recieve 1 new bets From Copybet Server!
+
+2023-01-17 22:27:13  *** MakeBet *** 
+
+2023-01-17 22:27:13 {"dbId":"","sport":"","country":"","league":"England National League","dateTime":"","match":"Solihull Moors vs Aldershot","score":"1:2","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-17 22:27:13 109.73
+
+2023-01-17 22:27:13 Current balance : 109.7
+
+2023-01-17 22:27:13 Current Balance : 109.7
+
+2023-01-17 22:27:13 Stake : 2
+
+2023-01-17 22:27:13 CheckIfLoggedIn
+
+2023-01-17 22:27:13 Logged In Already!
+
+2023-01-17 22:27:13 bet365.com
+
+2023-01-17 22:27:13 Wrong position detected!
+
+2023-01-17 22:27:19 Solihull Moors v Aldershot Dis :0.0304843304843305
+
+2023-01-17 22:27:19 Solihull Moors v Scunthorpe Dis :0.0922558922558923
+
+2023-01-17 22:27:20 Wrong position detected!
+
+2023-01-17 22:27:22 Running AddbetScript...
+
+2023-01-17 22:27:22 scrollBetIntoView('2144564047') => 1
+
+2023-01-17 22:27:24 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-17 22:27:26 {
+  "bg": "920b23d9-cf0f-4180-adde-bddca95e4f81",
+  "sr": 0,
+  "mr": false,
+  "cc": "+mtwPSPHR7bsfuqV/jAEDv1jMCtSUaHFaT4A9+Q9JHM=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/11",
+      "fi": 131452105,
+      "fd": "Solihull Moors v Aldershot",
+      "pt": [
+        {
+          "pi": 2144564047,
+          "bd": "Più di 3.5",
+          "ha": "3.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c712c0-C613867",
+      "tp": "BS131452105-2144564047",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131095818,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-17 22:27:28 Fractional Odds : 4/11
+
+2023-01-17 22:27:28 Trademate Odds : 0 , Bet365 Odds : 1.36
+
+2023-01-17 22:27:28 Trying to place bet!
+
+2023-01-17 22:27:28 DoPlacebetUI
+
+2023-01-17 22:27:28 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-17 22:27:30 Trademate Odds : 0 , Bet365 Odds : 1.36
+
+2023-01-17 22:27:30 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-17 22:27:39 109.73
+
+2023-01-17 22:27:39 Current balance : 109.7
+
+2023-01-17 22:27:42 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.36
+
+2023-01-17 22:27:42 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.36",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.36,
+  "tournament": "England National League",
+  "eventName": "Solihull Moors vs Aldershot",
+  "probability": "OVER",
+  "market": "OVER 3.5",
+  "placedAt": "17/01/2023 22:27:39",
+  "selection": "OVER",
+  "handicap": 3.5,
+  "balance": 107.7,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-17 22:27:50 Trying to register tip at Bigstake
+
+2023-01-17 22:28:05 Registered tip at Bigstake Successfully!
+
+2023-01-17 22:28:08 This Line is already existed on Settled bets!
+
+2023-01-17 22:46:41 LastLoginModule_Button Clicked
+
+2023-01-17 23:04:02 Recieve new Match Score From Copybet Server!
+
+2023-01-17 23:04:02 New Score is updated...
+
+2023-01-17 23:04:02 {"home":"Solihull Moors","away":"Aldershot","score":"1:2","gameTime":2}
+
+2023-01-17 23:04:02 New Score : Solihull Moors vs Aldershot  1:2
+
+2023-01-17 23:04:02 Pending tip Score : Solihull Moors vs Aldershot 1:2
+
+2023-01-17 23:04:02 Pending Tip is lost now...
+
+2023-01-17 23:18:51 LastLoginModule_Button Clicked
+
+2023-01-17 23:38:01 LastLoginModule_Button Clicked

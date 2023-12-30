@@ -1,0 +1,2654 @@
+﻿2023-09-02 12:27:17 Chrome_RenderWidgetHostHWND
+
+2023-09-02 12:27:18 Websocket server is listening on 8880
+
+2023-09-02 12:27:18 DoLogin
+
+2023-09-02 12:27:18 DoLoad365Page
+2023-09-02 12:30:16 Chrome_RenderWidgetHostHWND
+
+2023-09-02 12:30:16 Websocket server is listening on 8880
+
+2023-09-02 12:30:16 DoLogin
+
+2023-09-02 12:30:16 DoLoad365Page
+
+2023-09-02 12:30:21 365 page is loaded!
+
+2023-09-02 12:30:21 Executed login script!
+
+2023-09-02 12:30:27 DoLoad365Page
+
+2023-09-02 12:30:27 365 page is loaded!
+
+2023-09-02 12:30:35 Executed login script!
+
+2023-09-02 12:30:35 DoLoad365Page
+
+2023-09-02 12:30:35 365 page is loaded!
+
+2023-09-02 12:30:38 Login Success!
+
+2023-09-02 12:30:45 0 Settled bets!!!
+
+2023-09-02 12:30:45 Browser Connected!
+
+2023-09-02 12:30:58 The bot has been started!
+
+2023-09-02 12:30:58 DoLogin
+
+2023-09-02 12:30:58 DoLoad365Page
+
+2023-09-02 12:30:58 365 page is loaded!
+
+2023-09-02 12:30:58 Executed login script!
+
+2023-09-02 12:30:58 Connected Socket Server!!!
+
+2023-09-02 12:31:24 DoLoad365Page
+
+2023-09-02 12:31:24 365 page is loaded!
+
+2023-09-02 12:31:28 Executed login script!
+
+2023-09-02 12:31:36 DoLoad365Page
+
+2023-09-02 12:31:36 365 page is loaded!
+
+2023-09-02 12:31:42 Login Success!
+
+2023-09-02 12:31:53 
+
+2023-09-02 12:32:03 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 12:32:06 Current Balance: -1
+
+2023-09-02 12:32:06 Page is initialized!
+
+2023-09-02 12:32:06  *** MakeBet *** 
+
+2023-09-02 12:32:06 {"dbId":"","sport":"","country":"","league":"Poland Youth League","dateTime":"","match":"Warta Poznan U19 vs Cracovia Krakow U19","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-02 12:32:11 
+
+2023-09-02 12:32:11 Current Balance : -1
+
+2023-09-02 12:32:11 CheckIfLoggedIn
+
+2023-09-02 12:32:11 Logged In Already!
+
+2023-09-02 12:32:11 bet365.com
+
+2023-09-02 12:32:26 Not Search Event
+
+2023-09-02 12:32:35 Not Search Event
+
+2023-09-02 12:32:52 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 12:32:54 Not Search Event
+
+2023-09-02 12:33:03 Not Search Event
+
+2023-09-02 12:33:09 Disconnected Socket Server!!! || ping timeout
+
+2023-09-02 12:33:10 Connected Socket Server!!!
+
+2023-09-02 12:33:22 Not Search Event
+
+2023-09-02 12:33:31 Not Search Event
+
+2023-09-02 12:33:36 Not Found Event on Bet365...
+
+2023-09-02 12:33:39  *** MakeBet *** 
+
+2023-09-02 12:33:39 {"dbId":"","sport":"","country":"","league":"Poland Youth League","dateTime":"","match":"Warta Poznan U19 vs Cracovia Krakow U19","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-02 12:33:44 
+
+2023-09-02 12:33:44 Current Balance : -1
+
+2023-09-02 12:33:44 CheckIfLoggedIn
+
+2023-09-02 12:33:44 Logged In Already!
+
+2023-09-02 12:33:44 bet365.com
+
+2023-09-02 12:33:44 DoLoad365Page
+
+2023-09-02 12:33:44 365 page is loaded!
+
+2023-09-02 12:33:58 Not Search Event
+
+2023-09-02 12:34:07 Not Search Event
+
+2023-09-02 12:34:26 Not Search Event
+
+2023-09-02 12:34:35 Not Search Event
+
+2023-09-02 12:34:48 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-02 12:34:48 The bot has been stopped!
+
+2023-09-02 12:34:48 Exception in MakeBet: System.Threading.ThreadAbortException: Thread interrotto.
+   in CEBet365Placer.Controller.BetController.ExecuteScript(String jsCode, Boolean requiredResult)
+   in CEBet365Placer.Controller.BetController.SearchMatchWithName(String eventName)
+   in CEBet365Placer.Controller.BetController.MakeBet(TelegramTip betitem, Boolean& isSucccssed)
+
+2023-09-02 12:34:48 checkWrongLine :    in CEBet365Placer.Controller.BetController.MakeBet(TelegramTip betitem, Boolean& isSucccssed)
+   in CEBet365Placer.Form1.refreshThreadFunc()
+
+2023-09-02 12:38:59 The bot has been started!
+
+2023-09-02 12:38:59 DoLogin
+
+2023-09-02 12:38:59 DoLoad365Page
+
+2023-09-02 12:38:59 365 page is loaded!
+
+2023-09-02 12:38:59 Connected Socket Server!!!
+
+2023-09-02 12:39:02 36.90
+
+2023-09-02 12:39:02 Current balance : 36.9
+
+2023-09-02 12:39:10 0 Settled bets!!!
+
+2023-09-02 12:39:10 Current Balance: 36.9
+
+2023-09-02 12:39:10 Page is initialized!
+
+2023-09-02 12:39:15 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 12:39:31 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-02 12:39:31 The bot has been stopped!
+2023-09-02 12:39:50 Chrome_RenderWidgetHostHWND
+
+2023-09-02 12:39:50 Websocket server is listening on 8880
+
+2023-09-02 12:39:50 DoLogin
+
+2023-09-02 12:39:50 DoLoad365Page
+
+2023-09-02 12:39:55 365 page is loaded!
+
+2023-09-02 12:39:55 Executed login script!
+
+2023-09-02 12:40:01 DoLoad365Page
+
+2023-09-02 12:40:01 365 page is loaded!
+
+2023-09-02 12:40:04 Login Success!
+
+2023-09-02 12:40:12 0 Settled bets!!!
+
+2023-09-02 12:40:12 Browser Connected!
+
+2023-09-02 12:40:47 The bot has been started!
+
+2023-09-02 12:40:47 DoLogin
+
+2023-09-02 12:40:47 DoLoad365Page
+
+2023-09-02 12:40:47 365 page is loaded!
+
+2023-09-02 12:40:48 Connected Socket Server!!!
+
+2023-09-02 12:40:51 36.90
+
+2023-09-02 12:40:51 Current balance : 36.9
+
+2023-09-02 12:40:59 0 Settled bets!!!
+
+2023-09-02 12:40:59 Current Balance: 36.9
+
+2023-09-02 12:40:59 Page is initialized!
+
+2023-09-02 12:41:06 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 12:41:06  *** MakeBet *** 
+
+2023-09-02 12:41:06 {"dbId":"","sport":"","country":"","league":"Poland Youth League","dateTime":"","match":"Warta Poznan U19 vs Cracovia Krakow U19","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-02 12:41:06 36.90
+
+2023-09-02 12:41:06 Current balance : 36.9
+
+2023-09-02 12:41:06 Current Balance : 36.9
+
+2023-09-02 12:41:06 CheckIfLoggedIn
+
+2023-09-02 12:41:06 Logged In Already!
+
+2023-09-02 12:41:06 bet365.com
+
+2023-09-02 12:41:20 Warta Poznan U19 v Cracovia Krakow U19 Dis :0.00512820512820511
+
+2023-09-02 12:41:21 Wrong position detected!
+
+2023-09-02 12:41:25 Stake : 6
+
+2023-09-02 12:41:25 Running AddbetScript...
+
+2023-09-02 12:41:25 scrollBetIntoView('1194386581') => 1
+
+2023-09-02 12:41:27 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-02 12:41:31 Trademate Odds : 0 , Bet365 Odds : 3
+
+2023-09-02 12:41:31 Trying to place bet!
+
+2023-09-02 12:41:31 DoPlacebetUI
+
+2023-09-02 12:41:31 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-02 12:41:33 Trademate Odds : 0 , Bet365 Odds : 3
+
+2023-09-02 12:41:33 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-02 12:41:42 36.90
+
+2023-09-02 12:41:42 Current balance : 36.9
+
+2023-09-02 12:41:42 DoLoad365Page
+
+2023-09-02 12:41:42 365 page is loaded!
+
+2023-09-02 12:41:45 [scollodenis01:2711Buruliddu.] SUCCESS. Stake:6 Odds:3
+
+2023-09-02 12:41:45 {
+  "username": "scollodenis01",
+  "tipster": "",
+  "message": "[scollodenis01:2711Buruliddu.] SUCCESS. Stake:6 Odds:3",
+  "stake": 6.0,
+  "tipSource": "TELEGRAM",
+  "odds": 3.0,
+  "tournament": "Poland Youth League",
+  "eventName": "Warta Poznan U19 vs Cracovia Krakow U19",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "02/09/2023 12:41:42",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 30.9,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-02 12:41:53 Trying to register tip at Bigstake
+
+2023-09-02 12:42:08 Registered tip at Bigstake Successfully!
+
+2023-09-02 12:42:11 This Line is already existed on Settled bets!
+
+2023-09-02 12:51:20 Recieve new Match Score From Copybet Server!
+
+2023-09-02 12:51:20 New Score is updated...
+
+2023-09-02 12:51:20 {"home":"Warta Poznan U19","away":"Cracovia Krakow U19","score":"0:0","gameTime":1}
+
+2023-09-02 12:51:20 New Score : Warta Poznan U19 vs Cracovia Krakow U19  0:0
+
+2023-09-02 12:51:20 Pending tip Score : Warta Poznan U19 vs Cracovia Krakow U19 0:0
+
+2023-09-02 12:51:20 Pending Tip is lost now...
+
+2023-09-02 12:51:25 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 12:51:25  *** MakeBet *** 
+
+2023-09-02 12:51:25 {"dbId":"","sport":"","country":"","league":"Poland Youth League","dateTime":"","match":"Warta Poznan U19 vs Cracovia Krakow U19","score":"0:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-02 12:51:25 30.90
+
+2023-09-02 12:51:25 Current balance : 30.9
+
+2023-09-02 12:51:25 Current Balance : 30.9
+
+2023-09-02 12:51:25 CheckIfLoggedIn
+
+2023-09-02 12:51:25 Logged In Already!
+
+2023-09-02 12:51:25 bet365.com
+
+2023-09-02 12:51:39 Warta Poznan U19 v Cracovia Krakow U19 Dis :0.00512820512820511
+
+2023-09-02 12:51:40 Wrong position detected!
+
+2023-09-02 12:51:44 Stake : 8
+
+2023-09-02 12:51:44 Running AddbetScript...
+
+2023-09-02 12:51:44 scrollBetIntoView('1194386525') => 1
+
+2023-09-02 12:51:45 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-02 12:51:47 {
+  "bg": "fbec7cdb-5da1-4508-b68d-7f41a9c746b1",
+  "sr": 0,
+  "mr": false,
+  "cc": "fS+KcYXgGHrEt1NDkP/pua/XGGRVTuqFDYvnSJ+RYF4=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "918",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/15",
+      "fi": 143183649,
+      "fd": "Warta Poznan U19 v Cracovia Krakow U19",
+      "pt": [
+        {
+          "hd": "1.5",
+          "pi": 1194386525,
+          "bd": "Più di",
+          "ha": "1.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64f313c5-AE82FA2B",
+      "tp": "BS143183649-1194386525",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 143112545,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-02 12:51:49 Fractional Odds : 8/15
+
+2023-09-02 12:51:49 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-09-02 12:51:49 Trying to place bet!
+
+2023-09-02 12:51:49 DoPlacebetUI
+
+2023-09-02 12:51:49 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-02 12:51:51 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-09-02 12:51:51 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-02 12:51:56 30.90
+
+2023-09-02 12:51:56 Current balance : 30.9
+
+2023-09-02 12:51:56 DoLoad365Page
+
+2023-09-02 12:51:56 365 page is loaded!
+
+2023-09-02 12:51:59 [scollodenis01:2711Buruliddu.] SUCCESS. Stake:8 Odds:1.5325
+
+2023-09-02 12:51:59 {
+  "username": "scollodenis01",
+  "tipster": "",
+  "message": "[scollodenis01:2711Buruliddu.] SUCCESS. Stake:8 Odds:1.5325",
+  "stake": 8.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.5325,
+  "tournament": "Poland Youth League",
+  "eventName": "Warta Poznan U19 vs Cracovia Krakow U19",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "02/09/2023 12:51:56",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 22.9,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-02 12:52:07 Trying to register tip at Bigstake
+
+2023-09-02 12:52:21 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 12:52:23 Registered tip at Bigstake Successfully!
+
+2023-09-02 12:52:26 This Line is already existed on Settled bets!
+
+2023-09-02 12:52:26 Pending bet is not finished.!
+
+2023-09-02 13:02:18 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:02:18 New Score is updated...
+
+2023-09-02 13:02:18 {"home":"Sarpsborg 2","away":"Fløya","score":"0:1","gameTime":0}
+
+2023-09-02 13:02:18 New Score : Sarpsborg 2 vs Fløya  0:1
+
+2023-09-02 13:02:18 Pending tip Score : Warta Poznan U19 vs Cracovia Krakow U19 0:0
+
+2023-09-02 13:06:18 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:06:18 New Score is updated...
+
+2023-09-02 13:06:18 {"home":"Warta Poznan U19","away":"Cracovia Krakow U19","score":"0:0","gameTime":1}
+
+2023-09-02 13:06:18 New Score : Warta Poznan U19 vs Cracovia Krakow U19  0:0
+
+2023-09-02 13:06:18 Pending tip Score : Warta Poznan U19 vs Cracovia Krakow U19 0:0
+
+2023-09-02 13:09:17 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:09:17 New Score is updated...
+
+2023-09-02 13:09:17 {"home":"Warta Poznan U19","away":"Cracovia Krakow U19","score":"1:0","gameTime":0}
+
+2023-09-02 13:09:17 New Score : Warta Poznan U19 vs Cracovia Krakow U19  1:0
+
+2023-09-02 13:09:17 Pending tip Score : Warta Poznan U19 vs Cracovia Krakow U19 0:0
+
+2023-09-02 13:11:17 LastLoginModule_Button Clicked
+
+2023-09-02 13:17:17 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:17:17 New Score is updated...
+
+2023-09-02 13:17:17 {"home":"Sarpsborg 2","away":"Fløya","score":"0:1","gameTime":1}
+
+2023-09-02 13:17:17 New Score : Sarpsborg 2 vs Fløya  0:1
+
+2023-09-02 13:17:17 Pending tip Score : Warta Poznan U19 vs Cracovia Krakow U19 0:0
+
+2023-09-02 13:17:25 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 13:17:25 Pending bet is not finished.!
+
+2023-09-02 13:19:16 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:19:16 New Score is updated...
+
+2023-09-02 13:19:16 {"home":"Warta Poznan U19","away":"Cracovia Krakow U19","score":"1:1","gameTime":0}
+
+2023-09-02 13:19:16 New Score : Warta Poznan U19 vs Cracovia Krakow U19  1:1
+
+2023-09-02 13:19:16 Pending tip Score : Warta Poznan U19 vs Cracovia Krakow U19 0:0
+
+2023-09-02 13:19:16 Pending Tip is winning now...
+
+2023-09-02 13:20:57 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 13:20:57  *** MakeBet *** 
+
+2023-09-02 13:20:57 {"dbId":"","sport":"","country":"","league":"Sweden 2.div Västra Götaland","dateTime":"","match":"Lindome GIF vs Onsala BK","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-02 13:20:57 35.16
+
+2023-09-02 13:20:57 Current balance : 35.1
+
+2023-09-02 13:20:57 Current Balance : 35.1
+
+2023-09-02 13:20:57 CheckIfLoggedIn
+
+2023-09-02 13:20:57 Logged In Already!
+
+2023-09-02 13:20:57 bet365.com
+
+2023-09-02 13:21:11 Lindome GIF v Onsala BK Dis :0.0257246376811594
+
+2023-09-02 13:21:12 Wrong position detected!
+
+2023-09-02 13:21:17 Stake : 8
+
+2023-09-02 13:21:17 Running AddbetScript...
+
+2023-09-02 13:21:17 scrollBetIntoView('1194772397') => 1
+
+2023-09-02 13:21:19 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-02 13:21:23 {
+  "bg": "0bb58172-4ac5-4b0e-8bb4-7a7089b2ea7e",
+  "sr": 0,
+  "mr": false,
+  "cc": "sGt7F4yqwZF4Ae+0y1WK4kjG+6GebyR9ROoee5Y7PYw=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "918",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/7",
+      "fi": 143185966,
+      "fd": "Lindome GIF v Onsala BK",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1194772397,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64f31ab5-DA781A6",
+      "tp": "BS143185966-1194772397",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 143051490,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-02 13:21:25 Fractional Odds : 4/7
+
+2023-09-02 13:21:25 Trademate Odds : 0 , Bet365 Odds : 1.57
+
+2023-09-02 13:21:25 Trying to place bet!
+
+2023-09-02 13:21:25 DoPlacebetUI
+
+2023-09-02 13:21:25 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-02 13:21:28 Trademate Odds : 0 , Bet365 Odds : 1.57
+
+2023-09-02 13:21:28 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-02 13:21:37 35.16
+
+2023-09-02 13:21:37 Current balance : 35.1
+
+2023-09-02 13:21:37 DoLoad365Page
+
+2023-09-02 13:21:37 365 page is loaded!
+
+2023-09-02 13:21:40 [scollodenis01:2711Buruliddu.] SUCCESS. Stake:8 Odds:1.57125
+
+2023-09-02 13:21:40 {
+  "username": "scollodenis01",
+  "tipster": "",
+  "message": "[scollodenis01:2711Buruliddu.] SUCCESS. Stake:8 Odds:1.57125",
+  "stake": 8.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.57125,
+  "tournament": "Sweden 2.div Västra Götaland",
+  "eventName": "Lindome GIF vs Onsala BK",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "02/09/2023 13:21:37",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 27.1,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-02 13:21:48 Trying to register tip at Bigstake
+
+2023-09-02 13:22:03 Registered tip at Bigstake Successfully!
+
+2023-09-02 13:22:06 This Line is already existed on Settled bets!
+
+2023-09-02 13:22:24 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 13:22:24 Pending bet is not finished.!
+
+2023-09-02 13:30:16 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:30:16 New Score is updated...
+
+2023-09-02 13:30:16 {"home":"Sarpsborg 2","away":"Fløya","score":"0:1","gameTime":1}
+
+2023-09-02 13:30:16 New Score : Sarpsborg 2 vs Fløya  0:1
+
+2023-09-02 13:30:16 Pending tip Score : Lindome GIF vs Onsala BK 0:0
+
+2023-09-02 13:32:18 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:32:18 New Score is updated...
+
+2023-09-02 13:32:18 {"home":"Lindome GIF","away":"Onsala BK","score":"0:1","gameTime":0}
+
+2023-09-02 13:32:18 New Score : Lindome GIF vs Onsala BK  0:1
+
+2023-09-02 13:32:18 Pending tip Score : Lindome GIF vs Onsala BK 0:0
+
+2023-09-02 13:32:18 Pending Tip is winning now...
+
+2023-09-02 13:32:19 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:32:19 New Score is updated...
+
+2023-09-02 13:32:19 {"home":"KoiPS","away":"NouLa","score":"0:1","gameTime":0}
+
+2023-09-02 13:34:18 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:34:18 New Score is updated...
+
+2023-09-02 13:34:18 {"home":"Sarpsborg 2","away":"Fløya","score":"0:2","gameTime":0}
+
+2023-09-02 13:34:24 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 13:34:24  *** MakeBet *** 
+
+2023-09-02 13:34:24 {"dbId":"","sport":"","country":"","league":"Portugal U19 League","dateTime":"","match":"Sporting U19 vs Alverca U19","score":"1:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-02 13:34:24 39.72
+
+2023-09-02 13:34:24 Current balance : 39.7
+
+2023-09-02 13:34:24 Current Balance : 39.7
+
+2023-09-02 13:34:24 CheckIfLoggedIn
+
+2023-09-02 13:34:24 Logged In Already!
+
+2023-09-02 13:34:24 bet365.com
+
+2023-09-02 13:34:24 DoLoad365Page
+
+2023-09-02 13:34:24 365 page is loaded!
+
+2023-09-02 13:34:35 Sporting U19 v Alverca U19 Dis :0.00740740740740742
+
+2023-09-02 13:34:36 Wrong position detected!
+
+2023-09-02 13:34:40 Stake : 8
+
+2023-09-02 13:34:40 Running AddbetScript...
+
+2023-09-02 13:34:40 scrollBetIntoView('1194396712') => 1
+
+2023-09-02 13:34:42 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-02 13:34:44 {
+  "bg": "730b4b79-82ee-414b-8a49-8d6694426b8d",
+  "sr": 0,
+  "mr": false,
+  "cc": "coKXuPqHaMhXJ0r8SDxV52Pof8y/U+89pTvMLIHJUEM=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "918",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "1/2",
+      "fi": 143183719,
+      "fd": "Sporting U19 v Alverca U19",
+      "pt": [
+        {
+          "hd": "2.5",
+          "pi": 1194396712,
+          "bd": "Più di ",
+          "ha": "2.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS143183719-1194396712",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 143106665,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-02 13:34:46 Fractional Odds : 1/2
+
+2023-09-02 13:34:46 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-09-02 13:34:46 Trying to place bet!
+
+2023-09-02 13:34:46 DoPlacebetUI
+
+2023-09-02 13:34:46 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-02 13:34:48 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-09-02 13:34:48 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-02 13:34:57 39.72
+
+2023-09-02 13:34:57 Current balance : 39.7
+
+2023-09-02 13:34:57 DoLoad365Page
+
+2023-09-02 13:34:57 365 page is loaded!
+
+2023-09-02 13:35:00 [scollodenis01:2711Buruliddu.] SUCCESS. Stake:8 Odds:1.5
+
+2023-09-02 13:35:00 {
+  "username": "scollodenis01",
+  "tipster": "",
+  "message": "[scollodenis01:2711Buruliddu.] SUCCESS. Stake:8 Odds:1.5",
+  "stake": 8.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.5,
+  "tournament": "Portugal U19 League",
+  "eventName": "Sporting U19 vs Alverca U19",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "02/09/2023 13:34:57",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 31.700000000000003,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-02 13:35:08 Trying to register tip at Bigstake
+
+2023-09-02 13:35:24 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 13:35:24 Registered tip at Bigstake Successfully!
+
+2023-09-02 13:35:27 This Line is already existed on Settled bets!
+
+2023-09-02 13:35:27 Pending bet is not finished.!
+
+2023-09-02 13:36:17 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:36:17 New Score is updated...
+
+2023-09-02 13:36:17 {"home":"Warta Poznan U19","away":"Cracovia Krakow U19","score":"2:1","gameTime":0}
+
+2023-09-02 13:36:17 New Score : Warta Poznan U19 vs Cracovia Krakow U19  2:1
+
+2023-09-02 13:36:17 Pending tip Score : Sporting U19 vs Alverca U19 1:0
+
+2023-09-02 13:36:18 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:36:18 New Score is updated...
+
+2023-09-02 13:36:18 {"home":"Lindome GIF","away":"Onsala BK","score":"0:2","gameTime":0}
+
+2023-09-02 13:36:18 New Score : Lindome GIF vs Onsala BK  0:2
+
+2023-09-02 13:36:18 Pending tip Score : Sporting U19 vs Alverca U19 1:0
+
+2023-09-02 13:36:19 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:36:19 New Score is updated...
+
+2023-09-02 13:36:19 {"home":"Sporting U19","away":"Alverca U19","score":"1:1","gameTime":0}
+
+2023-09-02 13:36:19 New Score : Sporting U19 vs Alverca U19  1:1
+
+2023-09-02 13:36:19 Pending tip Score : Sporting U19 vs Alverca U19 1:0
+
+2023-09-02 13:36:19 Pending Tip is winning now...
+
+2023-09-02 13:41:18 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:41:18 New Score is updated...
+
+2023-09-02 13:41:18 {"home":"Legia Warsaw U19","away":"Widzew Lodz U19","score":"3:1","gameTime":0}
+
+2023-09-02 13:46:18 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:46:18 New Score is updated...
+
+2023-09-02 13:46:18 {"home":"Lindome GIF","away":"Onsala BK","score":"0:2","gameTime":1}
+
+2023-09-02 13:46:19 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:46:19 New Score is updated...
+
+2023-09-02 13:46:19 {"home":"Legia Warsaw U19","away":"Widzew Lodz U19","score":"4:1","gameTime":0}
+
+2023-09-02 13:48:19 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:48:19 New Score is updated...
+
+2023-09-02 13:48:19 {"home":"KoiPS","away":"NouLa","score":"0:1","gameTime":1}
+
+2023-09-02 13:52:18 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:52:18 New Score is updated...
+
+2023-09-02 13:52:18 {"home":"Warta Poznan U19","away":"Cracovia Krakow U19","score":"3:1","gameTime":0}
+
+2023-09-02 13:54:17 LastLoginModule_Button Clicked
+
+2023-09-02 13:57:19 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:57:19 New Score is updated...
+
+2023-09-02 13:57:19 {"home":"Warta Poznan U19","away":"Cracovia Krakow U19","score":"4:1","gameTime":0}
+
+2023-09-02 13:59:18 Recieve new Match Score From Copybet Server!
+
+2023-09-02 13:59:18 New Score is updated...
+
+2023-09-02 13:59:18 {"home":"Legia Warsaw U19","away":"Widzew Lodz U19","score":"4:1","gameTime":2}
+
+2023-09-02 14:00:19 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:00:19 New Score is updated...
+
+2023-09-02 14:00:19 {"home":"KoiPS","away":"NouLa","score":"0:1","gameTime":1}
+
+2023-09-02 14:01:24 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:01:24 New Score is updated...
+
+2023-09-02 14:01:24 {"home":"Lindome GIF","away":"Onsala BK","score":"0:2","gameTime":1}
+
+2023-09-02 14:01:26 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:01:26 New Score is updated...
+
+2023-09-02 14:01:26 {"home":"Warta Poznan U19","away":"Cracovia Krakow U19","score":"4:1","gameTime":2}
+
+2023-09-02 14:01:27 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:01:27 New Score is updated...
+
+2023-09-02 14:01:27 {"home":"Sporting U19","away":"Alverca U19","score":"1:1","gameTime":2}
+
+2023-09-02 14:08:22 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:08:22 New Score is updated...
+
+2023-09-02 14:08:22 {"home":"Lindome GIF","away":"Onsala BK","score":"1:2","gameTime":0}
+
+2023-09-02 14:11:17 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:11:17 New Score is updated...
+
+2023-09-02 14:11:17 {"home":"KoiPS","away":"NouLa","score":"1:1","gameTime":0}
+
+2023-09-02 14:11:26 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 14:11:26  *** MakeBet *** 
+
+2023-09-02 14:11:26 {"dbId":"","sport":"","country":"","league":"Austria League 1 Women","dateTime":"","match":"FSK St Polten Femminile vs First Vienna FC 1894 Femminile","score":"0:0","EW":"0","marketName":"OVER 1.5 HT","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-02 14:11:26 31.72
+
+2023-09-02 14:11:26 Current balance : 31.7
+
+2023-09-02 14:11:26 Current Balance : 31.7
+
+2023-09-02 14:11:26 CheckIfLoggedIn
+
+2023-09-02 14:11:26 Logged In Already!
+
+2023-09-02 14:11:26 bet365.com
+
+2023-09-02 14:11:41 FSK St Polten femminile v First Vienna FC 1894 femminile Dis :0.0584099136730716
+
+2023-09-02 14:11:42 Wrong position detected!
+
+2023-09-02 14:11:46 Stake : 7
+
+2023-09-02 14:11:46 Running AddbetScript...
+
+2023-09-02 14:11:46 scrollBetIntoView('1195063772') => 1
+
+2023-09-02 14:11:48 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-02 14:11:50 {
+  "bg": "41d4e4e1-6ffa-4e45-8e6e-477dc176fe12",
+  "sr": 0,
+  "mr": false,
+  "cc": "yqTBhilTwm+zioujNA8uKW9PnA/Y3KPdXOIhksLbW5U=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "918",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/11",
+      "fi": 143187632,
+      "fd": "FSK St Polten femminile v First Vienna FC 1894 femminile",
+      "pt": [
+        {
+          "hd": "1.5",
+          "pi": 1195063772,
+          "bd": "Più di",
+          "ha": "1.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64f32687-BF6E4AFB",
+      "tp": "BS143187632-1195063772",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 143104743,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-02 14:11:52 Fractional Odds : 8/11
+
+2023-09-02 14:11:52 Trademate Odds : 0 , Bet365 Odds : 1.72
+
+2023-09-02 14:11:52 Trying to place bet!
+
+2023-09-02 14:11:52 DoPlacebetUI
+
+2023-09-02 14:11:52 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-02 14:11:54 Trademate Odds : 0 , Bet365 Odds : 1.72
+
+2023-09-02 14:11:54 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-02 14:12:03 31.72
+
+2023-09-02 14:12:03 Current balance : 31.7
+
+2023-09-02 14:12:03 DoLoad365Page
+
+2023-09-02 14:12:03 365 page is loaded!
+
+2023-09-02 14:12:06 [scollodenis01:2711Buruliddu.] SUCCESS. Stake:7 Odds:1.72714285714286
+
+2023-09-02 14:12:06 {
+  "username": "scollodenis01",
+  "tipster": "",
+  "message": "[scollodenis01:2711Buruliddu.] SUCCESS. Stake:7 Odds:1.72714285714286",
+  "stake": 7.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.7271428571428571,
+  "tournament": "Austria League 1 Women",
+  "eventName": "FSK St Polten Femminile vs First Vienna FC 1894 Femminile",
+  "probability": "OVER",
+  "market": "OVER 1.5 HT",
+  "placedAt": "02/09/2023 14:12:03",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 24.7,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-02 14:12:14 Trying to register tip at Bigstake
+
+2023-09-02 14:12:17 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:12:17 New Score is updated...
+
+2023-09-02 14:12:17 {"home":"KoiPS","away":"NouLa","score":"2:1","gameTime":0}
+
+2023-09-02 14:12:17 New Score : KoiPS vs NouLa  2:1
+
+2023-09-02 14:12:17 Pending tip Score : FSK St Polten Femminile vs First Vienna FC 1894 Femminile 0:0
+
+2023-09-02 14:12:29 Registered tip at Bigstake Successfully!
+
+2023-09-02 14:12:32 This Line is already existed on Settled bets!
+
+2023-09-02 14:14:27 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 14:14:27 Pending bet is not finished.!
+
+2023-09-02 14:17:17 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:17:17 New Score is updated...
+
+2023-09-02 14:17:17 {"home":"KoiPS","away":"NouLa","score":"2:2","gameTime":0}
+
+2023-09-02 14:17:17 New Score : KoiPS vs NouLa  2:2
+
+2023-09-02 14:17:17 Pending tip Score : FSK St Polten Femminile vs First Vienna FC 1894 Femminile 0:0
+
+2023-09-02 14:22:20 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:22:20 New Score is updated...
+
+2023-09-02 14:22:20 {"home":"Sarpsborg 2","away":"Fløya","score":"0:2","gameTime":2}
+
+2023-09-02 14:22:20 New Score : Sarpsborg 2 vs Fløya  0:2
+
+2023-09-02 14:22:20 Pending tip Score : FSK St Polten Femminile vs First Vienna FC 1894 Femminile 0:0
+
+2023-09-02 14:24:18 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:24:18 New Score is updated...
+
+2023-09-02 14:24:18 {"home":"RSV Eintracht","away":"SV Tasmania Berlin","score":"0:1","gameTime":0}
+
+2023-09-02 14:24:18 New Score : RSV Eintracht vs SV Tasmania Berlin  0:1
+
+2023-09-02 14:24:18 Pending tip Score : FSK St Polten Femminile vs First Vienna FC 1894 Femminile 0:0
+
+2023-09-02 14:25:30 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 14:25:30 Pending bet is not finished.!
+
+2023-09-02 14:27:19 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:27:19 New Score is updated...
+
+2023-09-02 14:27:19 {"home":"FSK St Polten Femminile","away":"First Vienna FC 1894 Femminile","score":"1:0","gameTime":0}
+
+2023-09-02 14:27:19 New Score : FSK St Polten Femminile vs First Vienna FC 1894 Femminile  1:0
+
+2023-09-02 14:27:19 Pending tip Score : FSK St Polten Femminile vs First Vienna FC 1894 Femminile 0:0
+
+2023-09-02 14:31:17 LastLoginModule_Button Clicked
+
+2023-09-02 14:31:20 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:31:20 New Score is updated...
+
+2023-09-02 14:31:20 {"home":"Lindome GIF","away":"Onsala BK","score":"1:3","gameTime":0}
+
+2023-09-02 14:31:20 New Score : Lindome GIF vs Onsala BK  1:3
+
+2023-09-02 14:31:20 Pending tip Score : FSK St Polten Femminile vs First Vienna FC 1894 Femminile 0:0
+
+2023-09-02 14:36:19 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:36:19 New Score is updated...
+
+2023-09-02 14:36:19 {"home":"KoiPS","away":"NouLa","score":"2:3","gameTime":0}
+
+2023-09-02 14:36:19 New Score : KoiPS vs NouLa  2:3
+
+2023-09-02 14:36:19 Pending tip Score : FSK St Polten Femminile vs First Vienna FC 1894 Femminile 0:0
+
+2023-09-02 14:41:21 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:41:21 New Score is updated...
+
+2023-09-02 14:41:21 {"home":"Lydia Ludic Burundi","away":"Aigle Noir","score":"0:1","gameTime":0}
+
+2023-09-02 14:41:21 New Score : Lydia Ludic Burundi vs Aigle Noir  0:1
+
+2023-09-02 14:41:21 Pending tip Score : FSK St Polten Femminile vs First Vienna FC 1894 Femminile 0:0
+
+2023-09-02 14:42:23 Disconnected Socket Server!!! || transport close
+
+2023-09-02 14:42:24 Connected Socket Server!!!
+
+2023-09-02 14:47:21 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:47:21 New Score is updated...
+
+2023-09-02 14:47:21 {"home":"FSK St Polten Femminile","away":"First Vienna FC 1894 Femminile","score":"2:0","gameTime":0}
+
+2023-09-02 14:47:21 New Score : FSK St Polten Femminile vs First Vienna FC 1894 Femminile  2:0
+
+2023-09-02 14:47:21 Pending tip Score : FSK St Polten Femminile vs First Vienna FC 1894 Femminile 0:0
+
+2023-09-02 14:47:21 Pending Tip is winning now...
+
+2023-09-02 14:48:22 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:48:22 New Score is updated...
+
+2023-09-02 14:48:22 {"home":"KoiPS","away":"NouLa","score":"3:3","gameTime":0}
+
+2023-09-02 14:48:23 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:48:23 New Score is updated...
+
+2023-09-02 14:48:23 {"home":"RSV Eintracht","away":"SV Tasmania Berlin","score":"0:1","gameTime":1}
+
+2023-09-02 14:49:22 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:49:22 New Score is updated...
+
+2023-09-02 14:49:22 {"home":"FSK St Polten Femminile","away":"First Vienna FC 1894 Femminile","score":"2:1","gameTime":0}
+
+2023-09-02 14:50:23 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:50:23 New Score is updated...
+
+2023-09-02 14:50:23 {"home":"FSK St Polten Femminile","away":"First Vienna FC 1894 Femminile","score":"2:1","gameTime":1}
+
+2023-09-02 14:50:47 LastLoginModule_Button Clicked
+
+2023-09-02 14:52:25 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:52:25 New Score is updated...
+
+2023-09-02 14:52:25 {"home":"KoiPS","away":"NouLa","score":"3:3","gameTime":2}
+
+2023-09-02 14:54:23 Recieve new Match Score From Copybet Server!
+
+2023-09-02 14:54:23 New Score is updated...
+
+2023-09-02 14:54:23 {"home":"Lindome GIF","away":"Onsala BK","score":"1:3","gameTime":2}
+
+2023-09-02 15:01:25 Recieve new Match Score From Copybet Server!
+
+2023-09-02 15:01:25 New Score is updated...
+
+2023-09-02 15:01:25 {"home":"RSV Eintracht","away":"SV Tasmania Berlin","score":"0:1","gameTime":1}
+
+2023-09-02 15:04:28 Recieve new Match Score From Copybet Server!
+
+2023-09-02 15:04:28 New Score is updated...
+
+2023-09-02 15:04:28 {"home":"Lydia Ludic Burundi","away":"Aigle Noir","score":"0:1","gameTime":2}
+
+2023-09-02 15:05:59 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-02 15:05:59 The bot has been stopped!
+
+2023-09-02 15:15:17 LastLoginModule_Button Clicked
+
+2023-09-02 15:15:47 LastLoginModule_Button Clicked
+
+2023-09-02 15:16:35 The bot has been started!
+
+2023-09-02 15:16:35 DoLogin
+
+2023-09-02 15:16:35 DoLoad365Page
+
+2023-09-02 15:16:35 365 page is loaded!
+
+2023-09-02 15:16:35 Executed login script!
+
+2023-09-02 15:16:35 Connected Socket Server!!!
+
+2023-09-02 15:16:48 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 15:17:03 DoLoad365Page
+
+2023-09-02 15:17:03 365 page is loaded!
+
+2023-09-02 15:17:06 Executed login script!
+
+2023-09-02 15:17:13 DoLoad365Page
+
+2023-09-02 15:17:13 365 page is loaded!
+
+2023-09-02 15:17:13 LastLoginModule_Button Clicked
+
+2023-09-02 15:17:19 Login Success!
+
+2023-09-02 15:17:25 36.80
+
+2023-09-02 15:17:25 Current balance : 36.8
+
+2023-09-02 15:17:38 Current Balance: 36.8
+
+2023-09-02 15:17:38 Page is initialized!
+
+2023-09-02 15:17:38  *** MakeBet *** 
+
+2023-09-02 15:17:38 {"dbId":"","sport":"","country":"","league":"Norway Division 2 Group 1","dateTime":"","match":"Fram vs Notodden","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-02 15:17:38 36.80
+
+2023-09-02 15:17:38 Current balance : 36.8
+
+2023-09-02 15:17:38 Current Balance : 36.8
+
+2023-09-02 15:17:38 CheckIfLoggedIn
+
+2023-09-02 15:17:38 Logged In Already!
+
+2023-09-02 15:17:38 bet365.com
+
+2023-09-02 15:17:51 Fram Reykjavik v Vikingur Reykjavik Dis :0.430489417989418
+
+2023-09-02 15:17:51 Fram v Notodden Dis :0.0125000000000001
+
+2023-09-02 15:17:52 Wrong position detected!
+
+2023-09-02 15:17:56 Stake : 7
+
+2023-09-02 15:17:56 Running AddbetScript...
+
+2023-09-02 15:17:56 scrollBetIntoView('1194404815') => 1
+
+2023-09-02 15:17:58 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-02 15:17:59 {
+  "bg": "a47acb8d-452b-420a-93a1-167af4cfe6d0",
+  "sr": 0,
+  "mr": false,
+  "cc": "Pg2TQeLkBH7xKUF8JBSWy+PYYvRAKjLoZA0YBZzEBgU=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "918",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/7",
+      "fi": 143183769,
+      "fd": "Fram v Notodden",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1194404815,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS143183769-1194404815",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142713043,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-02 15:18:01 Fractional Odds : 4/7
+
+2023-09-02 15:18:01 Trademate Odds : 0 , Bet365 Odds : 1.57
+
+2023-09-02 15:18:02 Trying to place bet!
+
+2023-09-02 15:18:02 DoPlacebetUI
+
+2023-09-02 15:18:02 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-02 15:18:04 Trademate Odds : 0 , Bet365 Odds : 1.57
+
+2023-09-02 15:18:04 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-02 15:18:13 36.80
+
+2023-09-02 15:18:13 Current balance : 36.8
+
+2023-09-02 15:18:13 DoLoad365Page
+
+2023-09-02 15:18:13 365 page is loaded!
+
+2023-09-02 15:18:16 [scollodenis01:2711Buruliddu.] SUCCESS. Stake:7 Odds:1.57142857142857
+
+2023-09-02 15:18:16 {
+  "username": "scollodenis01",
+  "tipster": "",
+  "message": "[scollodenis01:2711Buruliddu.] SUCCESS. Stake:7 Odds:1.57142857142857",
+  "stake": 7.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.5714285714285714,
+  "tournament": "Norway Division 2 Group 1",
+  "eventName": "Fram vs Notodden",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "02/09/2023 15:18:13",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 29.799999999999997,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-02 15:18:22 Recieve new Match Score From Copybet Server!
+
+2023-09-02 15:18:22 New Score is updated...
+
+2023-09-02 15:18:22 {"home":"FSK St Polten Femminile","away":"First Vienna FC 1894 Femminile","score":"3:1","gameTime":0}
+
+2023-09-02 15:18:22 New Score : FSK St Polten Femminile vs First Vienna FC 1894 Femminile  3:1
+
+2023-09-02 15:18:22 Pending tip Score : Fram vs Notodden 0:0
+
+2023-09-02 15:18:24 Trying to register tip at Bigstake
+
+2023-09-02 15:18:39 Registered tip at Bigstake Successfully!
+
+2023-09-02 15:18:42 This Line is already existed on Settled bets!
+
+2023-09-02 15:19:23 Recieve new Match Score From Copybet Server!
+
+2023-09-02 15:19:23 New Score is updated...
+
+2023-09-02 15:19:23 {"home":"RSV Eintracht","away":"SV Tasmania Berlin","score":"0:2","gameTime":0}
+
+2023-09-02 15:19:23 New Score : RSV Eintracht vs SV Tasmania Berlin  0:2
+
+2023-09-02 15:19:23 Pending tip Score : Fram vs Notodden 0:0
+
+2023-09-02 15:23:55 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 15:23:55 This Line is already existed on Settled bets!
+
+2023-09-02 15:23:55 This Line is already existed on Settled bets!
+
+2023-09-02 15:29:47 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-02 15:29:47 The bot has been stopped!
+
+2023-09-02 15:31:53 The bot has been started!
+
+2023-09-02 15:31:53 DoLogin
+
+2023-09-02 15:31:53 DoLoad365Page
+
+2023-09-02 15:31:53 365 page is loaded!
+
+2023-09-02 15:31:53 Connected Socket Server!!!
+
+2023-09-02 15:32:01 
+
+2023-09-02 15:32:09 1 Settled bets!!!
+
+2023-09-02 15:32:09 Current Balance: -1
+
+2023-09-02 15:32:09 Page is initialized!
+
+2023-09-02 15:39:25 Recieve new Match Score From Copybet Server!
+
+2023-09-02 15:39:25 New Score is updated...
+
+2023-09-02 15:39:25 {"home":"FSK St Polten Femminile","away":"First Vienna FC 1894 Femminile","score":"4:1","gameTime":0}
+
+2023-09-02 15:39:25 New Score : FSK St Polten Femminile vs First Vienna FC 1894 Femminile  4:1
+
+2023-09-02 15:39:25 Pending tip Score : Fram vs Notodden 0:0
+
+2023-09-02 15:39:26 Recieve new Match Score From Copybet Server!
+
+2023-09-02 15:39:26 New Score is updated...
+
+2023-09-02 15:39:26 {"home":"RSV Eintracht","away":"SV Tasmania Berlin","score":"0:3","gameTime":0}
+
+2023-09-02 15:39:26 New Score : RSV Eintracht vs SV Tasmania Berlin  0:3
+
+2023-09-02 15:39:26 Pending tip Score : Fram vs Notodden 0:0
+
+2023-09-02 15:45:25 Recieve new Match Score From Copybet Server!
+
+2023-09-02 15:45:25 New Score is updated...
+
+2023-09-02 15:45:25 {"home":"RSV Eintracht","away":"SV Tasmania Berlin","score":"0:4","gameTime":0}
+
+2023-09-02 15:45:25 New Score : RSV Eintracht vs SV Tasmania Berlin  0:4
+
+2023-09-02 15:45:25 Pending tip Score : Fram vs Notodden 0:0
+
+2023-09-02 15:46:27 Recieve new Match Score From Copybet Server!
+
+2023-09-02 15:46:27 New Score is updated...
+
+2023-09-02 15:46:27 {"home":"Fram","away":"Notodden","score":"0:0","gameTime":1}
+
+2023-09-02 15:46:27 New Score : Fram vs Notodden  0:0
+
+2023-09-02 15:46:27 Pending tip Score : Fram vs Notodden 0:0
+
+2023-09-02 15:46:27 Pending Tip is lost now...
+
+2023-09-02 15:46:34 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 15:46:34  *** MakeBet *** 
+
+2023-09-02 15:46:34 {"dbId":"","sport":"","country":"","league":"Norway Division 2 Group 1","dateTime":"","match":"Fram vs Notodden","score":"0:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-02 15:46:34 29.80
+
+2023-09-02 15:46:34 Current balance : 29.8
+
+2023-09-02 15:46:34 Current Balance : 29.8
+
+2023-09-02 15:46:34 CheckIfLoggedIn
+
+2023-09-02 15:46:34 Logged In Already!
+
+2023-09-02 15:46:34 bet365.com
+
+2023-09-02 15:46:47 Fram Reykjavik v Vikingur Reykjavik Dis :0.430489417989418
+
+2023-09-02 15:46:47 Fram v Notodden Dis :0.0125000000000001
+
+2023-09-02 15:46:48 Wrong position detected!
+
+2023-09-02 15:46:53 Stake : 6
+
+2023-09-02 15:46:53 Running AddbetScript...
+
+2023-09-02 15:46:53 scrollBetIntoView('1194404770') => 1
+
+2023-09-02 15:46:55 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-02 15:46:56 {
+  "bg": "1fe1bb7d-5c04-4ace-9b78-b8ffb48e1d78",
+  "sr": 0,
+  "mr": false,
+  "cc": "uHOCUKF2DjJPx6OCr7WJatY0H9iHaNtY+oeY+/nJ6Q0=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "918",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/7",
+      "fi": 143183769,
+      "fd": "Fram v Notodden",
+      "pt": [
+        {
+          "hd": "1.5",
+          "pi": 1194404770,
+          "bd": "Più di ",
+          "ha": "1.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS143183769-1194404770",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142713043,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-02 15:46:58 Fractional Odds : 4/7
+
+2023-09-02 15:46:58 Trademate Odds : 0 , Bet365 Odds : 1.57
+
+2023-09-02 15:46:58 Trying to place bet!
+
+2023-09-02 15:46:58 DoPlacebetUI
+
+2023-09-02 15:46:58 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-02 15:47:00 Trademate Odds : 0 , Bet365 Odds : 1.57
+
+2023-09-02 15:47:00 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-02 15:47:04 29.80
+
+2023-09-02 15:47:04 Current balance : 29.8
+
+2023-09-02 15:47:04 DoLoad365Page
+
+2023-09-02 15:47:04 365 page is loaded!
+
+2023-09-02 15:47:07 [scollodenis01:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.57
+
+2023-09-02 15:47:08 {
+  "username": "scollodenis01",
+  "tipster": "",
+  "message": "[scollodenis01:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.57",
+  "stake": 6.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.57,
+  "tournament": "Norway Division 2 Group 1",
+  "eventName": "Fram vs Notodden",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "02/09/2023 15:47:04",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 23.8,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-02 15:47:16 Trying to register tip at Bigstake
+
+2023-09-02 15:47:32 Registered tip at Bigstake Successfully!
+
+2023-09-02 15:47:35 This Line is already existed on Settled bets!
+
+2023-09-02 15:50:07 Disconnected Socket Server!!! || transport close
+
+2023-09-02 15:50:09 Connected Socket Server!!!
+
+2023-09-02 15:50:34 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 15:50:34 Pending bet is not finished.!
+
+2023-09-02 15:52:34 Recieve new Match Score From Copybet Server!
+
+2023-09-02 15:52:34 New Score is updated...
+
+2023-09-02 15:52:34 {"home":"RSV Eintracht","away":"SV Tasmania Berlin","score":"0:4","gameTime":2}
+
+2023-09-02 15:52:34 New Score : RSV Eintracht vs SV Tasmania Berlin  0:4
+
+2023-09-02 15:52:34 Pending tip Score : Fram vs Notodden 0:0
+
+2023-09-02 15:56:33 Recieve new Match Score From Copybet Server!
+
+2023-09-02 15:56:33 New Score is updated...
+
+2023-09-02 15:56:33 {"home":"FSK St Polten Femminile","away":"First Vienna FC 1894 Femminile","score":"5:1","gameTime":0}
+
+2023-09-02 15:56:33 New Score : FSK St Polten Femminile vs First Vienna FC 1894 Femminile  5:1
+
+2023-09-02 15:56:33 Pending tip Score : Fram vs Notodden 0:0
+
+2023-09-02 16:00:29 Recieve new Match Score From Copybet Server!
+
+2023-09-02 16:00:29 New Score is updated...
+
+2023-09-02 16:00:29 {"home":"Fram","away":"Notodden","score":"0:0","gameTime":1}
+
+2023-09-02 16:00:29 New Score : Fram vs Notodden  0:0
+
+2023-09-02 16:00:29 Pending tip Score : Fram vs Notodden 0:0
+
+2023-09-02 16:01:37 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-02 16:01:37 The bot has been stopped!
+2023-09-02 16:18:56 Chrome_RenderWidgetHostHWND
+
+2023-09-02 16:18:56 Websocket server is listening on 8880
+
+2023-09-02 16:18:56 DoLogin
+
+2023-09-02 16:18:56 DoLoad365Page
+
+2023-09-02 16:18:56 365 page is loaded!
+
+2023-09-02 16:18:56 Executed login script!
+
+2023-09-02 16:19:23 DoLoad365Page
+
+2023-09-02 16:19:23 365 page is loaded!
+
+2023-09-02 16:19:26 Executed login script!
+
+2023-09-02 16:19:33 DoLoad365Page
+
+2023-09-02 16:19:33 365 page is loaded!
+
+2023-09-02 16:19:33 LastLoginModule_Button Clicked
+
+2023-09-02 16:19:39 Login Success!
+
+2023-09-02 16:19:46 0 Settled bets!!!
+
+2023-09-02 16:19:46 Browser Connected!
+
+2023-09-02 16:19:49 The bot has been started!
+
+2023-09-02 16:19:49 DoLogin
+
+2023-09-02 16:19:49 DoLoad365Page
+
+2023-09-02 16:19:49 365 page is loaded!
+
+2023-09-02 16:19:49 Connected Socket Server!!!
+
+2023-09-02 16:19:52 33.22
+
+2023-09-02 16:19:52 Current balance : 33.2
+
+2023-09-02 16:19:56 0 Settled bets!!!
+
+2023-09-02 16:19:56 Current Balance: 33.2
+
+2023-09-02 16:19:56 Page is initialized!
+
+2023-09-02 16:21:25 Recieve new Match Score From Copybet Server!
+
+2023-09-02 16:21:25 New Score is updated...
+
+2023-09-02 16:21:25 {"home":"Fram","away":"Notodden","score":"3:1","gameTime":0}
+
+2023-09-02 16:21:26 Recieve new Match Score From Copybet Server!
+
+2023-09-02 16:21:26 New Score is updated...
+
+2023-09-02 16:21:26 {"home":"TSG Hoffenheim","away":"Wolfsburg","score":"1:1","gameTime":1}
+
+2023-09-02 16:31:27 Recieve new Match Score From Copybet Server!
+
+2023-09-02 16:31:27 New Score is updated...
+
+2023-09-02 16:31:27 {"home":"Fram","away":"Notodden","score":"3:2","gameTime":0}
+
+2023-09-02 16:36:37 Recieve new Match Score From Copybet Server!
+
+2023-09-02 16:36:37 New Score is updated...
+
+2023-09-02 16:36:37 {"home":"TSG Hoffenheim","away":"Wolfsburg","score":"1:1","gameTime":1}
+
+2023-09-02 16:39:22 LastLoginModule_Button Clicked
+
+2023-09-02 16:51:42 Recieve new Match Score From Copybet Server!
+
+2023-09-02 16:51:42 New Score is updated...
+
+2023-09-02 16:51:42 {"home":"TSG Hoffenheim","away":"Wolfsburg","score":"2:1","gameTime":0}
+
+2023-09-02 16:58:52 LastLoginModule_Button Clicked
+
+2023-09-02 17:06:37 Recieve new Match Score From Copybet Server!
+
+2023-09-02 17:06:37 New Score is updated...
+
+2023-09-02 17:06:37 {"home":"TSG Hoffenheim","away":"Wolfsburg","score":"3:1","gameTime":0}
+
+2023-09-02 17:11:39 Recieve new Match Score From Copybet Server!
+
+2023-09-02 17:11:39 New Score is updated...
+
+2023-09-02 17:11:39 {"home":"Fram","away":"Notodden","score":"3:2","gameTime":2}
+
+2023-09-02 17:18:22 LastLoginModule_Button Clicked
+
+2023-09-02 17:20:36 Recieve new Match Score From Copybet Server!
+
+2023-09-02 17:20:36 New Score is updated...
+
+2023-09-02 17:20:36 {"home":"TSG Hoffenheim","away":"Wolfsburg","score":"4:1","gameTime":0}
+
+2023-09-02 17:21:36 Recieve new Match Score From Copybet Server!
+
+2023-09-02 17:21:36 New Score is updated...
+
+2023-09-02 17:21:36 {"home":"[91'] TSG Hoffenheim [3]","away":"1 Wolfsburg","score":"3:1","gameTime":2}
+
+2023-09-02 17:23:47 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 17:23:47  *** MakeBet *** 
+
+2023-09-02 17:23:47 {"dbId":"","sport":"","country":"","league":"Finland Kolmonen","dateTime":"","match":"ToTe vs TuPS","score":"1:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-02 17:23:47 33.22
+
+2023-09-02 17:23:47 Current balance : 33.2
+
+2023-09-02 17:23:47 Current Balance : 33.2
+
+2023-09-02 17:23:47 CheckIfLoggedIn
+
+2023-09-02 17:23:47 Logged In Already!
+
+2023-09-02 17:23:47 bet365.com
+
+2023-09-02 17:23:57 ToTe v TuPS Dis :0.0166666666666667
+
+2023-09-02 17:23:57 Wrong position detected!
+
+2023-09-02 17:24:02 Stake : 6
+
+2023-09-02 17:24:02 Running AddbetScript...
+
+2023-09-02 17:24:02 scrollBetIntoView('1194225148') => 1
+
+2023-09-02 17:24:04 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-02 17:24:06 {
+  "bg": "504503c4-ebc8-41f4-ba49-34b96c855ebb",
+  "sr": 0,
+  "mr": false,
+  "cc": "Cy5/SBcdigK8W1TYRUc4nGm0MZZYEAAZE4njRYoBcMs=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "918",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "3/10",
+      "fi": 143182725,
+      "fd": "ToTe v TuPS",
+      "pt": [
+        {
+          "pi": 1194225148,
+          "bd": "Più di 1.5",
+          "ha": "1.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS143182725-1194225148",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 143106580,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-02 17:24:08 Fractional Odds : 3/10
+
+2023-09-02 17:24:08 Trademate Odds : 0 , Bet365 Odds : 1.3
+
+2023-09-02 17:24:08 Trying to place bet!
+
+2023-09-02 17:24:08 DoPlacebetUI
+
+2023-09-02 17:24:08 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-02 17:24:10 Trademate Odds : 0 , Bet365 Odds : 1.3
+
+2023-09-02 17:24:10 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-02 17:24:19 33.22
+
+2023-09-02 17:24:19 Current balance : 33.2
+
+2023-09-02 17:24:19 DoLoad365Page
+
+2023-09-02 17:24:19 365 page is loaded!
+
+2023-09-02 17:24:22 [scollodenis01:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.3
+
+2023-09-02 17:24:22 {
+  "username": "scollodenis01",
+  "tipster": "",
+  "message": "[scollodenis01:2711Buruliddu.] SUCCESS. Stake:6 Odds:1.3",
+  "stake": 6.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.3,
+  "tournament": "Finland Kolmonen",
+  "eventName": "ToTe vs TuPS",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "02/09/2023 17:24:19",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 27.200000000000003,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-02 17:24:30 Trying to register tip at Bigstake
+
+2023-09-02 17:24:45 Registered tip at Bigstake Successfully!
+
+2023-09-02 17:24:48 This Line is already existed on Settled bets!
+
+2023-09-02 17:25:48 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 17:25:48 Pending bet is not finished.!
+
+2023-09-02 17:29:43 Recieve new Match Score From Copybet Server!
+
+2023-09-02 17:29:43 New Score is updated...
+
+2023-09-02 17:29:43 {"home":"TSG Hoffenheim","away":"Wolfsburg","score":"3:2","gameTime":0}
+
+2023-09-02 17:29:43 New Score : TSG Hoffenheim vs Wolfsburg  3:2
+
+2023-09-02 17:29:43 Pending tip Score : ToTe vs TuPS 1:0
+
+2023-09-02 17:30:40 Recieve new Match Score From Copybet Server!
+
+2023-09-02 17:30:40 New Score is updated...
+
+2023-09-02 17:30:40 {"home":"[91'] TSG Hoffenheim 3","away":"[1] Wolfsburg","score":"3:1","gameTime":2}
+
+2023-09-02 17:30:40 New Score : [91'] TSG Hoffenheim 3 vs [1] Wolfsburg  3:1
+
+2023-09-02 17:30:40 Pending tip Score : ToTe vs TuPS 1:0
+
+2023-09-02 17:35:45 Recieve new Match Score From Copybet Server!
+
+2023-09-02 17:35:45 New Score is updated...
+
+2023-09-02 17:35:45 {"home":"TSG Hoffenheim","away":"Wolfsburg","score":"3:1","gameTime":2}
+
+2023-09-02 17:35:45 New Score : TSG Hoffenheim vs Wolfsburg  3:1
+
+2023-09-02 17:35:45 Pending tip Score : ToTe vs TuPS 1:0
+
+2023-09-02 17:36:40 Recieve new Match Score From Copybet Server!
+
+2023-09-02 17:36:40 New Score is updated...
+
+2023-09-02 17:36:40 {"home":"Glentoran","away":"Cliftonville","score":"1:0","gameTime":0}
+
+2023-09-02 17:36:40 New Score : Glentoran vs Cliftonville  1:0
+
+2023-09-02 17:36:40 Pending tip Score : ToTe vs TuPS 1:0
+
+2023-09-02 17:43:22 LastLoginModule_Button Clicked
+
+2023-09-02 17:56:55 Recieve new Match Score From Copybet Server!
+
+2023-09-02 17:56:55 New Score is updated...
+
+2023-09-02 17:56:55 {"home":"ToTe","away":"TuPS","score":"1:0","gameTime":2}
+
+2023-09-02 17:56:55 New Score : ToTe vs TuPS  1:0
+
+2023-09-02 17:56:55 Pending tip Score : ToTe vs TuPS 1:0
+
+2023-09-02 17:56:55 Pending Tip is lost now...
+
+2023-09-02 18:02:52 LastLoginModule_Button Clicked
+
+2023-09-02 18:11:36 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 18:11:36  *** MakeBet *** 
+
+2023-09-02 18:11:36 {"dbId":"","sport":"","country":"","league":"France National 3","dateTime":"","match":"Montpellier II vs AS Cagnes Le Cros","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-02 18:11:36 27.22
+
+2023-09-02 18:11:36 Current balance : 27.2
+
+2023-09-02 18:11:36 Current Balance : 27.2
+
+2023-09-02 18:11:36 CheckIfLoggedIn
+
+2023-09-02 18:11:36 Logged In Already!
+
+2023-09-02 18:11:36 bet365.com
+
+2023-09-02 18:11:47 Montpellier II v AS Cagnes Le Cros Dis :0.0586554621848739
+
+2023-09-02 18:11:48 Wrong position detected!
+
+2023-09-02 18:11:53 Stake : 8
+
+2023-09-02 18:11:53 Running AddbetScript...
+
+2023-09-02 18:11:53 scrollBetIntoView('1194552817') => 1
+
+2023-09-02 18:11:55 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-02 18:11:56 {
+  "bg": "73ad7c8e-290e-4ae7-a78b-d534c27c2095",
+  "sr": 0,
+  "mr": false,
+  "cc": "6U5aml8QsHjuNE+Q12X6tPwwVhpfQqEL0VGEsvAoXeQ=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "918",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/11",
+      "fi": 143184541,
+      "fd": "Montpellier II v AS Cagnes Le Cros",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1194552817,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64f35ece-DB695BBB",
+      "tp": "BS143184541-1194552817",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 143127323,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-02 18:11:58 Fractional Odds : 8/11
+
+2023-09-02 18:11:58 Trademate Odds : 0 , Bet365 Odds : 1.72
+
+2023-09-02 18:11:58 Trying to place bet!
+
+2023-09-02 18:11:58 DoPlacebetUI
+
+2023-09-02 18:11:58 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-02 18:12:00 Trademate Odds : 0 , Bet365 Odds : 1.72
+
+2023-09-02 18:12:00 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-02 18:12:09 27.22
+
+2023-09-02 18:12:09 Current balance : 27.2
+
+2023-09-02 18:12:09 DoLoad365Page
+
+2023-09-02 18:12:09 365 page is loaded!
+
+2023-09-02 18:12:12 [scollodenis01:2711Buruliddu.] SUCCESS. Stake:8 Odds:1.72625
+
+2023-09-02 18:12:12 {
+  "username": "scollodenis01",
+  "tipster": "",
+  "message": "[scollodenis01:2711Buruliddu.] SUCCESS. Stake:8 Odds:1.72625",
+  "stake": 8.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.72625,
+  "tournament": "France National 3",
+  "eventName": "Montpellier II vs AS Cagnes Le Cros",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "02/09/2023 18:12:09",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 19.2,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-02 18:12:21 Trying to register tip at Bigstake
+
+2023-09-02 18:12:36 Registered tip at Bigstake Successfully!
+
+2023-09-02 18:12:39 This Line is already existed on Settled bets!
+
+2023-09-02 18:15:28 Recieve new Match Score From Copybet Server!
+
+2023-09-02 18:15:28 New Score is updated...
+
+2023-09-02 18:15:28 {"home":"Glentoran","away":"Cliftonville","score":"1:0","gameTime":2}
+
+2023-09-02 18:15:28 New Score : Glentoran vs Cliftonville  1:0
+
+2023-09-02 18:15:28 Pending tip Score : Montpellier II vs AS Cagnes Le Cros 0:0
+
+2023-09-02 18:17:42 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 18:17:42 Pending bet is not finished.!
+
+2023-09-02 18:20:34 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 18:20:34 Pending bet is not finished.!
+
+2023-09-02 18:20:35 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 18:20:35 Pending bet is not finished.!
+
+2023-09-02 18:26:27 Recieve new Match Score From Copybet Server!
+
+2023-09-02 18:26:27 New Score is updated...
+
+2023-09-02 18:26:27 {"home":"Njardvik","away":"Leiknir Reykjavik","score":"0:1","gameTime":0}
+
+2023-09-02 18:26:27 New Score : Njardvik vs Leiknir Reykjavik  0:1
+
+2023-09-02 18:26:27 Pending tip Score : Montpellier II vs AS Cagnes Le Cros 0:0
+
+2023-09-02 18:31:22 LastLoginModule_Button Clicked
+
+2023-09-02 18:35:22 Recieve new Match Score From Copybet Server!
+
+2023-09-02 18:35:22 New Score is updated...
+
+2023-09-02 18:35:22 {"home":"Njardvik","away":"Leiknir Reykjavik","score":"0:2","gameTime":0}
+
+2023-09-02 18:35:22 New Score : Njardvik vs Leiknir Reykjavik  0:2
+
+2023-09-02 18:35:22 Pending tip Score : Montpellier II vs AS Cagnes Le Cros 0:0
+
+2023-09-02 18:38:25 Recieve new Match Score From Copybet Server!
+
+2023-09-02 18:38:25 New Score is updated...
+
+2023-09-02 18:38:25 {"home":"Njardvik","away":"Leiknir Reykjavik","score":"1:2","gameTime":0}
+
+2023-09-02 18:38:25 New Score : Njardvik vs Leiknir Reykjavik  1:2
+
+2023-09-02 18:38:25 Pending tip Score : Montpellier II vs AS Cagnes Le Cros 0:0
+
+2023-09-02 18:42:22 Disconnected Socket Server!!! || ping timeout
+
+2023-09-02 18:42:23 Connected Socket Server!!!
+
+2023-09-02 18:43:23 Recieve new Match Score From Copybet Server!
+
+2023-09-02 18:43:23 New Score is updated...
+
+2023-09-02 18:43:23 {"home":"US Hostert","away":"Lorentzweiler","score":"0:1","gameTime":0}
+
+2023-09-02 18:43:23 New Score : US Hostert vs Lorentzweiler  0:1
+
+2023-09-02 18:43:23 Pending tip Score : Montpellier II vs AS Cagnes Le Cros 0:0
+
+2023-09-02 18:47:25 Recieve new Match Score From Copybet Server!
+
+2023-09-02 18:47:25 New Score is updated...
+
+2023-09-02 18:47:25 {"home":"Njardvik","away":"Leiknir Reykjavik","score":"1:2","gameTime":1}
+
+2023-09-02 18:47:25 New Score : Njardvik vs Leiknir Reykjavik  1:2
+
+2023-09-02 18:47:25 Pending tip Score : Montpellier II vs AS Cagnes Le Cros 0:0
+
+2023-09-02 18:47:26 Recieve new Match Score From Copybet Server!
+
+2023-09-02 18:47:26 New Score is updated...
+
+2023-09-02 18:47:26 {"home":"Montpellier II","away":"AS Cagnes Le Cros","score":"0:0","gameTime":1}
+
+2023-09-02 18:47:26 New Score : Montpellier II vs AS Cagnes Le Cros  0:0
+
+2023-09-02 18:47:26 Pending tip Score : Montpellier II vs AS Cagnes Le Cros 0:0
+
+2023-09-02 18:47:26 Pending Tip is lost now...
+
+2023-09-02 18:47:27 Recieve new Match Score From Copybet Server!
+
+2023-09-02 18:47:27 New Score is updated...
+
+2023-09-02 18:47:27 {"home":"US Hostert","away":"Lorentzweiler","score":"1:1","gameTime":0}
+
+2023-09-02 18:50:52 LastLoginModule_Button Clicked
+
+2023-09-02 18:51:35 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 18:51:35  *** MakeBet *** 
+
+2023-09-02 18:51:35 {"dbId":"","sport":"","country":"","league":"England Premier League","dateTime":"","match":"Brighton vs Newcastle","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-02 18:51:35 19.22
+
+2023-09-02 18:51:35 Current balance : 19.2
+
+2023-09-02 18:51:35 Current Balance : 19.2
+
+2023-09-02 18:51:35 CheckIfLoggedIn
+
+2023-09-02 18:51:35 Logged In Already!
+
+2023-09-02 18:51:35 bet365.com
+
+2023-09-02 18:51:49 Brighton v Newcastle Dis :0.0395238095238096
+
+2023-09-02 18:51:49 Manchester United v Brighton Dis :0.433760683760684
+
+2023-09-02 18:51:50 Wrong position detected!
+
+2023-09-02 18:51:54 Stake : 10
+
+2023-09-02 18:51:54 Running AddbetScript...
+
+2023-09-02 18:51:54 scrollBetIntoView('1190826793') => 1
+
+2023-09-02 18:51:56 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-02 18:51:57 {
+  "bg": "4abdb0fd-f0f7-456d-8e38-2c99733a7b63",
+  "sr": 0,
+  "mr": false,
+  "cc": "4S4/cnVhyDs+3tJDPI1bbKhKYjy2S3XrVZK5CXQSyAU=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "918",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "1/2",
+      "fi": 143153796,
+      "fd": "Brighton v Newcastle",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1190826793,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64f3682f-5AB1DCB7",
+      "tp": "BS143153796-1190826793",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142390523,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-02 18:51:59 Fractional Odds : 1/2
+
+2023-09-02 18:51:59 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-09-02 18:51:59 Trying to place bet!
+
+2023-09-02 18:51:59 DoPlacebetUI
+
+2023-09-02 18:51:59 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-02 18:52:01 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-09-02 18:52:01 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-02 18:52:10 19.22
+
+2023-09-02 18:52:10 Current balance : 19.2
+
+2023-09-02 18:52:10 DoLoad365Page
+
+2023-09-02 18:52:11 365 page is loaded!
+
+2023-09-02 18:52:14 [scollodenis01:2711Buruliddu.] SUCCESS. Stake:10 Odds:1.533
+
+2023-09-02 18:52:14 {
+  "username": "scollodenis01",
+  "tipster": "",
+  "message": "[scollodenis01:2711Buruliddu.] SUCCESS. Stake:10 Odds:1.533",
+  "stake": 10.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.533,
+  "tournament": "England Premier League",
+  "eventName": "Brighton vs Newcastle",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "02/09/2023 18:52:10",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 9.2,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-02 18:52:22 Trying to register tip at Bigstake
+
+2023-09-02 18:52:23 Recieve new Match Score From Copybet Server!
+
+2023-09-02 18:52:23 New Score is updated...
+
+2023-09-02 18:52:23 {"home":"US Hostert","away":"Lorentzweiler","score":"1:1","gameTime":1}
+
+2023-09-02 18:52:23 New Score : US Hostert vs Lorentzweiler  1:1
+
+2023-09-02 18:52:23 Pending tip Score : Brighton vs Newcastle 0:0
+
+2023-09-02 18:52:38 Registered tip at Bigstake Successfully!
+
+2023-09-02 18:52:41 This Line is already existed on Settled bets!
+
+2023-09-02 18:56:29 Recieve new Match Score From Copybet Server!
+
+2023-09-02 18:56:29 New Score is updated...
+
+2023-09-02 18:56:29 {"home":"FC Sellier & Bellot Vlasim","away":"Vysocina Jihlava","score":"1:0","gameTime":2}
+
+2023-09-02 18:56:29 New Score : FC Sellier & Bellot Vlasim vs Vysocina Jihlava  1:0
+
+2023-09-02 18:56:29 Pending tip Score : Brighton vs Newcastle 0:0
+
+2023-09-02 18:58:23 Recieve new Match Score From Copybet Server!
+
+2023-09-02 18:58:23 New Score is updated...
+
+2023-09-02 18:58:23 {"home":"Brighton","away":"Newcastle","score":"1:0","gameTime":0}
+
+2023-09-02 18:58:23 New Score : Brighton vs Newcastle  1:0
+
+2023-09-02 18:58:23 Pending tip Score : Brighton vs Newcastle 0:0
+
+2023-09-02 18:58:23 Pending Tip is winning now...
+
+2023-09-02 19:01:27 Recieve new Match Score From Copybet Server!
+
+2023-09-02 19:01:27 New Score is updated...
+
+2023-09-02 19:01:27 {"home":"Njardvik","away":"Leiknir Reykjavik","score":"1:2","gameTime":1}
+
+2023-09-02 19:03:23 Recieve new Match Score From Copybet Server!
+
+2023-09-02 19:03:23 New Score is updated...
+
+2023-09-02 19:03:23 {"home":"Montpellier II","away":"AS Cagnes Le Cros","score":"1:0","gameTime":0}
+
+2023-09-02 19:04:26 Recieve new Match Score From Copybet Server!
+
+2023-09-02 19:04:26 New Score is updated...
+
+2023-09-02 19:04:26 {"home":"Njardvik","away":"Leiknir Reykjavik","score":"1:3","gameTime":0}
+
+2023-09-02 19:06:23 Recieve new Match Score From Copybet Server!
+
+2023-09-02 19:06:23 New Score is updated...
+
+2023-09-02 19:06:23 {"home":"US Hostert","away":"Lorentzweiler","score":"1:1","gameTime":1}
+
+2023-09-02 19:08:22 Recieve new Match Score From Copybet Server!
+
+2023-09-02 19:08:22 New Score is updated...
+
+2023-09-02 19:08:22 {"home":"Montpellier II","away":"AS Cagnes Le Cros","score":"2:0","gameTime":0}
+
+2023-09-02 19:11:22 LastLoginModule_Button Clicked
+
+2023-09-02 19:12:21 Recieve new Match Score From Copybet Server!
+
+2023-09-02 19:12:21 New Score is updated...
+
+2023-09-02 19:12:21 {"home":"Montpellier II","away":"AS Cagnes Le Cros","score":"3:0","gameTime":0}
+
+2023-09-02 19:14:23 Recieve new Match Score From Copybet Server!
+
+2023-09-02 19:14:23 New Score is updated...
+
+2023-09-02 19:14:23 {"home":"Njardvik","away":"Leiknir Reykjavik","score":"2:3","gameTime":0}
+
+2023-09-02 19:17:21 Recieve new Match Score From Copybet Server!
+
+2023-09-02 19:17:21 New Score is updated...
+
+2023-09-02 19:17:21 {"home":"Montpellier II","away":"AS Cagnes Le Cros","score":"4:0","gameTime":0}
+
+2023-09-02 19:18:39 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-02 19:18:39 The bot has been stopped!
+2023-09-02 20:59:29 Chrome_RenderWidgetHostHWND
+
+2023-09-02 20:59:29 Websocket server is listening on 8880
+
+2023-09-02 20:59:29 DoLogin
+
+2023-09-02 20:59:29 DoLoad365Page
+
+2023-09-02 20:59:29 365 page is loaded!
+
+2023-09-02 20:59:29 Executed login script!
+
+2023-09-02 20:59:56 DoLoad365Page
+
+2023-09-02 20:59:56 365 page is loaded!
+
+2023-09-02 21:00:04 Executed login script!
+
+2023-09-02 21:00:11 DoLoad365Page
+
+2023-09-02 21:00:11 365 page is loaded!
+
+2023-09-02 21:00:11 LastLoginModule_Button Clicked
+
+2023-09-02 21:00:17 Login Success!
+
+2023-09-02 21:00:24 0 Settled bets!!!
+
+2023-09-02 21:00:24 Browser Connected!
+
+2023-09-02 21:02:41 The bot has been started!
+
+2023-09-02 21:02:41 DoLogin
+
+2023-09-02 21:02:41 DoLoad365Page
+
+2023-09-02 21:02:41 365 page is loaded!
+
+2023-09-02 21:02:42 Connected Socket Server!!!
+
+2023-09-02 21:02:44 24.55
+
+2023-09-02 21:02:44 Current balance : 24.5
+
+2023-09-02 21:02:50 0 Settled bets!!!
+
+2023-09-02 21:02:50 Current Balance: 24.5
+
+2023-09-02 21:02:50 Page is initialized!
+
+2023-09-02 21:22:17 LastLoginModule_Button Clicked
+
+2023-09-02 21:31:29 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 21:31:29  *** MakeBet *** 
+
+2023-09-02 21:31:29 {"dbId":"","sport":"","country":"","league":"Argentina Nacional B","dateTime":"","match":"CA Estudiantes Caseros vs Villa Dalmine","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-02 21:31:30 24.55
+
+2023-09-02 21:31:30 Current balance : 24.5
+
+2023-09-02 21:31:30 Current Balance : 24.5
+
+2023-09-02 21:31:30 CheckIfLoggedIn
+
+2023-09-02 21:31:30 Logged In Already!
+
+2023-09-02 21:31:30 bet365.com
+
+2023-09-02 21:31:44 CA Estudiantes Caseros v Villa Dalmine Dis :0.00512820512820511
+
+2023-09-02 21:31:44 CA Estudiantes Caseros femminile v Gimnasia LP femminile Dis :0.12014652014652
+
+2023-09-02 21:31:49 Not Found Odds on Bet365..
+
+2023-09-02 21:31:52  *** MakeBet *** 
+
+2023-09-02 21:31:52 {"dbId":"","sport":"","country":"","league":"Argentina Nacional B","dateTime":"","match":"CA Estudiantes Caseros vs Villa Dalmine","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-02 21:31:52 24.55
+
+2023-09-02 21:31:52 Current balance : 24.5
+
+2023-09-02 21:31:52 Current Balance : 24.5
+
+2023-09-02 21:31:52 CheckIfLoggedIn
+
+2023-09-02 21:31:52 Logged In Already!
+
+2023-09-02 21:31:52 bet365.com
+
+2023-09-02 21:31:52 Wrong position detected!
+
+2023-09-02 21:31:53 Wrong position detected!
+
+2023-09-02 21:31:56 CA Estudiantes Caseros v Villa Dalmine Dis :0.00512820512820511
+
+2023-09-02 21:31:56 CA Estudiantes Caseros femminile v Gimnasia LP femminile Dis :0.12014652014652
+
+2023-09-02 21:32:01 Not Found Odds on Bet365..
+
+2023-09-02 21:43:22 Recieve new Match Score From Copybet Server!
+
+2023-09-02 21:43:22 New Score is updated...
+
+2023-09-02 21:43:22 {"home":"CA Estudiantes Caseros","away":"Villa Dalmine","score":"1:0","gameTime":0}
+
+2023-09-02 21:51:47 LastLoginModule_Button Clicked
+
+2023-09-02 21:54:28 Recieve 1 new bets From Copybet Server!
+
+2023-09-02 21:54:28  *** MakeBet *** 
+
+2023-09-02 21:54:28 {"dbId":"","sport":"","country":"","league":"Argentina Torneo A","dateTime":"","match":"Independiente Chivilcoy vs Gimnasia C. Uruguay","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-09-02 21:54:28 24.55
+
+2023-09-02 21:54:28 Current balance : 24.5
+
+2023-09-02 21:54:28 Current Balance : 24.5
+
+2023-09-02 21:54:28 CheckIfLoggedIn
+
+2023-09-02 21:54:28 Logged In Already!
+
+2023-09-02 21:54:28 bet365.com
+
+2023-09-02 21:54:28 Wrong position detected!
+
+2023-09-02 21:54:29 Wrong position detected!
+
+2023-09-02 21:54:32 Independiente Chivilcoy v Gimnasia C. Uruguay Dis :0.0176811594202899
+
+2023-09-02 21:54:33 Wrong position detected!
+
+2023-09-02 21:54:38 Stake : 10
+
+2023-09-02 21:54:38 Running AddbetScript...
+
+2023-09-02 21:54:38 scrollBetIntoView('1193637468') => 1
+
+2023-09-02 21:54:39 Odds Pos : X : 212.25 , Y: 347
+
+2023-09-02 21:54:41 {
+  "bg": "f037544e-beb6-4573-b807-8446b48690d7",
+  "sr": 0,
+  "mr": false,
+  "cc": "ilXPDIKx4GBFJ7ui+0y9csY9zNtAJHwoMjZRV+LloFQ=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "918",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "5/6",
+      "fi": 143179660,
+      "fd": "Independiente Chivilcoy v Gimnasia C. Uruguay",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1193637468,
+          "bd": "Più di ",
+          "ha": "0.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS143179660-1193637468",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 143116283,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-09-02 21:54:43 Fractional Odds : 5/6
+
+2023-09-02 21:54:43 Trademate Odds : 0 , Bet365 Odds : 1.83
+
+2023-09-02 21:54:43 Trying to place bet!
+
+2023-09-02 21:54:43 DoPlacebetUI
+
+2023-09-02 21:54:43 betslip pos => {
+  "x": 319.5,
+  "y": 556.5,
+  "width": 1,
+  "height": 24,
+  "top": 556.5,
+  "right": 320.5,
+  "bottom": 580.5,
+  "left": 319.5
+}
+
+2023-09-02 21:54:45 Trademate Odds : 0 , Bet365 Odds : 1.83
+
+2023-09-02 21:54:45 Placebet Button pos => {"x":529.5,"y":544,"width":225,"height":50,"top":544,"right":754.5,"bottom":594,"left":529.5}
+
+2023-09-02 21:54:54 24.55
+
+2023-09-02 21:54:54 Current balance : 24.5
+
+2023-09-02 21:54:54 DoLoad365Page
+
+2023-09-02 21:54:54 365 page is loaded!
+
+2023-09-02 21:54:57 [scollodenis01:2711Buruliddu.] SUCCESS. Stake:10 Odds:1.833
+
+2023-09-02 21:54:57 {
+  "username": "scollodenis01",
+  "tipster": "",
+  "message": "[scollodenis01:2711Buruliddu.] SUCCESS. Stake:10 Odds:1.833",
+  "stake": 10.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.8329999999999997,
+  "tournament": "Argentina Torneo A",
+  "eventName": "Independiente Chivilcoy vs Gimnasia C. Uruguay",
+  "probability": "OVER",
+  "market": "OVER 0.5",
+  "placedAt": "02/09/2023 21:54:54",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 14.5,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-09-02 21:55:05 Trying to register tip at Bigstake
+
+2023-09-02 21:55:19 Registered tip at Bigstake Successfully!
+
+2023-09-02 21:55:22 This Line is already existed on Settled bets!
+
+2023-09-02 22:05:27 Recieve new Match Score From Copybet Server!
+
+2023-09-02 22:05:27 New Score is updated...
+
+2023-09-02 22:05:27 {"home":"CA Estudiantes Caseros","away":"Villa Dalmine","score":"1:0","gameTime":2}
+
+2023-09-02 22:05:27 New Score : CA Estudiantes Caseros vs Villa Dalmine  1:0
+
+2023-09-02 22:05:27 Pending tip Score : Independiente Chivilcoy vs Gimnasia C. Uruguay 0:0
+
+2023-09-02 22:14:17 LastLoginModule_Button Clicked
+
+2023-09-02 22:29:18 Recieve new Match Score From Copybet Server!
+
+2023-09-02 22:29:18 New Score is updated...
+
+2023-09-02 22:29:18 {"home":"Independiente Chivilcoy","away":"Gimnasia C. Uruguay","score":"0:0","gameTime":2}
+
+2023-09-02 22:29:18 New Score : Independiente Chivilcoy vs Gimnasia C. Uruguay  0:0
+
+2023-09-02 22:29:18 Pending tip Score : Independiente Chivilcoy vs Gimnasia C. Uruguay 0:0
+
+2023-09-02 22:29:18 Pending Tip is lost now...
+
+2023-09-02 22:33:47 LastLoginModule_Button Clicked
+
+2023-09-02 22:53:17 LastLoginModule_Button Clicked
+
+2023-09-02 23:12:47 LastLoginModule_Button Clicked
+
+2023-09-02 23:32:17 LastLoginModule_Button Clicked
+
+2023-09-02 23:51:47 LastLoginModule_Button Clicked

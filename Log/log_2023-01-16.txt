@@ -1,0 +1,2101 @@
+﻿2023-01-16 15:56:04 Chrome_RenderWidgetHostHWND
+
+2023-01-16 15:56:04 Websocket server is listening on 8880
+
+2023-01-16 15:56:04 DoLogin
+
+2023-01-16 15:56:04 DoLoad365Page
+
+2023-01-16 15:56:19 365 page is loaded!
+
+2023-01-16 15:56:19 Executed login script!
+
+2023-01-16 15:56:26 DoLoad365Page
+
+2023-01-16 15:56:26 365 page is loaded!
+
+2023-01-16 15:56:26 LastLoginModule_Button Clicked
+
+2023-01-16 15:56:32 Login Success!
+
+2023-01-16 15:56:39 0 Settled bets!!!
+
+2023-01-16 15:56:39 Browser Connected!
+
+2023-01-16 15:56:48 The bot has been started!
+
+2023-01-16 15:56:48 DoLogin
+
+2023-01-16 15:56:48 DoLoad365Page
+
+2023-01-16 15:56:48 365 page is loaded!
+
+2023-01-16 15:56:49 Connected Socket Server!!!
+
+2023-01-16 15:56:51 122.55
+
+2023-01-16 15:56:51 LastLoginModule_Button Clicked
+
+2023-01-16 15:56:51 Current balance : 122.5
+
+2023-01-16 15:56:59 0 Settled bets!!!
+
+2023-01-16 15:57:00 Current Balance: 122.5
+
+2023-01-16 15:57:00 Page is initialized!
+
+2023-01-16 16:01:52 Exception in BetslipNew message: System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in CEBet365Placer.Controller.SocketConnector.<startListening>b__12_4(Object data) in F:\Tools\work\Mobile\Tipsters\Italay_Telegram_BotTino_bot\Telegram_bot(Italy)\TelegramPlacer\NewBet365Leader\Controller\SocketConnector.cs:riga 115
+2023-01-16 16:09:08 Chrome_RenderWidgetHostHWND
+
+2023-01-16 16:09:08 Websocket server is listening on 8880
+
+2023-01-16 16:09:08 DoLogin
+
+2023-01-16 16:09:08 DoLoad365Page
+
+2023-01-16 16:09:14 365 page is loaded!
+
+2023-01-16 16:09:17 0 Settled bets!!!
+
+2023-01-16 16:09:17 Browser Connected!
+
+2023-01-16 16:09:45 The bot has been started!
+
+2023-01-16 16:09:45 DoLogin
+
+2023-01-16 16:09:45 DoLoad365Page
+
+2023-01-16 16:09:45 365 page is loaded!
+
+2023-01-16 16:09:45 Connected Socket Server!!!
+
+2023-01-16 16:09:48 122.55
+
+2023-01-16 16:09:48 Current balance : 122.5
+
+2023-01-16 16:09:56 0 Settled bets!!!
+
+2023-01-16 16:09:56 LastLoginModule_Button Clicked
+
+2023-01-16 16:09:56 Current Balance: 122.5
+
+2023-01-16 16:09:56 Page is initialized!
+
+2023-01-16 16:10:28 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 16:10:28  *** MakeBet *** 
+
+2023-01-16 16:10:28 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Ethnikos v omonia","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":1.66,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 16:10:28 122.55
+
+2023-01-16 16:10:28 Current balance : 122.5
+
+2023-01-16 16:10:28 Current Balance : 122.5
+
+2023-01-16 16:10:28 Stake : 2
+
+2023-01-16 16:10:28 CheckIfLoggedIn
+
+2023-01-16 16:10:28 Logged In Already!
+
+2023-01-16 16:10:28 bet365.com
+
+2023-01-16 16:10:38 Ethnikos Achna v Omonia 29is Maiou Dis :0.155147058823529
+
+2023-01-16 16:10:43 Not Found Odds on Bet365..
+
+2023-01-16 16:10:46  *** MakeBet *** 
+
+2023-01-16 16:10:46 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Ethnikos v omonia","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":1.66,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"4/6","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 16:10:46 122.55
+
+2023-01-16 16:10:46 Current balance : 122.5
+
+2023-01-16 16:10:46 Current Balance : 122.5
+
+2023-01-16 16:10:46 Stake : 2
+
+2023-01-16 16:10:46 CheckIfLoggedIn
+
+2023-01-16 16:10:46 Logged In Already!
+
+2023-01-16 16:10:46 bet365.com
+
+2023-01-16 16:10:46 Wrong position detected!
+
+2023-01-16 16:10:51 Ethnikos Achna v Omonia 29is Maiou Dis :0.155147058823529
+
+2023-01-16 16:10:52 Wrong position detected!
+
+2023-01-16 16:10:54 Running AddbetScript...
+
+2023-01-16 16:10:54 scrollBetIntoView('2138895522') => 1
+
+2023-01-16 16:10:56 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-16 16:10:58 {
+  "bg": "71693e24-9dfe-483e-8857-89c195fb8d7c",
+  "sr": 0,
+  "mr": false,
+  "cc": "69w6OL0TyulKOzBYW2n3f+AeEcqFtCnFdfPUEf348AQ=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/15",
+      "fi": 131388287,
+      "fd": "Ethnikos Achna v Omonia 29is Maiou",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 2138895522,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c56902-BA083DEA",
+      "tp": "BS131388287-2138895522",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131202557,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-16 16:11:00 Fractional Odds : 8/15
+
+2023-01-16 16:11:00 Trademate Odds : 1.3 , Bet365 Odds : 1.53
+
+2023-01-16 16:11:00 Trying to place bet!
+
+2023-01-16 16:11:00 DoPlacebetUI
+
+2023-01-16 16:11:00 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-16 16:11:02 Trademate Odds : 1.53 , Bet365 Odds : 1.57
+
+2023-01-16 16:11:02 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-16 16:11:10 122.55
+
+2023-01-16 16:11:10 Current balance : 122.5
+
+2023-01-16 16:11:13 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.57
+
+2023-01-16 16:11:14 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.57",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.57,
+  "tournament": "Italy Serie D",
+  "eventName": "Ethnikos v omonia",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "16/01/2023 16:11:10",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 120.5,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-16 16:11:57 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 16:11:57 This Line is already existed on Settled bets!
+
+2023-01-16 16:11:57 This Line is already existed on Settled bets!
+
+2023-01-16 16:12:28 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 16:12:28  *** MakeBet *** 
+
+2023-01-16 16:12:28 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Ethnikos v omonia","score":"0:0","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":1.66,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 16:12:28 120.55
+
+2023-01-16 16:12:28 Current balance : 120.5
+
+2023-01-16 16:12:28 Current Balance : 120.5
+
+2023-01-16 16:12:28 Stake : 2
+
+2023-01-16 16:12:28 CheckIfLoggedIn
+
+2023-01-16 16:12:28 Logged In Already!
+
+2023-01-16 16:12:28 bet365.com
+
+2023-01-16 16:12:28 Wrong position detected!
+
+2023-01-16 16:12:34 Ethnikos Achna v Omonia 29is Maiou Dis :0.155147058823529
+
+2023-01-16 16:12:34 Wrong position detected!
+
+2023-01-16 16:12:36 Running AddbetScript...
+
+2023-01-16 16:12:36 scrollBetIntoView('2138895508') => 1
+
+2023-01-16 16:12:38 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-16 16:12:40 {
+  "bg": "03051fef-2558-4c43-941b-6351a13784f0",
+  "sr": 0,
+  "mr": false,
+  "cc": "/FZfxvplTKXUqH/Xz5QRayKJWjqsmMnN6AvVrJEauxI=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "5/4",
+      "fi": 131388287,
+      "fd": "Ethnikos Achna v Omonia 29is Maiou",
+      "pt": [
+        {
+          "hd": "2.5",
+          "pi": 2138895508,
+          "bd": "Più di",
+          "ha": "2.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c56968-503199BB",
+      "tp": "BS131388287-2138895508",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131202557,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-16 16:12:42 Fractional Odds : 5/4
+
+2023-01-16 16:12:42 Trademate Odds : 1.3 , Bet365 Odds : 2.25
+
+2023-01-16 16:12:42 Trying to place bet!
+
+2023-01-16 16:12:42 DoPlacebetUI
+
+2023-01-16 16:12:42 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-16 16:12:43 Trademate Odds : 2.25 , Bet365 Odds : 2.25
+
+2023-01-16 16:12:43 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-16 16:12:52 120.55
+
+2023-01-16 16:12:52 Current balance : 120.5
+
+2023-01-16 16:12:55 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.25
+
+2023-01-16 16:12:55 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.25",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 2.25,
+  "tournament": "Italy Serie D",
+  "eventName": "Ethnikos v omonia",
+  "probability": "OVER",
+  "market": "OVER 2.5",
+  "placedAt": "16/01/2023 16:12:52",
+  "selection": "OVER",
+  "handicap": 2.5,
+  "balance": 118.5,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-16 16:13:06 This Line is already existed on Settled bets!
+
+2023-01-16 16:14:26 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 16:14:26  *** MakeBet *** 
+
+2023-01-16 16:14:26 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Al bidda v al-shahaniya","score":"0:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":1.66,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 16:14:26 118.55
+
+2023-01-16 16:14:26 Current balance : 118.5
+
+2023-01-16 16:14:26 Current Balance : 118.5
+
+2023-01-16 16:14:26 Stake : 2
+
+2023-01-16 16:14:26 CheckIfLoggedIn
+
+2023-01-16 16:14:26 Logged In Already!
+
+2023-01-16 16:14:26 bet365.com
+
+2023-01-16 16:14:26 Wrong position detected!
+
+2023-01-16 16:14:32 Al Bidda SC v Al-Shahaniya SC Dis :0.172848575712144
+
+2023-01-16 16:14:32 Wrong position detected!
+
+2023-01-16 16:17:20 Not Found Odds on Bet365..
+
+2023-01-16 16:17:23  *** MakeBet *** 
+
+2023-01-16 16:17:23 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Al bidda v al-shahaniya","score":"0:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":1.66,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"4/6","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 16:17:23 118.55
+
+2023-01-16 16:17:23 Current balance : 118.5
+
+2023-01-16 16:17:23 Current Balance : 118.5
+
+2023-01-16 16:17:23 Stake : 2
+
+2023-01-16 16:17:23 CheckIfLoggedIn
+
+2023-01-16 16:17:23 Logged In Already!
+
+2023-01-16 16:17:23 bet365.com
+
+2023-01-16 16:17:23 Wrong position detected!
+
+2023-01-16 16:17:29 Al Bidda SC v Al-Shahaniya SC Dis :0.172848575712144
+
+2023-01-16 16:18:20 Not Found Odds on Bet365..
+
+2023-01-16 16:28:24 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 16:28:24  *** MakeBet *** 
+
+2023-01-16 16:28:24 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Al bidda v al-shahaniya","score":"1:1","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":1.66,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 16:28:24 118.55
+
+2023-01-16 16:28:24 Current balance : 118.5
+
+2023-01-16 16:28:24 Current Balance : 118.5
+
+2023-01-16 16:28:24 Stake : 2
+
+2023-01-16 16:28:24 CheckIfLoggedIn
+
+2023-01-16 16:28:24 Logged In Already!
+
+2023-01-16 16:28:24 bet365.com
+
+2023-01-16 16:28:24 Wrong position detected!
+
+2023-01-16 16:28:29 Al Bidda SC v Al-Shahaniya SC Dis :0.172848575712144
+
+2023-01-16 16:28:35 Running AddbetScript...
+
+2023-01-16 16:28:35 scrollBetIntoView('2139483611') => 1
+
+2023-01-16 16:28:37 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-16 16:28:39 {
+  "bg": "bb5ee8bc-5777-4204-b80c-bee15468d915",
+  "sr": 0,
+  "mr": false,
+  "cc": "9kSsd1REkl5EghApCko2Z3lE67M65oKVNflZdZLsozI=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "11/10",
+      "fi": 131393867,
+      "fd": "Al Bidda SC v Al-Shahaniya SC",
+      "pt": [
+        {
+          "hd": "3.5",
+          "pi": 2139483611,
+          "bd": "Più di",
+          "ha": "3.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c56d27-F21A8919",
+      "tp": "BS131393867-2139483611",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131292777,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-16 16:28:41 Fractional Odds : 11/10
+
+2023-01-16 16:28:41 Trademate Odds : 1.3 , Bet365 Odds : 2.1
+
+2023-01-16 16:28:41 Trying to place bet!
+
+2023-01-16 16:28:41 DoPlacebetUI
+
+2023-01-16 16:28:41 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-16 16:28:43 Trademate Odds : 2.1 , Bet365 Odds : 2.1
+
+2023-01-16 16:28:43 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-16 16:28:47 118.55
+
+2023-01-16 16:28:47 Current balance : 118.5
+
+2023-01-16 16:28:50 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.1
+
+2023-01-16 16:28:50 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.1",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 2.1,
+  "tournament": "Italy Serie D",
+  "eventName": "Al bidda v al-shahaniya",
+  "probability": "OVER",
+  "market": "OVER 3.5",
+  "placedAt": "16/01/2023 16:28:47",
+  "selection": "OVER",
+  "handicap": 3.5,
+  "balance": 116.5,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-16 16:29:01 This Line is already existed on Settled bets!
+
+2023-01-16 16:29:46 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 16:29:46  *** MakeBet *** 
+
+2023-01-16 16:29:46 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Al bidda v al-shahaniya","score":"1:1","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":1.66,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 16:29:46 116.55
+
+2023-01-16 16:29:46 Current balance : 116.5
+
+2023-01-16 16:29:46 Current Balance : 116.5
+
+2023-01-16 16:29:46 Stake : 2
+
+2023-01-16 16:29:46 CheckIfLoggedIn
+
+2023-01-16 16:29:46 Logged In Already!
+
+2023-01-16 16:29:46 bet365.com
+
+2023-01-16 16:29:46 Wrong position detected!
+
+2023-01-16 16:29:52 Al Bidda SC v Al-Shahaniya SC Dis :0.172848575712144
+
+2023-01-16 16:29:57 Running AddbetScript...
+
+2023-01-16 16:29:57 scrollBetIntoView('2139483796') => 1
+
+2023-01-16 16:29:59 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-16 16:30:01 {
+  "bg": "9cd10c35-32fe-48c7-ba8a-a738636582b5",
+  "sr": 0,
+  "mr": false,
+  "cc": "TG+bw8rn99jwZo5F5P0IcJLJjdOIKdd5pHXpohSkQ3s=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "1/4",
+      "fi": 131393867,
+      "fd": "Al Bidda SC v Al-Shahaniya SC",
+      "pt": [
+        {
+          "pi": 2139483796,
+          "bd": "Più di 2.5",
+          "ha": "2.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c56d79-E95E8DAD",
+      "tp": "BS131393867-2139483796",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131292777,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-16 16:30:03 Fractional Odds : 1/4
+
+2023-01-16 16:30:03 Trademate Odds : 1.2 , Bet365 Odds : 1.25
+
+2023-01-16 16:30:03 Trying to place bet!
+
+2023-01-16 16:30:03 DoPlacebetUI
+
+2023-01-16 16:30:03 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-16 16:30:05 Trademate Odds : 1.25 , Bet365 Odds : 1.25
+
+2023-01-16 16:30:05 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-16 16:30:09 116.55
+
+2023-01-16 16:30:09 Current balance : 116.5
+
+2023-01-16 16:30:12 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.25
+
+2023-01-16 16:30:12 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.25",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.25,
+  "tournament": "Italy Serie D",
+  "eventName": "Al bidda v al-shahaniya",
+  "probability": "OVER",
+  "market": "OVER 2.5",
+  "placedAt": "16/01/2023 16:30:09",
+  "selection": "OVER",
+  "handicap": 2.5,
+  "balance": 114.5,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-16 16:30:23 This Line is already existed on Settled bets!
+
+2023-01-16 16:32:20 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 16:32:20  *** MakeBet *** 
+
+2023-01-16 16:32:20 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Plzen v ferencvarosi","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":1.66,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 16:32:20 114.55
+
+2023-01-16 16:32:20 Current balance : 114.5
+
+2023-01-16 16:32:20 Current Balance : 114.5
+
+2023-01-16 16:32:20 Stake : 2
+
+2023-01-16 16:32:20 CheckIfLoggedIn
+
+2023-01-16 16:32:20 Logged In Already!
+
+2023-01-16 16:32:20 bet365.com
+
+2023-01-16 16:32:20 Wrong position detected!
+
+2023-01-16 16:32:26 Viktoria Plzen v Ferencvarosi TC Dis :0.309978070175439
+
+2023-01-16 16:32:26 Viktoria Plzen v Hradec Kralove Dis :0.388709677419355
+
+2023-01-16 16:32:27 Wrong position detected!
+
+2023-01-16 16:32:29 Running AddbetScript...
+
+2023-01-16 16:32:29 scrollBetIntoView('2140591291') => 1
+
+2023-01-16 16:32:31 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-16 16:32:33 {
+  "bg": "60ddb772-a89d-43d8-b849-4f30c4cd1d51",
+  "sr": 0,
+  "mr": false,
+  "cc": "iuu/i4vfxEWrn/ReCdNBJc1S3EJzAm5rZbs1fBZFXWc=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "7/4",
+      "fi": 131405932,
+      "fd": "Viktoria Plzen v Ferencvarosi TC",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 2140591291,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c56e11-1AA0A313",
+      "tp": "BS131405932-2140591291",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131404150,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-16 16:32:35 Fractional Odds : 7/4
+
+2023-01-16 16:32:35 Trademate Odds : 1.3 , Bet365 Odds : 2.75
+
+2023-01-16 16:32:35 Trying to place bet!
+
+2023-01-16 16:32:35 DoPlacebetUI
+
+2023-01-16 16:32:35 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-16 16:32:36 Trademate Odds : 2.75 , Bet365 Odds : 2.75
+
+2023-01-16 16:32:36 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-16 16:32:45 114.55
+
+2023-01-16 16:32:45 Current balance : 114.5
+
+2023-01-16 16:32:48 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.75
+
+2023-01-16 16:32:48 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:2.75",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 2.75,
+  "tournament": "Italy Serie D",
+  "eventName": "Plzen v ferencvarosi",
+  "probability": "OVER",
+  "market": "OVER 0.5",
+  "placedAt": "16/01/2023 16:32:45",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 112.5,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-16 16:32:59 This Line is already existed on Settled bets!
+
+2023-01-16 16:36:40 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-16 16:36:40 The bot has been stopped!
+
+2023-01-16 16:36:50 The bot has been started!
+
+2023-01-16 16:36:50 DoLogin
+
+2023-01-16 16:36:50 DoLoad365Page
+
+2023-01-16 16:36:50 365 page is loaded!
+
+2023-01-16 16:36:50 Connected Socket Server!!!
+
+2023-01-16 16:36:54 nodialog
+
+2023-01-16 16:36:54 Current balance : 0
+
+2023-01-16 16:37:03 5 Settled bets!!!
+
+2023-01-16 16:37:03 Current Balance: 0
+
+2023-01-16 16:37:03 Page is initialized!
+
+2023-01-16 16:40:01 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 16:40:01 This Line is already existed on Settled bets!
+
+2023-01-16 16:40:01 This Line is already existed on Settled bets!
+
+2023-01-16 16:40:41 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 16:40:41  *** MakeBet *** 
+
+2023-01-16 16:40:41 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Bibiani v asante","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":1.66,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 16:40:41 115.05
+
+2023-01-16 16:40:41 Current balance : 115
+
+2023-01-16 16:40:41 Current Balance : 115
+
+2023-01-16 16:40:42 Stake : 2
+
+2023-01-16 16:40:42 CheckIfLoggedIn
+
+2023-01-16 16:40:42 Logged In Already!
+
+2023-01-16 16:40:42 bet365.com
+
+2023-01-16 16:40:52 Bibiani Gold Stars v Asante Kotoko Dis :0.130882352941176
+
+2023-01-16 16:40:53 Wrong position detected!
+
+2023-01-16 16:40:55 Running AddbetScript...
+
+2023-01-16 16:40:55 scrollBetIntoView('2139007611') => 1
+
+2023-01-16 16:40:57 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-16 16:40:58 {
+  "bg": "d87378bc-282e-468d-a660-e6616e40dfb4",
+  "sr": 0,
+  "mr": false,
+  "cc": "wwrltjWFMJtSa9C/h33A6of/SCFawH9m8f8diMOAETQ=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "11/4",
+      "fi": 131389022,
+      "fd": "Bibiani Gold Stars v Asante Kotoko",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 2139007611,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c5700a-7EA31A22",
+      "tp": "BS131389022-2139007611",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 131292728,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-16 16:41:00 Fractional Odds : 11/4
+
+2023-01-16 16:41:00 Trademate Odds : 1.66 , Bet365 Odds : 3.75
+
+2023-01-16 16:41:00 Trying to place bet!
+
+2023-01-16 16:41:00 DoPlacebetUI
+
+2023-01-16 16:41:00 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-16 16:41:02 Trademate Odds : 3.75 , Bet365 Odds : 3.75
+
+2023-01-16 16:41:02 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-16 16:41:11 115.05
+
+2023-01-16 16:41:11 Current balance : 115
+
+2023-01-16 16:41:14 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:3.75
+
+2023-01-16 16:41:14 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:3.75",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 3.75,
+  "tournament": "Italy Serie D",
+  "eventName": "Bibiani v asante",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "16/01/2023 16:41:11",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 113.0,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-16 16:41:22 Trying to register tip at Bigstake
+
+2023-01-16 16:41:37 Registered tip at Bigstake Successfully!
+
+2023-01-16 16:41:40 This Line is already existed on Settled bets!
+
+2023-01-16 16:43:42 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 16:43:42 Pending bet is not finished.!
+
+2023-01-16 17:00:34 LastLoginModule_Button Clicked
+
+2023-01-16 17:02:31 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 17:02:31 Pending bet is not finished.!
+
+2023-01-16 17:03:01 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-16 17:03:01 The bot has been stopped!
+2023-01-16 17:04:20 Chrome_RenderWidgetHostHWND
+
+2023-01-16 17:04:20 Websocket server is listening on 8880
+
+2023-01-16 17:04:20 DoLogin
+
+2023-01-16 17:04:20 DoLoad365Page
+
+2023-01-16 17:04:25 365 page is loaded!
+
+2023-01-16 17:04:25 Executed login script!
+
+2023-01-16 17:04:33 DoLoad365Page
+
+2023-01-16 17:04:33 365 page is loaded!
+
+2023-01-16 17:04:33 LastLoginModule_Button Clicked
+
+2023-01-16 17:04:38 Login Success!
+
+2023-01-16 17:04:46 2 Settled bets!!!
+
+2023-01-16 17:04:46 Browser Connected!
+
+2023-01-16 17:05:07 The bot has been started!
+
+2023-01-16 17:05:07 DoLogin
+
+2023-01-16 17:05:07 DoLoad365Page
+
+2023-01-16 17:05:07 365 page is loaded!
+
+2023-01-16 17:05:07 Connected Socket Server!!!
+
+2023-01-16 17:05:10 124.75
+
+2023-01-16 17:05:10 Current balance : 124.7
+
+2023-01-16 17:05:15 Current Balance: 124.7
+
+2023-01-16 17:05:15 Page is initialized!
+
+2023-01-16 17:18:19 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-16 17:18:19 The bot has been stopped!
+
+2023-01-16 17:18:25 The bot has been started!
+
+2023-01-16 17:18:25 DoLogin
+
+2023-01-16 17:18:25 DoLoad365Page
+
+2023-01-16 17:18:25 365 page is loaded!
+
+2023-01-16 17:18:25 Connected Socket Server!!!
+
+2023-01-16 17:18:28 124.75
+
+2023-01-16 17:18:28 LastLoginModule_Button Clicked
+
+2023-01-16 17:18:28 Current balance : 124.7
+
+2023-01-16 17:18:33 Current Balance: 124.7
+
+2023-01-16 17:18:33 Page is initialized!
+
+2023-01-16 17:37:36 LastLoginModule_Button Clicked
+
+2023-01-16 17:53:25 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 17:53:25  *** MakeBet *** 
+
+2023-01-16 17:53:25 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Doxa v salamis","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":1.66,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 17:53:25 124.75
+
+2023-01-16 17:53:25 Current balance : 124.7
+
+2023-01-16 17:53:25 Current Balance : 124.7
+
+2023-01-16 17:53:26 Stake : 2
+
+2023-01-16 17:53:26 CheckIfLoggedIn
+
+2023-01-16 17:53:26 Logged In Already!
+
+2023-01-16 17:53:26 bet365.com
+
+2023-01-16 17:53:36 Doxa Katokopias v Nea Salamis Famagusta Dis :0.308913308913309
+
+2023-01-16 17:53:36 Pafos FC v Doxa Katokopias Dis :0.282661782661783
+
+2023-01-16 17:53:37 Wrong position detected!
+
+2023-01-16 17:53:39 Not Found Odds on Bet365..
+
+2023-01-16 17:53:42  *** MakeBet *** 
+
+2023-01-16 17:53:42 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Doxa v salamis","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":1.66,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"4/6","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 17:53:42 124.75
+
+2023-01-16 17:53:42 Current balance : 124.7
+
+2023-01-16 17:53:42 Current Balance : 124.7
+
+2023-01-16 17:53:42 Stake : 2
+
+2023-01-16 17:53:42 CheckIfLoggedIn
+
+2023-01-16 17:53:42 Logged In Already!
+
+2023-01-16 17:53:42 bet365.com
+
+2023-01-16 17:53:42 Wrong position detected!
+
+2023-01-16 17:53:48 Doxa Katokopias v Nea Salamis Famagusta Dis :0.308913308913309
+
+2023-01-16 17:53:48 Pafos FC v Doxa Katokopias Dis :0.282661782661783
+
+2023-01-16 17:53:49 Wrong position detected!
+
+2023-01-16 17:53:52 Not Found Odds on Bet365..
+
+2023-01-16 17:53:56 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-16 17:53:56 The bot has been stopped!
+
+2023-01-16 17:54:01 The bot has been started!
+
+2023-01-16 17:54:01 DoLogin
+
+2023-01-16 17:54:01 DoLoad365Page
+
+2023-01-16 17:54:01 365 page is loaded!
+
+2023-01-16 17:54:01 Connected Socket Server!!!
+
+2023-01-16 17:54:04 124.75
+
+2023-01-16 17:54:04 Current balance : 124.7
+
+2023-01-16 17:54:06 Current Balance: 124.7
+
+2023-01-16 17:54:06 Page is initialized!
+
+2023-01-16 17:54:25 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 17:54:25  *** MakeBet *** 
+
+2023-01-16 17:54:25 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Doxa katokopias v salamis","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":1.66,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 17:54:25 124.75
+
+2023-01-16 17:54:25 Current balance : 124.7
+
+2023-01-16 17:54:25 Current Balance : 124.7
+
+2023-01-16 17:54:26 Stake : 2
+
+2023-01-16 17:54:26 CheckIfLoggedIn
+
+2023-01-16 17:54:26 Logged In Already!
+
+2023-01-16 17:54:26 bet365.com
+
+2023-01-16 17:54:38 Doxa Katokopias v Nea Salamis Famagusta Dis :0.11825641025641
+
+2023-01-16 17:54:38 Pafos FC v Doxa Katokopias Dis :0.310094466936572
+
+2023-01-16 17:54:38 Wrong position detected!
+
+2023-01-16 17:54:41 Not Found Odds on Bet365..
+
+2023-01-16 17:54:44  *** MakeBet *** 
+
+2023-01-16 17:54:44 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Doxa katokopias v salamis","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":1.66,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"4/6","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 17:54:44 124.75
+
+2023-01-16 17:54:44 Current balance : 124.7
+
+2023-01-16 17:54:44 Current Balance : 124.7
+
+2023-01-16 17:54:45 Stake : 2
+
+2023-01-16 17:54:45 CheckIfLoggedIn
+
+2023-01-16 17:54:45 Logged In Already!
+
+2023-01-16 17:54:45 bet365.com
+
+2023-01-16 17:54:45 Wrong position detected!
+
+2023-01-16 17:54:52 Not Search Event
+
+2023-01-16 17:54:52 Wrong position detected!
+
+2023-01-16 17:54:55 Not Search Event
+
+2023-01-16 17:54:56 Wrong position detected!
+
+2023-01-16 17:55:02 Doxa Katokopias v Nea Salamis Famagusta Dis :0.11825641025641
+
+2023-01-16 17:55:02 Pafos FC v Doxa Katokopias Dis :0.310094466936572
+
+2023-01-16 17:55:03 Wrong position detected!
+
+2023-01-16 17:55:04 Running AddbetScript...
+
+2023-01-16 17:55:04 scrollBetIntoView('2141755862') => 1
+
+2023-01-16 17:55:06 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-16 17:55:09 {
+  "bg": "ab9a27d0-eafa-4744-b09b-e69d324af18c",
+  "sr": 0,
+  "mr": false,
+  "cc": "Pmel62fajSNRoDdeWQ1fDe5ykjrieLw8XoX7GL78dHI=",
+  "ir": false,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/7",
+      "fi": 131419810,
+      "fd": "Doxa Katokopias v Nea Salamis Famagusta",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 2141755862,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c5816e-F877EBDB",
+      "tp": "BS131419810-2141755862",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 130042694,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-16 17:55:11 Fractional Odds : 4/7
+
+2023-01-16 17:55:11 Trademate Odds : 1.66 , Bet365 Odds : 1.57
+
+2023-01-16 17:55:11 The Odd is change from 1.66 to 1.57
+
+2023-01-16 17:57:07 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-16 17:57:07 The bot has been stopped!
+
+2023-01-16 17:57:17 The bot has been started!
+
+2023-01-16 17:57:17 DoLogin
+
+2023-01-16 17:57:17 DoLoad365Page
+
+2023-01-16 17:57:17 365 page is loaded!
+
+2023-01-16 17:57:17 Connected Socket Server!!!
+
+2023-01-16 17:57:20 124.75
+
+2023-01-16 17:57:20 Current balance : 124.7
+
+2023-01-16 17:57:25 Current Balance: 124.7
+
+2023-01-16 17:57:25 Page is initialized!
+
+2023-01-16 17:57:29 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 17:57:29 This Line 'Doxa katokopias v salamis' - 'OVER' is already existed on Failed bets!
+
+2023-01-16 17:57:29 This Line 'Doxa katokopias v salamis' - 'OVER' is already existed on Failed bets!
+
+2023-01-16 18:04:03 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-16 18:04:03 The bot has been stopped!
+2023-01-16 18:04:51 Chrome_RenderWidgetHostHWND
+
+2023-01-16 18:04:51 Websocket server is listening on 8880
+
+2023-01-16 18:04:51 DoLogin
+
+2023-01-16 18:04:51 DoLoad365Page
+
+2023-01-16 18:04:57 365 page is loaded!
+
+2023-01-16 18:04:57 Executed login script!
+
+2023-01-16 18:05:04 DoLoad365Page
+
+2023-01-16 18:05:04 365 page is loaded!
+
+2023-01-16 18:05:04 LastLoginModule_Button Clicked
+
+2023-01-16 18:05:10 Login Success!
+
+2023-01-16 18:05:17 2 Settled bets!!!
+
+2023-01-16 18:05:17 Browser Connected!
+
+2023-01-16 18:05:35 The bot has been started!
+
+2023-01-16 18:05:35 DoLogin
+
+2023-01-16 18:05:35 DoLoad365Page
+
+2023-01-16 18:05:35 365 page is loaded!
+
+2023-01-16 18:05:35 Connected Socket Server!!!
+
+2023-01-16 18:05:38 124.75
+
+2023-01-16 18:05:38 LastLoginModule_Button Clicked
+
+2023-01-16 18:05:38 Current balance : 124.7
+
+2023-01-16 18:05:43 Current Balance: 124.7
+
+2023-01-16 18:05:43 Page is initialized!
+
+2023-01-16 18:07:42 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 18:07:42  *** MakeBet *** 
+
+2023-01-16 18:07:42 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Omonia v limassol","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":1.57,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 18:07:42 124.75
+
+2023-01-16 18:07:42 Current balance : 124.7
+
+2023-01-16 18:07:42 Current Balance : 124.7
+
+2023-01-16 18:07:43 Stake : 2
+
+2023-01-16 18:07:43 CheckIfLoggedIn
+
+2023-01-16 18:07:43 Logged In Already!
+
+2023-01-16 18:07:43 bet365.com
+
+2023-01-16 18:07:53 Omonia Nicosia v AEL Limassol Dis :0.151419878296146
+
+2023-01-16 18:07:53 Nea Salamis Famagusta v Omonia Nicosia Dis :0.425934746368183
+
+2023-01-16 18:07:54 Wrong position detected!
+
+2023-01-16 18:07:56 Running AddbetScript...
+
+2023-01-16 18:07:56 scrollBetIntoView('2141757039') => 1
+
+2023-01-16 18:07:58 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-16 18:07:59 {
+  "bg": "c1ad4c93-9811-4f7f-9b86-94549b8c86a8",
+  "sr": 0,
+  "mr": false,
+  "cc": "YTpgpyKgpiHaIpbRRlcxVXOol2LVaQFLXmBe4r3oorM=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/7",
+      "fi": 131419815,
+      "fd": "Omonia Nicosia v AEL Limassol",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 2141757039,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c58470-5ED5C9C9",
+      "tp": "BS131419815-2141757039",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 130042696,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-16 18:08:01 Fractional Odds : 4/7
+
+2023-01-16 18:08:01 Trademate Odds : 1.57 , Bet365 Odds : 1.57
+
+2023-01-16 18:08:01 Trying to place bet!
+
+2023-01-16 18:08:01 DoPlacebetUI
+
+2023-01-16 18:08:02 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-16 18:08:03 Trademate Odds : 1.57 , Bet365 Odds : 1.57
+
+2023-01-16 18:08:03 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-16 18:08:12 124.75
+
+2023-01-16 18:08:12 Current balance : 124.7
+
+2023-01-16 18:08:15 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.57
+
+2023-01-16 18:08:15 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.57",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.57,
+  "tournament": "Italy Serie D",
+  "eventName": "Omonia v limassol",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "16/01/2023 18:08:12",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 122.7,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-16 18:08:23 Trying to register tip at Bigstake
+
+2023-01-16 18:08:38 Registered tip at Bigstake Successfully!
+
+2023-01-16 18:08:41 This Line is already existed on Settled bets!
+
+2023-01-16 18:11:22 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 18:11:22 Pending bet is not finished.!
+
+2023-01-16 18:19:34 Disconnected Socket Server!!! || transport close
+
+2023-01-16 18:19:38 Connected Socket Server!!!
+
+2023-01-16 18:19:44 Disconnected Socket Server!!! || transport close
+
+2023-01-16 18:20:01 Connected Socket Server!!!
+
+2023-01-16 18:22:22 Recieve new Match Score From Copybet Server!
+
+2023-01-16 18:22:22 New Score is updated...
+
+2023-01-16 18:22:22 {"home":"omonia","away":"limassol","score":"0:1","gameTime":0}
+
+2023-01-16 18:22:22 Pending Tip is winning now...
+
+2023-01-16 18:25:58 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 18:25:59  *** MakeBet *** 
+
+2023-01-16 18:25:59 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Ionikos v volos","score":"0:0","EW":"0","marketName":"OVER 1.5 HT","selection":"OVER","odds":1.49,"handicap":1.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 18:25:59 122.75
+
+2023-01-16 18:25:59 Current balance : 122.7
+
+2023-01-16 18:25:59 Current Balance : 122.7
+
+2023-01-16 18:25:59 Stake : 2
+
+2023-01-16 18:25:59 CheckIfLoggedIn
+
+2023-01-16 18:25:59 Logged In Already!
+
+2023-01-16 18:25:59 bet365.com
+
+2023-01-16 18:25:59 Wrong position detected!
+
+2023-01-16 18:26:04 Ionikos v Volos NFC Dis :0.0659649122807018
+
+2023-01-16 18:26:04 Ionikos v AEK Atene Dis :0.16140350877193
+
+2023-01-16 18:26:05 Wrong position detected!
+
+2023-01-16 18:26:07 Running AddbetScript...
+
+2023-01-16 18:26:07 scrollBetIntoView('2124392190') => 1
+
+2023-01-16 18:26:09 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-16 18:26:12 Trademate Odds : 3.4 , Bet365 Odds : 3.4
+
+2023-01-16 18:26:12 Trying to place bet!
+
+2023-01-16 18:26:12 DoPlacebetUI
+
+2023-01-16 18:26:12 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-16 18:26:14 Trademate Odds : 3.4 , Bet365 Odds : 3.4
+
+2023-01-16 18:26:14 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-16 18:26:18 122.75
+
+2023-01-16 18:26:18 Current balance : 122.7
+
+2023-01-16 18:26:21 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:3.4
+
+2023-01-16 18:26:21 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:3.4",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 3.4,
+  "tournament": "Italy Serie D",
+  "eventName": "Ionikos v volos",
+  "probability": "OVER",
+  "market": "OVER 1.5 HT",
+  "placedAt": "16/01/2023 18:26:18",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 120.7,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-16 18:26:29 Trying to register tip at Bigstake
+
+2023-01-16 18:26:45 Registered tip at Bigstake Successfully!
+
+2023-01-16 18:26:48 This Line is already existed on Settled bets!
+
+2023-01-16 18:27:31 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 18:27:32 Pending bet is not finished.!
+
+2023-01-16 18:28:04 Recieve new Match Score From Copybet Server!
+
+2023-01-16 18:28:04 New Score is updated...
+
+2023-01-16 18:28:04 {"home":"ionikos","away":"volos","score":"0:1","gameTime":0}
+
+2023-01-16 18:28:04 Pending Tip is winning now...
+
+2023-01-16 18:37:51 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 18:37:51  *** MakeBet *** 
+
+2023-01-16 18:37:51 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Genoa v venezia","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":1.4,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 18:37:51 120.75
+
+2023-01-16 18:37:51 Current balance : 120.7
+
+2023-01-16 18:37:51 Current Balance : 120.7
+
+2023-01-16 18:37:51 Stake : 2
+
+2023-01-16 18:37:51 CheckIfLoggedIn
+
+2023-01-16 18:37:51 Logged In Already!
+
+2023-01-16 18:37:51 bet365.com
+
+2023-01-16 18:37:52 Wrong position detected!
+
+2023-01-16 18:37:57 Genoa v Venezia Dis :0.0266666666666666
+
+2023-01-16 18:37:57 Benevento v Genoa Dis :0.32774806892454
+
+2023-01-16 18:37:58 Wrong position detected!
+
+2023-01-16 18:38:00 Running AddbetScript...
+
+2023-01-16 18:38:00 scrollBetIntoView('2124393622') => 1
+
+2023-01-16 18:38:02 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-16 18:38:03 {
+  "bg": "7bb84b50-e3dd-47df-9954-a51cc3637ffd",
+  "sr": 0,
+  "mr": false,
+  "cc": "haHjoevtnaaUqmhpPiqJys40Jqt2oDHysrtz36s4ZLQ=",
+  "ir": false,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/9",
+      "fi": 131239466,
+      "fd": "Genoa v Venezia",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 2124393622,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c58b7b-2CD3C296",
+      "tp": "BS131239466-2124393622",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 129649810,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-16 18:38:05 Fractional Odds : 4/9
+
+2023-01-16 18:38:05 Trademate Odds : 1.4 , Bet365 Odds : 1.44
+
+2023-01-16 18:38:05 Trying to place bet!
+
+2023-01-16 18:38:05 DoPlacebetUI
+
+2023-01-16 18:38:05 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-16 18:38:07 Trademate Odds : 1.44 , Bet365 Odds : 1.44
+
+2023-01-16 18:38:07 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-16 18:38:11 120.75
+
+2023-01-16 18:38:11 Current balance : 120.7
+
+2023-01-16 18:38:14 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.44
+
+2023-01-16 18:38:14 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.44",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.44,
+  "tournament": "Italy Serie D",
+  "eventName": "Genoa v venezia",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "16/01/2023 18:38:11",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 118.7,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-16 18:38:22 Trying to register tip at Bigstake
+
+2023-01-16 18:38:35 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 18:38:37 Registered tip at Bigstake Successfully!
+
+2023-01-16 18:38:40 This Line is already existed on Settled bets!
+
+2023-01-16 18:38:40 Pending bet is not finished.!
+
+2023-01-16 18:39:36 Recieve new Match Score From Copybet Server!
+
+2023-01-16 18:39:36 New Score is updated...
+
+2023-01-16 18:39:36 {"home":"Genoa","away":"venezia","score":"0:0","gameTime":1}
+
+2023-01-16 18:52:22 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 18:52:22 Pending bet is not finished.!
+
+2023-01-16 18:58:06 LastLoginModule_Button Clicked
+
+2023-01-16 19:12:33 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-16 19:12:33 The bot has been stopped!
+2023-01-16 19:13:45 Chrome_RenderWidgetHostHWND
+
+2023-01-16 19:13:45 Websocket server is listening on 8880
+
+2023-01-16 19:13:45 DoLogin
+
+2023-01-16 19:13:45 DoLoad365Page
+
+2023-01-16 19:13:51 365 page is loaded!
+
+2023-01-16 19:13:51 Executed login script!
+
+2023-01-16 19:13:58 DoLoad365Page
+
+2023-01-16 19:13:58 365 page is loaded!
+
+2023-01-16 19:13:58 LastLoginModule_Button Clicked
+
+2023-01-16 19:14:04 Login Success!
+
+2023-01-16 19:14:11 4 Settled bets!!!
+
+2023-01-16 19:14:11 Browser Connected!
+
+2023-01-16 19:15:33 The bot has been started!
+
+2023-01-16 19:15:33 DoLogin
+
+2023-01-16 19:15:33 DoLoad365Page
+
+2023-01-16 19:15:33 365 page is loaded!
+
+2023-01-16 19:15:33 Connected Socket Server!!!
+
+2023-01-16 19:15:36 121.89
+
+2023-01-16 19:15:36 LastLoginModule_Button Clicked
+
+2023-01-16 19:15:36 Current balance : 121.8
+
+2023-01-16 19:15:41 Current Balance: 121.8
+
+2023-01-16 19:15:41 Page is initialized!
+
+2023-01-16 19:17:00 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 19:17:00  *** MakeBet *** 
+
+2023-01-16 19:17:00 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Omonia v limassol","score":"1:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":1.57,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 19:17:00 121.89
+
+2023-01-16 19:17:00 Current balance : 121.8
+
+2023-01-16 19:17:00 Current Balance : 121.8
+
+2023-01-16 19:17:01 Stake : 2
+
+2023-01-16 19:17:01 CheckIfLoggedIn
+
+2023-01-16 19:17:01 Logged In Already!
+
+2023-01-16 19:17:01 bet365.com
+
+2023-01-16 19:17:11 Omonia Nicosia v AEL Limassol Dis :0.151419878296146
+
+2023-01-16 19:17:11 Nea Salamis Famagusta v Omonia Nicosia Dis :0.425934746368183
+
+2023-01-16 19:17:12 Wrong position detected!
+
+2023-01-16 19:17:14 Running AddbetScript...
+
+2023-01-16 19:17:14 scrollBetIntoView('2141757027') => 1
+
+2023-01-16 19:17:16 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-16 19:17:19 Trademate Odds : 1.5 , Bet365 Odds : 1.5
+
+2023-01-16 19:17:19 Trying to place bet!
+
+2023-01-16 19:17:19 DoPlacebetUI
+
+2023-01-16 19:17:19 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-16 19:17:21 Trademate Odds : 1.5 , Bet365 Odds : 1.5
+
+2023-01-16 19:17:21 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-16 19:17:29 121.89
+
+2023-01-16 19:17:29 Current balance : 121.8
+
+2023-01-16 19:17:32 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.44
+
+2023-01-16 19:17:32 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.44",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.44,
+  "tournament": "Italy Serie D",
+  "eventName": "Omonia v limassol",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "16/01/2023 19:17:29",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 119.8,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-16 19:17:40 Trying to register tip at Bigstake
+
+2023-01-16 19:17:56 Registered tip at Bigstake Successfully!
+
+2023-01-16 19:17:59 This Line is already existed on Settled bets!
+
+2023-01-16 19:19:02 Recieve new Match Score From Copybet Server!
+
+2023-01-16 19:19:02 New Score is updated...
+
+2023-01-16 19:19:02 {"home":"omonia","away":"limassol","score":"1:1","gameTime":0}
+
+2023-01-16 19:19:02 Pending Tip is winning now...
+
+2023-01-16 19:20:02 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 19:20:03  *** MakeBet *** 
+
+2023-01-16 19:20:03 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Omonia v limassol","score":"1:0","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":1.57,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 19:20:03 119.89
+
+2023-01-16 19:20:03 Current balance : 119.8
+
+2023-01-16 19:20:03 Current Balance : 119.8
+
+2023-01-16 19:20:03 Stake : 2
+
+2023-01-16 19:20:03 CheckIfLoggedIn
+
+2023-01-16 19:20:03 Logged In Already!
+
+2023-01-16 19:20:03 bet365.com
+
+2023-01-16 19:20:03 Wrong position detected!
+
+2023-01-16 19:20:09 Omonia Nicosia v AEL Limassol Dis :0.151419878296146
+
+2023-01-16 19:20:09 Nea Salamis Famagusta v Omonia Nicosia Dis :0.425934746368183
+
+2023-01-16 19:20:14 Running AddbetScript...
+
+2023-01-16 19:20:14 scrollBetIntoView('2141757170') => 1
+
+2023-01-16 19:20:16 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-16 19:20:18 {
+  "bg": "d792c5a7-e608-4b35-ab8b-a318a0a59327",
+  "sr": 0,
+  "mr": false,
+  "cc": "lQgCBjsUtc6qmPKzao66rPaLdkAWFOwG6CchdWHlgiQ=",
+  "ir": true,
+  "vr": "778",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "12/5",
+      "fi": 131419815,
+      "fd": "Omonia Nicosia v AEL Limassol",
+      "pt": [
+        {
+          "pi": 2141757170,
+          "bd": "Più di 2.5",
+          "ha": "2.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "63c59562-B2E59DAD",
+      "tp": "BS131419815-2141757170",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 130042696,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-01-16 19:20:20 Fractional Odds : 12/5
+
+2023-01-16 19:20:20 Trademate Odds : 1.57 , Bet365 Odds : 3.4
+
+2023-01-16 19:20:20 Trying to place bet!
+
+2023-01-16 19:20:20 DoPlacebetUI
+
+2023-01-16 19:20:20 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-16 19:20:21 Trademate Odds : 3.4 , Bet365 Odds : 3.4
+
+2023-01-16 19:20:21 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-16 19:20:30 119.89
+
+2023-01-16 19:20:30 Current balance : 119.8
+
+2023-01-16 19:20:33 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:3.4
+
+2023-01-16 19:20:33 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:3.4",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 3.4,
+  "tournament": "Italy Serie D",
+  "eventName": "Omonia v limassol",
+  "probability": "OVER",
+  "market": "OVER 2.5",
+  "placedAt": "16/01/2023 19:20:30",
+  "selection": "OVER",
+  "handicap": 2.5,
+  "balance": 117.8,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-16 19:20:41 Trying to register tip at Bigstake
+
+2023-01-16 19:20:56 Registered tip at Bigstake Successfully!
+
+2023-01-16 19:20:59 This Line is already existed on Settled bets!
+
+2023-01-16 19:21:35 Recieve new Match Score From Copybet Server!
+
+2023-01-16 19:21:35 New Score is updated...
+
+2023-01-16 19:21:35 {"home":"omonia","away":"limassol","score":"1:1","gameTime":0}
+
+2023-01-16 19:21:35 Pending Tip is winning now...
+
+2023-01-16 19:24:15 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 19:24:15 This Line is already existed on Settled bets!
+
+2023-01-16 19:24:15 This Line is already existed on Settled bets!
+
+2023-01-16 19:24:58 Recieve 1 new bets From Copybet Server!
+
+2023-01-16 19:24:58  *** MakeBet *** 
+
+2023-01-16 19:24:58 {"dbId":"","sport":"","country":"","league":"Italy Serie D","dateTime":"","match":"Azam v tanzania","score":"1:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":1.57,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"tipSource":0}
+
+2023-01-16 19:24:58 117.89
+
+2023-01-16 19:24:58 Current balance : 117.8
+
+2023-01-16 19:24:58 Current Balance : 117.8
+
+2023-01-16 19:24:58 Stake : 2
+
+2023-01-16 19:24:58 CheckIfLoggedIn
+
+2023-01-16 19:24:58 Logged In Already!
+
+2023-01-16 19:24:58 bet365.com
+
+2023-01-16 19:24:58 Wrong position detected!
+
+2023-01-16 19:25:04 Azam FC v Tanzania Prisons Dis :0.11992673992674
+
+2023-01-16 19:25:05 Wrong position detected!
+
+2023-01-16 19:25:07 Running AddbetScript...
+
+2023-01-16 19:25:07 scrollBetIntoView('2139020929') => 1
+
+2023-01-16 19:25:09 Odds Pos : X : 401.875 , Y: 396
+
+2023-01-16 19:25:13 Trademate Odds : 1.3 , Bet365 Odds : 1.3
+
+2023-01-16 19:25:13 Trying to place bet!
+
+2023-01-16 19:25:13 DoPlacebetUI
+
+2023-01-16 19:25:13 betslip pos => {
+  "x": 409.5,
+  "y": 655.5,
+  "width": 1,
+  "height": 24,
+  "top": 655.5,
+  "right": 410.5,
+  "bottom": 679.5,
+  "left": 409.5
+}
+
+2023-01-16 19:25:15 Trademate Odds : 1.3 , Bet365 Odds : 1.3
+
+2023-01-16 19:25:15 Placebet Button pos => {"x":619.5,"y":643,"width":225,"height":50,"top":643,"right":844.5,"bottom":693,"left":619.5}
+
+2023-01-16 19:25:19 117.89
+
+2023-01-16 19:25:19 Current balance : 117.8
+
+2023-01-16 19:25:22 [salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.3
+
+2023-01-16 19:25:22 {
+  "username": "salvigrimaldi",
+  "tipster": "",
+  "message": "[salvigrimaldi:Test123.] SUCCESS. Stake:2 Odds:1.3",
+  "stake": 2.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.3,
+  "tournament": "Italy Serie D",
+  "eventName": "Azam v tanzania",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "16/01/2023 19:25:19",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 115.8,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-01-16 19:25:30 Trying to register tip at Bigstake
+
+2023-01-16 19:25:45 Registered tip at Bigstake Successfully!
+
+2023-01-16 19:25:48 This Line is already existed on Settled bets!
+
+2023-01-16 19:26:32 Recieve new Match Score From Copybet Server!
+
+2023-01-16 19:26:32 New Score is updated...
+
+2023-01-16 19:26:32 {"home":"Azam","away":"tanzania","score":"1:0","gameTime":2}
+
+2023-01-16 19:26:32 Pending Tip is winning now...
+
+2023-01-16 19:29:43 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-16 19:29:43 The bot has been stopped!
+
+2023-01-16 23:47:26 The bot has been started!
+
+2023-01-16 23:47:26 DoLogin
+
+2023-01-16 23:47:26 DoLoad365Page
+
+2023-01-16 23:47:27 Connected Socket Server!!!
+
+2023-01-16 23:47:35 Disconnected Socket Server!!! || io client disconnect
+
+2023-01-16 23:47:35 The bot has been stopped!
+
+2023-01-16 23:47:35 Exception in DoLoad365Page: System.Threading.ThreadAbortException: Thread interrotto.
+   in CEBet365Placer.Controller.BetController.DoLoad365Page(String visitUrl)
+
+2023-01-16 23:47:35 refreshThreadFunc :System.Threading.ThreadAbortException: Thread interrotto.
+   in CEBet365Placer.Controller.BetController.DoLogin(String visitUrl)
+   in CEBet365Placer.Form1.refreshThreadFunc()
+
+2023-01-16 23:47:36 The bot has been started!
+
+2023-01-16 23:47:36 DoLogin
+
+2023-01-16 23:47:36 DoLoad365Page
+
+2023-01-16 23:47:36 LastLoginModule_Button Clicked
+
+2023-01-16 23:47:36 365 page is loaded!
+
+2023-01-16 23:47:36 Executed login script!
+
+2023-01-16 23:47:36 Connected Socket Server!!!
+
+2023-01-16 23:48:04 DoLoad365Page
+
+2023-01-16 23:48:04 365 page is loaded!
+
+2023-01-16 23:48:07 Executed login script!
+
+2023-01-16 23:48:14 DoLoad365Page
+
+2023-01-16 23:48:14 365 page is loaded!
+
+2023-01-16 23:48:14 LastLoginModule_Button Clicked
+
+2023-01-16 23:48:19 LastLoginModule_Button Clicked
+
+2023-01-16 23:48:19 Login Success!
+
+2023-01-16 23:48:26 nodialog
+
+2023-01-16 23:48:26 Current balance : 0
+
+2023-01-16 23:48:31 Current Balance: 0
+
+2023-01-16 23:48:31 Page is initialized!

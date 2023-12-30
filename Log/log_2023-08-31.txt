@@ -1,0 +1,345 @@
+﻿
+2023-08-31 13:40:18 Disconnected Socket Server!!! || transport close
+
+2023-08-31 13:40:37 LastLoginModule_Button Clicked
+2023-08-31 16:38:42 Chrome_RenderWidgetHostHWND
+
+2023-08-31 16:38:43 Websocket server is listening on 8880
+
+2023-08-31 16:38:43 DoLogin
+
+2023-08-31 16:38:43 DoLoad365Page
+
+2023-08-31 16:41:21 365 page is loaded!
+
+2023-08-31 16:41:21 Executed login script!
+2023-08-31 16:49:04 Chrome_RenderWidgetHostHWND
+
+2023-08-31 16:49:04 Websocket server is listening on 8880
+
+2023-08-31 16:49:04 DoLogin
+
+2023-08-31 16:49:04 DoLoad365Page
+
+2023-08-31 16:49:10 365 page is loaded!
+
+2023-08-31 16:49:10 Executed login script!
+
+2023-08-31 16:49:17 DoLoad365Page
+
+2023-08-31 16:49:17 365 page is loaded!
+
+2023-08-31 16:49:17 LastLoginModule_Button Clicked
+
+2023-08-31 16:49:23 Login Success!
+
+2023-08-31 16:49:30 0 Settled bets!!!
+
+2023-08-31 16:49:30 Browser Connected!
+
+2023-08-31 17:10:08 The bot has been started!
+
+2023-08-31 17:10:08 DoLogin
+
+2023-08-31 17:10:08 DoLoad365Page
+
+2023-08-31 17:10:08 365 page is loaded!
+
+2023-08-31 17:10:08 Connected Socket Server!!!
+
+2023-08-31 17:10:16 
+
+2023-08-31 17:10:24 0 Settled bets!!!
+
+2023-08-31 17:10:24 Current Balance: -1
+
+2023-08-31 17:10:24 Page is initialized!
+
+2023-08-31 17:11:12 Recieve new Match Score From Copybet Server!
+
+2023-08-31 17:11:12 New Score is updated...
+
+2023-08-31 17:11:12 {"home":"Ilves Femminile","away":"KuPS Femminile","score":"1:3","gameTime":1}
+
+2023-08-31 17:16:11 Recieve new Match Score From Copybet Server!
+
+2023-08-31 17:16:11 New Score is updated...
+
+2023-08-31 17:16:11 {"home":"Ilves Femminile","away":"KuPS Femminile","score":"1:4","gameTime":0}
+
+2023-08-31 17:21:11 Recieve new Match Score From Copybet Server!
+
+2023-08-31 17:21:11 New Score is updated...
+
+2023-08-31 17:21:11 {"home":"Ilves Femminile","away":"KuPS Femminile","score":"1:5","gameTime":0}
+
+2023-08-31 17:24:12 Recieve new Match Score From Copybet Server!
+
+2023-08-31 17:24:12 New Score is updated...
+
+2023-08-31 17:24:12 {"home":"Ilves Femminile","away":"KuPS Femminile","score":"1:6","gameTime":0}
+
+2023-08-31 17:51:53 Disconnected Socket Server!!! || ping timeout
+
+2023-08-31 17:51:54 Connected Socket Server!!!
+
+2023-08-31 18:04:13 Recieve new Match Score From Copybet Server!
+
+2023-08-31 18:04:13 New Score is updated...
+
+2023-08-31 18:04:13 {"home":"NK Tomislav","away":"Jadran LP","score":"1:4","gameTime":0}
+
+2023-08-31 18:04:13 Recieve new Match Score From Copybet Server!
+
+2023-08-31 18:04:13 New Score is updated...
+
+2023-08-31 18:04:13 {"home":"Ilves Femminile","away":"KuPS Femminile","score":"1:6","gameTime":2}
+
+2023-08-31 18:09:30 LastLoginModule_Button Clicked
+
+2023-08-31 18:29:35 Recieve new Match Score From Copybet Server!
+
+2023-08-31 18:29:35 New Score is updated...
+
+2023-08-31 18:29:35 {"home":"NK Tomislav","away":"Jadran LP","score":"1:4","gameTime":2}
+
+2023-08-31 18:58:15 Disconnected Socket Server!!! || ping timeout
+
+2023-08-31 18:58:21 Connected Socket Server!!!
+
+2023-08-31 19:08:58 Disconnected Socket Server!!! || ping timeout
+
+2023-08-31 19:09:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:09:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:10:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:10:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:11:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:11:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:12:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:12:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:13:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:13:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:14:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:14:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:15:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:15:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:16:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:16:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:17:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:17:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:18:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:18:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:19:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:19:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:20:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:20:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:21:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:21:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:22:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:22:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:23:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:23:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:24:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:24:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:25:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:25:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:26:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:26:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:27:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:27:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:28:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:28:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:29:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:29:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:30:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:30:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:31:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:31:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:32:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:32:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:33:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:33:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:34:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:34:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:35:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:35:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:36:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:36:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:37:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:37:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:38:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:38:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:39:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:39:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:40:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:40:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:41:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:41:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:42:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:42:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:43:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:43:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:44:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:44:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:45:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:45:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:46:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:46:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:47:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:47:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:48:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:48:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:49:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:49:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:50:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:50:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:51:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:51:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:52:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:52:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:53:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:53:30 LastLoginModule_Button Clicked
+
+2023-08-31 19:53:58 The bot has been stopped!
+
+2023-08-31 19:53:59 The bot has been started!
+
+2023-08-31 19:53:59 DoLogin
+
+2023-08-31 19:53:59 DoLoad365Page
+
+2023-08-31 19:53:59 365 page is loaded!
+
+2023-08-31 19:54:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:54:00 LastLoginModule_Button Clicked
+
+2023-08-31 19:54:09 
+
+2023-08-31 19:54:28 Current Balance: -1
+
+2023-08-31 19:54:28 Page is initialized!
+
+2023-08-31 21:13:47 Connected Socket Server!!!
+
+2023-08-31 21:16:25 Disconnected Socket Server!!! || io client disconnect
+
+2023-08-31 21:16:25 The bot has been stopped!
+2023-08-31 23:32:25 Chrome_RenderWidgetHostHWND
+
+2023-08-31 23:32:25 Websocket server is listening on 8880
+
+2023-08-31 23:32:25 DoLogin
+
+2023-08-31 23:32:25 DoLoad365Page
+
+2023-08-31 23:32:26 365 page is loaded!
+
+2023-08-31 23:32:26 Executed login script!
+
+2023-08-31 23:32:52 DoLoad365Page
+
+2023-08-31 23:32:53 365 page is loaded!
+
+2023-08-31 23:32:56 Executed login script!
+
+2023-08-31 23:33:03 DoLoad365Page
+
+2023-08-31 23:33:03 365 page is loaded!
+
+2023-08-31 23:33:03 LastLoginModule_Button Clicked
+
+2023-08-31 23:33:08 Login Success!
+
+2023-08-31 23:33:15 0 Settled bets!!!
+
+2023-08-31 23:33:15 Browser Connected!

@@ -1,0 +1,764 @@
+﻿2023-08-25 00:15:11 Chrome_RenderWidgetHostHWND
+
+2023-08-25 00:15:12 Websocket server is listening on 8880
+
+2023-08-25 00:15:12 DoLogin
+
+2023-08-25 00:15:12 DoLoad365Page
+
+2023-08-25 00:15:12 365 page is loaded!
+
+2023-08-25 00:15:12 Executed login script!
+
+2023-08-25 00:15:39 DoLoad365Page
+
+2023-08-25 00:15:39 365 page is loaded!
+
+2023-08-25 00:15:42 Executed login script!
+
+2023-08-25 00:15:49 DoLoad365Page
+
+2023-08-25 00:15:49 365 page is loaded!
+
+2023-08-25 00:15:49 LastLoginModule_Button Clicked
+
+2023-08-25 00:15:55 Login Success!
+
+2023-08-25 00:16:02 0 Settled bets!!!
+
+2023-08-25 00:16:02 Browser Connected!
+
+2023-08-25 00:16:05 The bot has been started!
+
+2023-08-25 00:16:05 DoLogin
+
+2023-08-25 00:16:05 DoLoad365Page
+
+2023-08-25 00:16:05 365 page is loaded!
+
+2023-08-25 00:16:05 Connected Socket Server!!!
+
+2023-08-25 00:16:08 24.30
+
+2023-08-25 00:16:08 Current balance : 24.3
+
+2023-08-25 00:16:17 Current Balance: 24.3
+
+2023-08-25 00:16:17 Page is initialized!
+
+2023-08-25 01:15:39 LastLoginModule_Button Clicked
+
+2023-08-25 02:15:09 LastLoginModule_Button Clicked
+
+2023-08-25 03:14:39 LastLoginModule_Button Clicked
+
+2023-08-25 04:14:09 LastLoginModule_Button Clicked
+
+2023-08-25 05:13:39 LastLoginModule_Button Clicked
+
+2023-08-25 06:13:10 LastLoginModule_Button Clicked
+
+2023-08-25 07:12:40 LastLoginModule_Button Clicked
+
+2023-08-25 08:12:10 LastLoginModule_Button Clicked
+
+2023-08-25 09:11:40 LastLoginModule_Button Clicked
+
+2023-08-25 10:11:10 LastLoginModule_Button Clicked
+
+2023-08-25 11:10:40 LastLoginModule_Button Clicked
+
+2023-08-25 12:10:10 LastLoginModule_Button Clicked
+
+2023-08-25 12:37:18 Recieve 1 new bets From Copybet Server!
+
+2023-08-25 12:37:18  *** MakeBet *** 
+
+2023-08-25 12:37:18 {"dbId":"","sport":"","country":"","league":"Australia Tasmania Premier League","dateTime":"","match":"Kingborough Lions vs Glenorchy Knights FC","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-25 12:37:18 24.30
+
+2023-08-25 12:37:18 Current balance : 24.3
+
+2023-08-25 12:37:18 Current Balance : 24.3
+
+2023-08-25 12:37:18 CheckIfLoggedIn
+
+2023-08-25 12:37:18 Logged In Already!
+
+2023-08-25 12:37:18 bet365.com
+
+2023-08-25 12:37:32 Kingborough Lions v Glenorchy Knights FC Dis :0.0498780487804878
+
+2023-08-25 12:37:32 Devonport Strikers femminile v Kingborough Lions femminile Dis :0.409057230966398
+
+2023-08-25 12:37:33 Wrong position detected!
+
+2023-08-25 12:37:37 Stake : 18
+
+2023-08-25 12:37:37 Running AddbetScript...
+
+2023-08-25 12:37:37 scrollBetIntoView('1152894802') => 1
+
+2023-08-25 12:37:39 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-25 12:37:41 {
+  "bg": "1821f13e-b4a3-4088-8612-ec20041b3f90",
+  "sr": 0,
+  "mr": false,
+  "cc": "z+QBZOyRPtXRNNcEWA3ZSTg2TbyYrv/8uFvfzJUJA1U=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "910",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/15",
+      "fi": 142830756,
+      "fd": "Kingborough Lions v Glenorchy Knights FC",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1152894802,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS142830756-1152894802",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142710862,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-08-25 12:37:43 Fractional Odds : 8/15
+
+2023-08-25 12:37:43 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-08-25 12:37:43 Trying to place bet!
+
+2023-08-25 12:37:43 DoPlacebetUI
+
+2023-08-25 12:37:43 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-25 12:37:45 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-08-25 12:37:45 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-25 12:37:53 24.30
+
+2023-08-25 12:37:53 Current balance : 24.3
+
+2023-08-25 12:37:53 DoLoad365Page
+
+2023-08-25 12:37:53 365 page is loaded!
+
+2023-08-25 12:37:56 [concigrassi:Test123.] SUCCESS. Stake:18 Odds:1.53333333333333
+
+2023-08-25 12:37:56 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:18 Odds:1.53333333333333",
+  "stake": 18.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.5333333333333334,
+  "tournament": "Australia Tasmania Premier League",
+  "eventName": "Kingborough Lions vs Glenorchy Knights FC",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "25/08/2023 12:37:53",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 6.3000000000000007,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-25 12:38:04 Trying to register tip at Bigstake
+
+2023-08-25 12:38:19 Registered tip at Bigstake Successfully!
+
+2023-08-25 12:38:22 This Line is already existed on Settled bets!
+
+2023-08-25 12:52:12 Recieve new Match Score From Copybet Server!
+
+2023-08-25 12:52:12 New Score is updated...
+
+2023-08-25 12:52:12 {"home":"Kingborough Lions","away":"Glenorchy Knights FC","score":"1:0","gameTime":0}
+
+2023-08-25 12:52:12 New Score : Kingborough Lions vs Glenorchy Knights FC  1:0
+
+2023-08-25 12:52:12 Pending tip Score : Kingborough Lions vs Glenorchy Knights FC 0:0
+
+2023-08-25 12:52:12 Pending Tip is winning now...
+
+2023-08-25 13:02:16 Recieve new Match Score From Copybet Server!
+
+2023-08-25 13:02:16 New Score is updated...
+
+2023-08-25 13:02:16 {"home":"Kingborough Lions","away":"Glenorchy Knights FC","score":"2:0","gameTime":0}
+
+2023-08-25 13:04:12 Recieve new Match Score From Copybet Server!
+
+2023-08-25 13:04:12 New Score is updated...
+
+2023-08-25 13:04:12 {"home":"Kingborough Lions","away":"Glenorchy Knights FC","score":"2:0","gameTime":1}
+
+2023-08-25 13:14:22 Disconnected Socket Server!!! || ping timeout
+
+2023-08-25 13:14:24 Connected Socket Server!!!
+
+2023-08-25 13:19:12 Recieve new Match Score From Copybet Server!
+
+2023-08-25 13:19:12 New Score is updated...
+
+2023-08-25 13:19:12 {"home":"Kingborough Lions","away":"Glenorchy Knights FC","score":"2:0","gameTime":1}
+
+2023-08-25 14:15:13 Recieve new Match Score From Copybet Server!
+
+2023-08-25 14:15:13 New Score is updated...
+
+2023-08-25 14:15:13 {"home":"Kingborough Lions","away":"Glenorchy Knights FC","score":"2:0","gameTime":2}
+
+2023-08-25 18:20:38 Disconnected Socket Server!!! || ping timeout
+
+2023-08-25 18:20:40 Connected Socket Server!!!
+
+2023-08-25 18:22:25 Recieve 1 new bets From Copybet Server!
+
+2023-08-25 18:22:25  *** MakeBet *** 
+
+2023-08-25 18:22:25 {"dbId":"","sport":"","country":"","league":"Finland Kolmonen","dateTime":"","match":"HIFK 2 vs ESPA","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-25 18:22:30 
+
+2023-08-25 18:22:30 Current Balance : -1
+
+2023-08-25 18:22:30 CheckIfLoggedIn
+
+2023-08-25 18:22:30 DoLogin
+
+2023-08-25 18:22:30 DoLoad365Page
+
+2023-08-25 18:22:30 365 page is loaded!
+
+2023-08-25 18:22:30 Executed login script!
+
+2023-08-25 18:22:57 DoLoad365Page
+
+2023-08-25 18:22:57 365 page is loaded!
+
+2023-08-25 18:23:00 Executed login script!
+
+2023-08-25 18:23:07 DoLoad365Page
+
+2023-08-25 18:23:07 365 page is loaded!
+
+2023-08-25 18:23:07 LastLoginModule_Button Clicked
+
+2023-08-25 18:23:12 Login Success!
+
+2023-08-25 18:23:16 bet365.com
+
+2023-08-25 18:23:29 HIFK 2 v ESPA Dis :0.0142857142857142
+
+2023-08-25 18:23:30 Wrong position detected!
+
+2023-08-25 18:23:34 Stake : 20
+
+2023-08-25 18:23:34 Running AddbetScript...
+
+2023-08-25 18:23:34 scrollBetIntoView('1153735920') => 0
+
+2023-08-25 18:23:34 Bet is not found!
+
+2023-08-25 18:23:38 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-25 18:23:39 {
+  "bg": "df7554ee-1ecd-41e2-83c7-7951df1527cf",
+  "sr": 0,
+  "mr": false,
+  "cc": "VroxL5zSoaka2E+7pHsEnbLTSDAb4C0MJWxFeMXRZIw=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "910",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/7",
+      "fi": 142836629,
+      "fd": "HIFK 2 v ESPA",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1153735920,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64e8d58b-6BD78D6C",
+      "tp": "BS142836629-1153735920",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142733342,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-08-25 18:23:41 Fractional Odds : 4/7
+
+2023-08-25 18:23:41 Trademate Odds : 0 , Bet365 Odds : 1.57
+
+2023-08-25 18:23:41 Trying to place bet!
+
+2023-08-25 18:23:41 DoPlacebetUI
+
+2023-08-25 18:23:41 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-25 18:23:43 Trademate Odds : 0 , Bet365 Odds : 1.57
+
+2023-08-25 18:23:43 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-25 18:23:52 33.89
+
+2023-08-25 18:23:52 Current balance : 33.8
+
+2023-08-25 18:23:52 DoLoad365Page
+
+2023-08-25 18:23:52 365 page is loaded!
+
+2023-08-25 18:23:55 [concigrassi:Test123.] SUCCESS. Stake:20 Odds:1.571
+
+2023-08-25 18:23:55 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:20 Odds:1.571",
+  "stake": 20.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.5710000000000002,
+  "tournament": "Finland Kolmonen",
+  "eventName": "HIFK 2 vs ESPA",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "25/08/2023 18:23:52",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": -13.7,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-25 18:24:03 Trying to register tip at Bigstake
+
+2023-08-25 18:24:18 Registered tip at Bigstake Successfully!
+
+2023-08-25 18:24:21 This Line is already existed on Settled bets!
+
+2023-08-25 18:40:24 Recieve 1 new bets From Copybet Server!
+
+2023-08-25 18:40:24 Pending bet is not finished.!
+
+2023-08-25 18:43:20 Recieve new Match Score From Copybet Server!
+
+2023-08-25 18:43:20 New Score is updated...
+
+2023-08-25 18:43:20 {"home":"HIFK 2","away":"ESPA","score":"0:1","gameTime":0}
+
+2023-08-25 18:43:20 New Score : HIFK 2 vs ESPA  0:1
+
+2023-08-25 18:43:20 Pending tip Score : HIFK 2 vs ESPA 0:0
+
+2023-08-25 18:43:20 Pending Tip is winning now...
+
+2023-08-25 18:48:29 Recieve 1 new bets From Copybet Server!
+
+2023-08-25 18:48:29  *** MakeBet *** 
+
+2023-08-25 18:48:29 {"dbId":"","sport":"","country":"","league":"Denmark Series Group 4","dateTime":"","match":"AaB 2 vs Ringkøbing IF","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-25 18:48:29 45.31
+
+2023-08-25 18:48:29 Current balance : 45.3
+
+2023-08-25 18:48:29 Current Balance : 45.3
+
+2023-08-25 18:48:29 CheckIfLoggedIn
+
+2023-08-25 18:48:29 Logged In Already!
+
+2023-08-25 18:48:29 bet365.com
+
+2023-08-25 18:48:42 AaB 2 v Ringkøbing IF Dis :0.00909090909090904
+
+2023-08-25 18:48:43 Wrong position detected!
+
+2023-08-25 18:48:48 Stake : 21
+
+2023-08-25 18:48:48 Running AddbetScript...
+
+2023-08-25 18:48:48 scrollBetIntoView('1153674250') => 1
+
+2023-08-25 18:48:49 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-25 18:48:53 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-08-25 18:48:53 Trying to place bet!
+
+2023-08-25 18:48:53 DoPlacebetUI
+
+2023-08-25 18:48:53 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-25 18:48:55 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-08-25 18:48:55 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-25 18:49:04 45.31
+
+2023-08-25 18:49:04 Current balance : 45.3
+
+2023-08-25 18:49:04 DoLoad365Page
+
+2023-08-25 18:49:04 365 page is loaded!
+
+2023-08-25 18:49:07 [concigrassi:Test123.] SUCCESS. Stake:21 Odds:1.5
+
+2023-08-25 18:49:07 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:21 Odds:1.5",
+  "stake": 21.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.5,
+  "tournament": "Denmark Series Group 4",
+  "eventName": "AaB 2 vs Ringkøbing IF",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "25/08/2023 18:49:04",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 24.299999999999997,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-25 18:49:15 Trying to register tip at Bigstake
+
+2023-08-25 18:49:30 Registered tip at Bigstake Successfully!
+
+2023-08-25 18:49:33 This Line is already existed on Settled bets!
+
+2023-08-25 18:50:19 Recieve new Match Score From Copybet Server!
+
+2023-08-25 18:50:19 New Score is updated...
+
+2023-08-25 18:50:19 {"home":"HIFK 2","away":"ESPA","score":"0:1","gameTime":1}
+
+2023-08-25 18:50:19 New Score : HIFK 2 vs ESPA  0:1
+
+2023-08-25 18:50:19 Pending tip Score : AaB 2 vs Ringkøbing IF 0:0
+
+2023-08-25 18:54:18 Recieve new Match Score From Copybet Server!
+
+2023-08-25 18:54:18 New Score is updated...
+
+2023-08-25 18:54:18 {"home":"SV Fortuna Regensburg","away":"ASV Neumarkt","score":"0:1","gameTime":0}
+
+2023-08-25 18:54:18 New Score : SV Fortuna Regensburg vs ASV Neumarkt  0:1
+
+2023-08-25 18:54:18 Pending tip Score : AaB 2 vs Ringkøbing IF 0:0
+
+2023-08-25 19:01:21 Recieve new Match Score From Copybet Server!
+
+2023-08-25 19:01:21 New Score is updated...
+
+2023-08-25 19:01:21 {"home":"HIFK 2","away":"ESPA","score":"0:1","gameTime":1}
+
+2023-08-25 19:01:21 New Score : HIFK 2 vs ESPA  0:1
+
+2023-08-25 19:01:21 Pending tip Score : AaB 2 vs Ringkøbing IF 0:0
+
+2023-08-25 19:04:19 Recieve new Match Score From Copybet Server!
+
+2023-08-25 19:04:19 New Score is updated...
+
+2023-08-25 19:04:19 {"home":"SV Fortuna Regensburg","away":"ASV Neumarkt","score":"0:1","gameTime":1}
+
+2023-08-25 19:04:19 New Score : SV Fortuna Regensburg vs ASV Neumarkt  0:1
+
+2023-08-25 19:04:19 Pending tip Score : AaB 2 vs Ringkøbing IF 0:0
+
+2023-08-25 19:09:20 Recieve new Match Score From Copybet Server!
+
+2023-08-25 19:09:20 New Score is updated...
+
+2023-08-25 19:09:20 {"home":"AaB 2","away":"Ringkøbing IF","score":"0:1","gameTime":0}
+
+2023-08-25 19:09:20 New Score : AaB 2 vs Ringkøbing IF  0:1
+
+2023-08-25 19:09:20 Pending tip Score : AaB 2 vs Ringkøbing IF 0:0
+
+2023-08-25 19:09:20 Pending Tip is winning now...
+
+2023-08-25 19:16:19 Recieve new Match Score From Copybet Server!
+
+2023-08-25 19:16:19 New Score is updated...
+
+2023-08-25 19:16:19 {"home":"SV Fortuna Regensburg","away":"ASV Neumarkt","score":"0:1","gameTime":1}
+
+2023-08-25 19:17:19 Recieve new Match Score From Copybet Server!
+
+2023-08-25 19:17:19 New Score is updated...
+
+2023-08-25 19:17:19 {"home":"AaB 2","away":"Ringkøbing IF","score":"0:2","gameTime":0}
+
+2023-08-25 19:19:20 Recieve new Match Score From Copybet Server!
+
+2023-08-25 19:19:20 New Score is updated...
+
+2023-08-25 19:19:20 {"home":"AaB 2","away":"Ringkøbing IF","score":"0:2","gameTime":1}
+
+2023-08-25 19:24:20 Recieve new Match Score From Copybet Server!
+
+2023-08-25 19:24:20 New Score is updated...
+
+2023-08-25 19:24:20 {"home":"HIFK 2","away":"ESPA","score":"1:1","gameTime":0}
+
+2023-08-25 19:25:19 Recieve new Match Score From Copybet Server!
+
+2023-08-25 19:25:19 New Score is updated...
+
+2023-08-25 19:25:19 {"home":"SV Fortuna Regensburg","away":"ASV Neumarkt","score":"1:1","gameTime":0}
+
+2023-08-25 19:33:22 Recieve new Match Score From Copybet Server!
+
+2023-08-25 19:33:22 New Score is updated...
+
+2023-08-25 19:33:22 {"home":"AaB 2","away":"Ringkøbing IF","score":"0:2","gameTime":1}
+
+2023-08-25 19:43:22 Recieve new Match Score From Copybet Server!
+
+2023-08-25 19:43:22 New Score is updated...
+
+2023-08-25 19:43:22 {"home":"HIFK 2","away":"ESPA","score":"1:2","gameTime":0}
+
+2023-08-25 19:47:23 Recieve new Match Score From Copybet Server!
+
+2023-08-25 19:47:23 New Score is updated...
+
+2023-08-25 19:47:23 {"home":"HIFK 2","away":"ESPA","score":"1:3","gameTime":0}
+
+2023-08-25 19:48:10 LastLoginModule_Button Clicked
+
+2023-08-25 19:53:26 Recieve new Match Score From Copybet Server!
+
+2023-08-25 19:53:26 New Score is updated...
+
+2023-08-25 19:53:26 {"home":"HIFK 2","away":"ESPA","score":"1:3","gameTime":2}
+
+2023-08-25 19:58:25 Recieve new Match Score From Copybet Server!
+
+2023-08-25 19:58:25 New Score is updated...
+
+2023-08-25 19:58:25 {"home":"AaB 2","away":"Ringkøbing IF","score":"0:3","gameTime":0}
+
+2023-08-25 20:07:22 Recieve new Match Score From Copybet Server!
+
+2023-08-25 20:07:22 New Score is updated...
+
+2023-08-25 20:07:22 {"home":"SV Fortuna Regensburg","away":"ASV Neumarkt","score":"1:1","gameTime":2}
+
+2023-08-25 20:38:27 Recieve new Match Score From Copybet Server!
+
+2023-08-25 20:38:27 New Score is updated...
+
+2023-08-25 20:38:27 {"home":"AaB 2","away":"Ringkøbing IF","score":"0:3","gameTime":2}
+
+2023-08-25 20:47:40 LastLoginModule_Button Clicked
+
+2023-08-25 21:26:27 Recieve 1 new bets From Copybet Server!
+
+2023-08-25 21:26:27  *** MakeBet *** 
+
+2023-08-25 21:26:27 {"dbId":"","sport":"","country":"","league":"Turkey Super Lig","dateTime":"","match":"Konyaspor vs Gaziantep FK","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-25 21:26:27 55.81
+
+2023-08-25 21:26:27 Current balance : 55.8
+
+2023-08-25 21:26:27 Current Balance : 55.8
+
+2023-08-25 21:26:27 CheckIfLoggedIn
+
+2023-08-25 21:26:27 Logged In Already!
+
+2023-08-25 21:26:27 bet365.com
+
+2023-08-25 21:26:27 DoLoad365Page
+
+2023-08-25 21:26:27 365 page is loaded!
+
+2023-08-25 21:26:41 Konyaspor v Gaziantep FK Dis :0.00800000000000001
+
+2023-08-25 21:26:42 Wrong position detected!
+
+2023-08-25 21:26:46 Stake : 21
+
+2023-08-25 21:26:46 Running AddbetScript...
+
+2023-08-25 21:26:46 scrollBetIntoView('1153519021') => 1
+
+2023-08-25 21:26:47 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-25 21:26:49 {
+  "bg": "96e11dce-db35-4cd4-be3e-ec4f2fbd4c5f",
+  "sr": 0,
+  "mr": false,
+  "cc": "ZDYqnZH8vTsEsbQgjxcJsfH4uw4yLHn7/RprwIyhd9w=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "911",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/13",
+      "fi": 142835157,
+      "fd": "Konyaspor v Gaziantep FK",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1153519021,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64e90079-7317B050",
+      "tp": "BS142835157-1153519021",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142712121,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-08-25 21:26:51 Fractional Odds : 8/13
+
+2023-08-25 21:26:51 Trademate Odds : 0 , Bet365 Odds : 1.61
+
+2023-08-25 21:26:51 Trying to place bet!
+
+2023-08-25 21:26:51 DoPlacebetUI
+
+2023-08-25 21:26:51 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-25 21:26:53 Trademate Odds : 0 , Bet365 Odds : 1.61
+
+2023-08-25 21:26:53 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-25 21:27:11 BetResponse is Null!
+
+2023-08-25 21:27:11 [concigrassi:Test123.] BetResponse is Null!!
+
+2023-08-25 21:27:11 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] BetResponse is Null!!",
+  "stake": 21.0,
+  "balance": 55.8,
+  "success": 10,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-25 21:27:22 This Line 'Konyaspor vs Gaziantep FK' - 'OVER' is already existed on Failed bets!
+
+2023-08-25 21:30:22 Recieve new Match Score From Copybet Server!
+
+2023-08-25 21:30:22 New Score is updated...
+
+2023-08-25 21:30:22 {"home":"Konyaspor","away":"Gaziantep FK","score":"1:0","gameTime":0}
+
+2023-08-25 21:53:51 Disconnected Socket Server!!! || ping timeout
+
+2023-08-25 21:53:52 Connected Socket Server!!!
+
+2023-08-25 21:55:22 Recieve new Match Score From Copybet Server!
+
+2023-08-25 21:55:22 New Score is updated...
+
+2023-08-25 21:55:22 {"home":"Konyaspor","away":"Gaziantep FK","score":"2:0","gameTime":0}
+
+2023-08-25 22:04:22 Recieve new Match Score From Copybet Server!
+
+2023-08-25 22:04:22 New Score is updated...
+
+2023-08-25 22:04:22 {"home":"Konyaspor","away":"Gaziantep FK","score":"2:0","gameTime":2}

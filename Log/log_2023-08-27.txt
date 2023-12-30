@@ -1,0 +1,1801 @@
+﻿
+2023-08-27 00:24:40 LastLoginModule_Button Clicked
+
+2023-08-27 01:24:10 LastLoginModule_Button Clicked
+
+2023-08-27 02:23:40 LastLoginModule_Button Clicked
+
+2023-08-27 03:05:28 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 03:05:28  *** MakeBet *** 
+
+2023-08-27 03:05:28 {"dbId":"","sport":"","country":"","league":"USA MLS","dateTime":"","match":"Columbus Crew vs Toronto FC","score":"1:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-27 03:05:28 52.48
+
+2023-08-27 03:05:28 Current balance : 52.4
+
+2023-08-27 03:05:28 Current Balance : 52.4
+
+2023-08-27 03:05:28 CheckIfLoggedIn
+
+2023-08-27 03:05:28 Logged In Already!
+
+2023-08-27 03:05:28 bet365.com
+
+2023-08-27 03:05:42 Columbus Crew v Toronto FC Dis :0.00740740740740742
+
+2023-08-27 03:05:42 Houston Dynamo v Columbus Crew Dis :0.374074074074074
+
+2023-08-27 03:05:42 Orlando City II v Columbus Crew II Dis :0.437273057371097
+
+2023-08-27 03:05:43 Wrong position detected!
+
+2023-08-27 03:05:47 Stake : 30
+
+2023-08-27 03:05:47 Running AddbetScript...
+
+2023-08-27 03:05:47 scrollBetIntoView('1154220835') => 1
+
+2023-08-27 03:05:49 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-27 03:05:51 {
+  "bg": "ba4c99bc-c2e3-42ef-b2bd-05613381a8d4",
+  "sr": 0,
+  "mr": false,
+  "cc": "55td+caUpMKEFV4qz6Y+3X3I9tPb+xs1H4Zn4i5MJWc=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "911",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "2/5",
+      "fi": 142839589,
+      "fd": "Columbus Crew v Toronto FC",
+      "pt": [
+        {
+          "hd": "1.5",
+          "pi": 1154220835,
+          "bd": "Più di",
+          "ha": "1.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64eaa16f-1F7F23E0",
+      "tp": "BS142839589-1154220835",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142403205,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-08-27 03:05:53 Fractional Odds : 2/5
+
+2023-08-27 03:05:53 Trademate Odds : 0 , Bet365 Odds : 1.4
+
+2023-08-27 03:05:53 Trying to place bet!
+
+2023-08-27 03:05:53 DoPlacebetUI
+
+2023-08-27 03:05:53 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-27 03:05:54 Trademate Odds : 0 , Bet365 Odds : 1.4
+
+2023-08-27 03:05:54 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-27 03:06:03 52.48
+
+2023-08-27 03:06:03 Current balance : 52.4
+
+2023-08-27 03:06:03 DoLoad365Page
+
+2023-08-27 03:06:03 365 page is loaded!
+
+2023-08-27 03:06:06 [concigrassi:Test123.] SUCCESS. Stake:30 Odds:1.4
+
+2023-08-27 03:06:06 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:30 Odds:1.4",
+  "stake": 30.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.4,
+  "tournament": "USA MLS",
+  "eventName": "Columbus Crew vs Toronto FC",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "27/08/2023 03:06:03",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 22.4,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-27 03:06:15 Trying to register tip at Bigstake
+
+2023-08-27 03:06:29 Registered tip at Bigstake Successfully!
+
+2023-08-27 03:06:32 This Line is already existed on Settled bets!
+
+2023-08-27 03:26:16 Recieve new Match Score From Copybet Server!
+
+2023-08-27 03:26:16 New Score is updated...
+
+2023-08-27 03:26:16 {"home":"Columbus Crew","away":"Toronto FC","score":"2:0","gameTime":0}
+
+2023-08-27 03:26:16 New Score : Columbus Crew vs Toronto FC  2:0
+
+2023-08-27 03:26:16 Pending tip Score : Columbus Crew vs Toronto FC 1:0
+
+2023-08-27 03:26:16 Pending Tip is winning now...
+
+2023-08-27 03:46:34 Recieve new Match Score From Copybet Server!
+
+2023-08-27 03:46:34 New Score is updated...
+
+2023-08-27 03:46:34 {"home":"Columbus Crew","away":"Toronto FC","score":"2:0","gameTime":2}
+
+2023-08-27 04:05:10 LastLoginModule_Button Clicked
+
+2023-08-27 04:26:22 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 04:26:22  *** MakeBet *** 
+
+2023-08-27 04:26:22 {"dbId":"","sport":"","country":"","league":"USA USL Championship","dateTime":"","match":"San Antonio FC vs Pittsburgh Riverhounds","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-27 04:26:22 64.48
+
+2023-08-27 04:26:22 Current balance : 64.4
+
+2023-08-27 04:26:22 Current Balance : 64.4
+
+2023-08-27 04:26:22 CheckIfLoggedIn
+
+2023-08-27 04:26:22 Logged In Already!
+
+2023-08-27 04:26:22 bet365.com
+
+2023-08-27 04:26:22 DoLoad365Page
+
+2023-08-27 04:26:22 365 page is loaded!
+
+2023-08-27 04:26:36 San Antonio FC v Pittsburgh Riverhounds Dis :0.0614102564102564
+
+2023-08-27 04:26:37 Wrong position detected!
+
+2023-08-27 04:26:41 Stake : 30
+
+2023-08-27 04:26:41 Running AddbetScript...
+
+2023-08-27 04:26:41 scrollBetIntoView('1157409775') => 1
+
+2023-08-27 04:26:43 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-27 04:26:44 {
+  "bg": "78bc791d-e541-4347-976a-ed1a8e17223a",
+  "sr": 0,
+  "mr": false,
+  "cc": "KONLclsH9TOdgOjZp2e/7+1Q1jqA1DCpJBi6WQ+372o=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "911",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/13",
+      "fi": 142867255,
+      "fd": "San Antonio FC v Pittsburgh Riverhounds",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1157409775,
+          "bd": "Più di ",
+          "ha": "0.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "tp": "BS142867255-1157409775",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142403313,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-08-27 04:26:46 Fractional Odds : 8/13
+
+2023-08-27 04:26:46 Trademate Odds : 0 , Bet365 Odds : 1.61
+
+2023-08-27 04:26:46 Trying to place bet!
+
+2023-08-27 04:26:46 DoPlacebetUI
+
+2023-08-27 04:26:47 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-27 04:26:48 Trademate Odds : 0 , Bet365 Odds : 1.66
+
+2023-08-27 04:26:48 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-27 04:26:57 64.48
+
+2023-08-27 04:26:57 Current balance : 64.4
+
+2023-08-27 04:26:57 DoLoad365Page
+
+2023-08-27 04:26:58 365 page is loaded!
+
+2023-08-27 04:27:01 [concigrassi:Test123.] SUCCESS. Stake:30 Odds:1.66666666666667
+
+2023-08-27 04:27:01 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:30 Odds:1.66666666666667",
+  "stake": 30.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.6666666666666667,
+  "tournament": "USA USL Championship",
+  "eventName": "San Antonio FC vs Pittsburgh Riverhounds",
+  "probability": "OVER",
+  "market": "OVER 0.5",
+  "placedAt": "27/08/2023 04:26:57",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 34.400000000000006,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-27 04:27:09 Trying to register tip at Bigstake
+
+2023-08-27 04:27:23 Registered tip at Bigstake Successfully!
+
+2023-08-27 04:27:26 This Line is already existed on Settled bets!
+
+2023-08-27 05:05:21 Recieve new Match Score From Copybet Server!
+
+2023-08-27 05:05:21 New Score is updated...
+
+2023-08-27 05:05:21 {"home":"San Antonio FC","away":"Pittsburgh Riverhounds","score":"0:0","gameTime":2}
+
+2023-08-27 05:05:21 New Score : San Antonio FC vs Pittsburgh Riverhounds  0:0
+
+2023-08-27 05:05:21 Pending tip Score : San Antonio FC vs Pittsburgh Riverhounds 0:0
+
+2023-08-27 05:05:21 Pending Tip is lost now...
+
+2023-08-27 05:26:10 LastLoginModule_Button Clicked
+
+2023-08-27 06:25:41 LastLoginModule_Button Clicked
+
+2023-08-27 07:25:11 LastLoginModule_Button Clicked
+
+2023-08-27 08:24:41 LastLoginModule_Button Clicked
+
+2023-08-27 09:24:11 LastLoginModule_Button Clicked
+
+2023-08-27 10:23:41 LastLoginModule_Button Clicked
+
+2023-08-27 10:45:20 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 10:45:20  *** MakeBet *** 
+
+2023-08-27 10:45:20 {"dbId":"","sport":"","country":"","league":"Czech Republic 3. Ligy","dateTime":"","match":"Slavia Prague B vs Povltavska FA","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-27 10:45:20 34.48
+
+2023-08-27 10:45:20 Current balance : 34.4
+
+2023-08-27 10:45:20 Current Balance : 34.4
+
+2023-08-27 10:45:20 CheckIfLoggedIn
+
+2023-08-27 10:45:20 Logged In Already!
+
+2023-08-27 10:45:20 bet365.com
+
+2023-08-27 10:45:34 Not Search Event
+
+2023-08-27 10:45:34 Wrong position detected!
+
+2023-08-27 10:45:39 Slavia Praga B v Povltavska FA Dis :0.0461063218390804
+
+2023-08-27 10:45:39 Wrong position detected!
+
+2023-08-27 10:45:43 Stake : 32
+
+2023-08-27 10:45:43 Running AddbetScript...
+
+2023-08-27 10:45:43 scrollBetIntoView('1158895235') => 0
+
+2023-08-27 10:45:43 Bet is not found!
+
+2023-08-27 10:45:48 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-27 10:45:49 {
+  "bg": "ead49aa0-0f46-41b6-8c76-52c73aad0b51",
+  "sr": 0,
+  "mr": false,
+  "cc": "jjA5Ut6mf/35cBSIrTcM5YDxIYuUEPrT42sjC7xAzBQ=",
+  "ir": true,
+  "lm": "BWAPI",
+  "vr": "911",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/5",
+      "fi": 142878855,
+      "fd": "Slavia Praga B v Povltavska FA",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 1158895235,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "64eb0d3d-DE2B54CC",
+      "tp": "BS142878855-1158895235",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 142397056,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-08-27 10:45:51 Fractional Odds : 4/5
+
+2023-08-27 10:45:51 Trademate Odds : 0 , Bet365 Odds : 1.8
+
+2023-08-27 10:45:51 Trying to place bet!
+
+2023-08-27 10:45:51 DoPlacebetUI
+
+2023-08-27 10:45:51 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-27 10:45:53 Trademate Odds : 0 , Bet365 Odds : 1.8
+
+2023-08-27 10:45:53 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-27 10:46:02 34.48
+
+2023-08-27 10:46:02 Current balance : 34.4
+
+2023-08-27 10:46:02 DoLoad365Page
+
+2023-08-27 10:46:02 365 page is loaded!
+
+2023-08-27 10:46:05 [concigrassi:Test123.] SUCCESS. Stake:32 Odds:1.8
+
+2023-08-27 10:46:05 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:32 Odds:1.8",
+  "stake": 32.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.8,
+  "tournament": "Czech Republic 3. Ligy",
+  "eventName": "Slavia Prague B vs Povltavska FA",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "27/08/2023 10:46:02",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 2.3999999999999986,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-27 10:46:13 Trying to register tip at Bigstake
+
+2023-08-27 10:46:28 Registered tip at Bigstake Successfully!
+
+2023-08-27 10:46:31 This Line is already existed on Settled bets!
+
+2023-08-27 10:53:16 Recieve new Match Score From Copybet Server!
+
+2023-08-27 10:53:16 New Score is updated...
+
+2023-08-27 10:53:16 {"home":"Slavia Prague B","away":"Povltavska FA","score":"1:0","gameTime":0}
+
+2023-08-27 10:53:16 New Score : Slavia Prague B vs Povltavska FA  1:0
+
+2023-08-27 10:53:16 Pending tip Score : Slavia Prague B vs Povltavska FA 0:0
+
+2023-08-27 10:53:16 Pending Tip is winning now...
+
+2023-08-27 11:02:20 Recieve new Match Score From Copybet Server!
+
+2023-08-27 11:02:20 New Score is updated...
+
+2023-08-27 11:02:20 {"home":"Slavia Prague B","away":"Povltavska FA","score":"1:0","gameTime":1}
+
+2023-08-27 11:17:15 Recieve new Match Score From Copybet Server!
+
+2023-08-27 11:17:15 New Score is updated...
+
+2023-08-27 11:17:15 {"home":"Slavia Prague B","away":"Povltavska FA","score":"1:0","gameTime":1}
+
+2023-08-27 11:20:20 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 11:20:20  *** MakeBet *** 
+
+2023-08-27 11:20:20 {"dbId":"","sport":"","country":"","league":"France U19 League","dateTime":"","match":"US Orleans U19 vs Strasbourg U19","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-27 11:20:20 60.08
+
+2023-08-27 11:20:20 Current balance : 60
+
+2023-08-27 11:20:20 Current Balance : 60
+
+2023-08-27 11:20:20 CheckIfLoggedIn
+
+2023-08-27 11:20:20 Logged In Already!
+
+2023-08-27 11:20:20 bet365.com
+
+2023-08-27 11:20:31 US Orleans U19 v Strasbourg U19 Dis :0.0256048387096773
+
+2023-08-27 11:20:32 Wrong position detected!
+
+2023-08-27 11:20:35 Stake : 37
+
+2023-08-27 11:20:35 Running AddbetScript...
+
+2023-08-27 11:20:35 scrollBetIntoView('1159105741') => 0
+
+2023-08-27 11:20:35 Bet is not found!
+
+2023-08-27 11:20:39 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-27 11:20:43 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-08-27 11:20:43 Trying to place bet!
+
+2023-08-27 11:20:43 DoPlacebetUI
+
+2023-08-27 11:20:43 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-27 11:20:45 Trademate Odds : 0 , Bet365 Odds : 1.53
+
+2023-08-27 11:20:45 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-27 11:20:54 60.08
+
+2023-08-27 11:20:54 Current balance : 60
+
+2023-08-27 11:20:54 DoLoad365Page
+
+2023-08-27 11:20:54 365 page is loaded!
+
+2023-08-27 11:20:57 [concigrassi:Test123.] SUCCESS. Stake:37 Odds:1.53324324324324
+
+2023-08-27 11:20:57 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:37 Odds:1.53324324324324",
+  "stake": 37.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.5332432432432432,
+  "tournament": "France U19 League",
+  "eventName": "US Orleans U19 vs Strasbourg U19",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "27/08/2023 11:20:54",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 23.0,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-27 11:21:05 Trying to register tip at Bigstake
+
+2023-08-27 11:21:20 Registered tip at Bigstake Successfully!
+
+2023-08-27 11:21:23 This Line is already existed on Settled bets!
+
+2023-08-27 11:40:15 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 11:40:15 Pending bet is not finished.!
+
+2023-08-27 11:47:22 Recieve new Match Score From Copybet Server!
+
+2023-08-27 11:47:22 New Score is updated...
+
+2023-08-27 11:47:22 {"home":"US Orleans U19","away":"Strasbourg U19","score":"0:0","gameTime":1}
+
+2023-08-27 11:47:22 New Score : US Orleans U19 vs Strasbourg U19  0:0
+
+2023-08-27 11:47:22 Pending tip Score : US Orleans U19 vs Strasbourg U19 0:0
+
+2023-08-27 11:47:22 Pending Tip is lost now...
+
+2023-08-27 11:49:07 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 11:49:07  *** MakeBet *** 
+
+2023-08-27 11:49:07 {"dbId":"","sport":"","country":"","league":"Czech Republic 3. Ligy","dateTime":"","match":"Slavia Prague B vs Povltavska FA","score":"1:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-27 11:49:07 23.08
+
+2023-08-27 11:49:07 Current balance : 23
+
+2023-08-27 11:49:07 Current Balance : 23
+
+2023-08-27 11:49:07 CheckIfLoggedIn
+
+2023-08-27 11:49:07 Logged In Already!
+
+2023-08-27 11:49:07 bet365.com
+
+2023-08-27 11:49:19 Not Search Event
+
+2023-08-27 11:49:19 Wrong position detected!
+
+2023-08-27 11:49:22 Slavia Praga B v Povltavska FA Dis :0.0461063218390804
+
+2023-08-27 11:49:23 Wrong position detected!
+
+2023-08-27 11:49:27 Stake : 35
+
+2023-08-27 11:49:27 Balance is Low now! Skip bets now!
+
+2023-08-27 11:49:30  *** MakeBet *** 
+
+2023-08-27 11:49:30 {"dbId":"","sport":"","country":"","league":"Czech Republic 3. Ligy","dateTime":"","match":"Slavia Prague B vs Povltavska FA","score":"1:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"1.66","selectionId":"1158895222","matchId":"142878855","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-27 11:49:30 23.08
+
+2023-08-27 11:49:30 Current balance : 23
+
+2023-08-27 11:49:30 Current Balance : 23
+
+2023-08-27 11:49:30 CheckIfLoggedIn
+
+2023-08-27 11:49:30 Logged In Already!
+
+2023-08-27 11:49:30 bet365.com
+
+2023-08-27 11:49:30 DoLoad365Page
+
+2023-08-27 11:49:30 365 page is loaded!
+
+2023-08-27 11:49:30 Wrong position detected!
+
+2023-08-27 11:49:40 Not Search Event
+
+2023-08-27 11:49:48 Slavia Praga B v Povltavska FA Dis :0.0461063218390804
+
+2023-08-27 11:49:49 Wrong position detected!
+
+2023-08-27 11:49:51 Stake : 40
+
+2023-08-27 11:49:51 Balance is Low now! Skip bets now!
+
+2023-08-27 11:53:20 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 11:53:20  *** MakeBet *** 
+
+2023-08-27 11:53:20 {"dbId":"","sport":"","country":"","league":"Slovakia 2. Liga","dateTime":"","match":"OFK Malzenice vs KFC Komarno","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-27 11:53:20 23.08
+
+2023-08-27 11:53:20 Current balance : 23
+
+2023-08-27 11:53:20 Current Balance : 23
+
+2023-08-27 11:53:20 CheckIfLoggedIn
+
+2023-08-27 11:53:20 Logged In Already!
+
+2023-08-27 11:53:20 bet365.com
+
+2023-08-27 11:53:20 Wrong position detected!
+
+2023-08-27 11:53:22 Wrong position detected!
+
+2023-08-27 11:53:24 OFK Malzenice v KFC Komarno Dis :0.00714285714285712
+
+2023-08-27 11:53:25 Wrong position detected!
+
+2023-08-27 11:53:29 Stake : 32
+
+2023-08-27 11:53:29 Balance is Low now! Skip bets now!
+
+2023-08-27 11:53:32  *** MakeBet *** 
+
+2023-08-27 11:53:32 {"dbId":"","sport":"","country":"","league":"Slovakia 2. Liga","dateTime":"","match":"OFK Malzenice vs KFC Komarno","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"1.61","selectionId":"1159508307","matchId":"142881849","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-27 11:53:32 23.08
+
+2023-08-27 11:53:32 Current balance : 23
+
+2023-08-27 11:53:32 Current Balance : 23
+
+2023-08-27 11:53:32 CheckIfLoggedIn
+
+2023-08-27 11:53:32 Logged In Already!
+
+2023-08-27 11:53:32 bet365.com
+
+2023-08-27 11:53:32 Wrong position detected!
+
+2023-08-27 11:53:34 Wrong position detected!
+
+2023-08-27 11:53:36 OFK Malzenice v KFC Komarno Dis :0.00714285714285712
+
+2023-08-27 11:53:37 Wrong position detected!
+
+2023-08-27 11:53:39 Stake : 40
+
+2023-08-27 11:53:39 Balance is Low now! Skip bets now!
+
+2023-08-27 11:54:18 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 11:54:18  *** MakeBet *** 
+
+2023-08-27 11:54:18 {"dbId":"","sport":"","country":"","league":"Japan Regional League","dateTime":"","match":"Tokyo United FC vs Tokyo International Unversity FC","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-27 11:54:18 23.08
+
+2023-08-27 11:54:19 Current balance : 23
+
+2023-08-27 11:54:19 Current Balance : 23
+
+2023-08-27 11:54:19 CheckIfLoggedIn
+
+2023-08-27 11:54:19 Logged In Already!
+
+2023-08-27 11:54:19 bet365.com
+
+2023-08-27 11:54:19 Wrong position detected!
+
+2023-08-27 11:54:25 Tokyo United FC v Tokyo International Unversity FC Dis :0.00392156862745097
+
+2023-08-27 11:54:26 Wrong position detected!
+
+2023-08-27 11:54:29 Stake : 32
+
+2023-08-27 11:54:29 Balance is Low now! Skip bets now!
+
+2023-08-27 11:54:32  *** MakeBet *** 
+
+2023-08-27 11:54:32 {"dbId":"","sport":"","country":"","league":"Japan Regional League","dateTime":"","match":"Tokyo United FC vs Tokyo International Unversity FC","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"1.61","selectionId":"1159004580","matchId":"142879558","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-27 11:54:32 23.08
+
+2023-08-27 11:54:32 Current balance : 23
+
+2023-08-27 11:54:32 Current Balance : 23
+
+2023-08-27 11:54:32 CheckIfLoggedIn
+
+2023-08-27 11:54:32 Logged In Already!
+
+2023-08-27 11:54:32 bet365.com
+
+2023-08-27 11:54:32 DoLoad365Page
+
+2023-08-27 11:54:32 365 page is loaded!
+
+2023-08-27 11:54:32 Wrong position detected!
+
+2023-08-27 11:54:42 Not Search Event
+
+2023-08-27 11:54:49 Tokyo United FC v Tokyo International Unversity FC Dis :0.00392156862745097
+
+2023-08-27 11:54:50 Wrong position detected!
+
+2023-08-27 11:54:52 Stake : 40
+
+2023-08-27 11:54:52 Balance is Low now! Skip bets now!
+
+2023-08-27 11:56:18 Recieve new Match Score From Copybet Server!
+
+2023-08-27 11:56:18 New Score is updated...
+
+2023-08-27 11:56:18 {"home":"OFK Malzenice","away":"KFC Komarno","score":"0:1","gameTime":0}
+
+2023-08-27 11:56:19 Recieve new Match Score From Copybet Server!
+
+2023-08-27 11:56:19 New Score is updated...
+
+2023-08-27 11:56:19 {"home":"Tokyo United FC","away":"Tokyo International Unversity FC","score":"1:0","gameTime":0}
+
+2023-08-27 12:03:17 Recieve new Match Score From Copybet Server!
+
+2023-08-27 12:03:17 New Score is updated...
+
+2023-08-27 12:03:17 {"home":"US Orleans U19","away":"Strasbourg U19","score":"0:0","gameTime":1}
+
+2023-08-27 12:04:16 Recieve new Match Score From Copybet Server!
+
+2023-08-27 12:04:16 New Score is updated...
+
+2023-08-27 12:04:16 {"home":"Tokyo United FC","away":"Tokyo International Unversity FC","score":"1:1","gameTime":0}
+
+2023-08-27 12:12:18 Recieve new Match Score From Copybet Server!
+
+2023-08-27 12:12:18 New Score is updated...
+
+2023-08-27 12:12:18 {"home":"Slavia Prague B","away":"Povltavska FA","score":"1:0","gameTime":2}
+
+2023-08-27 12:16:18 Recieve new Match Score From Copybet Server!
+
+2023-08-27 12:16:18 New Score is updated...
+
+2023-08-27 12:16:18 {"home":"Tokyo United FC","away":"Tokyo International Unversity FC","score":"2:1","gameTime":0}
+
+2023-08-27 12:17:16 Recieve new Match Score From Copybet Server!
+
+2023-08-27 12:17:16 New Score is updated...
+
+2023-08-27 12:17:16 {"home":"US Orleans U19","away":"Strasbourg U19","score":"0:1","gameTime":0}
+
+2023-08-27 12:18:21 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 12:18:21  *** MakeBet *** 
+
+2023-08-27 12:18:21 {"dbId":"","sport":"","country":"","league":"Poland III Liga","dateTime":"","match":"Olimpia Zambrow vs Mlawianka Mlawa","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-27 12:18:26 
+
+2023-08-27 12:18:26 Current Balance : -1
+
+2023-08-27 12:18:26 CheckIfLoggedIn
+
+2023-08-27 12:18:31 DoLogin
+
+2023-08-27 12:18:31 DoLoad365Page
+
+2023-08-27 12:18:31 365 page is loaded!
+
+2023-08-27 12:18:37 bet365.com
+
+2023-08-27 12:19:39 Not Search Event
+
+2023-08-27 12:19:48 Not Search Event
+
+2023-08-27 12:20:07 Not Search Event
+
+2023-08-27 12:20:16 Not Search Event
+
+2023-08-27 12:20:21 Not Found Event on Bet365...
+
+2023-08-27 12:20:24  *** MakeBet *** 
+
+2023-08-27 12:20:24 {"dbId":"","sport":"","country":"","league":"Poland III Liga","dateTime":"","match":"Olimpia Zambrow vs Mlawianka Mlawa","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-27 12:20:24 46.08
+
+2023-08-27 12:20:24 Current balance : 46
+
+2023-08-27 12:20:24 Current Balance : 46
+
+2023-08-27 12:20:24 CheckIfLoggedIn
+
+2023-08-27 12:20:24 Logged In Already!
+
+2023-08-27 12:20:24 bet365.com
+
+2023-08-27 12:20:24 DoLoad365Page
+
+2023-08-27 12:20:24 365 page is loaded!
+
+2023-08-27 12:20:38 Not Search Event
+
+2023-08-27 12:20:46 Not Search Event
+
+2023-08-27 12:21:05 Not Search Event
+
+2023-08-27 12:21:14 Not Search Event
+
+2023-08-27 12:21:20 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 12:21:33 Not Search Event
+
+2023-08-27 12:21:34 Disconnected Socket Server!!! || ping timeout
+
+2023-08-27 12:21:35 Connected Socket Server!!!
+
+2023-08-27 12:21:42 Not Search Event
+
+2023-08-27 12:21:47 Not Found Event on Bet365...
+
+2023-08-27 12:21:50  *** MakeBet *** 
+
+2023-08-27 12:21:50 {"dbId":"","sport":"","country":"","league":"Poland Youth League","dateTime":"","match":"Gornik Zabrze U19 vs Legia Warsaw U19","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-27 12:21:50 46.08
+
+2023-08-27 12:21:50 Current balance : 46
+
+2023-08-27 12:21:50 Current Balance : 46
+
+2023-08-27 12:21:50 CheckIfLoggedIn
+
+2023-08-27 12:21:50 Logged In Already!
+
+2023-08-27 12:21:50 bet365.com
+
+2023-08-27 12:21:51 Disconnected Socket Server!!! || io client disconnect
+
+2023-08-27 12:21:51 The bot has been stopped!
+
+2023-08-27 12:21:51 Exception in MakeBet: System.Threading.ThreadAbortException: Thread interrotto.
+   in CEBet365Placer.Controller.BetController.ExecuteScript(String jsCode, Boolean requiredResult)
+   in CEBet365Placer.Controller.BetController.SearchMatchWithName(String eventName)
+   in CEBet365Placer.Controller.BetController.MakeBet(TelegramTip betitem, Boolean& isSucccssed)
+
+2023-08-27 12:21:51 checkWrongLine :    in CEBet365Placer.Controller.BetController.MakeBet(TelegramTip betitem, Boolean& isSucccssed)
+   in CEBet365Placer.Form1.refreshThreadFunc()
+
+2023-08-27 12:21:55 The bot has been started!
+
+2023-08-27 12:21:55 DoLogin
+
+2023-08-27 12:21:55 DoLoad365Page
+
+2023-08-27 12:21:55 365 page is loaded!
+
+2023-08-27 12:21:56 Connected Socket Server!!!
+
+2023-08-27 12:21:59 46.08
+
+2023-08-27 12:21:59 Current balance : 46
+
+2023-08-27 12:22:07 0 Settled bets!!!
+
+2023-08-27 12:22:07 Current Balance: 46
+
+2023-08-27 12:22:07 Page is initialized!
+
+2023-08-27 12:22:22 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 12:22:33 Disconnected Socket Server!!! || io client disconnect
+
+2023-08-27 12:22:33 The bot has been stopped!
+2023-08-27 12:22:56 Chrome_RenderWidgetHostHWND
+
+2023-08-27 12:22:56 Websocket server is listening on 8880
+
+2023-08-27 12:22:56 DoLogin
+
+2023-08-27 12:22:56 DoLoad365Page
+
+2023-08-27 12:23:02 365 page is loaded!
+
+2023-08-27 12:23:02 Executed login script!
+
+2023-08-27 12:23:09 DoLoad365Page
+
+2023-08-27 12:23:09 365 page is loaded!
+
+2023-08-27 12:23:09 LastLoginModule_Button Clicked
+
+2023-08-27 12:23:15 Login Success!
+
+2023-08-27 12:23:22 0 Settled bets!!!
+
+2023-08-27 12:23:22 Browser Connected!
+
+2023-08-27 12:23:24 The bot has been started!
+
+2023-08-27 12:23:25 DoLogin
+
+2023-08-27 12:23:25 DoLoad365Page
+
+2023-08-27 12:23:25 365 page is loaded!
+
+2023-08-27 12:23:25 Connected Socket Server!!!
+
+2023-08-27 12:23:28 46.08
+
+2023-08-27 12:23:28 Current balance : 46
+
+2023-08-27 12:23:36 0 Settled bets!!!
+
+2023-08-27 12:23:36 Current Balance: 46
+
+2023-08-27 12:23:36 Page is initialized!
+
+2023-08-27 12:23:48 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 12:23:48  *** MakeBet *** 
+
+2023-08-27 12:23:48 {"dbId":"","sport":"","country":"","league":"Poland Youth League","dateTime":"","match":"Gornik Zabrze U19 vs Legia Warsaw U19","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-27 12:23:48 46.08
+
+2023-08-27 12:23:48 Current balance : 46
+
+2023-08-27 12:23:48 Current Balance : 46
+
+2023-08-27 12:23:48 CheckIfLoggedIn
+
+2023-08-27 12:23:48 Logged In Already!
+
+2023-08-27 12:23:48 bet365.com
+
+2023-08-27 12:24:02 Gornik Zabrze U19 v Legia Varsavia U19 Dis :0.066680612501046
+
+2023-08-27 12:24:03 Wrong position detected!
+
+2023-08-27 12:24:08 Stake : 40
+
+2023-08-27 12:24:08 Running AddbetScript...
+
+2023-08-27 12:24:08 scrollBetIntoView('1159274747') => 1
+
+2023-08-27 12:24:09 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-27 12:24:13 Trademate Odds : 0 , Bet365 Odds : 1.61
+
+2023-08-27 12:24:13 Trying to place bet!
+
+2023-08-27 12:24:13 DoPlacebetUI
+
+2023-08-27 12:24:13 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-27 12:24:15 Trademate Odds : 0 , Bet365 Odds : 1.61
+
+2023-08-27 12:24:15 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-27 12:24:24 46.08
+
+2023-08-27 12:24:24 Current balance : 46
+
+2023-08-27 12:24:24 DoLoad365Page
+
+2023-08-27 12:24:24 365 page is loaded!
+
+2023-08-27 12:24:24 LastLoginModule_Button Clicked
+
+2023-08-27 12:24:29 [concigrassi:Test123.] SUCCESS. Stake:40 Odds:1.61525
+
+2023-08-27 12:24:29 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:40 Odds:1.61525",
+  "stake": 40.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.61525,
+  "tournament": "Poland Youth League",
+  "eventName": "Gornik Zabrze U19 vs Legia Warsaw U19",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "27/08/2023 12:24:24",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 6.0,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-27 12:24:38 Trying to register tip at Bigstake
+
+2023-08-27 12:24:53 Registered tip at Bigstake Successfully!
+
+2023-08-27 12:24:56 This Line is already existed on Settled bets!
+
+2023-08-27 12:27:37 Recieve new Match Score From Copybet Server!
+
+2023-08-27 12:27:37 New Score is updated...
+
+2023-08-27 12:27:37 {"home":"OFK Malzenice","away":"KFC Komarno","score":"0:1","gameTime":2}
+
+2023-08-27 12:27:37 New Score : OFK Malzenice vs KFC Komarno  0:1
+
+2023-08-27 12:27:37 Pending tip Score : Gornik Zabrze U19 vs Legia Warsaw U19 0:0
+
+2023-08-27 12:28:23 Recieve new Match Score From Copybet Server!
+
+2023-08-27 12:28:24 New Score is updated...
+
+2023-08-27 12:28:24 {"home":"Tokyo United FC","away":"Tokyo International Unversity FC","score":"2:1","gameTime":2}
+
+2023-08-27 12:28:24 New Score : Tokyo United FC vs Tokyo International Unversity FC  2:1
+
+2023-08-27 12:28:24 Pending tip Score : Gornik Zabrze U19 vs Legia Warsaw U19 0:0
+
+2023-08-27 12:30:21 Recieve new Match Score From Copybet Server!
+
+2023-08-27 12:30:21 New Score is updated...
+
+2023-08-27 12:30:21 {"home":"Gornik Zabrze U19","away":"Legia Warsaw U19","score":"1:0","gameTime":0}
+
+2023-08-27 12:30:21 New Score : Gornik Zabrze U19 vs Legia Warsaw U19  1:0
+
+2023-08-27 12:30:21 Pending tip Score : Gornik Zabrze U19 vs Legia Warsaw U19 0:0
+
+2023-08-27 12:30:21 Pending Tip is winning now...
+
+2023-08-27 12:47:18 Recieve new Match Score From Copybet Server!
+
+2023-08-27 12:47:18 New Score is updated...
+
+2023-08-27 12:47:18 {"home":"Olimpia Zambrow","away":"Mlawianka Mlawa","score":"1:0","gameTime":0}
+
+2023-08-27 12:48:16 Recieve new Match Score From Copybet Server!
+
+2023-08-27 12:48:16 New Score is updated...
+
+2023-08-27 12:48:16 {"home":"Gornik Zabrze U19","away":"Legia Warsaw U19","score":"1:0","gameTime":1}
+
+2023-08-27 12:50:16 Recieve new Match Score From Copybet Server!
+
+2023-08-27 12:50:16 New Score is updated...
+
+2023-08-27 12:50:16 {"home":"US Orleans U19","away":"Strasbourg U19","score":"0:2","gameTime":0}
+
+2023-08-27 12:53:18 Recieve new Match Score From Copybet Server!
+
+2023-08-27 12:53:18 New Score is updated...
+
+2023-08-27 12:53:18 {"home":"Olimpia Zambrow","away":"Mlawianka Mlawa","score":"1:0","gameTime":1}
+
+2023-08-27 12:55:18 Recieve new Match Score From Copybet Server!
+
+2023-08-27 12:55:18 New Score is updated...
+
+2023-08-27 12:55:18 {"home":"US Orleans U19","away":"Strasbourg U19","score":"0:2","gameTime":2}
+
+2023-08-27 13:07:14 Recieve new Match Score From Copybet Server!
+
+2023-08-27 13:07:14 New Score is updated...
+
+2023-08-27 13:07:14 {"home":"Gornik Zabrze U19","away":"Legia Warsaw U19","score":"1:0","gameTime":1}
+
+2023-08-27 13:10:14 Recieve new Match Score From Copybet Server!
+
+2023-08-27 13:10:14 New Score is updated...
+
+2023-08-27 13:10:14 {"home":"Olimpia Zambrow","away":"Mlawianka Mlawa","score":"1:0","gameTime":1}
+
+2023-08-27 13:19:21 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 13:19:21  *** MakeBet *** 
+
+2023-08-27 13:19:21 {"dbId":"","sport":"","country":"","league":"Denmark Series Group 3","dateTime":"","match":"Fjordager IF vs Horsens fS","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-08-27 13:19:21 70.68
+
+2023-08-27 13:19:21 Current balance : 70.6
+
+2023-08-27 13:19:21 Current Balance : 70.6
+
+2023-08-27 13:19:21 CheckIfLoggedIn
+
+2023-08-27 13:19:21 Logged In Already!
+
+2023-08-27 13:19:21 bet365.com
+
+2023-08-27 13:19:21 Wrong position detected!
+
+2023-08-27 13:19:22 Wrong position detected!
+
+2023-08-27 13:19:24 Fjordager IF v Horsens fS Dis :0.0396923076923077
+
+2023-08-27 13:19:25 Wrong position detected!
+
+2023-08-27 13:19:29 Stake : 41
+
+2023-08-27 13:19:29 Running AddbetScript...
+
+2023-08-27 13:19:29 scrollBetIntoView('1158943730') => 0
+
+2023-08-27 13:19:29 Bet is not found!
+
+2023-08-27 13:19:33 Odds Pos : X : 189.5 , Y: 304
+
+2023-08-27 13:19:37 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-08-27 13:19:37 Trying to place bet!
+
+2023-08-27 13:19:37 DoPlacebetUI
+
+2023-08-27 13:19:37 betslip pos => {
+  "x": 274,
+  "y": 470.5,
+  "width": 1,
+  "height": 24,
+  "top": 470.5,
+  "right": 275,
+  "bottom": 494.5,
+  "left": 274
+}
+
+2023-08-27 13:19:39 Trademate Odds : 0 , Bet365 Odds : 1.5
+
+2023-08-27 13:19:39 Placebet Button pos => {"x":484,"y":458,"width":225,"height":50,"top":458,"right":709,"bottom":508,"left":484}
+
+2023-08-27 13:19:48 70.68
+
+2023-08-27 13:19:48 Current balance : 70.6
+
+2023-08-27 13:19:48 DoLoad365Page
+
+2023-08-27 13:19:48 365 page is loaded!
+
+2023-08-27 13:19:51 [concigrassi:Test123.] SUCCESS. Stake:41 Odds:1.5
+
+2023-08-27 13:19:51 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:41 Odds:1.5",
+  "stake": 41.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.5,
+  "tournament": "Denmark Series Group 3",
+  "eventName": "Fjordager IF vs Horsens fS",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "27/08/2023 13:19:48",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 29.599999999999994,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-08-27 13:19:59 Trying to register tip at Bigstake
+
+2023-08-27 13:20:14 Registered tip at Bigstake Successfully!
+
+2023-08-27 13:20:17 This Line is already existed on Settled bets!
+
+2023-08-27 13:33:16 Recieve new Match Score From Copybet Server!
+
+2023-08-27 13:33:16 New Score is updated...
+
+2023-08-27 13:33:16 {"home":"Olimpia Zambrow","away":"Mlawianka Mlawa","score":"1:1","gameTime":0}
+
+2023-08-27 13:33:16 New Score : Olimpia Zambrow vs Mlawianka Mlawa  1:1
+
+2023-08-27 13:33:16 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 13:43:19 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 13:43:19 Pending bet is not finished.!
+
+2023-08-27 13:44:16 Recieve new Match Score From Copybet Server!
+
+2023-08-27 13:44:16 New Score is updated...
+
+2023-08-27 13:44:16 {"home":"Shanghai Shengli Femminile","away":"Yongchuan Chashan Femminile","score":"1:0","gameTime":0}
+
+2023-08-27 13:44:16 New Score : Shanghai Shengli Femminile vs Yongchuan Chashan Femminile  1:0
+
+2023-08-27 13:44:16 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 13:48:16 Recieve new Match Score From Copybet Server!
+
+2023-08-27 13:48:16 New Score is updated...
+
+2023-08-27 13:48:17 {"home":"Shanghai Shengli Femminile","away":"Yongchuan Chashan Femminile","score":"2:0","gameTime":0}
+
+2023-08-27 13:48:17 New Score : Shanghai Shengli Femminile vs Yongchuan Chashan Femminile  2:0
+
+2023-08-27 13:48:17 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 13:52:16 Recieve new Match Score From Copybet Server!
+
+2023-08-27 13:52:16 New Score is updated...
+
+2023-08-27 13:52:16 {"home":"Gornik Zabrze U19","away":"Legia Warsaw U19","score":"2:0","gameTime":0}
+
+2023-08-27 13:52:16 New Score : Gornik Zabrze U19 vs Legia Warsaw U19  2:0
+
+2023-08-27 13:52:16 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 13:54:16 Recieve new Match Score From Copybet Server!
+
+2023-08-27 13:54:16 New Score is updated...
+
+2023-08-27 13:54:16 {"home":"Gornik Zabrze U19","away":"Legia Warsaw U19","score":"3:0","gameTime":0}
+
+2023-08-27 13:54:16 New Score : Gornik Zabrze U19 vs Legia Warsaw U19  3:0
+
+2023-08-27 13:54:16 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 14:00:20 Recieve new Match Score From Copybet Server!
+
+2023-08-27 14:00:20 New Score is updated...
+
+2023-08-27 14:00:20 {"home":"Gornik Zabrze U19","away":"Legia Warsaw U19","score":"3:0","gameTime":2}
+
+2023-08-27 14:00:20 New Score : Gornik Zabrze U19 vs Legia Warsaw U19  3:0
+
+2023-08-27 14:00:20 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 14:06:19 Recieve new Match Score From Copybet Server!
+
+2023-08-27 14:06:19 New Score is updated...
+
+2023-08-27 14:06:19 {"home":"Olimpia Zambrow","away":"Mlawianka Mlawa","score":"1:1","gameTime":2}
+
+2023-08-27 14:06:19 New Score : Olimpia Zambrow vs Mlawianka Mlawa  1:1
+
+2023-08-27 14:06:19 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 14:10:23 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 14:10:23 Pending bet is not finished.!
+
+2023-08-27 14:18:52 LastLoginModule_Button Clicked
+
+2023-08-27 14:23:30 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 14:23:30 Pending bet is not finished.!
+
+2023-08-27 14:24:16 Recieve new Match Score From Copybet Server!
+
+2023-08-27 14:24:16 New Score is updated...
+
+2023-08-27 14:24:16 {"home":"Shanghai Shengli Femminile","away":"Yongchuan Chashan Femminile","score":"3:0","gameTime":0}
+
+2023-08-27 14:24:16 New Score : Shanghai Shengli Femminile vs Yongchuan Chashan Femminile  3:0
+
+2023-08-27 14:24:16 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 14:24:23 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 14:24:23 Pending bet is not finished.!
+
+2023-08-27 14:25:17 Recieve new Match Score From Copybet Server!
+
+2023-08-27 14:25:17 New Score is updated...
+
+2023-08-27 14:25:17 {"home":"Shanghai Shengli Femminile","away":"Yongchuan Chashan Femminile","score":"3:0","gameTime":1}
+
+2023-08-27 14:25:17 New Score : Shanghai Shengli Femminile vs Yongchuan Chashan Femminile  3:0
+
+2023-08-27 14:25:17 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 14:41:18 Recieve new Match Score From Copybet Server!
+
+2023-08-27 14:41:18 New Score is updated...
+
+2023-08-27 14:41:18 {"home":"Shanghai Shengli Femminile","away":"Yongchuan Chashan Femminile","score":"3:0","gameTime":1}
+
+2023-08-27 14:41:18 New Score : Shanghai Shengli Femminile vs Yongchuan Chashan Femminile  3:0
+
+2023-08-27 14:41:18 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 14:46:19 Recieve new Match Score From Copybet Server!
+
+2023-08-27 14:46:19 New Score is updated...
+
+2023-08-27 14:46:19 {"home":"Shanghai Shengli Femminile","away":"Yongchuan Chashan Femminile","score":"4:0","gameTime":0}
+
+2023-08-27 14:46:19 New Score : Shanghai Shengli Femminile vs Yongchuan Chashan Femminile  4:0
+
+2023-08-27 14:46:19 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 14:47:19 Recieve new Match Score From Copybet Server!
+
+2023-08-27 14:47:19 New Score is updated...
+
+2023-08-27 14:47:19 {"home":"JK Tabasalu","away":"Levadia Tallinn II","score":"0:0","gameTime":1}
+
+2023-08-27 14:47:19 New Score : JK Tabasalu vs Levadia Tallinn II  0:0
+
+2023-08-27 14:47:19 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 14:51:20 Recieve new Match Score From Copybet Server!
+
+2023-08-27 14:51:20 New Score is updated...
+
+2023-08-27 14:51:20 {"home":"Fenerbahce Femminile","away":"Gaziantep Asya Spor Femminile","score":"0:0","gameTime":1}
+
+2023-08-27 14:51:20 New Score : Fenerbahce Femminile vs Gaziantep Asya Spor Femminile  0:0
+
+2023-08-27 14:51:20 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 14:55:23 Recieve new Match Score From Copybet Server!
+
+2023-08-27 14:55:23 New Score is updated...
+
+2023-08-27 14:55:23 {"home":"Lidköpings FK","away":"Säffle SK","score":"0:0","gameTime":2}
+
+2023-08-27 14:55:23 New Score : Lidköpings FK vs Säffle SK  0:0
+
+2023-08-27 14:55:23 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 14:55:23 Recieve new Match Score From Copybet Server!
+
+2023-08-27 14:55:23 New Score is updated...
+
+2023-08-27 14:55:23 {"home":"Fjordager IF","away":"Horsens fS","score":"0:0","gameTime":2}
+
+2023-08-27 14:55:23 New Score : Fjordager IF vs Horsens fS  0:0
+
+2023-08-27 14:55:23 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 14:59:21 Recieve new Match Score From Copybet Server!
+
+2023-08-27 14:59:21 New Score is updated...
+
+2023-08-27 14:59:21 {"home":"Shanghai Shengli Femminile","away":"Yongchuan Chashan Femminile","score":"5:0","gameTime":0}
+
+2023-08-27 14:59:21 New Score : Shanghai Shengli Femminile vs Yongchuan Chashan Femminile  5:0
+
+2023-08-27 14:59:21 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 15:03:21 Recieve new Match Score From Copybet Server!
+
+2023-08-27 15:03:21 New Score is updated...
+
+2023-08-27 15:03:21 {"home":"JK Tabasalu","away":"Levadia Tallinn II","score":"0:0","gameTime":1}
+
+2023-08-27 15:03:21 New Score : JK Tabasalu vs Levadia Tallinn II  0:0
+
+2023-08-27 15:03:21 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 15:07:20 Recieve new Match Score From Copybet Server!
+
+2023-08-27 15:07:20 New Score is updated...
+
+2023-08-27 15:07:20 {"home":"Shanghai Shengli Femminile","away":"Yongchuan Chashan Femminile","score":"6:0","gameTime":0}
+
+2023-08-27 15:07:20 New Score : Shanghai Shengli Femminile vs Yongchuan Chashan Femminile  6:0
+
+2023-08-27 15:07:20 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 15:09:25 Recieve new Match Score From Copybet Server!
+
+2023-08-27 15:09:25 New Score is updated...
+
+2023-08-27 15:09:25 {"home":"Fenerbahce Femminile","away":"Gaziantep Asya Spor Femminile","score":"0:0","gameTime":1}
+
+2023-08-27 15:09:25 New Score : Fenerbahce Femminile vs Gaziantep Asya Spor Femminile  0:0
+
+2023-08-27 15:09:25 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 15:14:20 Recieve new Match Score From Copybet Server!
+
+2023-08-27 15:14:20 New Score is updated...
+
+2023-08-27 15:14:20 {"home":"Fenerbahce Femminile","away":"Gaziantep Asya Spor Femminile","score":"1:0","gameTime":0}
+
+2023-08-27 15:14:20 New Score : Fenerbahce Femminile vs Gaziantep Asya Spor Femminile  1:0
+
+2023-08-27 15:14:20 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 15:14:31 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 15:14:31 Pending bet is not finished.!
+
+2023-08-27 15:16:34 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 15:16:34 Pending bet is not finished.!
+
+2023-08-27 15:18:22 LastLoginModule_Button Clicked
+
+2023-08-27 15:22:32 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 15:22:32 Pending bet is not finished.!
+
+2023-08-27 15:29:27 Recieve new Match Score From Copybet Server!
+
+2023-08-27 15:29:27 New Score is updated...
+
+2023-08-27 15:29:27 {"home":"JK Tabasalu","away":"Levadia Tallinn II","score":"0:1","gameTime":0}
+
+2023-08-27 15:29:27 New Score : JK Tabasalu vs Levadia Tallinn II  0:1
+
+2023-08-27 15:29:27 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 15:31:27 Recieve new Match Score From Copybet Server!
+
+2023-08-27 15:31:27 New Score is updated...
+
+2023-08-27 15:31:27 {"home":"Shanghai Shengli Femminile","away":"Yongchuan Chashan Femminile","score":"6:0","gameTime":2}
+
+2023-08-27 15:31:27 New Score : Shanghai Shengli Femminile vs Yongchuan Chashan Femminile  6:0
+
+2023-08-27 15:31:27 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 15:43:24 Recieve new Match Score From Copybet Server!
+
+2023-08-27 15:43:24 New Score is updated...
+
+2023-08-27 15:43:24 {"home":"Guingamp U19","away":"Stade Lavallois Mayenne FC U19","score":"0:1","gameTime":0}
+
+2023-08-27 15:43:24 New Score : Guingamp U19 vs Stade Lavallois Mayenne FC U19  0:1
+
+2023-08-27 15:43:24 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 15:47:23 Recieve new Match Score From Copybet Server!
+
+2023-08-27 15:47:23 New Score is updated...
+
+2023-08-27 15:47:23 {"home":"Ranheim","away":"IK Start","score":"0:0","gameTime":1}
+
+2023-08-27 15:47:23 New Score : Ranheim vs IK Start  0:0
+
+2023-08-27 15:47:23 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 15:47:24 Recieve new Match Score From Copybet Server!
+
+2023-08-27 15:47:24 New Score is updated...
+
+2023-08-27 15:47:24 {"home":"Wattenscheid 09","away":"ASC 09 Dortmund","score":"1:0","gameTime":0}
+
+2023-08-27 15:47:24 New Score : Wattenscheid 09 vs ASC 09 Dortmund  1:0
+
+2023-08-27 15:47:24 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 15:48:32 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 15:48:32 Pending bet is not finished.!
+
+2023-08-27 15:50:25 Recieve new Match Score From Copybet Server!
+
+2023-08-27 15:50:25 New Score is updated...
+
+2023-08-27 15:50:25 {"home":"Guingamp U19","away":"Stade Lavallois Mayenne FC U19","score":"0:2","gameTime":0}
+
+2023-08-27 15:50:25 New Score : Guingamp U19 vs Stade Lavallois Mayenne FC U19  0:2
+
+2023-08-27 15:50:25 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 15:50:26 Recieve new Match Score From Copybet Server!
+
+2023-08-27 15:50:26 New Score is updated...
+
+2023-08-27 15:50:26 {"home":"Wattenscheid 09","away":"ASC 09 Dortmund","score":"1:0","gameTime":1}
+
+2023-08-27 15:50:26 New Score : Wattenscheid 09 vs ASC 09 Dortmund  1:0
+
+2023-08-27 15:50:26 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 15:51:26 Recieve new Match Score From Copybet Server!
+
+2023-08-27 15:51:26 New Score is updated...
+
+2023-08-27 15:51:26 {"home":"Guingamp U19","away":"Stade Lavallois Mayenne FC U19","score":"0:2","gameTime":1}
+
+2023-08-27 15:51:26 New Score : Guingamp U19 vs Stade Lavallois Mayenne FC U19  0:2
+
+2023-08-27 15:51:26 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 15:53:25 Recieve new Match Score From Copybet Server!
+
+2023-08-27 15:53:25 New Score is updated...
+
+2023-08-27 15:53:25 {"home":"Niendorfer TSV","away":"FC Alsterbruder","score":"2:1","gameTime":0}
+
+2023-08-27 15:53:25 New Score : Niendorfer TSV vs FC Alsterbruder  2:1
+
+2023-08-27 15:53:25 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 15:57:26 Recieve new Match Score From Copybet Server!
+
+2023-08-27 15:57:26 New Score is updated...
+
+2023-08-27 15:57:26 {"home":"JK Tabasalu","away":"Levadia Tallinn II","score":"0:1","gameTime":2}
+
+2023-08-27 15:57:26 New Score : JK Tabasalu vs Levadia Tallinn II  0:1
+
+2023-08-27 15:57:26 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 16:02:24 Recieve new Match Score From Copybet Server!
+
+2023-08-27 16:02:24 New Score is updated...
+
+2023-08-27 16:02:24 {"home":"Ranheim","away":"IK Start","score":"0:0","gameTime":1}
+
+2023-08-27 16:02:24 New Score : Ranheim vs IK Start  0:0
+
+2023-08-27 16:02:24 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 16:07:27 Recieve new Match Score From Copybet Server!
+
+2023-08-27 16:07:27 New Score is updated...
+
+2023-08-27 16:07:27 {"home":"Fenerbahce Femminile","away":"Gaziantep Asya Spor Femminile","score":"1:0","gameTime":2}
+
+2023-08-27 16:07:27 New Score : Fenerbahce Femminile vs Gaziantep Asya Spor Femminile  1:0
+
+2023-08-27 16:07:27 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 16:10:23 Recieve new Match Score From Copybet Server!
+
+2023-08-27 16:10:23 New Score is updated...
+
+2023-08-27 16:10:23 {"home":"Guingamp U19","away":"Stade Lavallois Mayenne FC U19","score":"0:2","gameTime":1}
+
+2023-08-27 16:10:23 New Score : Guingamp U19 vs Stade Lavallois Mayenne FC U19  0:2
+
+2023-08-27 16:10:23 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 16:11:24 Recieve new Match Score From Copybet Server!
+
+2023-08-27 16:11:24 New Score is updated...
+
+2023-08-27 16:11:24 {"home":"Wattenscheid 09","away":"ASC 09 Dortmund","score":"1:1","gameTime":0}
+
+2023-08-27 16:11:24 New Score : Wattenscheid 09 vs ASC 09 Dortmund  1:1
+
+2023-08-27 16:11:24 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 16:17:52 LastLoginModule_Button Clicked
+
+2023-08-27 16:22:25 Recieve new Match Score From Copybet Server!
+
+2023-08-27 16:22:25 New Score is updated...
+
+2023-08-27 16:22:25 {"home":"Guingamp U19","away":"Stade Lavallois Mayenne FC U19","score":"1:2","gameTime":0}
+
+2023-08-27 16:22:25 New Score : Guingamp U19 vs Stade Lavallois Mayenne FC U19  1:2
+
+2023-08-27 16:22:25 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 16:26:27 Recieve new Match Score From Copybet Server!
+
+2023-08-27 16:26:27 New Score is updated...
+
+2023-08-27 16:26:27 {"home":"Niendorfer TSV","away":"FC Alsterbruder","score":"2:1","gameTime":2}
+
+2023-08-27 16:26:27 New Score : Niendorfer TSV vs FC Alsterbruder  2:1
+
+2023-08-27 16:26:27 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 16:48:28 Recieve new Match Score From Copybet Server!
+
+2023-08-27 16:48:28 New Score is updated...
+
+2023-08-27 16:48:28 {"home":"Guingamp U19","away":"Stade Lavallois Mayenne FC U19","score":"1:3","gameTime":0}
+
+2023-08-27 16:48:28 New Score : Guingamp U19 vs Stade Lavallois Mayenne FC U19  1:3
+
+2023-08-27 16:48:28 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 16:54:29 Recieve new Match Score From Copybet Server!
+
+2023-08-27 16:54:29 New Score is updated...
+
+2023-08-27 16:54:29 {"home":"Wattenscheid 09","away":"ASC 09 Dortmund","score":"1:2","gameTime":0}
+
+2023-08-27 16:54:29 New Score : Wattenscheid 09 vs ASC 09 Dortmund  1:2
+
+2023-08-27 16:54:29 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 16:56:31 Recieve new Match Score From Copybet Server!
+
+2023-08-27 16:56:31 New Score is updated...
+
+2023-08-27 16:56:32 {"home":"Ranheim","away":"IK Start","score":"0:0","gameTime":2}
+
+2023-08-27 16:56:32 New Score : Ranheim vs IK Start  0:0
+
+2023-08-27 16:56:32 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 17:01:33 Disconnected Socket Server!!! || ping timeout
+
+2023-08-27 17:01:34 Connected Socket Server!!!
+
+2023-08-27 17:03:34 Recieve new Match Score From Copybet Server!
+
+2023-08-27 17:03:34 New Score is updated...
+
+2023-08-27 17:03:34 {"home":"Guingamp U19","away":"Stade Lavallois Mayenne FC U19","score":"1:3","gameTime":2}
+
+2023-08-27 17:03:34 New Score : Guingamp U19 vs Stade Lavallois Mayenne FC U19  1:3
+
+2023-08-27 17:03:34 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 17:06:30 Recieve new Match Score From Copybet Server!
+
+2023-08-27 17:06:30 New Score is updated...
+
+2023-08-27 17:06:30 {"home":"Wattenscheid 09","away":"ASC 09 Dortmund","score":"1:2","gameTime":2}
+
+2023-08-27 17:06:30 New Score : Wattenscheid 09 vs ASC 09 Dortmund  1:2
+
+2023-08-27 17:06:30 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 17:17:22 LastLoginModule_Button Clicked
+
+2023-08-27 17:28:34 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 17:28:34 Pending bet is not finished.!
+
+2023-08-27 17:31:27 Recieve new Match Score From Copybet Server!
+
+2023-08-27 17:31:27 New Score is updated...
+
+2023-08-27 17:31:27 {"home":"Klubi-04","away":"NJS","score":"1:1","gameTime":0}
+
+2023-08-27 17:31:27 New Score : Klubi-04 vs NJS  1:1
+
+2023-08-27 17:31:27 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 17:33:37 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 17:33:37 Pending bet is not finished.!
+
+2023-08-27 17:53:39 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 17:53:39 Pending bet is not finished.!
+
+2023-08-27 17:56:34 Recieve new Match Score From Copybet Server!
+
+2023-08-27 17:56:34 New Score is updated...
+
+2023-08-27 17:56:34 {"home":"Klubi-04","away":"NJS","score":"1:1","gameTime":2}
+
+2023-08-27 17:56:34 New Score : Klubi-04 vs NJS  1:1
+
+2023-08-27 17:56:34 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 17:59:24 Recieve new Match Score From Copybet Server!
+
+2023-08-27 17:59:24 New Score is updated...
+
+2023-08-27 17:59:24 {"home":"Juventus U19","away":"Cagliari U19","score":"3:1","gameTime":0}
+
+2023-08-27 17:59:24 New Score : Juventus U19 vs Cagliari U19  3:1
+
+2023-08-27 17:59:24 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 18:06:28 Recieve new Match Score From Copybet Server!
+
+2023-08-27 18:06:28 New Score is updated...
+
+2023-08-27 18:06:28 {"home":"Garbarnia Krakow","away":"Swidniczanka Swidnik","score":"2:1","gameTime":2}
+
+2023-08-27 18:06:28 New Score : Garbarnia Krakow vs Swidniczanka Swidnik  2:1
+
+2023-08-27 18:06:28 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 18:16:52 LastLoginModule_Button Clicked
+
+2023-08-27 18:30:24 Recieve new Match Score From Copybet Server!
+
+2023-08-27 18:30:24 New Score is updated...
+
+2023-08-27 18:30:24 {"home":"Juventus U19","away":"Cagliari U19","score":"3:1","gameTime":2}
+
+2023-08-27 18:30:24 New Score : Juventus U19 vs Cagliari U19  3:1
+
+2023-08-27 18:30:24 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 19:16:22 LastLoginModule_Button Clicked
+
+2023-08-27 19:52:24 Recieve 1 new bets From Copybet Server!
+
+2023-08-27 19:52:24 Pending bet is not finished.!
+
+2023-08-27 20:15:52 LastLoginModule_Button Clicked
+
+2023-08-27 20:27:19 Recieve new Match Score From Copybet Server!
+
+2023-08-27 20:27:19 New Score is updated...
+
+2023-08-27 20:27:19 {"home":"Istra 1961","away":"NK Rudes","score":"0:0","gameTime":2}
+
+2023-08-27 20:27:19 New Score : Istra 1961 vs NK Rudes  0:0
+
+2023-08-27 20:27:19 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-27 20:48:28 Disconnected Socket Server!!! || ping timeout
+
+2023-08-27 20:50:40 Connected Socket Server!!!
+
+2023-08-27 20:51:10 Disconnected Socket Server!!! || ping timeout
+
+2023-08-27 20:52:06 Connected Socket Server!!!
+
+2023-08-27 21:15:22 LastLoginModule_Button Clicked
+
+2023-08-27 21:47:44 Disconnected Socket Server!!! || io client disconnect
+
+2023-08-27 21:47:44 The bot has been stopped!
+
+2023-08-27 21:47:46 The bot has been started!
+
+2023-08-27 21:47:46 DoLogin
+
+2023-08-27 21:47:46 DoLoad365Page
+
+2023-08-27 21:47:46 365 page is loaded!
+
+2023-08-27 21:47:46 Connected Socket Server!!!
+
+2023-08-27 21:47:52 nodialog
+
+2023-08-27 21:47:52 Current balance : 0
+
+2023-08-27 21:48:00 0 Settled bets!!!
+
+2023-08-27 21:48:00 Current Balance: 0
+
+2023-08-27 21:48:00 Page is initialized!
+
+2023-08-27 22:47:22 LastLoginModule_Button Clicked
+
+2023-08-27 23:46:52 LastLoginModule_Button Clicked

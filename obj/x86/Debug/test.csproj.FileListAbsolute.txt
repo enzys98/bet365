@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\bet365\obj\x86\Debug\test.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\bet365\obj\x86\Debug\test.Bet365Placer.exe_Decompiler.com__1_.CEBet365Placer.Form1.resources
+\\Mac\Home\Desktop\bet365\obj\x86\Debug\test.Bet365Placer.exe_Decompiler.com__1_.CEBet365Placer.frmLogin.resources
+\\Mac\Home\Desktop\bet365\obj\x86\Debug\test.Bet365Placer.exe_Decompiler.com__1_.CEBet365Placer.Properties.Resources.resources
+\\Mac\Home\Desktop\bet365\obj\x86\Debug\test.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\bet365\obj\x86\Debug\test.csproj.CoreCompileInputs.cache

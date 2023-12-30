@@ -1,0 +1,194 @@
+﻿2023-09-07 17:15:36 Chrome_RenderWidgetHostHWND
+
+2023-09-07 17:15:36 Websocket server is listening on 8880
+
+2023-09-07 17:15:36 DoLogin
+
+2023-09-07 17:15:36 DoLoad365Page
+
+2023-09-07 17:15:37 365 page is loaded!
+
+2023-09-07 17:15:37 Executed login script!
+
+2023-09-07 17:16:03 DoLoad365Page
+
+2023-09-07 17:16:04 365 page is loaded!
+
+2023-09-07 17:16:07 Executed login script!
+
+2023-09-07 17:16:14 DoLoad365Page
+
+2023-09-07 17:16:14 365 page is loaded!
+
+2023-09-07 17:16:14 LastLoginModule_Button Clicked
+
+2023-09-07 17:16:19 Login Success!
+
+2023-09-07 17:16:26 0 Settled bets!!!
+
+2023-09-07 17:16:26 Browser Connected!
+
+2023-09-07 17:16:34 The bot has been started!
+
+2023-09-07 17:16:34 DoLogin
+
+2023-09-07 17:16:34 DoLoad365Page
+
+2023-09-07 17:16:34 365 page is loaded!
+
+2023-09-07 17:16:34 Connected Socket Server!!!
+
+2023-09-07 17:16:37 0.54
+
+2023-09-07 17:16:37 Current balance : 0.5
+
+2023-09-07 17:16:41 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-07 17:16:41 The bot has been stopped!
+2023-09-07 17:20:09 Websocket server is listening on 8880
+
+2023-09-07 17:20:09 DoLogin
+
+2023-09-07 17:20:09 DoLoad365Page
+
+2023-09-07 17:20:14 365 page is loaded!
+
+2023-09-07 17:20:23 Browser Connected!
+2023-09-07 18:33:14 Chrome_RenderWidgetHostHWND
+
+2023-09-07 18:33:14 Websocket server is listening on 8880
+
+2023-09-07 18:33:14 DoLogin
+
+2023-09-07 18:33:14 DoLoad365Page
+
+2023-09-07 18:33:15 365 page is loaded!
+
+2023-09-07 18:33:15 Executed login script!
+
+2023-09-07 18:33:41 DoLoad365Page
+
+2023-09-07 18:33:41 365 page is loaded!
+
+2023-09-07 18:33:44 Executed login script!
+
+2023-09-07 18:33:52 DoLoad365Page
+
+2023-09-07 18:33:52 365 page is loaded!
+
+2023-09-07 18:33:52 LastLoginModule_Button Clicked
+
+2023-09-07 18:33:58 Login Success!
+
+2023-09-07 18:34:04 0 Settled bets!!!
+
+2023-09-07 18:34:04 Browser Connected!
+
+2023-09-07 18:38:14 The bot has been started!
+
+2023-09-07 18:38:14 DoLogin
+
+2023-09-07 18:38:14 DoLoad365Page
+
+2023-09-07 18:38:14 365 page is loaded!
+
+2023-09-07 18:38:15 Connected Socket Server!!!
+
+2023-09-07 18:38:18 161.81
+
+2023-09-07 18:38:18 Current balance : 161.8
+
+2023-09-07 18:38:19 LastLoginModule_Button Clicked
+
+2023-09-07 18:38:22 0 Settled bets!!!
+
+2023-09-07 18:38:22 Current Balance: 161.8
+
+2023-09-07 18:38:22 Page is initialized!
+
+2023-09-07 18:57:49 LastLoginModule_Button Clicked
+
+2023-09-07 19:17:19 LastLoginModule_Button Clicked
+
+2023-09-07 19:36:49 LastLoginModule_Button Clicked
+
+2023-09-07 19:44:30 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-07 19:44:30 The bot has been stopped!
+
+2023-09-07 19:44:40 The bot has been started!
+
+2023-09-07 19:44:40 DoLogin
+
+2023-09-07 19:44:40 DoLoad365Page
+
+2023-09-07 19:44:40 365 page is loaded!
+
+2023-09-07 19:44:40 Connected Socket Server!!!
+
+2023-09-07 19:44:48 
+
+2023-09-07 19:44:49 LastLoginModule_Button Clicked
+
+2023-09-07 19:44:52 0 Settled bets!!!
+
+2023-09-07 19:44:52 Current Balance: -1
+
+2023-09-07 19:44:52 Page is initialized!
+
+2023-09-07 19:48:51 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-07 19:48:51 The bot has been stopped!
+2023-09-07 19:49:10 Chrome_RenderWidgetHostHWND
+
+2023-09-07 19:49:10 Websocket server is listening on 8880
+
+2023-09-07 19:49:10 DoLogin
+
+2023-09-07 19:49:10 DoLoad365Page
+
+2023-09-07 19:49:11 365 page is loaded!
+
+2023-09-07 19:49:11 Executed login script!
+
+2023-09-07 19:49:38 DoLoad365Page
+
+2023-09-07 19:49:38 365 page is loaded!
+
+2023-09-07 19:49:41 Executed login script!
+
+2023-09-07 19:49:48 DoLoad365Page
+
+2023-09-07 19:49:48 365 page is loaded!
+
+2023-09-07 19:49:48 LastLoginModule_Button Clicked
+
+2023-09-07 19:49:54 Login Success!
+
+2023-09-07 19:50:01 0 Settled bets!!!
+
+2023-09-07 19:50:01 Browser Connected!
+
+2023-09-07 19:52:45 The bot has been started!
+
+2023-09-07 19:52:45 DoLogin
+
+2023-09-07 19:52:45 DoLoad365Page
+
+2023-09-07 19:52:45 365 page is loaded!
+
+2023-09-07 19:52:45 Connected Socket Server!!!
+
+2023-09-07 19:52:48 161.81
+
+2023-09-07 19:52:48 Current balance : 161.8
+
+2023-09-07 19:52:56 0 Settled bets!!!
+
+2023-09-07 19:52:56 Current Balance: 161.8
+
+2023-09-07 19:52:56 Page is initialized!
+
+2023-09-07 19:56:24 Disconnected Socket Server!!! || io client disconnect
+
+2023-09-07 19:56:24 The bot has been stopped!

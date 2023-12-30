@@ -1,0 +1,113 @@
+﻿
+2023-08-28 00:46:22 LastLoginModule_Button Clicked
+
+2023-08-28 01:45:52 LastLoginModule_Button Clicked
+
+2023-08-28 02:31:45 Disconnected Socket Server!!! || ping timeout
+
+2023-08-28 02:32:46 Connected Socket Server!!!
+
+2023-08-28 02:45:22 LastLoginModule_Button Clicked
+
+2023-08-28 03:44:52 LastLoginModule_Button Clicked
+
+2023-08-28 04:44:22 LastLoginModule_Button Clicked
+
+2023-08-28 05:43:52 LastLoginModule_Button Clicked
+
+2023-08-28 06:43:22 LastLoginModule_Button Clicked
+
+2023-08-28 07:42:52 LastLoginModule_Button Clicked
+
+2023-08-28 08:42:22 LastLoginModule_Button Clicked
+
+2023-08-28 09:41:52 LastLoginModule_Button Clicked
+
+2023-08-28 10:23:16 Recieve 1 new bets From Copybet Server!
+
+2023-08-28 10:23:16 Pending bet is not finished.!
+
+2023-08-28 10:41:22 LastLoginModule_Button Clicked
+
+2023-08-28 10:48:11 Recieve new Match Score From Copybet Server!
+
+2023-08-28 10:48:11 New Score is updated...
+
+2023-08-28 10:48:11 {"home":"Ilch","away":"Khovd","score":"0:0","gameTime":1}
+
+2023-08-28 10:48:11 New Score : Ilch vs Khovd  0:0
+
+2023-08-28 10:48:11 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-28 11:03:10 Recieve new Match Score From Copybet Server!
+
+2023-08-28 11:03:10 New Score is updated...
+
+2023-08-28 11:03:10 {"home":"Ilch","away":"Khovd","score":"0:0","gameTime":1}
+
+2023-08-28 11:03:10 New Score : Ilch vs Khovd  0:0
+
+2023-08-28 11:03:10 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-28 11:08:11 Recieve new Match Score From Copybet Server!
+
+2023-08-28 11:08:11 New Score is updated...
+
+2023-08-28 11:08:11 {"home":"Ilch","away":"Khovd","score":"1:0","gameTime":0}
+
+2023-08-28 11:08:11 New Score : Ilch vs Khovd  1:0
+
+2023-08-28 11:08:11 Pending tip Score : Fjordager IF vs Horsens fS 0:0
+
+2023-08-28 11:40:52 LastLoginModule_Button Clicked
+
+2023-08-28 12:10:56 Disconnected Socket Server!!! || ping timeout
+
+2023-08-28 12:10:57 Connected Socket Server!!!
+2023-08-28 20:16:35 Chrome_RenderWidgetHostHWND
+
+2023-08-28 20:16:35 Websocket server is listening on 8880
+
+2023-08-28 20:16:35 DoLogin
+
+2023-08-28 20:16:35 DoLoad365Page
+
+2023-08-28 20:16:40 365 page is loaded!
+
+2023-08-28 20:16:40 Executed login script!
+
+2023-08-28 20:16:48 DoLoad365Page
+
+2023-08-28 20:16:48 365 page is loaded!
+
+2023-08-28 20:16:48 LastLoginModule_Button Clicked
+
+2023-08-28 20:16:54 Login Success!
+
+2023-08-28 20:17:06 Browser Connected!
+
+2023-08-28 20:17:11 The bot has been started!
+
+2023-08-28 20:17:11 DoLogin
+
+2023-08-28 20:17:11 DoLoad365Page
+
+2023-08-28 20:17:11 365 page is loaded!
+
+2023-08-28 20:17:12 Connected Socket Server!!!
+
+2023-08-28 20:17:14 91.18
+
+2023-08-28 20:17:14 Current balance : 91.1
+
+2023-08-28 20:17:22 0 Settled bets!!!
+
+2023-08-28 20:17:22 Current Balance: 91.1
+
+2023-08-28 20:17:22 Page is initialized!
+
+2023-08-28 21:16:23 LastLoginModule_Button Clicked
+
+2023-08-28 22:15:53 LastLoginModule_Button Clicked
+
+2023-08-28 23:15:23 LastLoginModule_Button Clicked

@@ -1,0 +1,322 @@
+﻿<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{A3C168B1-02BC-4C1F-9138-27BA509050CC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>WindowsApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>botBet365</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>69B3A5C4945B5ED61EF0B95FABC313EC08027094</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>botBet365_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="account.txt" />
+    <Content Include="App.txt" />
+    <Content Include="Bet365Placer.pdb" />
+    <Content Include="Bet365Placer\Bet365Placer.pdb" />
+    <Content Include="Bet365Placer\Bet365Placer.sln" />
+    <Content Include="Bet365Placer\lib\EngineIoClientDotNet.dll" />
+    <Content Include="Bet365Placer\lib\HtmlAgilityPack.dll" />
+    <Content Include="Bet365Placer\lib\Newtonsoft.Json.dll" />
+    <Content Include="Bet365Placer\lib\Siticone.Desktop.UI.dll" />
+    <Content Include="Bet365Placer\lib\Siticone.UI.dll" />
+    <Content Include="Bet365Placer\lib\SocketIoClientDotNet.dll" />
+    <Content Include="Bet365Placer\lib\Telegram.Bot.dll" />
+    <Content Include="Bet365Placer\lib\websocket-sharp-customheaders.dll" />
+    <Content Include="Bet365Placer\lib\WindowsInput.dll" />
+    <Content Include="Bet365Placer\obj\Debug\Bet365Placer.csproj.FileListAbsolute.txt" />
+    <Content Include="Bet365Placer\obj\x86\Debug\test.csproj.FileListAbsolute.txt" />
+    <Content Include="Bet365Placer\test.csproj.user" />
+    <Content Include="Bet365Placer\test.sln" />
+    <Content Include="EngineIoClientDotNet.dll" />
+    <Content Include="Extension\background.js" />
+    <Content Include="Extension\messaging.js" />
+    <Content Include="HtmlAgilityPack.dll" />
+    <Content Include="HtmlAgilityPack.pdb" />
+    <Content Include="HtmlAgilityPack.xml" />
+    <Content Include="ICSharpCode.SharpZipLib.dll" />
+    <Content Include="ICSharpCode.SharpZipLib.pdb" />
+    <Content Include="ICSharpCode.SharpZipLib.xml" />
+    <Content Include="inject.txt" />
+    <Content Include="Log\log_2022-12-13.txt" />
+    <Content Include="Log\log_2022-12-19.txt" />
+    <Content Include="Log\log_2023-01-16.txt" />
+    <Content Include="Log\log_2023-01-17.txt" />
+    <Content Include="Log\log_2023-01-18.txt" />
+    <Content Include="Log\log_2023-01-19.txt" />
+    <Content Include="Log\log_2023-01-25.txt" />
+    <Content Include="Log\log_2023-01-26.txt" />
+    <Content Include="Log\log_2023-03-17.txt" />
+    <Content Include="Log\log_2023-03-18.txt" />
+    <Content Include="Log\log_2023-03-19.txt" />
+    <Content Include="Log\log_2023-03-20.txt" />
+    <Content Include="Log\log_2023-03-21.txt" />
+    <Content Include="Log\log_2023-03-22.txt" />
+    <Content Include="Log\log_2023-03-23.txt" />
+    <Content Include="Log\log_2023-03-25.txt" />
+    <Content Include="Log\log_2023-05-20.txt" />
+    <Content Include="Log\log_2023-08-22.txt" />
+    <Content Include="Log\log_2023-08-23.txt" />
+    <Content Include="Log\log_2023-08-24.txt" />
+    <Content Include="Log\log_2023-08-25.txt" />
+    <Content Include="Log\log_2023-08-26.txt" />
+    <Content Include="Log\log_2023-08-27.txt" />
+    <Content Include="Log\log_2023-08-28.txt" />
+    <Content Include="Log\log_2023-08-29.txt" />
+    <Content Include="Log\log_2023-08-30.txt" />
+    <Content Include="Log\log_2023-08-31.txt" />
+    <Content Include="Log\log_2023-09-01.txt" />
+    <Content Include="Log\log_2023-09-02.txt" />
+    <Content Include="Log\log_2023-09-03.txt" />
+    <Content Include="Log\log_2023-09-04.txt" />
+    <Content Include="Log\log_2023-09-05.txt" />
+    <Content Include="Log\log_2023-09-06.txt" />
+    <Content Include="Log\log_2023-09-07.txt" />
+    <Content Include="Log\log_2023-09-08.txt" />
+    <Content Include="Log\log_2023-09-13.txt" />
+    <Content Include="Log\log_2023-09-14.txt" />
+    <Content Include="Microsoft.AspNetCore.WebUtilities.dll" />
+    <Content Include="Microsoft.AspNetCore.WebUtilities.xml" />
+    <Content Include="Microsoft.Bcl.AsyncInterfaces.dll" />
+    <Content Include="Microsoft.Bcl.AsyncInterfaces.xml" />
+    <Content Include="Microsoft.Extensions.DependencyInjection.Abstractions.dll" />
+    <Content Include="Microsoft.Extensions.DependencyInjection.Abstractions.xml" />
+    <Content Include="Microsoft.Extensions.Logging.Abstractions.dll" />
+    <Content Include="Microsoft.Extensions.Logging.Abstractions.xml" />
+    <Content Include="Microsoft.Extensions.Logging.dll" />
+    <Content Include="Microsoft.Extensions.Logging.xml" />
+    <Content Include="Microsoft.Extensions.Options.dll" />
+    <Content Include="Microsoft.Extensions.Options.xml" />
+    <Content Include="Microsoft.Extensions.Primitives.dll" />
+    <Content Include="Microsoft.Extensions.Primitives.xml" />
+    <Content Include="Microsoft.Net.Http.Headers.dll" />
+    <Content Include="Microsoft.Net.Http.Headers.xml" />
+    <Content Include="Newtonsoft.Json.dll" />
+    <Content Include="Newtonsoft.Json.xml" />
+    <Content Include="RsDesign.Controls.dll" />
+    <Content Include="Siticone.Desktop.UI.dll" />
+    <Content Include="Siticone.UI.dll" />
+    <Content Include="SocketIoClientDotNet.dll" />
+    <Content Include="System.Buffers.dll" />
+    <Content Include="System.Buffers.xml" />
+    <Content Include="System.Runtime.CompilerServices.Unsafe.dll" />
+    <Content Include="System.Runtime.CompilerServices.Unsafe.xml" />
+    <Content Include="System.Text.Encodings.Web.dll" />
+    <Content Include="System.Text.Encodings.Web.xml" />
+    <Content Include="System.Threading.Tasks.Extensions.dll" />
+    <Content Include="System.Threading.Tasks.Extensions.xml" />
+    <Content Include="Telegram.Bot.dll" />
+    <Content Include="Telegram.Bot.xml" />
+    <Content Include="websocket-sharp-customheaders.dll" />
+    <Content Include="WebSocket4Net.dll" />
+    <Content Include="WindowsInput.dll" />
+    <Content Include="WindowsInput.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Bet365Placer.exe.config" />
+    <None Include="Bet365Placer\app.config" />
+    <None Include="Bet365Placer\Bet365Placer.csproj" />
+    <None Include="Bet365Placer\obj\Debug\Bet365Placer.csproj.AssemblyReference.cache" />
+    <None Include="Bet365Placer\obj\Debug\Bet365Placer.csproj.CoreCompileInputs.cache" />
+    <None Include="Bet365Placer\obj\Debug\Bet365Placer.csproj.GenerateResource.cache" />
+    <None Include="Bet365Placer\obj\Debug\Bet365Placer.csproj.SuggestedBindingRedirects.cache" />
+    <None Include="Bet365Placer\obj\Debug\Bet365Placer.exe.config" />
+    <None Include="Bet365Placer\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="Bet365Placer\obj\Release\Bet365Placer.csproj.AssemblyReference.cache" />
+    <None Include="Bet365Placer\obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="Bet365Placer\obj\x86\Debug\test.csproj.AssemblyReference.cache" />
+    <None Include="Bet365Placer\obj\x86\Debug\test.csproj.CoreCompileInputs.cache" />
+    <None Include="Bet365Placer\obj\x86\Debug\test.csproj.GenerateResource.cache" />
+    <None Include="Bet365Placer\test.csproj" />
+    <None Include="Bet365Placer\test_TemporaryKey.pfx" />
+    <None Include="botBet365_TemporaryKey.pfx" />
+    <None Include="Extension\manifest.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bet365Placer\AssemblyInfo.cs" />
+    <Compile Include="Bet365Placer\Constants\BrowserType.cs" />
+    <Compile Include="Bet365Placer\Constants\Combination.cs" />
+    <Compile Include="Bet365Placer\Constants\Constants.cs" />
+    <Compile Include="Bet365Placer\Constants\GlobalConstants.cs" />
+    <Compile Include="Bet365Placer\Constants\Guard.cs" />
+    <Compile Include="Bet365Placer\Constants\JaroWinklerDistance.cs" />
+    <Compile Include="Bet365Placer\Constants\RUNMODE.cs" />
+    <Compile Include="Bet365Placer\Constants\Settledbet.cs" />
+    <Compile Include="Bet365Placer\Constants\SOURCE.cs" />
+    <Compile Include="Bet365Placer\Constants\StakeMethod.cs" />
+    <Compile Include="Bet365Placer\Constants\State.cs" />
+    <Compile Include="Bet365Placer\Constants\ValidationState.cs" />
+    <Compile Include="Bet365Placer\Controller\BetController.cs" />
+    <Compile Include="Bet365Placer\Controller\BETRESP_CODE.cs" />
+    <Compile Include="Bet365Placer\Controller\BigStakeCtrl.cs" />
+    <Compile Include="Bet365Placer\Controller\FirefoxInterface.cs" />
+    <Compile Include="Bet365Placer\Controller\MouseEvent.cs" />
+    <Compile Include="Bet365Placer\Controller\MouseEventFlags.cs" />
+    <Compile Include="Bet365Placer\Controller\SocketConnector.cs" />
+    <Compile Include="Bet365Placer\Controller\TelegramCtrl.cs" />
+    <Compile Include="Bet365Placer\Controller\WebsocketServer.cs" />
+    <Compile Include="Bet365Placer\Controller\Win32.cs" />
+    <Compile Include="Bet365Placer\CustomEndpoint.cs" />
+    <Compile Include="Bet365Placer\Form1.cs" />
+    <Compile Include="Bet365Placer\frmbigstake.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bet365Placer\frmLogin.cs" />
+    <Compile Include="Bet365Placer\frmSet.cs" />
+    <Compile Include="Bet365Placer\Global.cs" />
+    <Compile Include="Bet365Placer\IOManager.cs" />
+    <Compile Include="Bet365Placer\Json\Account.cs" />
+    <Compile Include="Bet365Placer\Json\ActionEntry.cs" />
+    <Compile Include="Bet365Placer\Json\Bet365Feed.cs" />
+    <Compile Include="Bet365Placer\Json\Bet365LiveGame.cs" />
+    <Compile Include="Bet365Placer\Json\BetItem.cs" />
+    <Compile Include="Bet365Placer\Json\BetSlipItem.cs" />
+    <Compile Include="Bet365Placer\Json\BetSlipJson.cs" />
+    <Compile Include="Bet365Placer\Json\BrowserProfile.cs" />
+    <Compile Include="Bet365Placer\Json\ClickType.cs" />
+    <Compile Include="Bet365Placer\Json\Dm.cs" />
+    <Compile Include="Bet365Placer\Json\GAMETIME.cs" />
+    <Compile Include="Bet365Placer\Json\HorseEvent.cs" />
+    <Compile Include="Bet365Placer\Json\HorseItem.cs" />
+    <Compile Include="Bet365Placer\Json\LiveMatchScore.cs" />
+    <Compile Include="Bet365Placer\Json\Market.cs" />
+    <Compile Include="Bet365Placer\Json\PartType.cs" />
+    <Compile Include="Bet365Placer\Json\PlacedBet.cs" />
+    <Compile Include="Bet365Placer\Json\PlacedBetRunner.cs" />
+    <Compile Include="Bet365Placer\Json\Position.cs" />
+    <Compile Include="Bet365Placer\Json\SearchEvent.cs" />
+    <Compile Include="Bet365Placer\Json\TelegramTip.cs" />
+    <Compile Include="Bet365Placer\Json\TennisTip.cs" />
+    <Compile Include="Bet365Placer\Json\TIPSOURCE.cs" />
+    <Compile Include="Bet365Placer\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="Bet365Placer\obj\Release\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="Bet365Placer\obj\x86\Debug\.NETFramework,Version=v4.0,Profile=Client.AssemblyAttributes.cs" />
+    <Compile Include="Bet365Placer\obj\x86\Debug\.NETFramework,Version=v4.8.AssemblyAttributes.cs" />
+    <Compile Include="Bet365Placer\onProcNewScoreEvent.cs" />
+    <Compile Include="Bet365Placer\onProcNewTipEvent.cs" />
+    <Compile Include="Bet365Placer\onProcOperationEvent.cs" />
+    <Compile Include="Bet365Placer\onProcPlacedBetEvent.cs" />
+    <Compile Include="Bet365Placer\onProcUpdateNetworkStatusEvent.cs" />
+    <Compile Include="Bet365Placer\onUpdateStatusEvent.cs" />
+    <Compile Include="Bet365Placer\onWriteLogEvent.cs" />
+    <Compile Include="Bet365Placer\onWriteResultEvent.cs" />
+    <Compile Include="Bet365Placer\onWriteStatusEvent.cs" />
+    <Compile Include="Bet365Placer\Program.cs" />
+    <Compile Include="Bet365Placer\Properties\Resources.cs" />
+    <Compile Include="Bet365Placer\Properties\Settings.cs" />
+    <Compile Include="Bet365Placer\RunScript.cs" />
+    <Compile Include="Bet365Placer\Setting.cs" />
+    <Compile Include="Bet365Placer\UserControls\TriStateTreeView.cs" />
+    <Compile Include="Bet365Placer\Utils.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Bet365Placer\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bet365Placer\frmbigstake.resx">
+      <DependentUpon>frmbigstake.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bet365Placer\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bet365Placer\frmSet.resx">
+      <DependentUpon>frmSet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bet365Placer\obj\Debug\CEBet365Placer.Form1.resources" />
+    <EmbeddedResource Include="Bet365Placer\obj\Debug\CEBet365Placer.frmbigstake.resources" />
+    <EmbeddedResource Include="Bet365Placer\obj\Debug\CEBet365Placer.frmLogin.resources" />
+    <EmbeddedResource Include="Bet365Placer\obj\Debug\CEBet365Placer.frmSet.resources" />
+    <EmbeddedResource Include="Bet365Placer\obj\Debug\CEBet365Placer.Properties.Resources.resources" />
+    <EmbeddedResource Include="Bet365Placer\obj\x86\Debug\CEBet365Placer.Form1.resources" />
+    <EmbeddedResource Include="Bet365Placer\obj\x86\Debug\CEBet365Placer.frmbigstake.resources" />
+    <EmbeddedResource Include="Bet365Placer\obj\x86\Debug\CEBet365Placer.frmLogin.resources" />
+    <EmbeddedResource Include="Bet365Placer\obj\x86\Debug\CEBet365Placer.frmSet.resources" />
+    <EmbeddedResource Include="Bet365Placer\obj\x86\Debug\CEBet365Placer.Properties.Resources.resources" />
+    <EmbeddedResource Include="Bet365Placer\Properties\Resources.resx">
+      <DependentUpon>Resources.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Bet365Placer\bin\Debug\" />
+    <Folder Include="Bet365Placer\bin\Release\" />
+    <Folder Include="Bet365Placer\obj\Debug\TempPE\" />
+    <Folder Include="Bet365Placer\obj\x86\Debug\TempPE\" />
+    <Folder Include="Bet\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

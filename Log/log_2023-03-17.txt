@@ -1,0 +1,4232 @@
+﻿2023-03-17 19:59:58 Chrome_RenderWidgetHostHWND
+
+2023-03-17 19:59:58 Websocket server is listening on 8880
+
+2023-03-17 19:59:58 DoLogin
+
+2023-03-17 19:59:58 DoLoad365Page
+
+2023-03-17 20:00:04 365 page is loaded!
+
+2023-03-17 20:00:04 Executed login script!
+
+2023-03-17 20:00:11 DoLoad365Page
+
+2023-03-17 20:00:11 365 page is loaded!
+
+2023-03-17 20:00:11 LastLoginModule_Button Clicked
+
+2023-03-17 20:00:16 Login Success!
+
+2023-03-17 20:00:23 1 Settled bets!!!
+
+2023-03-17 20:00:23 Browser Connected!
+
+2023-03-17 20:00:40 The bot has been started!
+
+2023-03-17 20:00:40 DoLogin
+
+2023-03-17 20:00:40 DoLoad365Page
+
+2023-03-17 20:00:40 365 page is loaded!
+
+2023-03-17 20:00:40 Connected Socket Server!!!
+
+2023-03-17 20:00:43 335.81
+
+2023-03-17 20:00:43 Current balance : 335.8
+
+2023-03-17 20:00:48 Current Balance: 335.8
+
+2023-03-17 20:00:48 Page is initialized!
+
+2023-03-17 20:04:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:04:20 New Score is updated...
+
+2023-03-17 20:04:20 {"home":"Salzburger AK","away":"TSV St. Johann","score":"0:0","gameTime":1}
+
+2023-03-17 20:04:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:04:20 New Score is updated...
+
+2023-03-17 20:04:20 {"home":"Salzburger AK","away":"TSV St. Johann","score":"0:0","gameTime":1}
+
+2023-03-17 20:04:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:04:20 New Score is updated...
+
+2023-03-17 20:04:20 {"home":"Salzburger AK","away":"TSV St. Johann","score":"0:0","gameTime":1}
+
+2023-03-17 20:04:21 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:04:21 New Score is updated...
+
+2023-03-17 20:04:21 {"home":"Salzburger AK","away":"TSV St. Johann","score":"0:0","gameTime":1}
+
+2023-03-17 20:04:21 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:04:21 New Score is updated...
+
+2023-03-17 20:04:21 {"home":"Salzburger AK","away":"TSV St. Johann","score":"0:0","gameTime":1}
+
+2023-03-17 20:06:29 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:06:29 New Score is updated...
+
+2023-03-17 20:06:29 {"home":"St Polten","away":"FC Liefering","score":"2:0","gameTime":2}
+
+2023-03-17 20:06:30 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:06:30 New Score is updated...
+
+2023-03-17 20:06:30 {"home":"St Polten","away":"FC Liefering","score":"2:0","gameTime":2}
+
+2023-03-17 20:12:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:12:16 New Score is updated...
+
+2023-03-17 20:12:16 {"home":"SV Kapfenberg","away":"SK Sturm Graz II","score":"3:1","gameTime":2}
+
+2023-03-17 20:20:29 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 20:20:29  *** MakeBet *** 
+
+2023-03-17 20:20:29 {"dbId":"","sport":"","country":"","league":"Austria Regionalliga Tirol","dateTime":"","match":"SC Schwaz vs SV Fugen","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:20:29 335.81
+
+2023-03-17 20:20:29 Current balance : 335.8
+
+2023-03-17 20:20:29 Current Balance : 335.8
+
+2023-03-17 20:20:29 DoLoad365Page
+
+2023-03-17 20:20:29 365 page is loaded!
+
+2023-03-17 20:20:29 CheckIfLoggedIn
+
+2023-03-17 20:20:29 Logged In Already!
+
+2023-03-17 20:20:29 bet365.com
+
+2023-03-17 20:20:31 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 20:20:43 Not Search Event
+
+2023-03-17 20:20:51 Not Search Event
+
+2023-03-17 20:20:52 Disconnected Socket Server!!! || ping timeout
+
+2023-03-17 20:20:54 Connected Socket Server!!!
+
+2023-03-17 20:21:09 Not Search Event
+
+2023-03-17 20:21:17 Not Search Event
+
+2023-03-17 20:21:26 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 20:21:35 Not Search Event
+
+2023-03-17 20:21:43 Not Search Event
+
+2023-03-17 20:21:49 Not Found Event on Bet365...
+
+2023-03-17 20:21:49 Disconnected Socket Server!!! || ping timeout
+
+2023-03-17 20:21:50 Connected Socket Server!!!
+
+2023-03-17 20:21:52  *** MakeBet *** 
+
+2023-03-17 20:21:52 {"dbId":"","sport":"","country":"","league":"Austria Regionalliga Tirol","dateTime":"","match":"SC Schwaz vs SV Fugen","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:21:52 335.81
+
+2023-03-17 20:21:52 Current balance : 335.8
+
+2023-03-17 20:21:52 Current Balance : 335.8
+
+2023-03-17 20:21:52 DoLoad365Page
+
+2023-03-17 20:21:52 365 page is loaded!
+
+2023-03-17 20:21:52 CheckIfLoggedIn
+
+2023-03-17 20:21:52 Logged In Already!
+
+2023-03-17 20:21:52 bet365.com
+
+2023-03-17 20:22:05 Not Search Event
+
+2023-03-17 20:22:13 Not Search Event
+
+2023-03-17 20:22:31 Not Search Event
+
+2023-03-17 20:22:39 Not Search Event
+
+2023-03-17 20:22:57 Not Search Event
+
+2023-03-17 20:23:05 Not Search Event
+
+2023-03-17 20:23:10 Not Found Event on Bet365...
+
+2023-03-17 20:23:13  *** MakeBet *** 
+
+2023-03-17 20:23:13 {"dbId":"","sport":"","country":"","league":"Austria Regionalliga Tirol","dateTime":"","match":"SC Schwaz vs SV Fugen","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:23:13 LastLoginModule_Button Clicked
+
+2023-03-17 20:23:18 
+
+2023-03-17 20:23:18 Current Balance : -1
+
+2023-03-17 20:23:18 DoLoad365Page
+
+2023-03-17 20:23:18 365 page is loaded!
+
+2023-03-17 20:23:18 CheckIfLoggedIn
+
+2023-03-17 20:23:18 Logged In Already!
+
+2023-03-17 20:23:18 bet365.com
+
+2023-03-17 20:23:25 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 20:23:32 Not Search Event
+
+2023-03-17 20:23:36 Disconnected Socket Server!!! || ping timeout
+
+2023-03-17 20:23:37 Connected Socket Server!!!
+
+2023-03-17 20:23:40 Not Search Event
+
+2023-03-17 20:23:58 Not Search Event
+
+2023-03-17 20:24:06 Not Search Event
+
+2023-03-17 20:24:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:24:17 New Score is updated...
+
+2023-03-17 20:24:17 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"0:1","gameTime":1}
+
+2023-03-17 20:24:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:24:18 New Score is updated...
+
+2023-03-17 20:24:18 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"0:1","gameTime":1}
+
+2023-03-17 20:24:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:24:18 New Score is updated...
+
+2023-03-17 20:24:18 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"0:1","gameTime":1}
+
+2023-03-17 20:24:24 Not Search Event
+
+2023-03-17 20:24:27 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 20:24:32 Disconnected Socket Server!!! || ping timeout
+
+2023-03-17 20:24:32 Not Search Event
+
+2023-03-17 20:24:33 Connected Socket Server!!!
+
+2023-03-17 20:24:37 Not Found Event on Bet365...
+
+2023-03-17 20:24:40  *** MakeBet *** 
+
+2023-03-17 20:24:40 {"dbId":"","sport":"","country":"","league":"Austria Regionalliga Tirol","dateTime":"","match":"SC Schwaz vs SV Fugen","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:24:40 335.81
+
+2023-03-17 20:24:40 Current balance : 335.8
+
+2023-03-17 20:24:40 Current Balance : 335.8
+
+2023-03-17 20:24:40 DoLoad365Page
+
+2023-03-17 20:24:40 365 page is loaded!
+
+2023-03-17 20:24:40 CheckIfLoggedIn
+
+2023-03-17 20:24:40 Logged In Already!
+
+2023-03-17 20:24:40 bet365.com
+
+2023-03-17 20:24:54 Not Search Event
+
+2023-03-17 20:25:02 Not Search Event
+
+2023-03-17 20:25:20 Not Search Event
+
+2023-03-17 20:25:28 Not Search Event
+
+2023-03-17 20:25:47 Not Search Event
+
+2023-03-17 20:25:55 Not Search Event
+
+2023-03-17 20:26:00 Not Found Event on Bet365...
+
+2023-03-17 20:26:03  *** MakeBet *** 
+
+2023-03-17 20:26:03 {"dbId":"","sport":"","country":"","league":"Brazil Campeonato Brasileiro U20","dateTime":"","match":"Fluminense U20 vs Cuiaba U20","score":"1:1","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:26:03 335.81
+
+2023-03-17 20:26:03 Current balance : 335.8
+
+2023-03-17 20:26:03 Current Balance : 335.8
+
+2023-03-17 20:26:03 DoLoad365Page
+
+2023-03-17 20:26:03 365 page is loaded!
+
+2023-03-17 20:26:03 CheckIfLoggedIn
+
+2023-03-17 20:26:03 Logged In Already!
+
+2023-03-17 20:26:03 bet365.com
+
+2023-03-17 20:26:17 Not Search Event
+
+2023-03-17 20:26:25 Not Search Event
+
+2023-03-17 20:26:44 Not Search Event
+
+2023-03-17 20:26:52 Not Search Event
+
+2023-03-17 20:27:10 Not Search Event
+
+2023-03-17 20:27:19 Not Search Event
+
+2023-03-17 20:27:24 Not Found Event on Bet365...
+
+2023-03-17 20:27:25 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 20:27:27  *** MakeBet *** 
+
+2023-03-17 20:27:27 {"dbId":"","sport":"","country":"","league":"Brazil Campeonato Brasileiro U20","dateTime":"","match":"Fluminense U20 vs Cuiaba U20","score":"1:1","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:27:27 335.81
+
+2023-03-17 20:27:27 Current balance : 335.8
+
+2023-03-17 20:27:27 Current Balance : 335.8
+
+2023-03-17 20:27:27 DoLoad365Page
+
+2023-03-17 20:27:27 365 page is loaded!
+
+2023-03-17 20:27:27 CheckIfLoggedIn
+
+2023-03-17 20:27:27 Logged In Already!
+
+2023-03-17 20:27:27 bet365.com
+
+2023-03-17 20:27:35 Disconnected Socket Server!!! || ping timeout
+
+2023-03-17 20:27:36 Connected Socket Server!!!
+
+2023-03-17 20:27:41 Not Search Event
+
+2023-03-17 20:28:13 Not Search Event
+
+2023-03-17 20:28:21 Not Search Event
+
+2023-03-17 20:28:28 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 20:28:40 Not Search Event
+
+2023-03-17 20:28:48 Not Search Event
+
+2023-03-17 20:28:53 Not Found Event on Bet365...
+
+2023-03-17 20:28:56  *** MakeBet *** 
+
+2023-03-17 20:28:56 {"dbId":"","sport":"","country":"","league":"Spain Primera Women","dateTime":"","match":"Barcelona Femminile vs Valencia Femminile","score":"3:1","EW":"0","marketName":"OVER 4.5","selection":"OVER","odds":0.0,"handicap":4.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:28:56 LastLoginModule_Button Clicked
+
+2023-03-17 20:28:56 LastLoginModule_Button Clicked
+
+2023-03-17 20:28:56 LastLoginModule_Button Clicked
+
+2023-03-17 20:29:01 
+
+2023-03-17 20:29:01 Current Balance : -1
+
+2023-03-17 20:29:01 DoLoad365Page
+
+2023-03-17 20:29:01 365 page is loaded!
+
+2023-03-17 20:29:01 CheckIfLoggedIn
+
+2023-03-17 20:29:01 Logged In Already!
+
+2023-03-17 20:29:01 bet365.com
+
+2023-03-17 20:29:16 Not Search Event
+
+2023-03-17 20:29:25 Not Search Event
+
+2023-03-17 20:29:28 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 20:29:44 Not Search Event
+
+2023-03-17 20:29:51 Disconnected Socket Server!!! || ping timeout
+
+2023-03-17 20:29:53 Connected Socket Server!!!
+
+2023-03-17 20:29:53 Not Search Event
+
+2023-03-17 20:30:12 Not Search Event
+
+2023-03-17 20:30:21 Not Search Event
+
+2023-03-17 20:30:26 Not Found Event on Bet365...
+
+2023-03-17 20:30:29  *** MakeBet *** 
+
+2023-03-17 20:30:29 {"dbId":"","sport":"","country":"","league":"Spain Primera Women","dateTime":"","match":"Barcelona Femminile vs Valencia Femminile","score":"3:1","EW":"0","marketName":"OVER 4.5","selection":"OVER","odds":0.0,"handicap":4.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:30:29 335.81
+
+2023-03-17 20:30:29 Current balance : 335.8
+
+2023-03-17 20:30:29 Current Balance : 335.8
+
+2023-03-17 20:30:29 DoLoad365Page
+
+2023-03-17 20:30:29 365 page is loaded!
+
+2023-03-17 20:30:29 CheckIfLoggedIn
+
+2023-03-17 20:30:29 Logged In Already!
+
+2023-03-17 20:30:29 bet365.com
+
+2023-03-17 20:30:29 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 20:30:43 Not Search Event
+
+2023-03-17 20:30:48 Disconnected Socket Server!!! || ping timeout
+
+2023-03-17 20:30:49 Connected Socket Server!!!
+
+2023-03-17 20:30:52 Not Search Event
+
+2023-03-17 20:31:11 Not Search Event
+
+2023-03-17 20:31:20 Not Search Event
+
+2023-03-17 20:31:39 Not Search Event
+
+2023-03-17 20:31:48 Not Search Event
+
+2023-03-17 20:31:53 Not Found Event on Bet365...
+
+2023-03-17 20:31:56  *** MakeBet *** 
+
+2023-03-17 20:31:56 {"dbId":"","sport":"","country":"","league":"Germany Regionalliga North East","dateTime":"","match":"FC Viktoria 1889 Berlin vs Halberstadt","score":"2:0","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:31:56 335.81
+
+2023-03-17 20:31:56 Current balance : 335.8
+
+2023-03-17 20:31:56 Current Balance : 335.8
+
+2023-03-17 20:31:56 DoLoad365Page
+
+2023-03-17 20:31:56 365 page is loaded!
+
+2023-03-17 20:31:56 CheckIfLoggedIn
+
+2023-03-17 20:31:56 Logged In Already!
+
+2023-03-17 20:31:56 bet365.com
+
+2023-03-17 20:32:11 Not Search Event
+
+2023-03-17 20:32:19 Not Search Event
+
+2023-03-17 20:32:38 Not Search Event
+
+2023-03-17 20:32:47 Not Search Event
+
+2023-03-17 20:32:48 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 20:33:00 Disconnected Socket Server!!! || ping timeout
+
+2023-03-17 20:33:01 Connected Socket Server!!!
+
+2023-03-17 20:33:06 Not Search Event
+
+2023-03-17 20:33:15 Not Search Event
+
+2023-03-17 20:33:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:33:16 New Score is updated...
+
+2023-03-17 20:33:16 {"home":"HIK","away":"Esbjerg","score":"1:0","gameTime":2}
+
+2023-03-17 20:33:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:33:17 New Score is updated...
+
+2023-03-17 20:33:17 {"home":"HIK","away":"Esbjerg","score":"1:0","gameTime":2}
+
+2023-03-17 20:33:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:33:18 New Score is updated...
+
+2023-03-17 20:33:18 {"home":"HIK","away":"Esbjerg","score":"1:0","gameTime":2}
+
+2023-03-17 20:33:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:33:18 New Score is updated...
+
+2023-03-17 20:33:18 {"home":"HIK","away":"Esbjerg","score":"1:0","gameTime":2}
+
+2023-03-17 20:33:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:33:18 New Score is updated...
+
+2023-03-17 20:33:18 {"home":"HIK","away":"Esbjerg","score":"1:0","gameTime":2}
+
+2023-03-17 20:33:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:33:18 New Score is updated...
+
+2023-03-17 20:33:18 {"home":"HIK","away":"Esbjerg","score":"1:0","gameTime":2}
+
+2023-03-17 20:33:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:33:18 New Score is updated...
+
+2023-03-17 20:33:18 {"home":"HIK","away":"Esbjerg","score":"1:0","gameTime":2}
+
+2023-03-17 20:33:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:33:18 New Score is updated...
+
+2023-03-17 20:33:18 {"home":"HIK","away":"Esbjerg","score":"1:0","gameTime":2}
+
+2023-03-17 20:33:20 Not Found Event on Bet365...
+
+2023-03-17 20:33:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:33:20 New Score is updated...
+
+2023-03-17 20:33:20 {"home":"HIK","away":"Esbjerg","score":"1:0","gameTime":2}
+
+2023-03-17 20:33:23  *** MakeBet *** 
+
+2023-03-17 20:33:23 {"dbId":"","sport":"","country":"","league":"Germany Regionalliga North East","dateTime":"","match":"FC Viktoria 1889 Berlin vs Halberstadt","score":"2:0","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:33:23 335.81
+
+2023-03-17 20:33:23 Current balance : 335.8
+
+2023-03-17 20:33:23 Current Balance : 335.8
+
+2023-03-17 20:33:23 DoLoad365Page
+
+2023-03-17 20:33:23 365 page is loaded!
+
+2023-03-17 20:33:23 CheckIfLoggedIn
+
+2023-03-17 20:33:23 Logged In Already!
+
+2023-03-17 20:33:23 bet365.com
+
+2023-03-17 20:33:37 Not Search Event
+
+2023-03-17 20:33:46 Not Search Event
+
+2023-03-17 20:34:05 Not Search Event
+
+2023-03-17 20:34:14 Not Search Event
+
+2023-03-17 20:34:33 Not Search Event
+
+2023-03-17 20:34:41 Not Search Event
+
+2023-03-17 20:34:46 Not Found Event on Bet365...
+
+2023-03-17 20:34:49  *** MakeBet *** 
+
+2023-03-17 20:34:49 {"dbId":"","sport":"","country":"","league":"Austria Landesliga","dateTime":"","match":"USV Gnas vs SC Liezen","score":"2:0","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:34:54 
+
+2023-03-17 20:34:54 Current Balance : -1
+
+2023-03-17 20:34:54 DoLoad365Page
+
+2023-03-17 20:34:54 365 page is loaded!
+
+2023-03-17 20:34:54 CheckIfLoggedIn
+
+2023-03-17 20:34:54 Logged In Already!
+
+2023-03-17 20:34:54 bet365.com
+
+2023-03-17 20:35:11 Not Search Event
+
+2023-03-17 20:35:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:35:15 New Score is updated...
+
+2023-03-17 20:35:15 {"home":"Wexford FC","away":"Kerry FC","score":"2:0","gameTime":0}
+
+2023-03-17 20:35:20 Not Search Event
+
+2023-03-17 20:35:42 Not Search Event
+
+2023-03-17 20:35:50 Not Search Event
+
+2023-03-17 20:36:12 Not Search Event
+
+2023-03-17 20:36:14 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:36:14 New Score is updated...
+
+2023-03-17 20:36:14 {"home":"FC Viktoria 1889 Berlin","away":"Halberstadt","score":"2:1","gameTime":0}
+
+2023-03-17 20:36:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:36:15 New Score is updated...
+
+2023-03-17 20:36:15 {"home":"FC Viktoria 1889 Berlin","away":"Halberstadt","score":"2:1","gameTime":0}
+
+2023-03-17 20:36:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:36:15 New Score is updated...
+
+2023-03-17 20:36:15 {"home":"FC Viktoria 1889 Berlin","away":"Halberstadt","score":"2:1","gameTime":0}
+
+2023-03-17 20:36:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:36:16 New Score is updated...
+
+2023-03-17 20:36:16 {"home":"USV Gnas","away":"SC Liezen","score":"3:0","gameTime":0}
+
+2023-03-17 20:36:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:36:17 New Score is updated...
+
+2023-03-17 20:36:17 {"home":"USV Gnas","away":"SC Liezen","score":"3:0","gameTime":0}
+
+2023-03-17 20:36:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:36:17 New Score is updated...
+
+2023-03-17 20:36:17 {"home":"USV Gnas","away":"SC Liezen","score":"3:0","gameTime":0}
+
+2023-03-17 20:36:20 Not Search Event
+
+2023-03-17 20:36:25 Not Found Event on Bet365...
+
+2023-03-17 20:36:28  *** MakeBet *** 
+
+2023-03-17 20:36:28 {"dbId":"","sport":"","country":"","league":"Austria Landesliga","dateTime":"","match":"USV Gnas vs SC Liezen","score":"2:0","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:36:28 335.81
+
+2023-03-17 20:36:28 Current balance : 335.8
+
+2023-03-17 20:36:28 Current Balance : 335.8
+
+2023-03-17 20:36:28 DoLoad365Page
+
+2023-03-17 20:36:28 365 page is loaded!
+
+2023-03-17 20:36:28 CheckIfLoggedIn
+
+2023-03-17 20:36:28 Logged In Already!
+
+2023-03-17 20:36:28 bet365.com
+
+2023-03-17 20:36:41 Not Search Event
+
+2023-03-17 20:37:12 Not Search Event
+
+2023-03-17 20:37:21 Not Search Event
+
+2023-03-17 20:37:39 Not Search Event
+
+2023-03-17 20:37:47 Not Search Event
+
+2023-03-17 20:37:52 Not Found Event on Bet365...
+
+2023-03-17 20:37:55  *** MakeBet *** 
+
+2023-03-17 20:37:55 {"dbId":"","sport":"","country":"","league":"Austria Regionalliga Mitte","dateTime":"","match":"LASK Linz II vs SV Allerheiligen","score":"3:0","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:37:55 335.81
+
+2023-03-17 20:37:55 Current balance : 335.8
+
+2023-03-17 20:37:55 Current Balance : 335.8
+
+2023-03-17 20:37:55 DoLoad365Page
+
+2023-03-17 20:37:55 365 page is loaded!
+
+2023-03-17 20:37:55 CheckIfLoggedIn
+
+2023-03-17 20:37:55 Logged In Already!
+
+2023-03-17 20:37:55 bet365.com
+
+2023-03-17 20:38:12 Not Search Event
+
+2023-03-17 20:38:21 Not Search Event
+
+2023-03-17 20:38:39 Not Search Event
+
+2023-03-17 20:38:48 Not Search Event
+
+2023-03-17 20:39:07 Not Search Event
+
+2023-03-17 20:39:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:39:15 New Score is updated...
+
+2023-03-17 20:39:15 {"home":"Usv Mettersdorf","away":"TUS Heiligenkreuz","score":"2:2","gameTime":0}
+
+2023-03-17 20:39:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:39:15 New Score is updated...
+
+2023-03-17 20:39:15 {"home":"Usv Mettersdorf","away":"TUS Heiligenkreuz","score":"2:2","gameTime":0}
+
+2023-03-17 20:39:15 Not Search Event
+
+2023-03-17 20:39:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:39:16 New Score is updated...
+
+2023-03-17 20:39:16 {"home":"Usv Mettersdorf","away":"TUS Heiligenkreuz","score":"2:2","gameTime":0}
+
+2023-03-17 20:39:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:39:16 New Score is updated...
+
+2023-03-17 20:39:16 {"home":"Usv Mettersdorf","away":"TUS Heiligenkreuz","score":"2:2","gameTime":0}
+
+2023-03-17 20:39:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:39:16 New Score is updated...
+
+2023-03-17 20:39:16 {"home":"Usv Mettersdorf","away":"TUS Heiligenkreuz","score":"2:2","gameTime":0}
+
+2023-03-17 20:39:20 Not Found Event on Bet365...
+
+2023-03-17 20:39:23  *** MakeBet *** 
+
+2023-03-17 20:39:23 {"dbId":"","sport":"","country":"","league":"Austria Regionalliga Mitte","dateTime":"","match":"LASK Linz II vs SV Allerheiligen","score":"3:0","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:39:23 335.81
+
+2023-03-17 20:39:23 Current balance : 335.8
+
+2023-03-17 20:39:23 Current Balance : 335.8
+
+2023-03-17 20:39:23 DoLoad365Page
+
+2023-03-17 20:39:23 365 page is loaded!
+
+2023-03-17 20:39:23 CheckIfLoggedIn
+
+2023-03-17 20:39:23 Logged In Already!
+
+2023-03-17 20:39:23 bet365.com
+
+2023-03-17 20:39:37 Not Search Event
+
+2023-03-17 20:39:45 Not Search Event
+
+2023-03-17 20:40:04 Not Search Event
+
+2023-03-17 20:40:13 Not Search Event
+
+2023-03-17 20:40:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:40:15 New Score is updated...
+
+2023-03-17 20:40:15 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"0:1","gameTime":1}
+
+2023-03-17 20:40:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:40:16 New Score is updated...
+
+2023-03-17 20:40:16 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"0:1","gameTime":1}
+
+2023-03-17 20:40:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:40:16 New Score is updated...
+
+2023-03-17 20:40:16 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"0:1","gameTime":1}
+
+2023-03-17 20:40:31 Not Search Event
+
+2023-03-17 20:40:50 Not Found Event on Bet365...
+
+2023-03-17 20:40:53  *** MakeBet *** 
+
+2023-03-17 20:40:53 {"dbId":"","sport":"","country":"","league":"Mexico Segunda Division","dateTime":"","match":"Club Atletico Angelopolis vs Huracanes Izcalli FC","score":"2:1","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:40:53 LastLoginModule_Button Clicked
+
+2023-03-17 20:40:53 LastLoginModule_Button Clicked
+
+2023-03-17 20:40:58 
+
+2023-03-17 20:40:58 Current Balance : -1
+
+2023-03-17 20:40:58 DoLoad365Page
+
+2023-03-17 20:40:58 365 page is loaded!
+
+2023-03-17 20:40:58 CheckIfLoggedIn
+
+2023-03-17 20:40:58 Logged In Already!
+
+2023-03-17 20:40:58 bet365.com
+
+2023-03-17 20:41:13 Not Search Event
+
+2023-03-17 20:41:22 Not Search Event
+
+2023-03-17 20:41:41 Not Search Event
+
+2023-03-17 20:41:50 Not Search Event
+
+2023-03-17 20:42:10 Not Search Event
+
+2023-03-17 20:42:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:42:17 New Score is updated...
+
+2023-03-17 20:42:17 {"home":"Salzburger AK","away":"TSV St. Johann","score":"0:1","gameTime":0}
+
+2023-03-17 20:42:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:42:18 New Score is updated...
+
+2023-03-17 20:42:18 {"home":"Salzburger AK","away":"TSV St. Johann","score":"0:1","gameTime":0}
+
+2023-03-17 20:42:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:42:18 New Score is updated...
+
+2023-03-17 20:42:18 {"home":"Salzburger AK","away":"TSV St. Johann","score":"0:1","gameTime":0}
+
+2023-03-17 20:42:19 Not Search Event
+
+2023-03-17 20:42:24 Not Found Event on Bet365...
+
+2023-03-17 20:42:27  *** MakeBet *** 
+
+2023-03-17 20:42:27 {"dbId":"","sport":"","country":"","league":"Mexico Segunda Division","dateTime":"","match":"Club Atletico Angelopolis vs Huracanes Izcalli FC","score":"2:1","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:42:27 335.81
+
+2023-03-17 20:42:27 Current balance : 335.8
+
+2023-03-17 20:42:27 Current Balance : 335.8
+
+2023-03-17 20:42:27 DoLoad365Page
+
+2023-03-17 20:42:27 365 page is loaded!
+
+2023-03-17 20:42:27 CheckIfLoggedIn
+
+2023-03-17 20:42:27 Logged In Already!
+
+2023-03-17 20:42:27 bet365.com
+
+2023-03-17 20:42:42 Not Search Event
+
+2023-03-17 20:42:51 Not Search Event
+
+2023-03-17 20:43:10 Not Search Event
+
+2023-03-17 20:43:19 Not Search Event
+
+2023-03-17 20:43:38 Not Search Event
+
+2023-03-17 20:43:48 Not Search Event
+
+2023-03-17 20:43:53 Not Found Event on Bet365...
+
+2023-03-17 20:43:56  *** MakeBet *** 
+
+2023-03-17 20:43:56 {"dbId":"","sport":"","country":"","league":"Austria Landesliga","dateTime":"","match":"Usv Mettersdorf vs TUS Heiligenkreuz","score":"1:2","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:43:56 335.81
+
+2023-03-17 20:43:56 Current balance : 335.8
+
+2023-03-17 20:43:56 Current Balance : 335.8
+
+2023-03-17 20:43:56 DoLoad365Page
+
+2023-03-17 20:43:56 365 page is loaded!
+
+2023-03-17 20:43:56 CheckIfLoggedIn
+
+2023-03-17 20:43:56 Logged In Already!
+
+2023-03-17 20:43:56 bet365.com
+
+2023-03-17 20:44:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:44:17 New Score is updated...
+
+2023-03-17 20:44:17 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":0}
+
+2023-03-17 20:44:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:44:17 New Score is updated...
+
+2023-03-17 20:44:17 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":0}
+
+2023-03-17 20:44:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:44:18 New Score is updated...
+
+2023-03-17 20:44:18 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":0}
+
+2023-03-17 20:44:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:44:18 New Score is updated...
+
+2023-03-17 20:44:18 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":0}
+
+2023-03-17 20:44:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:44:18 New Score is updated...
+
+2023-03-17 20:44:18 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":0}
+
+2023-03-17 20:44:19 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:44:19 New Score is updated...
+
+2023-03-17 20:44:19 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"2:1","gameTime":0}
+
+2023-03-17 20:44:19 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:44:19 New Score is updated...
+
+2023-03-17 20:44:19 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"2:1","gameTime":0}
+
+2023-03-17 20:44:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:44:20 New Score is updated...
+
+2023-03-17 20:44:20 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"2:1","gameTime":0}
+
+2023-03-17 20:44:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:44:20 New Score is updated...
+
+2023-03-17 20:44:20 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"2:1","gameTime":0}
+
+2023-03-17 20:44:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:44:20 New Score is updated...
+
+2023-03-17 20:44:20 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"2:1","gameTime":0}
+
+2023-03-17 20:44:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:44:20 New Score is updated...
+
+2023-03-17 20:44:20 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"2:1","gameTime":0}
+
+2023-03-17 20:44:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:44:20 New Score is updated...
+
+2023-03-17 20:44:20 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"2:1","gameTime":0}
+
+2023-03-17 20:44:23 Not Search Event
+
+2023-03-17 20:44:42 Not Search Event
+
+2023-03-17 20:44:51 Not Search Event
+
+2023-03-17 20:45:07 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:45:07 New Score is updated...
+
+2023-03-17 20:45:07 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":0}
+
+2023-03-17 20:45:10 Not Search Event
+
+2023-03-17 20:45:18 Not Search Event
+
+2023-03-17 20:45:23 Not Found Event on Bet365...
+
+2023-03-17 20:45:26  *** MakeBet *** 
+
+2023-03-17 20:45:26 {"dbId":"","sport":"","country":"","league":"Austria Landesliga","dateTime":"","match":"Usv Mettersdorf vs TUS Heiligenkreuz","score":"1:2","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:45:27 335.81
+
+2023-03-17 20:45:27 Current balance : 335.8
+
+2023-03-17 20:45:27 Current Balance : 335.8
+
+2023-03-17 20:45:27 DoLoad365Page
+
+2023-03-17 20:45:27 365 page is loaded!
+
+2023-03-17 20:45:27 CheckIfLoggedIn
+
+2023-03-17 20:45:27 Logged In Already!
+
+2023-03-17 20:45:27 bet365.com
+
+2023-03-17 20:45:40 Not Search Event
+
+2023-03-17 20:46:13 Not Search Event
+
+2023-03-17 20:46:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:46:18 New Score is updated...
+
+2023-03-17 20:46:18 {"home":"FC Viktoria 1889 Berlin","away":"Halberstadt","score":"2:2","gameTime":0}
+
+2023-03-17 20:46:19 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:46:19 New Score is updated...
+
+2023-03-17 20:46:19 {"home":"FC Viktoria 1889 Berlin","away":"Halberstadt","score":"2:2","gameTime":0}
+
+2023-03-17 20:46:19 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:46:19 New Score is updated...
+
+2023-03-17 20:46:19 {"home":"FC Viktoria 1889 Berlin","away":"Halberstadt","score":"2:2","gameTime":0}
+
+2023-03-17 20:46:19 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:46:19 New Score is updated...
+
+2023-03-17 20:46:19 {"home":"Wexford FC","away":"Kerry FC","score":"2:1","gameTime":0}
+
+2023-03-17 20:46:22 Not Search Event
+
+2023-03-17 20:46:41 Not Search Event
+
+2023-03-17 20:47:00 Not Found Event on Bet365...
+
+2023-03-17 20:47:03  *** MakeBet *** 
+
+2023-03-17 20:47:03 {"dbId":"","sport":"","country":"","league":"Germany 3.Liga","dateTime":"","match":"FC Viktoria Köln vs SV Meppen","score":"1:1","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:47:03 335.81
+
+2023-03-17 20:47:03 Current balance : 335.8
+
+2023-03-17 20:47:03 Current Balance : 335.8
+
+2023-03-17 20:47:03 DoLoad365Page
+
+2023-03-17 20:47:03 365 page is loaded!
+
+2023-03-17 20:47:03 CheckIfLoggedIn
+
+2023-03-17 20:47:03 Logged In Already!
+
+2023-03-17 20:47:03 bet365.com
+
+2023-03-17 20:47:17 Not Search Event
+
+2023-03-17 20:47:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:47:18 New Score is updated...
+
+2023-03-17 20:47:18 {"home":"Spartak Myjava","away":"Puchov","score":"0:1","gameTime":0}
+
+2023-03-17 20:47:19 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:47:19 New Score is updated...
+
+2023-03-17 20:47:19 {"home":"Spartak Myjava","away":"Puchov","score":"0:1","gameTime":0}
+
+2023-03-17 20:47:25 Not Search Event
+
+2023-03-17 20:47:43 Not Search Event
+
+2023-03-17 20:47:52 Not Search Event
+
+2023-03-17 20:48:10 Not Search Event
+
+2023-03-17 20:48:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:48:17 New Score is updated...
+
+2023-03-17 20:48:17 {"home":"Chemnitzer","away":"VSG Altglienicke","score":"0:1","gameTime":0}
+
+2023-03-17 20:48:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:48:18 New Score is updated...
+
+2023-03-17 20:48:18 {"home":"Neusiedl","away":"SR Donaufeld","score":"1:0","gameTime":0}
+
+2023-03-17 20:48:19 Not Search Event
+
+2023-03-17 20:48:24 Not Found Event on Bet365...
+
+2023-03-17 20:48:27  *** MakeBet *** 
+
+2023-03-17 20:48:27 {"dbId":"","sport":"","country":"","league":"Germany 3.Liga","dateTime":"","match":"FC Viktoria Köln vs SV Meppen","score":"1:1","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 20:48:27 335.81
+
+2023-03-17 20:48:27 Current balance : 335.8
+
+2023-03-17 20:48:27 Current Balance : 335.8
+
+2023-03-17 20:48:27 DoLoad365Page
+
+2023-03-17 20:48:27 365 page is loaded!
+
+2023-03-17 20:48:27 CheckIfLoggedIn
+
+2023-03-17 20:48:27 Logged In Already!
+
+2023-03-17 20:48:27 bet365.com
+
+2023-03-17 20:48:41 Not Search Event
+
+2023-03-17 20:48:49 Not Search Event
+
+2023-03-17 20:49:07 Not Search Event
+
+2023-03-17 20:49:15 Not Search Event
+
+2023-03-17 20:49:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:49:17 New Score is updated...
+
+2023-03-17 20:49:17 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:1","gameTime":0}
+
+2023-03-17 20:49:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:49:17 New Score is updated...
+
+2023-03-17 20:49:17 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:1","gameTime":0}
+
+2023-03-17 20:49:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:49:17 New Score is updated...
+
+2023-03-17 20:49:17 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:1","gameTime":0}
+
+2023-03-17 20:49:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:49:18 New Score is updated...
+
+2023-03-17 20:49:18 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:1","gameTime":0}
+
+2023-03-17 20:49:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:49:18 New Score is updated...
+
+2023-03-17 20:49:18 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:1","gameTime":0}
+
+2023-03-17 20:49:34 Not Search Event
+
+2023-03-17 20:49:42 Not Search Event
+
+2023-03-17 20:49:47 Not Found Event on Bet365...
+
+2023-03-17 20:50:23 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:50:23 New Score is updated...
+
+2023-03-17 20:50:23 {"home":"[56'] Victoria Hamburg [0]","away":"1 TuRa Harksheide","score":"0:1","gameTime":2}
+
+2023-03-17 20:50:24 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:50:24 New Score is updated...
+
+2023-03-17 20:50:24 {"home":"[56'] Victoria Hamburg [0]","away":"1 TuRa Harksheide","score":"0:1","gameTime":2}
+
+2023-03-17 20:50:24 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:50:24 New Score is updated...
+
+2023-03-17 20:50:24 {"home":"Aston Villa U21","away":"Southampton U21","score":"1:2","gameTime":0}
+
+2023-03-17 20:50:24 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:50:24 New Score is updated...
+
+2023-03-17 20:50:24 {"home":"[56'] Victoria Hamburg [0]","away":"1 TuRa Harksheide","score":"0:1","gameTime":2}
+
+2023-03-17 20:50:25 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:50:25 New Score is updated...
+
+2023-03-17 20:50:25 {"home":"LASK Linz II","away":"SV Allerheiligen","score":"4:0","gameTime":0}
+
+2023-03-17 20:50:26 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:50:26 New Score is updated...
+
+2023-03-17 20:50:26 {"home":"LASK Linz II","away":"SV Allerheiligen","score":"4:0","gameTime":0}
+
+2023-03-17 20:50:26 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:50:26 New Score is updated...
+
+2023-03-17 20:50:26 {"home":"LASK Linz II","away":"SV Allerheiligen","score":"4:0","gameTime":0}
+
+2023-03-17 20:50:26 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:50:26 New Score is updated...
+
+2023-03-17 20:50:26 {"home":"LASK Linz II","away":"SV Allerheiligen","score":"4:0","gameTime":0}
+
+2023-03-17 20:50:26 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:50:26 New Score is updated...
+
+2023-03-17 20:50:26 {"home":"LASK Linz II","away":"SV Allerheiligen","score":"4:0","gameTime":0}
+
+2023-03-17 20:50:26 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:50:26 New Score is updated...
+
+2023-03-17 20:50:26 {"home":"LASK Linz II","away":"SV Allerheiligen","score":"4:0","gameTime":0}
+
+2023-03-17 20:50:26 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:50:26 New Score is updated...
+
+2023-03-17 20:50:26 {"home":"LASK Linz II","away":"SV Allerheiligen","score":"4:0","gameTime":0}
+
+2023-03-17 20:52:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:52:20 New Score is updated...
+
+2023-03-17 20:52:20 {"home":"Yverdon Sport FC","away":"FC Schaffhausen","score":"2:0","gameTime":0}
+
+2023-03-17 20:52:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:52:20 New Score is updated...
+
+2023-03-17 20:52:20 {"home":"Yverdon Sport FC","away":"FC Schaffhausen","score":"2:0","gameTime":0}
+
+2023-03-17 20:52:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:52:20 New Score is updated...
+
+2023-03-17 20:52:20 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"3:1","gameTime":0}
+
+2023-03-17 20:52:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:52:20 New Score is updated...
+
+2023-03-17 20:52:20 {"home":"Yverdon Sport FC","away":"FC Schaffhausen","score":"2:0","gameTime":0}
+
+2023-03-17 20:52:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:52:20 New Score is updated...
+
+2023-03-17 20:52:20 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"3:1","gameTime":0}
+
+2023-03-17 20:52:21 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:52:21 New Score is updated...
+
+2023-03-17 20:52:21 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"3:1","gameTime":0}
+
+2023-03-17 20:52:21 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:52:21 New Score is updated...
+
+2023-03-17 20:52:21 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"3:1","gameTime":0}
+
+2023-03-17 20:52:22 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:52:22 New Score is updated...
+
+2023-03-17 20:52:22 {"home":"FC Viktoria 1889 Berlin","away":"Halberstadt","score":"2:2","gameTime":2}
+
+2023-03-17 20:52:22 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:52:22 New Score is updated...
+
+2023-03-17 20:52:22 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"3:1","gameTime":0}
+
+2023-03-17 20:52:23 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:52:23 New Score is updated...
+
+2023-03-17 20:52:23 {"home":"FC Viktoria 1889 Berlin","away":"Halberstadt","score":"2:2","gameTime":2}
+
+2023-03-17 20:52:23 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:52:23 New Score is updated...
+
+2023-03-17 20:52:23 {"home":"FC Viktoria 1889 Berlin","away":"Halberstadt","score":"2:2","gameTime":2}
+
+2023-03-17 20:52:25 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:52:25 New Score is updated...
+
+2023-03-17 20:52:25 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"3:1","gameTime":0}
+
+2023-03-17 20:54:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:54:18 New Score is updated...
+
+2023-03-17 20:54:18 {"home":"Barcelona Femminile","away":"Valencia Femminile","score":"5:1","gameTime":0}
+
+2023-03-17 20:54:19 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:54:19 New Score is updated...
+
+2023-03-17 20:54:19 {"home":"Barcelona Femminile","away":"Valencia Femminile","score":"5:1","gameTime":0}
+
+2023-03-17 20:54:19 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:54:19 New Score is updated...
+
+2023-03-17 20:54:19 {"home":"Barcelona Femminile","away":"Valencia Femminile","score":"5:1","gameTime":0}
+
+2023-03-17 20:54:24 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:54:24 New Score is updated...
+
+2023-03-17 20:54:24 {"home":"Le Puy","away":"Paris 13 Atletico","score":"1:1","gameTime":0}
+
+2023-03-17 20:54:25 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:54:25 New Score is updated...
+
+2023-03-17 20:54:25 {"home":"Le Puy","away":"Paris 13 Atletico","score":"1:1","gameTime":0}
+
+2023-03-17 20:54:26 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:54:26 New Score is updated...
+
+2023-03-17 20:54:26 {"home":"Spartak Myjava","away":"Puchov","score":"0:1","gameTime":2}
+
+2023-03-17 20:54:27 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:54:27 New Score is updated...
+
+2023-03-17 20:54:27 {"home":"Spartak Myjava","away":"Puchov","score":"0:1","gameTime":2}
+
+2023-03-17 20:54:27 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:54:27 New Score is updated...
+
+2023-03-17 20:54:27 {"home":"Spartak Myjava","away":"Puchov","score":"0:1","gameTime":2}
+
+2023-03-17 20:56:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:56:18 New Score is updated...
+
+2023-03-17 20:56:18 {"home":"Neusiedl","away":"SR Donaufeld","score":"1:0","gameTime":2}
+
+2023-03-17 20:56:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:56:18 New Score is updated...
+
+2023-03-17 20:56:18 {"home":"Neusiedl","away":"SR Donaufeld","score":"1:0","gameTime":2}
+
+2023-03-17 20:56:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:56:18 New Score is updated...
+
+2023-03-17 20:56:18 {"home":"Neusiedl","away":"SR Donaufeld","score":"1:0","gameTime":2}
+
+2023-03-17 20:56:19 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:56:19 New Score is updated...
+
+2023-03-17 20:56:19 {"home":"LASK Linz II","away":"SV Allerheiligen","score":"4:0","gameTime":2}
+
+2023-03-17 20:56:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:56:20 New Score is updated...
+
+2023-03-17 20:56:20 {"home":"LASK Linz II","away":"SV Allerheiligen","score":"4:0","gameTime":2}
+
+2023-03-17 20:56:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:56:20 New Score is updated...
+
+2023-03-17 20:56:20 {"home":"LASK Linz II","away":"SV Allerheiligen","score":"4:0","gameTime":2}
+
+2023-03-17 20:57:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:16 New Score is updated...
+
+2023-03-17 20:57:16 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":2}
+
+2023-03-17 20:57:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:17 New Score is updated...
+
+2023-03-17 20:57:17 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":2}
+
+2023-03-17 20:57:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:17 New Score is updated...
+
+2023-03-17 20:57:17 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":2}
+
+2023-03-17 20:57:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:17 New Score is updated...
+
+2023-03-17 20:57:17 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":2}
+
+2023-03-17 20:57:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:17 New Score is updated...
+
+2023-03-17 20:57:17 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":2}
+
+2023-03-17 20:57:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:17 New Score is updated...
+
+2023-03-17 20:57:17 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":2}
+
+2023-03-17 20:57:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:17 New Score is updated...
+
+2023-03-17 20:57:17 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":2}
+
+2023-03-17 20:57:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:17 New Score is updated...
+
+2023-03-17 20:57:17 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":2}
+
+2023-03-17 20:57:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:17 New Score is updated...
+
+2023-03-17 20:57:17 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":2}
+
+2023-03-17 20:57:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:17 New Score is updated...
+
+2023-03-17 20:57:17 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":2}
+
+2023-03-17 20:57:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:18 New Score is updated...
+
+2023-03-17 20:57:18 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":2}
+
+2023-03-17 20:57:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:18 New Score is updated...
+
+2023-03-17 20:57:18 {"home":"SC Schwaz","away":"SV Fugen","score":"0:1","gameTime":2}
+
+2023-03-17 20:57:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:18 New Score is updated...
+
+2023-03-17 20:57:18 {"home":"Wexford FC","away":"Kerry FC","score":"2:1","gameTime":2}
+
+2023-03-17 20:57:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:18 New Score is updated...
+
+2023-03-17 20:57:18 {"home":"Usv Mettersdorf","away":"TUS Heiligenkreuz","score":"2:2","gameTime":2}
+
+2023-03-17 20:57:19 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:19 New Score is updated...
+
+2023-03-17 20:57:19 {"home":"Usv Mettersdorf","away":"TUS Heiligenkreuz","score":"2:2","gameTime":2}
+
+2023-03-17 20:57:19 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:19 New Score is updated...
+
+2023-03-17 20:57:19 {"home":"Usv Mettersdorf","away":"TUS Heiligenkreuz","score":"2:2","gameTime":2}
+
+2023-03-17 20:57:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:20 New Score is updated...
+
+2023-03-17 20:57:20 {"home":"Usv Mettersdorf","away":"TUS Heiligenkreuz","score":"2:2","gameTime":2}
+
+2023-03-17 20:57:21 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:57:21 New Score is updated...
+
+2023-03-17 20:57:21 {"home":"Usv Mettersdorf","away":"TUS Heiligenkreuz","score":"2:2","gameTime":2}
+
+2023-03-17 20:58:21 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:58:21 New Score is updated...
+
+2023-03-17 20:58:21 {"home":"Chemnitzer","away":"VSG Altglienicke","score":"0:1","gameTime":2}
+
+2023-03-17 20:59:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:59:15 New Score is updated...
+
+2023-03-17 20:59:15 {"home":"Barcelona Femminile","away":"Valencia Femminile","score":"5:1","gameTime":2}
+
+2023-03-17 20:59:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:59:16 New Score is updated...
+
+2023-03-17 20:59:16 {"home":"Barcelona Femminile","away":"Valencia Femminile","score":"5:1","gameTime":2}
+
+2023-03-17 20:59:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 20:59:16 New Score is updated...
+
+2023-03-17 20:59:16 {"home":"Barcelona Femminile","away":"Valencia Femminile","score":"5:1","gameTime":2}
+
+2023-03-17 21:00:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:00:18 New Score is updated...
+
+2023-03-17 21:00:18 {"home":"Salzburger AK","away":"TSV St. Johann","score":"0:1","gameTime":2}
+
+2023-03-17 21:00:19 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:00:19 New Score is updated...
+
+2023-03-17 21:00:19 {"home":"Salzburger AK","away":"TSV St. Johann","score":"0:1","gameTime":2}
+
+2023-03-17 21:00:19 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:00:19 New Score is updated...
+
+2023-03-17 21:00:19 {"home":"Salzburger AK","away":"TSV St. Johann","score":"0:1","gameTime":2}
+
+2023-03-17 21:00:31 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 21:00:31  *** MakeBet *** 
+
+2023-03-17 21:00:31 {"dbId":"","sport":"","country":"","league":"Germany Oberliga Hamburg","dateTime":"","match":"Victoria Hamburg vs TuRa Harksheide","score":"0:1","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 21:00:31 335.81
+
+2023-03-17 21:00:31 Current balance : 335.8
+
+2023-03-17 21:00:31 Current Balance : 335.8
+
+2023-03-17 21:00:31 DoLoad365Page
+
+2023-03-17 21:00:31 365 page is loaded!
+
+2023-03-17 21:00:31 CheckIfLoggedIn
+
+2023-03-17 21:00:31 Logged In Already!
+
+2023-03-17 21:00:31 bet365.com
+
+2023-03-17 21:00:42 Victoria Hamburg v TuRa Harksheide Dis :0.035126050420168
+
+2023-03-17 21:00:42 Wrong position detected!
+
+2023-03-17 21:00:47 Stake : 14
+
+2023-03-17 21:00:47 Running AddbetScript...
+
+2023-03-17 21:00:47 scrollBetIntoView('315190211') => 1
+
+2023-03-17 21:00:49 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-17 21:00:51 {
+  "bg": "bb3a9975-db7a-4c71-afcd-a59b7e675eb7",
+  "sr": 0,
+  "mr": false,
+  "cc": "kP+ozXHb92eXPKx9/ScZJOsC5sIkuZZsVjbsL3wrzLs=",
+  "ir": true,
+  "vr": "814",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "2/7",
+      "fi": 134618027,
+      "fd": "Victoria Hamburg v TuRa Harksheide",
+      "pt": [
+        {
+          "pi": 315190211,
+          "bd": "Più di 1.5",
+          "ha": "1.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "6414c6f3-AF3C290E",
+      "tp": "BS134618027-315190211",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134423019,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-17 21:00:53 Fractional Odds : 2/7
+
+2023-03-17 21:00:53 Trademate Odds : 0 , Bet365 Odds : 1.28
+
+2023-03-17 21:00:53 Trying to place bet!
+
+2023-03-17 21:00:53 DoPlacebetUI
+
+2023-03-17 21:00:53 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-03-17 21:00:55 Trademate Odds : 0 , Bet365 Odds : 1.3
+
+2023-03-17 21:00:55 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-03-17 21:01:04 335.81
+
+2023-03-17 21:01:04 Current balance : 335.8
+
+2023-03-17 21:01:07 [concigrassi:Test123.] SUCCESS. Stake:14 Odds:1.3
+
+2023-03-17 21:01:07 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:14 Odds:1.3",
+  "stake": 14.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.3,
+  "tournament": "Germany Oberliga Hamburg",
+  "eventName": "Victoria Hamburg vs TuRa Harksheide",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "17/03/2023 21:01:04",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 321.8,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-17 21:01:15 Trying to register tip at Bigstake
+
+2023-03-17 21:01:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:01:17 New Score is updated...
+
+2023-03-17 21:01:17 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"3:1","gameTime":2}
+
+2023-03-17 21:01:17 New Score : FC Viktoria Köln vs SV Meppen  3:1
+
+2023-03-17 21:01:17 Pending tip Score : Victoria Hamburg vs TuRa Harksheide 0:1
+
+2023-03-17 21:01:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:01:17 New Score is updated...
+
+2023-03-17 21:01:17 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"3:1","gameTime":2}
+
+2023-03-17 21:01:17 New Score : FC Viktoria Köln vs SV Meppen  3:1
+
+2023-03-17 21:01:17 Pending tip Score : Victoria Hamburg vs TuRa Harksheide 0:1
+
+2023-03-17 21:01:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:01:18 New Score is updated...
+
+2023-03-17 21:01:18 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"3:1","gameTime":2}
+
+2023-03-17 21:01:18 New Score : FC Viktoria Köln vs SV Meppen  3:1
+
+2023-03-17 21:01:18 Pending tip Score : Victoria Hamburg vs TuRa Harksheide 0:1
+
+2023-03-17 21:01:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:01:18 New Score is updated...
+
+2023-03-17 21:01:18 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"3:1","gameTime":2}
+
+2023-03-17 21:01:18 New Score : FC Viktoria Köln vs SV Meppen  3:1
+
+2023-03-17 21:01:18 Pending tip Score : Victoria Hamburg vs TuRa Harksheide 0:1
+
+2023-03-17 21:01:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:01:18 New Score is updated...
+
+2023-03-17 21:01:18 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"3:1","gameTime":2}
+
+2023-03-17 21:01:18 New Score : FC Viktoria Köln vs SV Meppen  3:1
+
+2023-03-17 21:01:18 Pending tip Score : Victoria Hamburg vs TuRa Harksheide 0:1
+
+2023-03-17 21:01:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:01:18 New Score is updated...
+
+2023-03-17 21:01:18 {"home":"FC Viktoria Köln","away":"SV Meppen","score":"3:1","gameTime":2}
+
+2023-03-17 21:01:18 New Score : FC Viktoria Köln vs SV Meppen  3:1
+
+2023-03-17 21:01:18 Pending tip Score : Victoria Hamburg vs TuRa Harksheide 0:1
+
+2023-03-17 21:01:19 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:01:19 New Score is updated...
+
+2023-03-17 21:01:19 {"home":"USV Gnas","away":"SC Liezen","score":"3:0","gameTime":2}
+
+2023-03-17 21:01:19 New Score : USV Gnas vs SC Liezen  3:0
+
+2023-03-17 21:01:19 Pending tip Score : Victoria Hamburg vs TuRa Harksheide 0:1
+
+2023-03-17 21:01:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:01:20 New Score is updated...
+
+2023-03-17 21:01:20 {"home":"USV Gnas","away":"SC Liezen","score":"3:0","gameTime":2}
+
+2023-03-17 21:01:20 New Score : USV Gnas vs SC Liezen  3:0
+
+2023-03-17 21:01:20 Pending tip Score : Victoria Hamburg vs TuRa Harksheide 0:1
+
+2023-03-17 21:01:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:01:20 New Score is updated...
+
+2023-03-17 21:01:20 {"home":"USV Gnas","away":"SC Liezen","score":"3:0","gameTime":2}
+
+2023-03-17 21:01:20 New Score : USV Gnas vs SC Liezen  3:0
+
+2023-03-17 21:01:20 Pending tip Score : Victoria Hamburg vs TuRa Harksheide 0:1
+
+2023-03-17 21:01:32 Registered tip at Bigstake Successfully!
+
+2023-03-17 21:01:35 This Line is already existed on Settled bets!
+
+2023-03-17 21:02:42 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:02:42 New Score is updated...
+
+2023-03-17 21:02:42 {"home":"Fluminense U20","away":"Cuiaba U20","score":"1:1","gameTime":2}
+
+2023-03-17 21:02:42 New Score : Fluminense U20 vs Cuiaba U20  1:1
+
+2023-03-17 21:02:42 Pending tip Score : Victoria Hamburg vs TuRa Harksheide 0:1
+
+2023-03-17 21:07:14 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:07:14 New Score is updated...
+
+2023-03-17 21:07:14 {"home":"Club Atletico Angelopolis","away":"Huracanes Izcalli FC","score":"2:1","gameTime":2}
+
+2023-03-17 21:07:14 New Score : Club Atletico Angelopolis vs Huracanes Izcalli FC  2:1
+
+2023-03-17 21:07:14 Pending tip Score : Victoria Hamburg vs TuRa Harksheide 0:1
+
+2023-03-17 21:07:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:07:15 New Score is updated...
+
+2023-03-17 21:07:15 {"home":"Club Atletico Angelopolis","away":"Huracanes Izcalli FC","score":"2:1","gameTime":2}
+
+2023-03-17 21:07:15 New Score : Club Atletico Angelopolis vs Huracanes Izcalli FC  2:1
+
+2023-03-17 21:07:15 Pending tip Score : Victoria Hamburg vs TuRa Harksheide 0:1
+
+2023-03-17 21:08:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:08:17 New Score is updated...
+
+2023-03-17 21:08:17 {"home":"Aston Villa U21","away":"Southampton U21","score":"1:2","gameTime":2}
+
+2023-03-17 21:08:17 New Score : Aston Villa U21 vs Southampton U21  1:2
+
+2023-03-17 21:08:17 Pending tip Score : Victoria Hamburg vs TuRa Harksheide 0:1
+
+2023-03-17 21:12:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:12:15 New Score is updated...
+
+2023-03-17 21:12:15 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"0:2","gameTime":0}
+
+2023-03-17 21:12:15 New Score : Victoria Hamburg vs TuRa Harksheide  0:2
+
+2023-03-17 21:12:15 Pending tip Score : Victoria Hamburg vs TuRa Harksheide 0:1
+
+2023-03-17 21:12:15 Pending Tip is winning now...
+
+2023-03-17 21:12:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:12:16 New Score is updated...
+
+2023-03-17 21:12:16 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"0:2","gameTime":0}
+
+2023-03-17 21:12:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:12:17 New Score is updated...
+
+2023-03-17 21:12:17 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"0:2","gameTime":0}
+
+2023-03-17 21:12:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:12:18 New Score is updated...
+
+2023-03-17 21:12:18 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"0:2","gameTime":0}
+
+2023-03-17 21:18:14 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:18:14 New Score is updated...
+
+2023-03-17 21:18:14 {"home":"Genk II","away":"Excelsior Virton","score":"1:1","gameTime":0}
+
+2023-03-17 21:18:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:18:15 New Score is updated...
+
+2023-03-17 21:18:15 {"home":"FC Twente Femminile","away":"Fortuna Sittard Femminile","score":"1:1","gameTime":0}
+
+2023-03-17 21:18:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:18:16 New Score is updated...
+
+2023-03-17 21:18:16 {"home":"FC Twente Femminile","away":"Fortuna Sittard Femminile","score":"1:1","gameTime":0}
+
+2023-03-17 21:20:01 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:20:01 New Score is updated...
+
+2023-03-17 21:20:01 {"home":"Fluminense U20","away":"Cuiaba U20","score":"1:1","gameTime":2}
+
+2023-03-17 21:20:03 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:20:03 New Score is updated...
+
+2023-03-17 21:20:03 {"home":"Fluminense U20","away":"Cuiaba U20","score":"1:1","gameTime":2}
+
+2023-03-17 21:20:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:20:15 New Score is updated...
+
+2023-03-17 21:20:15 {"home":"Club Atletico Angelopolis","away":"Huracanes Izcalli FC","score":"2:1","gameTime":2}
+
+2023-03-17 21:20:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:20:15 New Score is updated...
+
+2023-03-17 21:20:15 {"home":"Club Atletico Angelopolis","away":"Huracanes Izcalli FC","score":"2:1","gameTime":2}
+
+2023-03-17 21:20:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:20:16 New Score is updated...
+
+2023-03-17 21:20:16 {"home":"Club Atletico Angelopolis","away":"Huracanes Izcalli FC","score":"2:1","gameTime":2}
+
+2023-03-17 21:20:35 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:20:35 New Score is updated...
+
+2023-03-17 21:20:35 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"0:2","gameTime":0}
+
+2023-03-17 21:20:36 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:20:36 New Score is updated...
+
+2023-03-17 21:20:36 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"0:2","gameTime":0}
+
+2023-03-17 21:21:02 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 21:21:02  *** MakeBet *** 
+
+2023-03-17 21:21:02 {"dbId":"","sport":"","country":"","league":"England Premier League 2","dateTime":"","match":"Chelsea U21 vs Everton U21","score":"1:1","EW":"0","marketName":"OVER 2.5","selection":"OVER","odds":0.0,"handicap":2.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 21:21:02 340.01
+
+2023-03-17 21:21:02 Current balance : 340
+
+2023-03-17 21:21:02 Current Balance : 340
+
+2023-03-17 21:21:02 DoLoad365Page
+
+2023-03-17 21:21:03 365 page is loaded!
+
+2023-03-17 21:21:03 CheckIfLoggedIn
+
+2023-03-17 21:21:03 Logged In Already!
+
+2023-03-17 21:21:03 bet365.com
+
+2023-03-17 21:21:03 Wrong position detected!
+
+2023-03-17 21:21:12 Not Search Event
+
+2023-03-17 21:21:18 Chelsea U21 v Everton U21 Dis :0.00769230769230767
+
+2023-03-17 21:21:18 Wrong position detected!
+
+2023-03-17 21:21:22 Stake : 14
+
+2023-03-17 21:21:22 Running AddbetScript...
+
+2023-03-17 21:21:22 scrollBetIntoView('313311337') => 1
+
+2023-03-17 21:21:24 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-17 21:21:26 {
+  "bg": "3065fd95-fca0-42ef-88cf-29be769f37fe",
+  "sr": 0,
+  "mr": false,
+  "cc": "uWOzo7by5xXQGVHLvyCOFhl8Ydcq+xz4Ils5nGR7kDc=",
+  "ir": true,
+  "vr": "814",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/11",
+      "fi": 134599343,
+      "fd": "Chelsea U21 v Everton U21",
+      "pt": [
+        {
+          "pi": 313311337,
+          "bd": "Più di 2.5",
+          "ha": "2.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "6414cbc6-2FDE03D9",
+      "tp": "BS134599343-313311337",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134489122,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-17 21:21:28 Fractional Odds : 4/11
+
+2023-03-17 21:21:28 Trademate Odds : 0 , Bet365 Odds : 1.36
+
+2023-03-17 21:21:28 Trying to place bet!
+
+2023-03-17 21:21:28 DoPlacebetUI
+
+2023-03-17 21:21:28 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-03-17 21:21:30 Trademate Odds : 0 , Bet365 Odds : 1.36
+
+2023-03-17 21:21:30 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-03-17 21:21:38 340.01
+
+2023-03-17 21:21:38 Current balance : 340
+
+2023-03-17 21:21:41 [concigrassi:Test123.] SUCCESS. Stake:14 Odds:1.36357142857143
+
+2023-03-17 21:21:41 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:14 Odds:1.36357142857143",
+  "stake": 14.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.3635714285714287,
+  "tournament": "England Premier League 2",
+  "eventName": "Chelsea U21 vs Everton U21",
+  "probability": "OVER",
+  "market": "OVER 2.5",
+  "placedAt": "17/03/2023 21:21:38",
+  "selection": "OVER",
+  "handicap": 2.5,
+  "balance": 326.0,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-17 21:21:49 Trying to register tip at Bigstake
+
+2023-03-17 21:22:05 Registered tip at Bigstake Successfully!
+
+2023-03-17 21:22:08 This Line is already existed on Settled bets!
+
+2023-03-17 21:26:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:26:15 New Score is updated...
+
+2023-03-17 21:26:15 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":0}
+
+2023-03-17 21:26:15 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:26:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:26:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:26:16 New Score is updated...
+
+2023-03-17 21:26:16 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":0}
+
+2023-03-17 21:26:16 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:26:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:26:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:26:16 New Score is updated...
+
+2023-03-17 21:26:16 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":0}
+
+2023-03-17 21:26:16 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:26:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:26:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:26:17 New Score is updated...
+
+2023-03-17 21:26:17 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":0}
+
+2023-03-17 21:26:17 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:26:17 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:26:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:26:17 New Score is updated...
+
+2023-03-17 21:26:17 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":0}
+
+2023-03-17 21:26:17 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:26:17 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:26:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:26:17 New Score is updated...
+
+2023-03-17 21:26:17 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":0}
+
+2023-03-17 21:26:17 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:26:17 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:26:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:26:17 New Score is updated...
+
+2023-03-17 21:26:17 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":0}
+
+2023-03-17 21:26:17 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:26:17 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:26:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:26:17 New Score is updated...
+
+2023-03-17 21:26:17 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":0}
+
+2023-03-17 21:26:17 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:26:17 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:26:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:26:17 New Score is updated...
+
+2023-03-17 21:26:17 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":0}
+
+2023-03-17 21:26:17 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:26:17 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:26:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:26:17 New Score is updated...
+
+2023-03-17 21:26:17 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":0}
+
+2023-03-17 21:26:17 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:26:17 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:26:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:26:18 New Score is updated...
+
+2023-03-17 21:26:18 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":0}
+
+2023-03-17 21:26:18 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:26:18 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:27:14 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:27:14 New Score is updated...
+
+2023-03-17 21:27:14 {"home":"Yverdon Sport FC","away":"FC Schaffhausen","score":"2:0","gameTime":2}
+
+2023-03-17 21:27:14 New Score : Yverdon Sport FC vs FC Schaffhausen  2:0
+
+2023-03-17 21:27:14 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:27:14 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:27:14 New Score is updated...
+
+2023-03-17 21:27:14 {"home":"SC Imst","away":"Worgl SV","score":"1:2","gameTime":0}
+
+2023-03-17 21:27:14 New Score : SC Imst vs Worgl SV  1:2
+
+2023-03-17 21:27:14 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:27:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:27:15 New Score is updated...
+
+2023-03-17 21:27:15 {"home":"Yverdon Sport FC","away":"FC Schaffhausen","score":"2:0","gameTime":2}
+
+2023-03-17 21:27:15 New Score : Yverdon Sport FC vs FC Schaffhausen  2:0
+
+2023-03-17 21:27:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:27:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:27:15 New Score is updated...
+
+2023-03-17 21:27:15 {"home":"Yverdon Sport FC","away":"FC Schaffhausen","score":"2:0","gameTime":2}
+
+2023-03-17 21:27:15 New Score : Yverdon Sport FC vs FC Schaffhausen  2:0
+
+2023-03-17 21:27:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:27:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:27:15 New Score is updated...
+
+2023-03-17 21:27:15 {"home":"Yverdon Sport FC","away":"FC Schaffhausen","score":"2:0","gameTime":2}
+
+2023-03-17 21:27:15 New Score : Yverdon Sport FC vs FC Schaffhausen  2:0
+
+2023-03-17 21:27:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:27:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:27:15 New Score is updated...
+
+2023-03-17 21:27:15 {"home":"Yverdon Sport FC","away":"FC Schaffhausen","score":"2:0","gameTime":2}
+
+2023-03-17 21:27:15 New Score : Yverdon Sport FC vs FC Schaffhausen  2:0
+
+2023-03-17 21:27:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:27:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:27:15 New Score is updated...
+
+2023-03-17 21:27:15 {"home":"Yverdon Sport FC","away":"FC Schaffhausen","score":"2:0","gameTime":2}
+
+2023-03-17 21:27:15 New Score : Yverdon Sport FC vs FC Schaffhausen  2:0
+
+2023-03-17 21:27:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:27:23 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 21:27:23 Pending bet is not finished.!
+
+2023-03-17 21:28:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:28:18 New Score is updated...
+
+2023-03-17 21:28:18 {"home":"Wil 1900","away":"Aarau","score":"0:2","gameTime":0}
+
+2023-03-17 21:28:18 New Score : Wil 1900 vs Aarau  0:2
+
+2023-03-17 21:28:18 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:28:19 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:28:19 New Score is updated...
+
+2023-03-17 21:28:19 {"home":"Wil 1900","away":"Aarau","score":"0:2","gameTime":0}
+
+2023-03-17 21:28:19 New Score : Wil 1900 vs Aarau  0:2
+
+2023-03-17 21:28:19 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:29:27 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:29:27 New Score is updated...
+
+2023-03-17 21:29:27 {"home":"FC Twente Femminile","away":"Fortuna Sittard Femminile","score":"2:1","gameTime":0}
+
+2023-03-17 21:29:27 New Score : FC Twente Femminile vs Fortuna Sittard Femminile  2:1
+
+2023-03-17 21:29:27 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:29:28 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:29:28 New Score is updated...
+
+2023-03-17 21:29:28 {"home":"FC Twente Femminile","away":"Fortuna Sittard Femminile","score":"2:1","gameTime":0}
+
+2023-03-17 21:29:28 New Score : FC Twente Femminile vs Fortuna Sittard Femminile  2:1
+
+2023-03-17 21:29:28 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:29:29 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:29:29 New Score is updated...
+
+2023-03-17 21:29:29 {"home":"FC Twente Femminile","away":"Fortuna Sittard Femminile","score":"2:1","gameTime":0}
+
+2023-03-17 21:29:29 New Score : FC Twente Femminile vs Fortuna Sittard Femminile  2:1
+
+2023-03-17 21:29:29 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:29:29 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:29:29 New Score is updated...
+
+2023-03-17 21:29:29 {"home":"FC Twente Femminile","away":"Fortuna Sittard Femminile","score":"2:1","gameTime":0}
+
+2023-03-17 21:29:29 New Score : FC Twente Femminile vs Fortuna Sittard Femminile  2:1
+
+2023-03-17 21:29:29 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:29:29 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:29:29 New Score is updated...
+
+2023-03-17 21:29:29 {"home":"FC Twente Femminile","away":"Fortuna Sittard Femminile","score":"2:1","gameTime":0}
+
+2023-03-17 21:29:29 New Score : FC Twente Femminile vs Fortuna Sittard Femminile  2:1
+
+2023-03-17 21:29:29 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:29:29 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:29:29 New Score is updated...
+
+2023-03-17 21:29:29 {"home":"FC Twente Femminile","away":"Fortuna Sittard Femminile","score":"2:1","gameTime":0}
+
+2023-03-17 21:29:29 New Score : FC Twente Femminile vs Fortuna Sittard Femminile  2:1
+
+2023-03-17 21:29:29 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:29:29 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:29:29 New Score is updated...
+
+2023-03-17 21:29:29 {"home":"FC Twente Femminile","away":"Fortuna Sittard Femminile","score":"2:1","gameTime":0}
+
+2023-03-17 21:29:29 New Score : FC Twente Femminile vs Fortuna Sittard Femminile  2:1
+
+2023-03-17 21:29:29 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:29:29 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:29:29 New Score is updated...
+
+2023-03-17 21:29:29 {"home":"FC Twente Femminile","away":"Fortuna Sittard Femminile","score":"2:1","gameTime":0}
+
+2023-03-17 21:29:29 New Score : FC Twente Femminile vs Fortuna Sittard Femminile  2:1
+
+2023-03-17 21:29:29 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:29:30 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:29:30 New Score is updated...
+
+2023-03-17 21:29:30 {"home":"FC Twente Femminile","away":"Fortuna Sittard Femminile","score":"2:1","gameTime":0}
+
+2023-03-17 21:29:30 New Score : FC Twente Femminile vs Fortuna Sittard Femminile  2:1
+
+2023-03-17 21:29:30 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:29:51 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:29:51 New Score is updated...
+
+2023-03-17 21:29:51 {"home":"Yverdon Sport FC","away":"FC Schaffhausen","score":"2:0","gameTime":2}
+
+2023-03-17 21:29:51 New Score : Yverdon Sport FC vs FC Schaffhausen  2:0
+
+2023-03-17 21:29:51 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:30:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:30:20 New Score is updated...
+
+2023-03-17 21:30:20 {"home":"Nancy","away":"Chateauroux","score":"0:1","gameTime":2}
+
+2023-03-17 21:30:20 New Score : Nancy vs Chateauroux  0:1
+
+2023-03-17 21:30:20 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:30:24 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:30:24 New Score is updated...
+
+2023-03-17 21:30:24 {"home":"Nancy","away":"Chateauroux","score":"0:1","gameTime":2}
+
+2023-03-17 21:30:24 New Score : Nancy vs Chateauroux  0:1
+
+2023-03-17 21:30:24 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:33:13 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:33:13 New Score is updated...
+
+2023-03-17 21:33:13 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":2}
+
+2023-03-17 21:33:13 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:33:13 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:33:13 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:33:13 New Score is updated...
+
+2023-03-17 21:33:13 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":2}
+
+2023-03-17 21:33:13 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:33:13 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:33:14 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:33:14 New Score is updated...
+
+2023-03-17 21:33:14 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":2}
+
+2023-03-17 21:33:14 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:33:14 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:33:14 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:33:14 New Score is updated...
+
+2023-03-17 21:33:14 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":2}
+
+2023-03-17 21:33:14 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:33:14 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:33:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:33:20 New Score is updated...
+
+2023-03-17 21:33:20 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":2}
+
+2023-03-17 21:33:20 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:33:20 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:33:21 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:33:21 New Score is updated...
+
+2023-03-17 21:33:21 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":2}
+
+2023-03-17 21:33:21 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:33:21 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:33:21 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:33:21 New Score is updated...
+
+2023-03-17 21:33:21 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":2}
+
+2023-03-17 21:33:21 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:33:21 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:33:21 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:33:21 New Score is updated...
+
+2023-03-17 21:33:21 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":2}
+
+2023-03-17 21:33:21 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:33:21 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:34:33 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:34:33 New Score is updated...
+
+2023-03-17 21:34:33 {"home":"Le Puy","away":"Paris 13 Atletico","score":"1:1","gameTime":2}
+
+2023-03-17 21:34:33 New Score : Le Puy vs Paris 13 Atletico  1:1
+
+2023-03-17 21:34:33 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:34:36 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:34:36 New Score is updated...
+
+2023-03-17 21:34:36 {"home":"Le Puy","away":"Paris 13 Atletico","score":"1:1","gameTime":2}
+
+2023-03-17 21:34:36 New Score : Le Puy vs Paris 13 Atletico  1:1
+
+2023-03-17 21:34:36 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:35:14 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:35:14 New Score is updated...
+
+2023-03-17 21:35:14 {"home":"SC Imst","away":"Worgl SV","score":"1:2","gameTime":2}
+
+2023-03-17 21:35:14 New Score : SC Imst vs Worgl SV  1:2
+
+2023-03-17 21:35:14 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:35:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:35:15 New Score is updated...
+
+2023-03-17 21:35:15 {"home":"FC Twente Femminile","away":"Fortuna Sittard Femminile","score":"2:1","gameTime":2}
+
+2023-03-17 21:35:15 New Score : FC Twente Femminile vs Fortuna Sittard Femminile  2:1
+
+2023-03-17 21:35:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:35:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:35:15 New Score is updated...
+
+2023-03-17 21:35:15 {"home":"FC Twente Femminile","away":"Fortuna Sittard Femminile","score":"2:1","gameTime":2}
+
+2023-03-17 21:35:15 New Score : FC Twente Femminile vs Fortuna Sittard Femminile  2:1
+
+2023-03-17 21:35:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:35:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:35:16 New Score is updated...
+
+2023-03-17 21:35:16 {"home":"FC Twente Femminile","away":"Fortuna Sittard Femminile","score":"2:1","gameTime":2}
+
+2023-03-17 21:35:16 New Score : FC Twente Femminile vs Fortuna Sittard Femminile  2:1
+
+2023-03-17 21:35:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:35:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:35:16 New Score is updated...
+
+2023-03-17 21:35:16 {"home":"FC Twente Femminile","away":"Fortuna Sittard Femminile","score":"2:1","gameTime":2}
+
+2023-03-17 21:35:16 New Score : FC Twente Femminile vs Fortuna Sittard Femminile  2:1
+
+2023-03-17 21:35:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:35:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:35:17 New Score is updated...
+
+2023-03-17 21:35:17 {"home":"FC Twente Femminile","away":"Fortuna Sittard Femminile","score":"2:1","gameTime":2}
+
+2023-03-17 21:35:17 New Score : FC Twente Femminile vs Fortuna Sittard Femminile  2:1
+
+2023-03-17 21:35:17 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:37:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:37:10 New Score is updated...
+
+2023-03-17 21:37:10 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:0","gameTime":0}
+
+2023-03-17 21:37:10 New Score : UT Petange vs UN Kaerjeng  3:0
+
+2023-03-17 21:37:10 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:37:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:37:10 New Score is updated...
+
+2023-03-17 21:37:10 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:0","gameTime":0}
+
+2023-03-17 21:37:10 New Score : UT Petange vs UN Kaerjeng  3:0
+
+2023-03-17 21:37:10 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:37:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:37:10 New Score is updated...
+
+2023-03-17 21:37:10 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:0","gameTime":0}
+
+2023-03-17 21:37:10 New Score : UT Petange vs UN Kaerjeng  3:0
+
+2023-03-17 21:37:11 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:37:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:37:11 New Score is updated...
+
+2023-03-17 21:37:11 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:0","gameTime":0}
+
+2023-03-17 21:37:11 New Score : UT Petange vs UN Kaerjeng  3:0
+
+2023-03-17 21:37:11 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:37:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:37:11 New Score is updated...
+
+2023-03-17 21:37:11 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:0","gameTime":0}
+
+2023-03-17 21:37:11 New Score : UT Petange vs UN Kaerjeng  3:0
+
+2023-03-17 21:37:11 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:37:12 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:37:12 New Score is updated...
+
+2023-03-17 21:37:12 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:0","gameTime":0}
+
+2023-03-17 21:37:12 New Score : UT Petange vs UN Kaerjeng  3:0
+
+2023-03-17 21:37:12 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:38:13 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:38:13 New Score is updated...
+
+2023-03-17 21:38:13 {"home":"Maastricht","away":"FC Utrecht Reserves","score":"1:0","gameTime":0}
+
+2023-03-17 21:38:13 New Score : Maastricht vs FC Utrecht Reserves  1:0
+
+2023-03-17 21:38:13 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:38:14 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:38:14 New Score is updated...
+
+2023-03-17 21:38:14 {"home":"Maastricht","away":"FC Utrecht Reserves","score":"1:0","gameTime":0}
+
+2023-03-17 21:38:14 New Score : Maastricht vs FC Utrecht Reserves  1:0
+
+2023-03-17 21:38:14 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:39:01 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:39:01 New Score is updated...
+
+2023-03-17 21:39:01 {"home":"Victoria Hamburg","away":"TuRa Harksheide","score":"1:2","gameTime":2}
+
+2023-03-17 21:39:01 New Score : Victoria Hamburg vs TuRa Harksheide  1:2
+
+2023-03-17 21:39:01 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:39:13 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:39:13 New Score is updated...
+
+2023-03-17 21:39:13 {"home":"AD San Carlos U20","away":"Saprissa de Corazon U20","score":"1:1","gameTime":0}
+
+2023-03-17 21:39:13 New Score : AD San Carlos U20 vs Saprissa de Corazon U20  1:1
+
+2023-03-17 21:39:13 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:39:13 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:39:13 New Score is updated...
+
+2023-03-17 21:39:13 {"home":"AD San Carlos U20","away":"Saprissa de Corazon U20","score":"1:1","gameTime":0}
+
+2023-03-17 21:39:13 New Score : AD San Carlos U20 vs Saprissa de Corazon U20  1:1
+
+2023-03-17 21:39:13 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:39:13 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:39:13 New Score is updated...
+
+2023-03-17 21:39:13 {"home":"CR Belouizdad","away":"El Zamalek","score":"1:0","gameTime":0}
+
+2023-03-17 21:39:13 New Score : CR Belouizdad vs El Zamalek  1:0
+
+2023-03-17 21:39:13 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:39:13 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:39:13 New Score is updated...
+
+2023-03-17 21:39:14 {"home":"CR Belouizdad","away":"El Zamalek","score":"1:0","gameTime":0}
+
+2023-03-17 21:39:14 New Score : CR Belouizdad vs El Zamalek  1:0
+
+2023-03-17 21:39:14 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:39:14 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:39:14 New Score is updated...
+
+2023-03-17 21:39:14 {"home":"CR Belouizdad","away":"El Zamalek","score":"1:0","gameTime":0}
+
+2023-03-17 21:39:14 New Score : CR Belouizdad vs El Zamalek  1:0
+
+2023-03-17 21:39:14 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:39:14 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:39:14 New Score is updated...
+
+2023-03-17 21:39:14 {"home":"AD San Carlos U20","away":"Saprissa de Corazon U20","score":"1:1","gameTime":0}
+
+2023-03-17 21:39:14 New Score : AD San Carlos U20 vs Saprissa de Corazon U20  1:1
+
+2023-03-17 21:39:14 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:39:14 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:39:14 New Score is updated...
+
+2023-03-17 21:39:14 {"home":"AD San Carlos U20","away":"Saprissa de Corazon U20","score":"1:1","gameTime":0}
+
+2023-03-17 21:39:14 New Score : AD San Carlos U20 vs Saprissa de Corazon U20  1:1
+
+2023-03-17 21:39:14 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:39:14 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:39:14 New Score is updated...
+
+2023-03-17 21:39:14 {"home":"CR Belouizdad","away":"El Zamalek","score":"1:0","gameTime":0}
+
+2023-03-17 21:39:14 New Score : CR Belouizdad vs El Zamalek  1:0
+
+2023-03-17 21:39:14 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:39:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:39:15 New Score is updated...
+
+2023-03-17 21:39:15 {"home":"AD San Carlos U20","away":"Saprissa de Corazon U20","score":"1:1","gameTime":0}
+
+2023-03-17 21:39:15 New Score : AD San Carlos U20 vs Saprissa de Corazon U20  1:1
+
+2023-03-17 21:39:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:39:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:39:16 New Score is updated...
+
+2023-03-17 21:39:16 {"home":"AD San Carlos U20","away":"Saprissa de Corazon U20","score":"1:1","gameTime":0}
+
+2023-03-17 21:39:16 New Score : AD San Carlos U20 vs Saprissa de Corazon U20  1:1
+
+2023-03-17 21:39:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:41:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:41:11 New Score is updated...
+
+2023-03-17 21:41:11 {"home":"SK Beveren","away":"Lierse Kempenzonen","score":"2:0","gameTime":0}
+
+2023-03-17 21:41:11 New Score : SK Beveren vs Lierse Kempenzonen  2:0
+
+2023-03-17 21:41:11 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:41:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:41:11 New Score is updated...
+
+2023-03-17 21:41:11 {"home":"SK Beveren","away":"Lierse Kempenzonen","score":"2:0","gameTime":0}
+
+2023-03-17 21:41:11 New Score : SK Beveren vs Lierse Kempenzonen  2:0
+
+2023-03-17 21:41:11 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:41:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:41:11 New Score is updated...
+
+2023-03-17 21:41:11 {"home":"SK Beveren","away":"Lierse Kempenzonen","score":"2:0","gameTime":0}
+
+2023-03-17 21:41:11 New Score : SK Beveren vs Lierse Kempenzonen  2:0
+
+2023-03-17 21:41:11 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:41:12 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:41:12 New Score is updated...
+
+2023-03-17 21:41:12 {"home":"SK Beveren","away":"Lierse Kempenzonen","score":"2:0","gameTime":0}
+
+2023-03-17 21:41:12 New Score : SK Beveren vs Lierse Kempenzonen  2:0
+
+2023-03-17 21:41:12 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:41:12 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:41:12 New Score is updated...
+
+2023-03-17 21:41:12 {"home":"SK Beveren","away":"Lierse Kempenzonen","score":"2:0","gameTime":0}
+
+2023-03-17 21:41:12 New Score : SK Beveren vs Lierse Kempenzonen  2:0
+
+2023-03-17 21:41:12 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:41:13 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:41:13 New Score is updated...
+
+2023-03-17 21:41:13 {"home":"SK Beveren","away":"Lierse Kempenzonen","score":"2:0","gameTime":0}
+
+2023-03-17 21:41:13 New Score : SK Beveren vs Lierse Kempenzonen  2:0
+
+2023-03-17 21:41:13 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:41:13 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:41:13 New Score is updated...
+
+2023-03-17 21:41:13 {"home":"SK Beveren","away":"Lierse Kempenzonen","score":"2:0","gameTime":0}
+
+2023-03-17 21:41:13 New Score : SK Beveren vs Lierse Kempenzonen  2:0
+
+2023-03-17 21:41:13 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:42:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:42:15 New Score is updated...
+
+2023-03-17 21:42:15 {"home":"CR Belouizdad","away":"El Zamalek","score":"2:0","gameTime":0}
+
+2023-03-17 21:42:15 New Score : CR Belouizdad vs El Zamalek  2:0
+
+2023-03-17 21:42:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:42:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:42:16 New Score is updated...
+
+2023-03-17 21:42:16 {"home":"CR Belouizdad","away":"El Zamalek","score":"2:0","gameTime":0}
+
+2023-03-17 21:42:16 New Score : CR Belouizdad vs El Zamalek  2:0
+
+2023-03-17 21:42:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:42:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:42:17 New Score is updated...
+
+2023-03-17 21:42:17 {"home":"Wil 1900","away":"Aarau","score":"0:3","gameTime":0}
+
+2023-03-17 21:42:17 New Score : Wil 1900 vs Aarau  0:3
+
+2023-03-17 21:42:17 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:42:18 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:42:18 New Score is updated...
+
+2023-03-17 21:42:18 {"home":"Wil 1900","away":"Aarau","score":"0:3","gameTime":0}
+
+2023-03-17 21:42:18 New Score : Wil 1900 vs Aarau  0:3
+
+2023-03-17 21:42:18 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:48:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:48:15 New Score is updated...
+
+2023-03-17 21:48:15 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:1","gameTime":0}
+
+2023-03-17 21:48:15 New Score : UT Petange vs UN Kaerjeng  3:1
+
+2023-03-17 21:48:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:48:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:48:15 New Score is updated...
+
+2023-03-17 21:48:15 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:1","gameTime":0}
+
+2023-03-17 21:48:15 New Score : UT Petange vs UN Kaerjeng  3:1
+
+2023-03-17 21:48:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:48:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:48:15 New Score is updated...
+
+2023-03-17 21:48:15 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:1","gameTime":0}
+
+2023-03-17 21:48:15 New Score : UT Petange vs UN Kaerjeng  3:1
+
+2023-03-17 21:48:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:48:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:48:15 New Score is updated...
+
+2023-03-17 21:48:15 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:1","gameTime":0}
+
+2023-03-17 21:48:15 New Score : UT Petange vs UN Kaerjeng  3:1
+
+2023-03-17 21:48:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:48:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:48:15 New Score is updated...
+
+2023-03-17 21:48:15 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:1","gameTime":0}
+
+2023-03-17 21:48:16 New Score : UT Petange vs UN Kaerjeng  3:1
+
+2023-03-17 21:48:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:48:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:48:16 New Score is updated...
+
+2023-03-17 21:48:16 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:1","gameTime":0}
+
+2023-03-17 21:48:16 New Score : UT Petange vs UN Kaerjeng  3:1
+
+2023-03-17 21:48:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:48:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:48:16 New Score is updated...
+
+2023-03-17 21:48:16 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:1","gameTime":0}
+
+2023-03-17 21:48:16 New Score : UT Petange vs UN Kaerjeng  3:1
+
+2023-03-17 21:48:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:48:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:48:16 New Score is updated...
+
+2023-03-17 21:48:16 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:1","gameTime":0}
+
+2023-03-17 21:48:16 New Score : UT Petange vs UN Kaerjeng  3:1
+
+2023-03-17 21:48:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:48:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:48:16 New Score is updated...
+
+2023-03-17 21:48:16 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:1","gameTime":0}
+
+2023-03-17 21:48:16 New Score : UT Petange vs UN Kaerjeng  3:1
+
+2023-03-17 21:48:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:48:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:48:16 New Score is updated...
+
+2023-03-17 21:48:16 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:1","gameTime":0}
+
+2023-03-17 21:48:16 New Score : UT Petange vs UN Kaerjeng  3:1
+
+2023-03-17 21:48:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:48:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:48:16 New Score is updated...
+
+2023-03-17 21:48:16 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:1","gameTime":0}
+
+2023-03-17 21:48:16 New Score : UT Petange vs UN Kaerjeng  3:1
+
+2023-03-17 21:48:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:48:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:48:16 New Score is updated...
+
+2023-03-17 21:48:16 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:1","gameTime":0}
+
+2023-03-17 21:48:16 New Score : UT Petange vs UN Kaerjeng  3:1
+
+2023-03-17 21:48:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:48:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:48:16 New Score is updated...
+
+2023-03-17 21:48:16 {"home":"UT Petange","away":"UN Kaerjeng","score":"3:1","gameTime":0}
+
+2023-03-17 21:48:16 New Score : UT Petange vs UN Kaerjeng  3:1
+
+2023-03-17 21:48:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:48:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:48:16 New Score is updated...
+
+2023-03-17 21:48:16 {"home":"PSV Reserves","away":"De Graafschap","score":"2:1","gameTime":0}
+
+2023-03-17 21:48:16 New Score : PSV Reserves vs De Graafschap  2:1
+
+2023-03-17 21:48:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:51:21 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 21:51:21 Pending bet is not finished.!
+
+2023-03-17 21:52:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:52:11 New Score is updated...
+
+2023-03-17 21:52:11 {"home":"UT Petange","away":"UN Kaerjeng","score":"4:1","gameTime":0}
+
+2023-03-17 21:52:11 New Score : UT Petange vs UN Kaerjeng  4:1
+
+2023-03-17 21:52:11 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:52:12 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:52:12 New Score is updated...
+
+2023-03-17 21:52:12 {"home":"UT Petange","away":"UN Kaerjeng","score":"4:1","gameTime":0}
+
+2023-03-17 21:52:12 New Score : UT Petange vs UN Kaerjeng  4:1
+
+2023-03-17 21:52:12 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:52:12 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:52:12 New Score is updated...
+
+2023-03-17 21:52:12 {"home":"UT Petange","away":"UN Kaerjeng","score":"4:1","gameTime":0}
+
+2023-03-17 21:52:12 New Score : UT Petange vs UN Kaerjeng  4:1
+
+2023-03-17 21:52:12 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:52:12 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:52:12 New Score is updated...
+
+2023-03-17 21:52:12 {"home":"UT Petange","away":"UN Kaerjeng","score":"4:1","gameTime":0}
+
+2023-03-17 21:52:12 New Score : UT Petange vs UN Kaerjeng  4:1
+
+2023-03-17 21:52:12 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:52:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:52:16 New Score is updated...
+
+2023-03-17 21:52:16 {"home":"UT Petange","away":"UN Kaerjeng","score":"4:1","gameTime":0}
+
+2023-03-17 21:52:16 New Score : UT Petange vs UN Kaerjeng  4:1
+
+2023-03-17 21:52:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:52:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:52:17 New Score is updated...
+
+2023-03-17 21:52:17 {"home":"UT Petange","away":"UN Kaerjeng","score":"4:1","gameTime":0}
+
+2023-03-17 21:52:17 New Score : UT Petange vs UN Kaerjeng  4:1
+
+2023-03-17 21:52:17 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:55:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:55:11 New Score is updated...
+
+2023-03-17 21:55:11 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"1:1","gameTime":0}
+
+2023-03-17 21:55:11 New Score : Borussia M'gladbach vs Werder Bremen  1:1
+
+2023-03-17 21:55:11 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:55:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:55:11 New Score is updated...
+
+2023-03-17 21:55:11 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"1:1","gameTime":0}
+
+2023-03-17 21:55:11 New Score : Borussia M'gladbach vs Werder Bremen  1:1
+
+2023-03-17 21:55:11 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:55:12 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:55:12 New Score is updated...
+
+2023-03-17 21:55:12 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"1:1","gameTime":0}
+
+2023-03-17 21:55:12 New Score : Borussia M'gladbach vs Werder Bremen  1:1
+
+2023-03-17 21:55:12 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:55:12 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:55:12 New Score is updated...
+
+2023-03-17 21:55:12 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"1:1","gameTime":0}
+
+2023-03-17 21:55:12 New Score : Borussia M'gladbach vs Werder Bremen  1:1
+
+2023-03-17 21:55:12 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:55:12 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:55:12 New Score is updated...
+
+2023-03-17 21:55:12 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"1:1","gameTime":0}
+
+2023-03-17 21:55:12 New Score : Borussia M'gladbach vs Werder Bremen  1:1
+
+2023-03-17 21:55:12 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:56:14 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:56:14 New Score is updated...
+
+2023-03-17 21:56:14 {"home":"SK Beveren","away":"Lierse Kempenzonen","score":"2:0","gameTime":2}
+
+2023-03-17 21:56:14 New Score : SK Beveren vs Lierse Kempenzonen  2:0
+
+2023-03-17 21:56:14 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:56:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:56:15 New Score is updated...
+
+2023-03-17 21:56:15 {"home":"SK Beveren","away":"Lierse Kempenzonen","score":"2:0","gameTime":2}
+
+2023-03-17 21:56:15 New Score : SK Beveren vs Lierse Kempenzonen  2:0
+
+2023-03-17 21:56:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:56:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:56:15 New Score is updated...
+
+2023-03-17 21:56:15 {"home":"SK Beveren","away":"Lierse Kempenzonen","score":"2:0","gameTime":2}
+
+2023-03-17 21:56:15 New Score : SK Beveren vs Lierse Kempenzonen  2:0
+
+2023-03-17 21:56:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:56:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:56:16 New Score is updated...
+
+2023-03-17 21:56:16 {"home":"SK Beveren","away":"Lierse Kempenzonen","score":"2:0","gameTime":2}
+
+2023-03-17 21:56:16 New Score : SK Beveren vs Lierse Kempenzonen  2:0
+
+2023-03-17 21:56:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:56:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:56:20 New Score is updated...
+
+2023-03-17 21:56:20 {"home":"SK Beveren","away":"Lierse Kempenzonen","score":"2:0","gameTime":2}
+
+2023-03-17 21:56:20 New Score : SK Beveren vs Lierse Kempenzonen  2:0
+
+2023-03-17 21:56:20 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:56:20 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:56:20 New Score is updated...
+
+2023-03-17 21:56:20 {"home":"SK Beveren","away":"Lierse Kempenzonen","score":"2:0","gameTime":2}
+
+2023-03-17 21:56:20 New Score : SK Beveren vs Lierse Kempenzonen  2:0
+
+2023-03-17 21:56:20 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:58:13 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:58:13 New Score is updated...
+
+2023-03-17 21:58:13 {"home":"Tottenham U21","away":"Leicester U21","score":"3:1","gameTime":2}
+
+2023-03-17 21:58:13 New Score : Tottenham U21 vs Leicester U21  3:1
+
+2023-03-17 21:58:13 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:58:13 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:58:13 New Score is updated...
+
+2023-03-17 21:58:13 {"home":"Tottenham U21","away":"Leicester U21","score":"3:1","gameTime":2}
+
+2023-03-17 21:58:13 New Score : Tottenham U21 vs Leicester U21  3:1
+
+2023-03-17 21:58:13 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:58:13 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:58:14 New Score is updated...
+
+2023-03-17 21:58:14 {"home":"Tottenham U21","away":"Leicester U21","score":"3:1","gameTime":2}
+
+2023-03-17 21:58:14 New Score : Tottenham U21 vs Leicester U21  3:1
+
+2023-03-17 21:58:14 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:58:14 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:58:14 New Score is updated...
+
+2023-03-17 21:58:14 {"home":"Tottenham U21","away":"Leicester U21","score":"3:1","gameTime":2}
+
+2023-03-17 21:58:14 New Score : Tottenham U21 vs Leicester U21  3:1
+
+2023-03-17 21:58:14 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:58:14 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:58:15 New Score is updated...
+
+2023-03-17 21:58:15 {"home":"Tottenham U21","away":"Leicester U21","score":"3:1","gameTime":2}
+
+2023-03-17 21:58:15 New Score : Tottenham U21 vs Leicester U21  3:1
+
+2023-03-17 21:58:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:58:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:58:15 New Score is updated...
+
+2023-03-17 21:58:15 {"home":"Tottenham U21","away":"Leicester U21","score":"3:1","gameTime":2}
+
+2023-03-17 21:58:15 New Score : Tottenham U21 vs Leicester U21  3:1
+
+2023-03-17 21:58:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:59:22 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:59:22 New Score is updated...
+
+2023-03-17 21:59:22 {"home":"UT Petange","away":"UN Kaerjeng","score":"4:1","gameTime":2}
+
+2023-03-17 21:59:22 New Score : UT Petange vs UN Kaerjeng  4:1
+
+2023-03-17 21:59:22 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:59:22 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:59:22 New Score is updated...
+
+2023-03-17 21:59:22 {"home":"UT Petange","away":"UN Kaerjeng","score":"4:1","gameTime":2}
+
+2023-03-17 21:59:22 New Score : UT Petange vs UN Kaerjeng  4:1
+
+2023-03-17 21:59:22 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:59:22 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:59:22 New Score is updated...
+
+2023-03-17 21:59:22 {"home":"UT Petange","away":"UN Kaerjeng","score":"4:1","gameTime":2}
+
+2023-03-17 21:59:22 New Score : UT Petange vs UN Kaerjeng  4:1
+
+2023-03-17 21:59:22 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:59:22 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:59:22 New Score is updated...
+
+2023-03-17 21:59:22 {"home":"UT Petange","away":"UN Kaerjeng","score":"4:1","gameTime":2}
+
+2023-03-17 21:59:22 New Score : UT Petange vs UN Kaerjeng  4:1
+
+2023-03-17 21:59:22 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:59:22 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:59:22 New Score is updated...
+
+2023-03-17 21:59:22 {"home":"UT Petange","away":"UN Kaerjeng","score":"4:1","gameTime":2}
+
+2023-03-17 21:59:22 New Score : UT Petange vs UN Kaerjeng  4:1
+
+2023-03-17 21:59:22 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:59:23 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:59:23 New Score is updated...
+
+2023-03-17 21:59:23 {"home":"UT Petange","away":"UN Kaerjeng","score":"4:1","gameTime":2}
+
+2023-03-17 21:59:23 New Score : UT Petange vs UN Kaerjeng  4:1
+
+2023-03-17 21:59:23 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:59:24 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:59:24 New Score is updated...
+
+2023-03-17 21:59:24 {"home":"UT Petange","away":"UN Kaerjeng","score":"4:1","gameTime":2}
+
+2023-03-17 21:59:24 New Score : UT Petange vs UN Kaerjeng  4:1
+
+2023-03-17 21:59:24 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:59:24 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:59:24 New Score is updated...
+
+2023-03-17 21:59:24 {"home":"AD San Carlos U20","away":"Saprissa de Corazon U20","score":"1:1","gameTime":2}
+
+2023-03-17 21:59:24 New Score : AD San Carlos U20 vs Saprissa de Corazon U20  1:1
+
+2023-03-17 21:59:24 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:59:25 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:59:25 New Score is updated...
+
+2023-03-17 21:59:25 {"home":"UT Petange","away":"UN Kaerjeng","score":"4:1","gameTime":2}
+
+2023-03-17 21:59:25 New Score : UT Petange vs UN Kaerjeng  4:1
+
+2023-03-17 21:59:25 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:59:25 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:59:25 New Score is updated...
+
+2023-03-17 21:59:25 {"home":"AD San Carlos U20","away":"Saprissa de Corazon U20","score":"1:1","gameTime":2}
+
+2023-03-17 21:59:25 New Score : AD San Carlos U20 vs Saprissa de Corazon U20  1:1
+
+2023-03-17 21:59:25 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:59:25 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:59:25 New Score is updated...
+
+2023-03-17 21:59:25 {"home":"AD San Carlos U20","away":"Saprissa de Corazon U20","score":"1:1","gameTime":2}
+
+2023-03-17 21:59:25 New Score : AD San Carlos U20 vs Saprissa de Corazon U20  1:1
+
+2023-03-17 21:59:25 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:59:25 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:59:26 New Score is updated...
+
+2023-03-17 21:59:26 {"home":"UT Petange","away":"UN Kaerjeng","score":"4:1","gameTime":2}
+
+2023-03-17 21:59:26 New Score : UT Petange vs UN Kaerjeng  4:1
+
+2023-03-17 21:59:26 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:59:26 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:59:26 New Score is updated...
+
+2023-03-17 21:59:26 {"home":"UT Petange","away":"UN Kaerjeng","score":"4:1","gameTime":2}
+
+2023-03-17 21:59:26 New Score : UT Petange vs UN Kaerjeng  4:1
+
+2023-03-17 21:59:26 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:59:26 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:59:27 New Score is updated...
+
+2023-03-17 21:59:27 {"home":"AD San Carlos U20","away":"Saprissa de Corazon U20","score":"1:1","gameTime":2}
+
+2023-03-17 21:59:27 New Score : AD San Carlos U20 vs Saprissa de Corazon U20  1:1
+
+2023-03-17 21:59:27 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 21:59:28 Recieve new Match Score From Copybet Server!
+
+2023-03-17 21:59:28 New Score is updated...
+
+2023-03-17 21:59:28 {"home":"AD San Carlos U20","away":"Saprissa de Corazon U20","score":"1:1","gameTime":2}
+
+2023-03-17 21:59:28 New Score : AD San Carlos U20 vs Saprissa de Corazon U20  1:1
+
+2023-03-17 21:59:28 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:00:13 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:00:13 New Score is updated...
+
+2023-03-17 22:00:13 {"home":"Genk II","away":"Excelsior Virton","score":"1:1","gameTime":2}
+
+2023-03-17 22:00:13 New Score : Genk II vs Excelsior Virton  1:1
+
+2023-03-17 22:00:13 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:01:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:01:17 New Score is updated...
+
+2023-03-17 22:01:17 {"home":"Maastricht","away":"FC Utrecht Reserves","score":"1:0","gameTime":2}
+
+2023-03-17 22:01:17 New Score : Maastricht vs FC Utrecht Reserves  1:0
+
+2023-03-17 22:01:17 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:01:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:01:17 New Score is updated...
+
+2023-03-17 22:01:17 {"home":"PSV Reserves","away":"De Graafschap","score":"2:1","gameTime":2}
+
+2023-03-17 22:01:17 New Score : PSV Reserves vs De Graafschap  2:1
+
+2023-03-17 22:01:17 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:01:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:01:17 New Score is updated...
+
+2023-03-17 22:01:17 {"home":"PSV Reserves","away":"De Graafschap","score":"2:1","gameTime":2}
+
+2023-03-17 22:01:17 New Score : PSV Reserves vs De Graafschap  2:1
+
+2023-03-17 22:01:17 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:01:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:01:17 New Score is updated...
+
+2023-03-17 22:01:17 {"home":"PSV Reserves","away":"De Graafschap","score":"2:1","gameTime":2}
+
+2023-03-17 22:01:17 New Score : PSV Reserves vs De Graafschap  2:1
+
+2023-03-17 22:01:17 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:01:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:01:17 New Score is updated...
+
+2023-03-17 22:01:17 {"home":"Maastricht","away":"FC Utrecht Reserves","score":"1:0","gameTime":2}
+
+2023-03-17 22:01:17 New Score : Maastricht vs FC Utrecht Reserves  1:0
+
+2023-03-17 22:01:17 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:01:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:01:17 New Score is updated...
+
+2023-03-17 22:01:17 {"home":"Maastricht","away":"FC Utrecht Reserves","score":"1:0","gameTime":2}
+
+2023-03-17 22:01:17 New Score : Maastricht vs FC Utrecht Reserves  1:0
+
+2023-03-17 22:01:17 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:02:28 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:02:28 New Score is updated...
+
+2023-03-17 22:02:28 {"home":"CR Belouizdad","away":"El Zamalek","score":"2:0","gameTime":2}
+
+2023-03-17 22:02:28 New Score : CR Belouizdad vs El Zamalek  2:0
+
+2023-03-17 22:02:28 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:02:29 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:02:29 New Score is updated...
+
+2023-03-17 22:02:29 {"home":"CR Belouizdad","away":"El Zamalek","score":"2:0","gameTime":2}
+
+2023-03-17 22:02:29 New Score : CR Belouizdad vs El Zamalek  2:0
+
+2023-03-17 22:02:29 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:03:15 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:03:15 New Score is updated...
+
+2023-03-17 22:03:15 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"2:1","gameTime":0}
+
+2023-03-17 22:03:15 New Score : Borussia M'gladbach vs Werder Bremen  2:1
+
+2023-03-17 22:03:15 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:03:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:03:16 New Score is updated...
+
+2023-03-17 22:03:16 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"2:1","gameTime":0}
+
+2023-03-17 22:03:16 New Score : Borussia M'gladbach vs Werder Bremen  2:1
+
+2023-03-17 22:03:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:03:16 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:03:16 New Score is updated...
+
+2023-03-17 22:03:16 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"2:1","gameTime":0}
+
+2023-03-17 22:03:16 New Score : Borussia M'gladbach vs Werder Bremen  2:1
+
+2023-03-17 22:03:16 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:03:17 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:03:17 New Score is updated...
+
+2023-03-17 22:03:17 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"2:1","gameTime":0}
+
+2023-03-17 22:03:17 New Score : Borussia M'gladbach vs Werder Bremen  2:1
+
+2023-03-17 22:03:17 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:03:21 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:03:21 New Score is updated...
+
+2023-03-17 22:03:21 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"2:1","gameTime":0}
+
+2023-03-17 22:03:21 New Score : Borussia M'gladbach vs Werder Bremen  2:1
+
+2023-03-17 22:03:21 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:08:18 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 22:08:18 Pending bet is not finished.!
+
+2023-03-17 22:13:18 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 22:13:18 Pending bet is not finished.!
+
+2023-03-17 22:13:20 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 22:13:20 Pending bet is not finished.!
+
+2023-03-17 22:13:26 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:13:26 New Score is updated...
+
+2023-03-17 22:13:26 {"home":"Wil 1900","away":"Aarau","score":"0:3","gameTime":2}
+
+2023-03-17 22:13:26 New Score : Wil 1900 vs Aarau  0:3
+
+2023-03-17 22:13:26 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:13:42 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:13:42 New Score is updated...
+
+2023-03-17 22:13:42 {"home":"Wil 1900","away":"Aarau","score":"0:3","gameTime":2}
+
+2023-03-17 22:13:42 New Score : Wil 1900 vs Aarau  0:3
+
+2023-03-17 22:13:42 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:14:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:14:10 New Score is updated...
+
+2023-03-17 22:14:10 {"home":"Chelsea U21","away":"Everton U21","score":"1:1","gameTime":2}
+
+2023-03-17 22:14:10 New Score : Chelsea U21 vs Everton U21  1:1
+
+2023-03-17 22:14:10 Pending tip Score : Chelsea U21 vs Everton U21 1:1
+
+2023-03-17 22:14:10 Pending Tip is lost now...
+
+2023-03-17 22:14:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:14:11 New Score is updated...
+
+2023-03-17 22:14:11 {"home":"Chelsea U21","away":"Everton U21","score":"1:1","gameTime":2}
+
+2023-03-17 22:14:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:14:11 New Score is updated...
+
+2023-03-17 22:14:11 {"home":"Chelsea U21","away":"Everton U21","score":"1:1","gameTime":2}
+
+2023-03-17 22:14:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:14:11 New Score is updated...
+
+2023-03-17 22:14:11 {"home":"Chelsea U21","away":"Everton U21","score":"1:1","gameTime":2}
+
+2023-03-17 22:14:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:14:11 New Score is updated...
+
+2023-03-17 22:14:11 {"home":"Chelsea U21","away":"Everton U21","score":"1:1","gameTime":2}
+
+2023-03-17 22:14:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:14:11 New Score is updated...
+
+2023-03-17 22:14:11 {"home":"Chelsea U21","away":"Everton U21","score":"1:1","gameTime":2}
+
+2023-03-17 22:14:12 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:14:12 New Score is updated...
+
+2023-03-17 22:14:12 {"home":"Chelsea U21","away":"Everton U21","score":"1:1","gameTime":2}
+
+2023-03-17 22:14:25 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:14:25 New Score is updated...
+
+2023-03-17 22:14:25 {"home":"Chelsea U21","away":"Everton U21","score":"1:1","gameTime":2}
+
+2023-03-17 22:19:09 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:19:09 New Score is updated...
+
+2023-03-17 22:19:09 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"2:2","gameTime":0}
+
+2023-03-17 22:19:09 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:19:09 New Score is updated...
+
+2023-03-17 22:19:09 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"2:2","gameTime":0}
+
+2023-03-17 22:19:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:19:10 New Score is updated...
+
+2023-03-17 22:19:10 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"2:2","gameTime":0}
+
+2023-03-17 22:19:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:19:10 New Score is updated...
+
+2023-03-17 22:19:10 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"2:2","gameTime":0}
+
+2023-03-17 22:19:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:19:10 New Score is updated...
+
+2023-03-17 22:19:10 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"2:2","gameTime":0}
+
+2023-03-17 22:30:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:30:10 New Score is updated...
+
+2023-03-17 22:30:10 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"2:2","gameTime":2}
+
+2023-03-17 22:30:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:30:11 New Score is updated...
+
+2023-03-17 22:30:11 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"2:2","gameTime":2}
+
+2023-03-17 22:30:12 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:30:12 New Score is updated...
+
+2023-03-17 22:30:12 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"2:2","gameTime":2}
+
+2023-03-17 22:30:13 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:30:13 New Score is updated...
+
+2023-03-17 22:30:13 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"2:2","gameTime":2}
+
+2023-03-17 22:30:13 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:30:13 New Score is updated...
+
+2023-03-17 22:30:13 {"home":"Borussia M'gladbach","away":"Werder Bremen","score":"2:2","gameTime":2}
+
+2023-03-17 22:31:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:31:11 New Score is updated...
+
+2023-03-17 22:31:11 {"home":"Atalanta","away":"Empoli","score":"2:1","gameTime":0}
+
+2023-03-17 22:31:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:31:11 New Score is updated...
+
+2023-03-17 22:31:11 {"home":"Atalanta","away":"Empoli","score":"2:1","gameTime":0}
+
+2023-03-17 22:31:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:31:11 New Score is updated...
+
+2023-03-17 22:31:11 {"home":"Atalanta","away":"Empoli","score":"2:1","gameTime":0}
+
+2023-03-17 22:31:12 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:31:12 New Score is updated...
+
+2023-03-17 22:31:12 {"home":"Atalanta","away":"Empoli","score":"2:1","gameTime":0}
+
+2023-03-17 22:31:12 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:31:12 New Score is updated...
+
+2023-03-17 22:31:12 {"home":"Atalanta","away":"Empoli","score":"2:1","gameTime":0}
+
+2023-03-17 22:32:09 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:32:09 New Score is updated...
+
+2023-03-17 22:32:09 {"home":"Derry City","away":"Sligo Rovers","score":"1:1","gameTime":0}
+
+2023-03-17 22:32:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:32:10 New Score is updated...
+
+2023-03-17 22:32:10 {"home":"Derry City","away":"Sligo Rovers","score":"1:1","gameTime":0}
+
+2023-03-17 22:32:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:32:10 New Score is updated...
+
+2023-03-17 22:32:10 {"home":"Derry City","away":"Sligo Rovers","score":"1:1","gameTime":0}
+
+2023-03-17 22:32:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:32:10 New Score is updated...
+
+2023-03-17 22:32:10 {"home":"Derry City","away":"Sligo Rovers","score":"1:1","gameTime":0}
+
+2023-03-17 22:32:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:32:10 New Score is updated...
+
+2023-03-17 22:32:10 {"home":"Derry City","away":"Sligo Rovers","score":"1:1","gameTime":0}
+
+2023-03-17 22:32:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:32:10 New Score is updated...
+
+2023-03-17 22:32:10 {"home":"Derry City","away":"Sligo Rovers","score":"1:1","gameTime":0}
+
+2023-03-17 22:32:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:32:10 New Score is updated...
+
+2023-03-17 22:32:10 {"home":"Derry City","away":"Sligo Rovers","score":"1:1","gameTime":0}
+
+2023-03-17 22:32:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:32:10 New Score is updated...
+
+2023-03-17 22:32:10 {"home":"Derry City","away":"Sligo Rovers","score":"1:1","gameTime":0}
+
+2023-03-17 22:32:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:32:10 New Score is updated...
+
+2023-03-17 22:32:10 {"home":"Derry City","away":"Sligo Rovers","score":"1:1","gameTime":0}
+
+2023-03-17 22:32:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:32:11 New Score is updated...
+
+2023-03-17 22:32:11 {"home":"Derry City","away":"Sligo Rovers","score":"1:1","gameTime":0}
+
+2023-03-17 22:40:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:40:10 New Score is updated...
+
+2023-03-17 22:40:10 {"home":"Caernarfon","away":"Aberystwyth","score":"0:1","gameTime":2}
+
+2023-03-17 22:40:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:40:10 New Score is updated...
+
+2023-03-17 22:40:10 {"home":"Caernarfon","away":"Aberystwyth","score":"0:1","gameTime":2}
+
+2023-03-17 22:40:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:40:11 New Score is updated...
+
+2023-03-17 22:40:11 {"home":"Caernarfon","away":"Aberystwyth","score":"0:1","gameTime":2}
+
+2023-03-17 22:44:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:44:10 New Score is updated...
+
+2023-03-17 22:44:10 {"home":"Bohemians Dublin","away":"UCD","score":"2:1","gameTime":2}
+
+2023-03-17 22:44:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:44:11 New Score is updated...
+
+2023-03-17 22:44:11 {"home":"Bohemians Dublin","away":"UCD","score":"2:1","gameTime":2}
+
+2023-03-17 22:44:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:44:11 New Score is updated...
+
+2023-03-17 22:44:11 {"home":"Bohemians Dublin","away":"UCD","score":"2:1","gameTime":2}
+
+2023-03-17 22:46:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:46:10 New Score is updated...
+
+2023-03-17 22:46:10 {"home":"Atalanta","away":"Empoli","score":"2:1","gameTime":2}
+
+2023-03-17 22:46:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:46:11 New Score is updated...
+
+2023-03-17 22:46:11 {"home":"Atalanta","away":"Empoli","score":"2:1","gameTime":2}
+
+2023-03-17 22:46:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:46:11 New Score is updated...
+
+2023-03-17 22:46:11 {"home":"Atalanta","away":"Empoli","score":"2:1","gameTime":2}
+
+2023-03-17 22:54:09 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:54:09 New Score is updated...
+
+2023-03-17 22:54:09 {"home":"Derry City","away":"Sligo Rovers","score":"1:1","gameTime":2}
+
+2023-03-17 22:54:09 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:54:09 New Score is updated...
+
+2023-03-17 22:54:09 {"home":"Derry City","away":"Sligo Rovers","score":"1:1","gameTime":2}
+
+2023-03-17 22:54:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:54:10 New Score is updated...
+
+2023-03-17 22:54:10 {"home":"Derry City","away":"Sligo Rovers","score":"1:1","gameTime":2}
+
+2023-03-17 22:54:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:54:10 New Score is updated...
+
+2023-03-17 22:54:10 {"home":"Derry City","away":"Sligo Rovers","score":"1:1","gameTime":2}
+
+2023-03-17 22:54:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:54:11 New Score is updated...
+
+2023-03-17 22:54:11 {"home":"Derry City","away":"Sligo Rovers","score":"1:1","gameTime":2}
+
+2023-03-17 22:54:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:54:11 New Score is updated...
+
+2023-03-17 22:54:11 {"home":"Derry City","away":"Sligo Rovers","score":"1:1","gameTime":2}
+
+2023-03-17 22:54:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 22:54:11 New Score is updated...
+
+2023-03-17 22:54:11 {"home":"Derry City","away":"Sligo Rovers","score":"1:1","gameTime":2}
+
+2023-03-17 23:16:09 Recieve new Match Score From Copybet Server!
+
+2023-03-17 23:16:09 New Score is updated...
+
+2023-03-17 23:16:09 {"home":"Augnablik Kopavogur","away":"KFG","score":"1:2","gameTime":2}
+
+2023-03-17 23:22:15 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 23:22:15  *** MakeBet *** 
+
+2023-03-17 23:22:15 {"dbId":"","sport":"","country":"","league":"Mexico Liga TDP","dateTime":"","match":"Toluca II vs Orishas Tepeji FC","score":"1:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 23:22:15 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 23:22:15 326.01
+
+2023-03-17 23:22:15 Current balance : 326
+
+2023-03-17 23:22:15 Current Balance : 326
+
+2023-03-17 23:22:15 DoLoad365Page
+
+2023-03-17 23:22:15 365 page is loaded!
+
+2023-03-17 23:22:15 CheckIfLoggedIn
+
+2023-03-17 23:22:15 Logged In Already!
+
+2023-03-17 23:22:15 bet365.com
+
+2023-03-17 23:22:15 Wrong position detected!
+
+2023-03-17 23:22:24 Not Search Event
+
+2023-03-17 23:22:29 Disconnected Socket Server!!! || ping timeout
+
+2023-03-17 23:22:30 Toluca II v Orishas Tepeji FC Dis :0.0342528735632184
+
+2023-03-17 23:22:30 Connected Socket Server!!!
+
+2023-03-17 23:22:31 Wrong position detected!
+
+2023-03-17 23:22:34 Stake : 14
+
+2023-03-17 23:22:34 Running AddbetScript...
+
+2023-03-17 23:22:34 scrollBetIntoView('313930386') => 1
+
+2023-03-17 23:22:36 Odds Pos : X : 414.453125 , Y: 318
+
+2023-03-17 23:22:38 {
+  "bg": "b4da47d5-70a1-42e3-b6d2-20ca57e7a3ae",
+  "sr": 0,
+  "mr": false,
+  "cc": "993A6XtFAgv9WwLE1BevCkYEqYxeYFNWGj+jCeXqcZo=",
+  "ir": true,
+  "vr": "814",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "2/7",
+      "fi": 134603751,
+      "fd": "Toluca II v Orishas Tepeji FC",
+      "pt": [
+        {
+          "pi": 313930386,
+          "bd": "Più di 1.5",
+          "ha": "1.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "6414e82e-C823FCDB",
+      "tp": "BS134603751-313930386",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134489814,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-17 23:22:40 Fractional Odds : 2/7
+
+2023-03-17 23:22:40 Trademate Odds : 0 , Bet365 Odds : 1.28
+
+2023-03-17 23:22:40 Trying to place bet!
+
+2023-03-17 23:22:40 DoPlacebetUI
+
+2023-03-17 23:22:40 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-03-17 23:22:42 Trademate Odds : 0 , Bet365 Odds : 1.3
+
+2023-03-17 23:22:43 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-03-17 23:22:51 326.01
+
+2023-03-17 23:22:51 Current balance : 326
+
+2023-03-17 23:22:54 [concigrassi:Test123.] SUCCESS. Stake:14 Odds:1.3
+
+2023-03-17 23:22:55 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:14 Odds:1.3",
+  "stake": 14.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.3,
+  "tournament": "Mexico Liga TDP",
+  "eventName": "Toluca II vs Orishas Tepeji FC",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "17/03/2023 23:22:51",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 312.0,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-17 23:23:03 Trying to register tip at Bigstake
+
+2023-03-17 23:23:19 Registered tip at Bigstake Successfully!
+
+2023-03-17 23:23:22 This Line is already existed on Settled bets!
+
+2023-03-17 23:23:22 This Line is already existed on Settled bets!
+
+2023-03-17 23:23:22 This Line is already existed on Settled bets!
+
+2023-03-17 23:24:15 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 23:24:15 This Line is already existed on Settled bets!
+
+2023-03-17 23:24:15 This Line is already existed on Settled bets!
+
+2023-03-17 23:30:18 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 23:30:18 Pending bet is not finished.!
+
+2023-03-17 23:38:08 Recieve new Match Score From Copybet Server!
+
+2023-03-17 23:38:08 New Score is updated...
+
+2023-03-17 23:38:08 {"home":"Toluca II","away":"Orishas Tepeji FC","score":"1:1","gameTime":0}
+
+2023-03-17 23:38:08 New Score : Toluca II vs Orishas Tepeji FC  1:1
+
+2023-03-17 23:38:08 Pending tip Score : Toluca II vs Orishas Tepeji FC 1:0
+
+2023-03-17 23:38:08 Pending Tip is winning now...
+
+2023-03-17 23:38:09 Recieve new Match Score From Copybet Server!
+
+2023-03-17 23:38:09 New Score is updated...
+
+2023-03-17 23:38:09 {"home":"Toluca II","away":"Orishas Tepeji FC","score":"1:1","gameTime":0}
+
+2023-03-17 23:38:09 Recieve new Match Score From Copybet Server!
+
+2023-03-17 23:38:09 New Score is updated...
+
+2023-03-17 23:38:09 {"home":"Toluca II","away":"Orishas Tepeji FC","score":"1:1","gameTime":0}
+
+2023-03-17 23:38:09 Recieve new Match Score From Copybet Server!
+
+2023-03-17 23:38:09 New Score is updated...
+
+2023-03-17 23:38:09 {"home":"Toluca II","away":"Orishas Tepeji FC","score":"1:1","gameTime":0}
+
+2023-03-17 23:38:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 23:38:10 New Score is updated...
+
+2023-03-17 23:38:10 {"home":"Toluca II","away":"Orishas Tepeji FC","score":"1:1","gameTime":0}
+
+2023-03-17 23:38:11 Recieve new Match Score From Copybet Server!
+
+2023-03-17 23:38:11 New Score is updated...
+
+2023-03-17 23:38:11 {"home":"Toluca II","away":"Orishas Tepeji FC","score":"1:1","gameTime":0}
+
+2023-03-17 23:38:12 Recieve new Match Score From Copybet Server!
+
+2023-03-17 23:38:12 New Score is updated...
+
+2023-03-17 23:38:12 {"home":"Toluca II","away":"Orishas Tepeji FC","score":"1:1","gameTime":0}
+
+2023-03-17 23:40:17 Recieve 1 new bets From Copybet Server!
+
+2023-03-17 23:40:17  *** MakeBet *** 
+
+2023-03-17 23:40:17 {"dbId":"","sport":"","country":"","league":"Mexico Liga TDP","dateTime":"","match":"CH Fútbol Club vs Sangre de Campeón","score":"1:2","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 23:40:17 330.21
+
+2023-03-17 23:40:17 Current balance : 330.2
+
+2023-03-17 23:40:17 Current Balance : 330.2
+
+2023-03-17 23:40:17 DoLoad365Page
+
+2023-03-17 23:40:17 365 page is loaded!
+
+2023-03-17 23:40:17 CheckIfLoggedIn
+
+2023-03-17 23:40:17 Logged In Already!
+
+2023-03-17 23:40:17 bet365.com
+
+2023-03-17 23:40:18 Wrong position detected!
+
+2023-03-17 23:40:27 Not Search Event
+
+2023-03-17 23:40:32 CH Fútbol Club v Sangre de Campeón Dis :0.00571428571428567
+
+2023-03-17 23:40:38 Not Found Odds on Bet365..
+
+2023-03-17 23:40:41  *** MakeBet *** 
+
+2023-03-17 23:40:41 {"dbId":"","sport":"","country":"","league":"Mexico Liga TDP","dateTime":"","match":"CH Fútbol Club vs Sangre de Campeón","score":"1:2","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-17 23:40:41 330.21
+
+2023-03-17 23:40:41 Current balance : 330.2
+
+2023-03-17 23:40:41 Current Balance : 330.2
+
+2023-03-17 23:40:41 DoLoad365Page
+
+2023-03-17 23:40:41 365 page is loaded!
+
+2023-03-17 23:40:41 CheckIfLoggedIn
+
+2023-03-17 23:40:41 Logged In Already!
+
+2023-03-17 23:40:41 bet365.com
+
+2023-03-17 23:40:52 CH Fútbol Club v Sangre de Campeón Dis :0.00571428571428567
+
+2023-03-17 23:40:53 Wrong position detected!
+
+2023-03-17 23:40:57 Stake : 13
+
+2023-03-17 23:40:57 Running AddbetScript...
+
+2023-03-17 23:40:57 scrollBetIntoView('313931660') => 1
+
+2023-03-17 23:40:59 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-17 23:41:01 {
+  "bg": "a1d46b23-48d4-4130-bce6-f1933a87e33f",
+  "sr": 0,
+  "mr": false,
+  "cc": "6TxblSOX1Y8QC17HyowYpivgnuP/EgiSrk4ObdGyyKU=",
+  "ir": true,
+  "vr": "814",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "8/13",
+      "fi": 134603754,
+      "fd": "CH Fútbol Club v Sangre de Campeón",
+      "pt": [
+        {
+          "hd": "3.5",
+          "pi": 313931660,
+          "bd": "Più di",
+          "ha": "3.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "6414ec7d-FD5F6C78",
+      "tp": "BS134603754-313931660",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134489817,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-17 23:41:03 Fractional Odds : 8/13
+
+2023-03-17 23:41:03 Trademate Odds : 0 , Bet365 Odds : 1.61
+
+2023-03-17 23:41:03 Trying to place bet!
+
+2023-03-17 23:41:03 DoPlacebetUI
+
+2023-03-17 23:41:03 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-03-17 23:41:05 Trademate Odds : 0 , Bet365 Odds : 1.61
+
+2023-03-17 23:41:05 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-03-17 23:41:14 330.21
+
+2023-03-17 23:41:14 Current balance : 330.2
+
+2023-03-17 23:41:17 [concigrassi:Test123.] SUCCESS. Stake:13 Odds:1.61538461538462
+
+2023-03-17 23:41:17 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:13 Odds:1.61538461538462",
+  "stake": 13.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.6153846153846154,
+  "tournament": "Mexico Liga TDP",
+  "eventName": "CH Fútbol Club vs Sangre de Campeón",
+  "probability": "OVER",
+  "market": "OVER 3.5",
+  "placedAt": "17/03/2023 23:41:14",
+  "selection": "OVER",
+  "handicap": 3.5,
+  "balance": 317.2,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-17 23:41:25 Trying to register tip at Bigstake
+
+2023-03-17 23:41:42 Registered tip at Bigstake Successfully!
+
+2023-03-17 23:52:08 Recieve new Match Score From Copybet Server!
+
+2023-03-17 23:52:08 New Score is updated...
+
+2023-03-17 23:52:08 {"home":"Toluca II","away":"Orishas Tepeji FC","score":"1:2","gameTime":0}
+
+2023-03-17 23:52:08 New Score : Toluca II vs Orishas Tepeji FC  1:2
+
+2023-03-17 23:52:08 Pending tip Score : CH Fútbol Club vs Sangre de Campeón 1:2
+
+2023-03-17 23:52:08 Recieve new Match Score From Copybet Server!
+
+2023-03-17 23:52:08 New Score is updated...
+
+2023-03-17 23:52:08 {"home":"Toluca II","away":"Orishas Tepeji FC","score":"1:2","gameTime":0}
+
+2023-03-17 23:52:08 New Score : Toluca II vs Orishas Tepeji FC  1:2
+
+2023-03-17 23:52:08 Pending tip Score : CH Fútbol Club vs Sangre de Campeón 1:2
+
+2023-03-17 23:52:09 Recieve new Match Score From Copybet Server!
+
+2023-03-17 23:52:09 New Score is updated...
+
+2023-03-17 23:52:09 {"home":"Toluca II","away":"Orishas Tepeji FC","score":"1:2","gameTime":0}
+
+2023-03-17 23:52:09 New Score : Toluca II vs Orishas Tepeji FC  1:2
+
+2023-03-17 23:52:09 Pending tip Score : CH Fútbol Club vs Sangre de Campeón 1:2
+
+2023-03-17 23:52:09 Recieve new Match Score From Copybet Server!
+
+2023-03-17 23:52:09 New Score is updated...
+
+2023-03-17 23:52:09 {"home":"Toluca II","away":"Orishas Tepeji FC","score":"1:2","gameTime":0}
+
+2023-03-17 23:52:09 New Score : Toluca II vs Orishas Tepeji FC  1:2
+
+2023-03-17 23:52:09 Pending tip Score : CH Fútbol Club vs Sangre de Campeón 1:2
+
+2023-03-17 23:52:09 Recieve new Match Score From Copybet Server!
+
+2023-03-17 23:52:09 New Score is updated...
+
+2023-03-17 23:52:09 {"home":"Toluca II","away":"Orishas Tepeji FC","score":"1:2","gameTime":0}
+
+2023-03-17 23:52:09 New Score : Toluca II vs Orishas Tepeji FC  1:2
+
+2023-03-17 23:52:09 Pending tip Score : CH Fútbol Club vs Sangre de Campeón 1:2
+
+2023-03-17 23:52:09 Recieve new Match Score From Copybet Server!
+
+2023-03-17 23:52:09 New Score is updated...
+
+2023-03-17 23:52:09 {"home":"Toluca II","away":"Orishas Tepeji FC","score":"1:2","gameTime":0}
+
+2023-03-17 23:52:09 New Score : Toluca II vs Orishas Tepeji FC  1:2
+
+2023-03-17 23:52:09 Pending tip Score : CH Fútbol Club vs Sangre de Campeón 1:2
+
+2023-03-17 23:52:09 Recieve new Match Score From Copybet Server!
+
+2023-03-17 23:52:09 New Score is updated...
+
+2023-03-17 23:52:09 {"home":"Toluca II","away":"Orishas Tepeji FC","score":"1:2","gameTime":0}
+
+2023-03-17 23:52:09 New Score : Toluca II vs Orishas Tepeji FC  1:2
+
+2023-03-17 23:52:09 Pending tip Score : CH Fútbol Club vs Sangre de Campeón 1:2
+
+2023-03-17 23:52:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 23:52:10 New Score is updated...
+
+2023-03-17 23:52:10 {"home":"Toluca II","away":"Orishas Tepeji FC","score":"1:2","gameTime":0}
+
+2023-03-17 23:52:10 New Score : Toluca II vs Orishas Tepeji FC  1:2
+
+2023-03-17 23:52:10 Pending tip Score : CH Fútbol Club vs Sangre de Campeón 1:2
+
+2023-03-17 23:52:10 Recieve new Match Score From Copybet Server!
+
+2023-03-17 23:52:10 New Score is updated...
+
+2023-03-17 23:52:10 {"home":"Toluca II","away":"Orishas Tepeji FC","score":"1:2","gameTime":0}
+
+2023-03-17 23:52:10 New Score : Toluca II vs Orishas Tepeji FC  1:2
+
+2023-03-17 23:52:10 Pending tip Score : CH Fútbol Club vs Sangre de Campeón 1:2

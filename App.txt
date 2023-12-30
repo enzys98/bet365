@@ -1,0 +1,7 @@
+DOMBETTING = false
+TELEGRAM = false
+WODDS = false
+HANDBALL = false
+HORSERACING = true
+LIVEBET = false
+COPYBETTING = false

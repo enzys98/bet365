@@ -1,0 +1,3083 @@
+﻿
+2023-03-22 00:44:56 LastLoginModule_Button Clicked
+
+2023-03-22 01:44:06 LastLoginModule_Button Clicked
+
+2023-03-22 02:43:15 LastLoginModule_Button Clicked
+
+2023-03-22 02:59:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 02:59:09 New Score is updated...
+
+2023-03-22 02:59:09 {"home":"Criciuma","away":"Avai","score":"0:0","gameTime":2}
+
+2023-03-22 03:42:26 LastLoginModule_Button Clicked
+
+2023-03-22 04:41:36 LastLoginModule_Button Clicked
+
+2023-03-22 05:40:46 LastLoginModule_Button Clicked
+
+2023-03-22 05:51:07 Recieve new Match Score From Copybet Server!
+
+2023-03-22 05:51:07 New Score is updated...
+
+2023-03-22 05:51:07 {"home":"Club Atletico La Paz","away":"Dorados","score":"1:1","gameTime":0}
+
+2023-03-22 05:51:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 05:51:09 New Score is updated...
+
+2023-03-22 05:51:09 {"home":"Club Atletico La Paz","away":"Dorados","score":"1:1","gameTime":0}
+
+2023-03-22 06:07:07 Recieve new Match Score From Copybet Server!
+
+2023-03-22 06:07:07 New Score is updated...
+
+2023-03-22 06:07:07 {"home":"Club Atletico La Paz","away":"Dorados","score":"1:1","gameTime":2}
+
+2023-03-22 06:07:07 Recieve new Match Score From Copybet Server!
+
+2023-03-22 06:07:07 New Score is updated...
+
+2023-03-22 06:07:07 {"home":"Club Atletico La Paz","away":"Dorados","score":"1:1","gameTime":2}
+
+2023-03-22 06:07:07 Recieve new Match Score From Copybet Server!
+
+2023-03-22 06:07:07 New Score is updated...
+
+2023-03-22 06:07:07 {"home":"Club Atletico La Paz","away":"Dorados","score":"1:1","gameTime":2}
+
+2023-03-22 06:07:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 06:07:09 New Score is updated...
+
+2023-03-22 06:07:09 {"home":"Club Atletico La Paz","away":"Dorados","score":"1:1","gameTime":2}
+
+2023-03-22 06:32:36 Disconnected Socket Server!!! || transport close
+
+2023-03-22 06:32:38 Connected Socket Server!!!
+
+2023-03-22 06:39:56 LastLoginModule_Button Clicked
+
+2023-03-22 06:44:28 Recieve new Match Score From Copybet Server!
+
+2023-03-22 06:44:28 New Score is updated...
+
+2023-03-22 06:44:28 {"home":"Hanwell Town","away":"Poole Town","score":"0:2","gameTime":2}
+
+2023-03-22 06:44:30 Recieve new Match Score From Copybet Server!
+
+2023-03-22 06:44:30 New Score is updated...
+
+2023-03-22 06:44:30 {"home":"Club Atletico La Paz","away":"Dorados","score":"1:1","gameTime":0}
+
+2023-03-22 06:44:31 Recieve new Match Score From Copybet Server!
+
+2023-03-22 06:44:31 New Score is updated...
+
+2023-03-22 06:44:31 {"home":"Club Atletico La Paz","away":"Dorados","score":"1:1","gameTime":2}
+
+2023-03-22 07:39:06 LastLoginModule_Button Clicked
+
+2023-03-22 08:38:16 LastLoginModule_Button Clicked
+
+2023-03-22 08:39:06 Recieve new Match Score From Copybet Server!
+
+2023-03-22 08:39:06 New Score is updated...
+
+2023-03-22 08:39:06 {"home":"FK Kyran","away":"SD Family","score":"1:0","gameTime":0}
+
+2023-03-22 08:39:20 Recieve new Match Score From Copybet Server!
+
+2023-03-22 08:39:20 New Score is updated...
+
+2023-03-22 08:39:20 {"home":"FK Kyran","away":"SD Family","score":"1:0","gameTime":0}
+
+2023-03-22 08:39:25 Recieve new Match Score From Copybet Server!
+
+2023-03-22 08:39:25 New Score is updated...
+
+2023-03-22 08:39:25 {"home":"FK Kyran","away":"SD Family","score":"1:0","gameTime":0}
+
+2023-03-22 08:57:06 Recieve new Match Score From Copybet Server!
+
+2023-03-22 08:57:06 New Score is updated...
+
+2023-03-22 08:57:06 {"home":"FK Kyran","away":"SD Family","score":"1:0","gameTime":2}
+
+2023-03-22 08:57:06 Recieve new Match Score From Copybet Server!
+
+2023-03-22 08:57:06 New Score is updated...
+
+2023-03-22 08:57:06 {"home":"FK Kyran","away":"SD Family","score":"1:0","gameTime":2}
+
+2023-03-22 08:57:06 Recieve new Match Score From Copybet Server!
+
+2023-03-22 08:57:06 New Score is updated...
+
+2023-03-22 08:57:06 {"home":"FK Kyran","away":"SD Family","score":"1:0","gameTime":2}
+
+2023-03-22 08:57:06 Recieve new Match Score From Copybet Server!
+
+2023-03-22 08:57:06 New Score is updated...
+
+2023-03-22 08:57:06 {"home":"FK Kyran","away":"SD Family","score":"1:0","gameTime":2}
+
+2023-03-22 08:57:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 08:57:08 New Score is updated...
+
+2023-03-22 08:57:08 {"home":"FK Kyran","away":"SD Family","score":"1:0","gameTime":2}
+
+2023-03-22 09:37:26 LastLoginModule_Button Clicked
+
+2023-03-22 10:36:36 LastLoginModule_Button Clicked
+
+2023-03-22 11:22:49 Recieve new Match Score From Copybet Server!
+
+2023-03-22 11:22:49 New Score is updated...
+
+2023-03-22 11:22:49 {"home":"Surfers Paradise","away":"Capalaba Bulldogs","score":"0:1","gameTime":1}
+
+2023-03-22 11:35:46 LastLoginModule_Button Clicked
+
+2023-03-22 11:45:14 Recieve new Match Score From Copybet Server!
+
+2023-03-22 11:45:14 New Score is updated...
+
+2023-03-22 11:45:14 {"home":"Surfers Paradise","away":"Capalaba Bulldogs","score":"0:1","gameTime":1}
+
+2023-03-22 12:04:59 Recieve new Match Score From Copybet Server!
+
+2023-03-22 12:04:59 New Score is updated...
+
+2023-03-22 12:04:59 {"home":"Surfers Paradise","away":"Capalaba Bulldogs","score":"0:2","gameTime":0}
+
+2023-03-22 12:05:00 Recieve new Match Score From Copybet Server!
+
+2023-03-22 12:05:01 New Score is updated...
+
+2023-03-22 12:05:01 {"home":"Surfers Paradise","away":"Capalaba Bulldogs","score":"0:2","gameTime":0}
+
+2023-03-22 12:05:01 Recieve new Match Score From Copybet Server!
+
+2023-03-22 12:05:01 New Score is updated...
+
+2023-03-22 12:05:01 {"home":"Surfers Paradise","away":"Capalaba Bulldogs","score":"0:2","gameTime":0}
+
+2023-03-22 12:09:27 Recieve new Match Score From Copybet Server!
+
+2023-03-22 12:09:27 New Score is updated...
+
+2023-03-22 12:09:27 {"home":"Surfers Paradise","away":"Capalaba Bulldogs","score":"0:2","gameTime":0}
+
+2023-03-22 12:34:56 LastLoginModule_Button Clicked
+
+2023-03-22 12:35:23 Recieve new Match Score From Copybet Server!
+
+2023-03-22 12:35:23 New Score is updated...
+
+2023-03-22 12:35:23 {"home":"Surfers Paradise","away":"Capalaba Bulldogs","score":"0:2","gameTime":2}
+
+2023-03-22 12:35:25 Recieve new Match Score From Copybet Server!
+
+2023-03-22 12:35:25 New Score is updated...
+
+2023-03-22 12:35:25 {"home":"Surfers Paradise","away":"Capalaba Bulldogs","score":"0:2","gameTime":2}
+
+2023-03-22 12:35:25 Recieve new Match Score From Copybet Server!
+
+2023-03-22 12:35:25 New Score is updated...
+
+2023-03-22 12:35:25 {"home":"Surfers Paradise","away":"Capalaba Bulldogs","score":"0:2","gameTime":2}
+
+2023-03-22 12:35:25 Recieve new Match Score From Copybet Server!
+
+2023-03-22 12:35:25 New Score is updated...
+
+2023-03-22 12:35:25 {"home":"Surfers Paradise","away":"Capalaba Bulldogs","score":"0:2","gameTime":2}
+
+2023-03-22 12:35:42 Recieve new Match Score From Copybet Server!
+
+2023-03-22 12:35:42 New Score is updated...
+
+2023-03-22 12:35:42 {"home":"Surfers Paradise","away":"Capalaba Bulldogs","score":"0:2","gameTime":2}
+
+2023-03-22 12:35:42 Recieve new Match Score From Copybet Server!
+
+2023-03-22 12:35:42 New Score is updated...
+
+2023-03-22 12:35:42 {"home":"Surfers Paradise","away":"Capalaba Bulldogs","score":"0:2","gameTime":2}
+
+2023-03-22 12:52:07 Recieve new Match Score From Copybet Server!
+
+2023-03-22 12:52:07 New Score is updated...
+
+2023-03-22 12:52:07 {"home":"Serbia U19","away":"Latvia U19","score":"1:0","gameTime":0}
+
+2023-03-22 12:52:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 12:52:09 New Score is updated...
+
+2023-03-22 12:52:09 {"home":"Serbia U19","away":"Latvia U19","score":"1:0","gameTime":0}
+
+2023-03-22 12:58:07 Recieve new Match Score From Copybet Server!
+
+2023-03-22 12:58:07 New Score is updated...
+
+2023-03-22 12:58:07 {"home":"Serbia U19","away":"Latvia U19","score":"1:0","gameTime":2}
+
+2023-03-22 12:58:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 12:58:09 New Score is updated...
+
+2023-03-22 12:58:09 {"home":"Serbia U19","away":"Latvia U19","score":"1:0","gameTime":2}
+
+2023-03-22 13:34:06 LastLoginModule_Button Clicked
+
+2023-03-22 14:33:16 LastLoginModule_Button Clicked
+
+2023-03-22 15:32:26 LastLoginModule_Button Clicked
+
+2023-03-22 15:36:07 Recieve new Match Score From Copybet Server!
+
+2023-03-22 15:36:07 New Score is updated...
+
+2023-03-22 15:36:07 {"home":"Arminia Bielefeld","away":"FC Groningen","score":"1:1","gameTime":0}
+
+2023-03-22 15:56:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 15:56:08 New Score is updated...
+
+2023-03-22 15:56:08 {"home":"Arminia Bielefeld","away":"FC Groningen","score":"1:1","gameTime":2}
+
+2023-03-22 16:23:15 Recieve 1 new bets From Copybet Server!
+
+2023-03-22 16:23:15  *** MakeBet *** 
+
+2023-03-22 16:23:15 {"dbId":"","sport":"","country":"","league":"Serbia Prva Liga","dateTime":"","match":"IMT Novi Belgrade vs FK Macva Sabac","score":"1:2","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 16:23:15 310.48
+
+2023-03-22 16:23:15 Current balance : 310.4
+
+2023-03-22 16:23:15 Current Balance : 310.4
+
+2023-03-22 16:23:15 DoLoad365Page
+
+2023-03-22 16:23:15 365 page is loaded!
+
+2023-03-22 16:23:15 CheckIfLoggedIn
+
+2023-03-22 16:23:15 Logged In Already!
+
+2023-03-22 16:23:15 bet365.com
+
+2023-03-22 16:23:15 Wrong position detected!
+
+2023-03-22 16:23:24 Not Search Event
+
+2023-03-22 16:23:24 Wrong position detected!
+
+2023-03-22 16:23:29 IMT Novi Belgrado v FK Macva Sabac Dis :0.0173109243697479
+
+2023-03-22 16:23:30 Wrong position detected!
+
+2023-03-22 16:26:21 Not Found Odds on Bet365..
+
+2023-03-22 16:26:24  *** MakeBet *** 
+
+2023-03-22 16:26:24 {"dbId":"","sport":"","country":"","league":"Serbia Prva Liga","dateTime":"","match":"IMT Novi Belgrade vs FK Macva Sabac","score":"1:2","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 16:26:24 310.48
+
+2023-03-22 16:26:24 Current balance : 310.4
+
+2023-03-22 16:26:24 Current Balance : 310.4
+
+2023-03-22 16:26:24 DoLoad365Page
+
+2023-03-22 16:26:24 365 page is loaded!
+
+2023-03-22 16:26:24 CheckIfLoggedIn
+
+2023-03-22 16:26:24 Logged In Already!
+
+2023-03-22 16:26:24 bet365.com
+
+2023-03-22 16:26:24 Wrong position detected!
+
+2023-03-22 16:26:33 Not Search Event
+
+2023-03-22 16:26:39 IMT Novi Belgrado v FK Macva Sabac Dis :0.0173109243697479
+
+2023-03-22 16:26:40 Wrong position detected!
+
+2023-03-22 16:27:15 Recieve 1 new bets From Copybet Server!
+
+2023-03-22 16:27:31 Not Found Odds on Bet365..
+
+2023-03-22 16:27:32 Disconnected Socket Server!!! || ping timeout
+
+2023-03-22 16:27:33 Connected Socket Server!!!
+
+2023-03-22 16:27:34  *** MakeBet *** 
+
+2023-03-22 16:27:34 {"dbId":"","sport":"","country":"","league":"European U19 Championship Qual","dateTime":"","match":"Iceland U19 vs Turkey U19","score":"1:2","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 16:27:34 LastLoginModule_Button Clicked
+
+2023-03-22 16:27:39 
+
+2023-03-22 16:27:39 Current Balance : -1
+
+2023-03-22 16:27:39 DoLoad365Page
+
+2023-03-22 16:27:39 365 page is loaded!
+
+2023-03-22 16:27:39 CheckIfLoggedIn
+
+2023-03-22 16:27:39 Logged In Already!
+
+2023-03-22 16:27:39 bet365.com
+
+2023-03-22 16:27:39 Wrong position detected!
+
+2023-03-22 16:27:48 Not Search Event
+
+2023-03-22 16:27:54 Not Search Event
+
+2023-03-22 16:27:56 Wrong position detected!
+
+2023-03-22 16:28:01 Not Search Event
+
+2023-03-22 16:28:01 Wrong position detected!
+
+2023-03-22 16:28:05 Not Search Event
+
+2023-03-22 16:28:07 Wrong position detected!
+
+2023-03-22 16:28:12 Not Search Event
+
+2023-03-22 16:28:12 Wrong position detected!
+
+2023-03-22 16:28:16 Not Search Event
+
+2023-03-22 16:28:18 Not Found Event on Bet365...
+
+2023-03-22 16:28:21  *** MakeBet *** 
+
+2023-03-22 16:28:21 {"dbId":"","sport":"","country":"","league":"European U19 Championship Qual","dateTime":"","match":"Iceland U19 vs Turkey U19","score":"1:2","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 16:28:21 310.48
+
+2023-03-22 16:28:21 Current balance : 310.4
+
+2023-03-22 16:28:21 Current Balance : 310.4
+
+2023-03-22 16:28:21 DoLoad365Page
+
+2023-03-22 16:28:21 365 page is loaded!
+
+2023-03-22 16:28:21 CheckIfLoggedIn
+
+2023-03-22 16:28:21 Logged In Already!
+
+2023-03-22 16:28:21 bet365.com
+
+2023-03-22 16:28:21 Wrong position detected!
+
+2023-03-22 16:28:29 Not Search Event
+
+2023-03-22 16:28:29 Wrong position detected!
+
+2023-03-22 16:28:34 Not Search Event
+
+2023-03-22 16:28:35 Wrong position detected!
+
+2023-03-22 16:28:40 Not Search Event
+
+2023-03-22 16:28:40 Wrong position detected!
+
+2023-03-22 16:28:44 Not Search Event
+
+2023-03-22 16:28:46 Wrong position detected!
+
+2023-03-22 16:28:51 Not Search Event
+
+2023-03-22 16:28:51 Wrong position detected!
+
+2023-03-22 16:29:00 Not Found Odds on Bet365..
+
+2023-03-22 16:31:22 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:31:22 New Score is updated...
+
+2023-03-22 16:31:22 {"home":"IMT Novi Belgrade","away":"FK Macva Sabac","score":"1:3","gameTime":0}
+
+2023-03-22 16:31:22 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:31:22 New Score is updated...
+
+2023-03-22 16:31:22 {"home":"IMT Novi Belgrade","away":"FK Macva Sabac","score":"1:3","gameTime":0}
+
+2023-03-22 16:31:23 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:31:23 New Score is updated...
+
+2023-03-22 16:31:23 {"home":"IMT Novi Belgrade","away":"FK Macva Sabac","score":"1:3","gameTime":0}
+
+2023-03-22 16:31:23 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:31:23 New Score is updated...
+
+2023-03-22 16:31:23 {"home":"IMT Novi Belgrade","away":"FK Macva Sabac","score":"1:3","gameTime":0}
+
+2023-03-22 16:31:24 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:31:24 New Score is updated...
+
+2023-03-22 16:31:24 {"home":"IMT Novi Belgrade","away":"FK Macva Sabac","score":"1:3","gameTime":0}
+
+2023-03-22 16:31:32 Disconnected Socket Server!!! || io client disconnect
+
+2023-03-22 16:31:32 The bot has been stopped!
+2023-03-22 16:33:11 Chrome_RenderWidgetHostHWND
+
+2023-03-22 16:33:11 Websocket server is listening on 8880
+
+2023-03-22 16:33:11 DoLogin
+
+2023-03-22 16:33:11 DoLoad365Page
+
+2023-03-22 16:33:17 365 page is loaded!
+
+2023-03-22 16:33:17 Executed login script!
+
+2023-03-22 16:33:24 DoLoad365Page
+
+2023-03-22 16:33:24 365 page is loaded!
+
+2023-03-22 16:33:24 LastLoginModule_Button Clicked
+
+2023-03-22 16:33:29 Login Success!
+
+2023-03-22 16:33:36 0 Settled bets!!!
+
+2023-03-22 16:33:36 Browser Connected!
+
+2023-03-22 16:34:04 The bot has been started!
+
+2023-03-22 16:34:04 DoLogin
+
+2023-03-22 16:34:04 DoLoad365Page
+
+2023-03-22 16:34:04 365 page is loaded!
+
+2023-03-22 16:34:04 Connected Socket Server!!!
+
+2023-03-22 16:34:07 310.48
+
+2023-03-22 16:34:07 Current balance : 310.4
+
+2023-03-22 16:34:10 LastLoginModule_Button Clicked
+
+2023-03-22 16:34:13 0 Settled bets!!!
+
+2023-03-22 16:34:13 Current Balance: 310.4
+
+2023-03-22 16:34:13 Page is initialized!
+
+2023-03-22 16:35:17 Recieve 1 new bets From Copybet Server!
+
+2023-03-22 16:35:17  *** MakeBet *** 
+
+2023-03-22 16:35:17 {"dbId":"","sport":"","country":"","league":"European U19 Championship Qual","dateTime":"","match":"Iceland U19 vs Turkey U19","score":"1:2","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 16:35:17 310.48
+
+2023-03-22 16:35:17 Current balance : 310.4
+
+2023-03-22 16:35:17 Current Balance : 310.4
+
+2023-03-22 16:35:17 DoLoad365Page
+
+2023-03-22 16:35:17 365 page is loaded!
+
+2023-03-22 16:35:17 CheckIfLoggedIn
+
+2023-03-22 16:35:17 Logged In Already!
+
+2023-03-22 16:35:17 bet365.com
+
+2023-03-22 16:35:28 Not Search Event
+
+2023-03-22 16:35:28 Wrong position detected!
+
+2023-03-22 16:35:31 Not Search Event
+
+2023-03-22 16:35:33 Wrong position detected!
+
+2023-03-22 16:35:39 Not Search Event
+
+2023-03-22 16:35:39 Wrong position detected!
+
+2023-03-22 16:35:42 Not Search Event
+
+2023-03-22 16:35:44 Wrong position detected!
+
+2023-03-22 16:35:49 Not Search Event
+
+2023-03-22 16:35:49 Wrong position detected!
+
+2023-03-22 16:35:52 Not Search Event
+
+2023-03-22 16:35:54 Not Found Event on Bet365...
+
+2023-03-22 16:35:57  *** MakeBet *** 
+
+2023-03-22 16:35:57 {"dbId":"","sport":"","country":"","league":"European U19 Championship Qual","dateTime":"","match":"Iceland U19 vs Turkey U19","score":"1:2","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 16:35:57 310.48
+
+2023-03-22 16:35:57 Current balance : 310.4
+
+2023-03-22 16:35:57 Current Balance : 310.4
+
+2023-03-22 16:35:57 DoLoad365Page
+
+2023-03-22 16:35:57 365 page is loaded!
+
+2023-03-22 16:35:57 CheckIfLoggedIn
+
+2023-03-22 16:35:57 Logged In Already!
+
+2023-03-22 16:35:57 bet365.com
+
+2023-03-22 16:35:57 Wrong position detected!
+
+2023-03-22 16:36:05 Not Search Event
+
+2023-03-22 16:36:10 Not Search Event
+
+2023-03-22 16:36:12 Wrong position detected!
+
+2023-03-22 16:36:18 Not Search Event
+
+2023-03-22 16:36:18 Wrong position detected!
+
+2023-03-22 16:36:21 Not Search Event
+
+2023-03-22 16:36:23 Wrong position detected!
+
+2023-03-22 16:36:29 Not Search Event
+
+2023-03-22 16:36:29 Wrong position detected!
+
+2023-03-22 16:36:33 Not Search Event
+
+2023-03-22 16:36:34 Not Found Event on Bet365...
+
+2023-03-22 16:42:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:42:08 New Score is updated...
+
+2023-03-22 16:42:08 {"home":"Polonia Bytom","away":"Rekord Bielsko-Biala","score":"0:1","gameTime":0}
+
+2023-03-22 16:42:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:42:08 New Score is updated...
+
+2023-03-22 16:42:08 {"home":"Polonia Bytom","away":"Rekord Bielsko-Biala","score":"0:1","gameTime":0}
+
+2023-03-22 16:42:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:42:10 New Score is updated...
+
+2023-03-22 16:42:10 {"home":"Polonia Bytom","away":"Rekord Bielsko-Biala","score":"0:1","gameTime":0}
+
+2023-03-22 16:44:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:44:08 New Score is updated...
+
+2023-03-22 16:44:08 {"home":"Namestovo","away":"FK Poprad","score":"1:1","gameTime":0}
+
+2023-03-22 16:44:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:44:10 New Score is updated...
+
+2023-03-22 16:44:10 {"home":"Namestovo","away":"FK Poprad","score":"1:1","gameTime":0}
+
+2023-03-22 16:54:07 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:54:07 New Score is updated...
+
+2023-03-22 16:54:07 {"home":"Polonia Bytom","away":"Rekord Bielsko-Biala","score":"1:1","gameTime":0}
+
+2023-03-22 16:54:27 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:54:27 New Score is updated...
+
+2023-03-22 16:54:27 {"home":"Polonia Bytom","away":"Rekord Bielsko-Biala","score":"1:1","gameTime":0}
+
+2023-03-22 16:55:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:55:08 New Score is updated...
+
+2023-03-22 16:55:08 {"home":"Iceland U19","away":"Turkey U19","score":"2:2","gameTime":0}
+
+2023-03-22 16:55:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:55:08 New Score is updated...
+
+2023-03-22 16:55:08 {"home":"Iceland U19","away":"Turkey U19","score":"2:2","gameTime":0}
+
+2023-03-22 16:55:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:55:08 New Score is updated...
+
+2023-03-22 16:55:08 {"home":"Iceland U19","away":"Turkey U19","score":"2:2","gameTime":0}
+
+2023-03-22 16:55:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:55:08 New Score is updated...
+
+2023-03-22 16:55:08 {"home":"Iceland U19","away":"Turkey U19","score":"2:2","gameTime":0}
+
+2023-03-22 16:55:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:55:08 New Score is updated...
+
+2023-03-22 16:55:08 {"home":"Iceland U19","away":"Turkey U19","score":"2:2","gameTime":0}
+
+2023-03-22 16:55:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:55:08 New Score is updated...
+
+2023-03-22 16:55:08 {"home":"Iceland U19","away":"Turkey U19","score":"2:2","gameTime":0}
+
+2023-03-22 16:55:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:55:09 New Score is updated...
+
+2023-03-22 16:55:09 {"home":"Iceland U19","away":"Turkey U19","score":"2:2","gameTime":0}
+
+2023-03-22 16:55:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:55:10 New Score is updated...
+
+2023-03-22 16:55:10 {"home":"Iceland U19","away":"Turkey U19","score":"2:2","gameTime":0}
+
+2023-03-22 16:56:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:56:09 New Score is updated...
+
+2023-03-22 16:56:09 {"home":"Namestovo","away":"FK Poprad","score":"1:1","gameTime":2}
+
+2023-03-22 16:56:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 16:56:11 New Score is updated...
+
+2023-03-22 16:56:11 {"home":"Namestovo","away":"FK Poprad","score":"1:1","gameTime":2}
+
+2023-03-22 17:00:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:00:08 New Score is updated...
+
+2023-03-22 17:00:08 {"home":"Polonia Bytom","away":"Rekord Bielsko-Biala","score":"2:1","gameTime":0}
+
+2023-03-22 17:00:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:00:08 New Score is updated...
+
+2023-03-22 17:00:08 {"home":"Polonia Bytom","away":"Rekord Bielsko-Biala","score":"2:1","gameTime":0}
+
+2023-03-22 17:00:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:00:08 New Score is updated...
+
+2023-03-22 17:00:08 {"home":"Polonia Bytom","away":"Rekord Bielsko-Biala","score":"2:1","gameTime":0}
+
+2023-03-22 17:00:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:00:10 New Score is updated...
+
+2023-03-22 17:00:10 {"home":"Polonia Bytom","away":"Rekord Bielsko-Biala","score":"2:1","gameTime":0}
+
+2023-03-22 17:01:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:01:08 New Score is updated...
+
+2023-03-22 17:01:08 {"home":"IMT Novi Belgrade","away":"FK Macva Sabac","score":"1:3","gameTime":2}
+
+2023-03-22 17:01:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:01:08 New Score is updated...
+
+2023-03-22 17:01:08 {"home":"IMT Novi Belgrade","away":"FK Macva Sabac","score":"1:3","gameTime":2}
+
+2023-03-22 17:01:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:01:09 New Score is updated...
+
+2023-03-22 17:01:09 {"home":"IMT Novi Belgrade","away":"FK Macva Sabac","score":"1:3","gameTime":2}
+
+2023-03-22 17:01:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:01:10 New Score is updated...
+
+2023-03-22 17:01:10 {"home":"[96'] Polonia Bytom [1]","away":"1 Rekord Bielsko-Biala","score":"1:1","gameTime":2}
+
+2023-03-22 17:01:13 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:01:13 New Score is updated...
+
+2023-03-22 17:01:13 {"home":"[96'] Polonia Bytom [1]","away":"1 Rekord Bielsko-Biala","score":"1:1","gameTime":2}
+
+2023-03-22 17:01:14 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:01:14 New Score is updated...
+
+2023-03-22 17:01:14 {"home":"IMT Novi Belgrade","away":"FK Macva Sabac","score":"1:3","gameTime":2}
+
+2023-03-22 17:01:16 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:01:16 New Score is updated...
+
+2023-03-22 17:01:16 {"home":"IMT Novi Belgrade","away":"FK Macva Sabac","score":"1:3","gameTime":2}
+
+2023-03-22 17:06:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:06:08 New Score is updated...
+
+2023-03-22 17:06:08 {"home":"Polonia Bytom","away":"Rekord Bielsko-Biala","score":"1:1","gameTime":2}
+
+2023-03-22 17:06:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:06:09 New Score is updated...
+
+2023-03-22 17:06:09 {"home":"Iceland U19","away":"Turkey U19","score":"2:2","gameTime":2}
+
+2023-03-22 17:06:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:06:10 New Score is updated...
+
+2023-03-22 17:06:10 {"home":"Iceland U19","away":"Turkey U19","score":"2:2","gameTime":2}
+
+2023-03-22 17:06:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:06:10 New Score is updated...
+
+2023-03-22 17:06:10 {"home":"Iceland U19","away":"Turkey U19","score":"2:2","gameTime":2}
+
+2023-03-22 17:06:18 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:06:18 New Score is updated...
+
+2023-03-22 17:06:18 {"home":"Polonia Bytom","away":"Rekord Bielsko-Biala","score":"1:1","gameTime":2}
+
+2023-03-22 17:06:19 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:06:19 New Score is updated...
+
+2023-03-22 17:06:19 {"home":"Iceland U19","away":"Turkey U19","score":"2:2","gameTime":2}
+
+2023-03-22 17:06:19 Recieve new Match Score From Copybet Server!
+
+2023-03-22 17:06:19 New Score is updated...
+
+2023-03-22 17:06:19 {"home":"Iceland U19","away":"Turkey U19","score":"2:2","gameTime":2}
+
+2023-03-22 18:02:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:02:08 New Score is updated...
+
+2023-03-22 18:02:08 {"home":"Belgium U19","away":"Slovenia U19","score":"0:0","gameTime":2}
+
+2023-03-22 18:02:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:02:10 New Score is updated...
+
+2023-03-22 18:02:10 {"home":"Belgium U19","away":"Slovenia U19","score":"0:0","gameTime":2}
+
+2023-03-22 18:19:16 Recieve 1 new bets From Copybet Server!
+
+2023-03-22 18:19:16  *** MakeBet *** 
+
+2023-03-22 18:19:16 {"dbId":"","sport":"","country":"","league":"European U19 Championship Qual","dateTime":"","match":"Spain U19 vs Denmark U19","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 18:19:16 320.47
+
+2023-03-22 18:19:16 Current balance : 320.4
+
+2023-03-22 18:19:16 Current Balance : 320.4
+
+2023-03-22 18:19:16 DoLoad365Page
+
+2023-03-22 18:19:16 365 page is loaded!
+
+2023-03-22 18:19:16 CheckIfLoggedIn
+
+2023-03-22 18:19:16 Logged In Already!
+
+2023-03-22 18:19:16 bet365.com
+
+2023-03-22 18:19:16 Wrong position detected!
+
+2023-03-22 18:19:24 Not Search Event
+
+2023-03-22 18:19:30 Not Search Event
+
+2023-03-22 18:19:32 Wrong position detected!
+
+2023-03-22 18:19:37 Not Search Event
+
+2023-03-22 18:19:37 Wrong position detected!
+
+2023-03-22 18:19:41 Not Search Event
+
+2023-03-22 18:19:42 Wrong position detected!
+
+2023-03-22 18:19:47 Not Search Event
+
+2023-03-22 18:19:47 Wrong position detected!
+
+2023-03-22 18:19:51 Not Search Event
+
+2023-03-22 18:19:52 Not Found Event on Bet365...
+
+2023-03-22 18:19:55  *** MakeBet *** 
+
+2023-03-22 18:19:55 {"dbId":"","sport":"","country":"","league":"European U19 Championship Qual","dateTime":"","match":"Spain U19 vs Denmark U19","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 18:19:55 320.47
+
+2023-03-22 18:19:55 Current balance : 320.4
+
+2023-03-22 18:19:55 Current Balance : 320.4
+
+2023-03-22 18:19:55 DoLoad365Page
+
+2023-03-22 18:19:55 365 page is loaded!
+
+2023-03-22 18:19:55 CheckIfLoggedIn
+
+2023-03-22 18:19:55 Logged In Already!
+
+2023-03-22 18:19:55 bet365.com
+
+2023-03-22 18:19:55 Wrong position detected!
+
+2023-03-22 18:20:04 Not Search Event
+
+2023-03-22 18:20:04 Wrong position detected!
+
+2023-03-22 18:20:08 Not Search Event
+
+2023-03-22 18:20:10 Wrong position detected!
+
+2023-03-22 18:20:14 Not Search Event
+
+2023-03-22 18:20:14 Wrong position detected!
+
+2023-03-22 18:20:18 Not Search Event
+
+2023-03-22 18:20:20 Wrong position detected!
+
+2023-03-22 18:20:31 Not Found Odds on Bet365..
+
+2023-03-22 18:21:17 Recieve 1 new bets From Copybet Server!
+
+2023-03-22 18:21:17  *** MakeBet *** 
+
+2023-03-22 18:21:17 {"dbId":"","sport":"","country":"","league":"European U19 Championship Qual","dateTime":"","match":"Spain U19 vs Denmark U19","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 18:21:17 320.47
+
+2023-03-22 18:21:17 Current balance : 320.4
+
+2023-03-22 18:21:17 Current Balance : 320.4
+
+2023-03-22 18:21:17 DoLoad365Page
+
+2023-03-22 18:21:17 365 page is loaded!
+
+2023-03-22 18:21:17 CheckIfLoggedIn
+
+2023-03-22 18:21:17 Logged In Already!
+
+2023-03-22 18:21:17 bet365.com
+
+2023-03-22 18:21:17 Wrong position detected!
+
+2023-03-22 18:21:25 Not Search Event
+
+2023-03-22 18:21:25 Wrong position detected!
+
+2023-03-22 18:21:30 Not Search Event
+
+2023-03-22 18:21:32 Wrong position detected!
+
+2023-03-22 18:21:36 Not Search Event
+
+2023-03-22 18:21:37 Wrong position detected!
+
+2023-03-22 18:21:40 Not Search Event
+
+2023-03-22 18:21:42 Wrong position detected!
+
+2023-03-22 18:21:47 Not Search Event
+
+2023-03-22 18:21:47 Wrong position detected!
+
+2023-03-22 18:21:56 Not Found Odds on Bet365..
+
+2023-03-22 18:21:59  *** MakeBet *** 
+
+2023-03-22 18:21:59 {"dbId":"","sport":"","country":"","league":"European U19 Championship Qual","dateTime":"","match":"Spain U19 vs Denmark U19","score":"0:0","EW":"0","marketName":"OVER 0.5","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 18:21:59 320.47
+
+2023-03-22 18:21:59 Current balance : 320.4
+
+2023-03-22 18:21:59 Current Balance : 320.4
+
+2023-03-22 18:21:59 DoLoad365Page
+
+2023-03-22 18:21:59 365 page is loaded!
+
+2023-03-22 18:21:59 CheckIfLoggedIn
+
+2023-03-22 18:21:59 Logged In Already!
+
+2023-03-22 18:21:59 bet365.com
+
+2023-03-22 18:21:59 Wrong position detected!
+
+2023-03-22 18:22:08 Not Search Event
+
+2023-03-22 18:22:08 Wrong position detected!
+
+2023-03-22 18:22:12 Not Search Event
+
+2023-03-22 18:22:13 Wrong position detected!
+
+2023-03-22 18:22:18 Not Search Event
+
+2023-03-22 18:22:18 Wrong position detected!
+
+2023-03-22 18:22:22 Not Search Event
+
+2023-03-22 18:22:24 Wrong position detected!
+
+2023-03-22 18:22:34 Not Found Odds on Bet365..
+
+2023-03-22 18:29:17 Recieve 1 new bets From Copybet Server!
+
+2023-03-22 18:29:17  *** MakeBet *** 
+
+2023-03-22 18:29:17 {"dbId":"","sport":"","country":"","league":"Africa Cup of Nations Qualification","dateTime":"","match":"Sierra Leone vs Sao Tome e Principe","score":"1:2","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 18:29:17 320.47
+
+2023-03-22 18:29:17 Current balance : 320.4
+
+2023-03-22 18:29:17 Current Balance : 320.4
+
+2023-03-22 18:29:17 DoLoad365Page
+
+2023-03-22 18:29:17 365 page is loaded!
+
+2023-03-22 18:29:17 CheckIfLoggedIn
+
+2023-03-22 18:29:17 Logged In Already!
+
+2023-03-22 18:29:17 bet365.com
+
+2023-03-22 18:29:17 Wrong position detected!
+
+2023-03-22 18:29:26 Sierra Leone v Sao Tome e Principe Dis :0.00571428571428567
+
+2023-03-22 18:29:32 Not Found Odds on Bet365..
+
+2023-03-22 18:29:35  *** MakeBet *** 
+
+2023-03-22 18:29:35 {"dbId":"","sport":"","country":"","league":"Africa Cup of Nations Qualification","dateTime":"","match":"Sierra Leone vs Sao Tome e Principe","score":"1:2","EW":"0","marketName":"OVER 3.5","selection":"OVER","odds":0.0,"handicap":3.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 18:29:35 320.47
+
+2023-03-22 18:29:35 Current balance : 320.4
+
+2023-03-22 18:29:35 Current Balance : 320.4
+
+2023-03-22 18:29:35 DoLoad365Page
+
+2023-03-22 18:29:35 365 page is loaded!
+
+2023-03-22 18:29:35 CheckIfLoggedIn
+
+2023-03-22 18:29:35 Logged In Already!
+
+2023-03-22 18:29:35 bet365.com
+
+2023-03-22 18:29:35 Wrong position detected!
+
+2023-03-22 18:29:44 Not Search Event
+
+2023-03-22 18:29:49 Sierra Leone v Sao Tome e Principe Dis :0.00571428571428567
+
+2023-03-22 18:29:50 Wrong position detected!
+
+2023-03-22 18:29:54 Stake : 13
+
+2023-03-22 18:29:54 Running AddbetScript...
+
+2023-03-22 18:29:55 scrollBetIntoView('339447686') => 1
+
+2023-03-22 18:29:56 Odds Pos : X : 414.453125 , Y: 404
+
+2023-03-22 18:29:58 {
+  "bg": "566e35c2-851d-4d40-9cfb-8b2a811b23e0",
+  "sr": 0,
+  "mr": false,
+  "cc": "qzYx0QWkKcg7MyoCpo+utKu/E5ekiKmQ4LtxgYYp9+o=",
+  "ir": true,
+  "vr": "816",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "2/5",
+      "fi": 134856693,
+      "fd": "Sierra Leone v Sao Tome e Principe",
+      "pt": [
+        {
+          "hd": "3.5",
+          "pi": 339447686,
+          "bd": "Più di",
+          "ha": "3.5",
+          "md": "Goal nell'incontro"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "641b3b17-A8A0AD9D",
+      "tp": "BS134856693-339447686",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134781390,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-22 18:30:00 Fractional Odds : 2/5
+
+2023-03-22 18:30:00 Trademate Odds : 0 , Bet365 Odds : 1.4
+
+2023-03-22 18:30:00 Trying to place bet!
+
+2023-03-22 18:30:00 DoPlacebetUI
+
+2023-03-22 18:30:00 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-03-22 18:30:02 Trademate Odds : 0 , Bet365 Odds : 1.4
+
+2023-03-22 18:30:02 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-03-22 18:30:14 320.47
+
+2023-03-22 18:30:14 Current balance : 320.4
+
+2023-03-22 18:30:17 [concigrassi:Test123.] SUCCESS. Stake:13 Odds:1.4
+
+2023-03-22 18:30:17 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:13 Odds:1.4",
+  "stake": 13.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.4,
+  "tournament": "Africa Cup of Nations Qualification",
+  "eventName": "Sierra Leone vs Sao Tome e Principe",
+  "probability": "OVER",
+  "market": "OVER 3.5",
+  "placedAt": "22/03/2023 18:30:14",
+  "selection": "OVER",
+  "handicap": 3.5,
+  "balance": 307.4,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-22 18:30:25 Trying to register tip at Bigstake
+
+2023-03-22 18:30:41 Registered tip at Bigstake Successfully!
+
+2023-03-22 18:35:07 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:35:07 New Score is updated...
+
+2023-03-22 18:35:07 {"home":"Sierra Leone","away":"Sao Tome e Principe","score":"2:2","gameTime":0}
+
+2023-03-22 18:35:07 New Score : Sierra Leone vs Sao Tome e Principe  2:2
+
+2023-03-22 18:35:07 Pending tip Score : Sierra Leone vs Sao Tome e Principe 1:2
+
+2023-03-22 18:35:07 Pending Tip is winning now...
+
+2023-03-22 18:35:07 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:35:07 New Score is updated...
+
+2023-03-22 18:35:07 {"home":"Sierra Leone","away":"Sao Tome e Principe","score":"2:2","gameTime":0}
+
+2023-03-22 18:35:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:35:08 New Score is updated...
+
+2023-03-22 18:35:08 {"home":"Sierra Leone","away":"Sao Tome e Principe","score":"2:2","gameTime":0}
+
+2023-03-22 18:35:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:35:08 New Score is updated...
+
+2023-03-22 18:35:08 {"home":"Sierra Leone","away":"Sao Tome e Principe","score":"2:2","gameTime":0}
+
+2023-03-22 18:35:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:35:09 New Score is updated...
+
+2023-03-22 18:35:09 {"home":"Sierra Leone","away":"Sao Tome e Principe","score":"2:2","gameTime":0}
+
+2023-03-22 18:36:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:36:08 New Score is updated...
+
+2023-03-22 18:36:08 {"home":"[75'] Sierra Leone [1]","away":"2 Sao Tome e Principe","score":"1:2","gameTime":2}
+
+2023-03-22 18:36:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:36:09 New Score is updated...
+
+2023-03-22 18:36:09 {"home":"[75'] Sierra Leone [1]","away":"2 Sao Tome e Principe","score":"1:2","gameTime":2}
+
+2023-03-22 18:36:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:36:09 New Score is updated...
+
+2023-03-22 18:36:09 {"home":"[75'] Sierra Leone [1]","away":"2 Sao Tome e Principe","score":"1:2","gameTime":2}
+
+2023-03-22 18:36:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:36:10 New Score is updated...
+
+2023-03-22 18:36:10 {"home":"[75'] Sierra Leone [1]","away":"2 Sao Tome e Principe","score":"1:2","gameTime":2}
+
+2023-03-22 18:40:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:40:08 New Score is updated...
+
+2023-03-22 18:40:08 {"home":"Sierra Leone","away":"Sao Tome e Principe","score":"2:2","gameTime":0}
+
+2023-03-22 18:40:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:40:08 New Score is updated...
+
+2023-03-22 18:40:08 {"home":"Sierra Leone","away":"Sao Tome e Principe","score":"2:2","gameTime":0}
+
+2023-03-22 18:40:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:40:09 New Score is updated...
+
+2023-03-22 18:40:09 {"home":"Sierra Leone","away":"Sao Tome e Principe","score":"2:2","gameTime":0}
+
+2023-03-22 18:40:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:40:10 New Score is updated...
+
+2023-03-22 18:40:10 {"home":"Sierra Leone","away":"Sao Tome e Principe","score":"2:2","gameTime":0}
+
+2023-03-22 18:43:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:43:08 New Score is updated...
+
+2023-03-22 18:43:08 {"home":"Benin","away":"Rwanda","score":"1:1","gameTime":0}
+
+2023-03-22 18:43:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:43:08 New Score is updated...
+
+2023-03-22 18:43:08 {"home":"Benin","away":"Rwanda","score":"1:1","gameTime":0}
+
+2023-03-22 18:43:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:43:08 New Score is updated...
+
+2023-03-22 18:43:08 {"home":"Benin","away":"Rwanda","score":"1:1","gameTime":0}
+
+2023-03-22 18:43:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:43:10 New Score is updated...
+
+2023-03-22 18:43:10 {"home":"Benin","away":"Rwanda","score":"1:1","gameTime":0}
+
+2023-03-22 18:49:29 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:49:29 New Score is updated...
+
+2023-03-22 18:49:29 {"home":"Sierra Leone","away":"Sao Tome e Principe","score":"2:2","gameTime":0}
+
+2023-03-22 18:49:29 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:49:29 New Score is updated...
+
+2023-03-22 18:49:29 {"home":"[75'] Sierra Leone [1]","away":"2 Sao Tome e Principe","score":"1:2","gameTime":2}
+
+2023-03-22 18:49:30 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:49:30 New Score is updated...
+
+2023-03-22 18:49:30 {"home":"Sierra Leone","away":"Sao Tome e Principe","score":"2:2","gameTime":0}
+
+2023-03-22 18:56:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:56:08 New Score is updated...
+
+2023-03-22 18:56:08 {"home":"Santo Tomas IFC","away":"Futeca","score":"2:1","gameTime":2}
+
+2023-03-22 18:57:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:57:09 New Score is updated...
+
+2023-03-22 18:57:09 {"home":"Spain U19","away":"Denmark U19","score":"0:0","gameTime":2}
+
+2023-03-22 18:57:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:57:10 New Score is updated...
+
+2023-03-22 18:57:10 {"home":"Spain U19","away":"Denmark U19","score":"0:0","gameTime":2}
+
+2023-03-22 18:57:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:57:10 New Score is updated...
+
+2023-03-22 18:57:10 {"home":"Spain U19","away":"Denmark U19","score":"0:0","gameTime":2}
+
+2023-03-22 18:57:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:57:11 New Score is updated...
+
+2023-03-22 18:57:11 {"home":"Spain U19","away":"Denmark U19","score":"0:0","gameTime":2}
+
+2023-03-22 18:57:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:57:11 New Score is updated...
+
+2023-03-22 18:57:11 {"home":"Spain U19","away":"Denmark U19","score":"0:0","gameTime":2}
+
+2023-03-22 18:57:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 18:57:12 New Score is updated...
+
+2023-03-22 18:57:12 {"home":"Spain U19","away":"Denmark U19","score":"0:0","gameTime":2}
+
+2023-03-22 19:02:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 19:02:11 New Score is updated...
+
+2023-03-22 19:02:11 {"home":"Benin","away":"Rwanda","score":"1:1","gameTime":2}
+
+2023-03-22 19:02:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 19:02:12 New Score is updated...
+
+2023-03-22 19:02:12 {"home":"Sierra Leone","away":"Sao Tome e Principe","score":"2:2","gameTime":2}
+
+2023-03-22 19:02:13 Recieve new Match Score From Copybet Server!
+
+2023-03-22 19:02:13 New Score is updated...
+
+2023-03-22 19:02:13 {"home":"Sierra Leone","away":"Sao Tome e Principe","score":"2:2","gameTime":2}
+
+2023-03-22 19:02:13 Recieve new Match Score From Copybet Server!
+
+2023-03-22 19:02:13 New Score is updated...
+
+2023-03-22 19:02:13 {"home":"Sierra Leone","away":"Sao Tome e Principe","score":"2:2","gameTime":2}
+
+2023-03-22 19:02:13 Recieve new Match Score From Copybet Server!
+
+2023-03-22 19:02:13 New Score is updated...
+
+2023-03-22 19:02:13 {"home":"Benin","away":"Rwanda","score":"1:1","gameTime":2}
+
+2023-03-22 19:02:14 Recieve new Match Score From Copybet Server!
+
+2023-03-22 19:02:14 New Score is updated...
+
+2023-03-22 19:02:14 {"home":"Sierra Leone","away":"Sao Tome e Principe","score":"2:2","gameTime":2}
+
+2023-03-22 19:02:16 Recieve new Match Score From Copybet Server!
+
+2023-03-22 19:02:16 New Score is updated...
+
+2023-03-22 19:02:16 {"home":"Sierra Leone","away":"Sao Tome e Principe","score":"2:2","gameTime":2}
+
+2023-03-22 19:57:19 Recieve 1 new bets From Copybet Server!
+
+2023-03-22 19:57:19  *** MakeBet *** 
+
+2023-03-22 19:57:19 {"dbId":"","sport":"","country":"","league":"Germany Landespokal","dateTime":"","match":"Hamm United vs FC Teutonia 05","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 19:57:19 325.67
+
+2023-03-22 19:57:19 Current balance : 325.6
+
+2023-03-22 19:57:19 Current Balance : 325.6
+
+2023-03-22 19:57:19 DoLoad365Page
+
+2023-03-22 19:57:19 365 page is loaded!
+
+2023-03-22 19:57:19 CheckIfLoggedIn
+
+2023-03-22 19:57:19 Logged In Already!
+
+2023-03-22 19:57:19 bet365.com
+
+2023-03-22 19:57:19 Wrong position detected!
+
+2023-03-22 19:57:28 Not Search Event
+
+2023-03-22 19:57:34 Hamm United v FC Teutonia 05 Dis :0.00689655172413794
+
+2023-03-22 19:57:34 BSV Schwarz-Weiss Rehden v FC Teutonia 05 Dis :0.334571535370526
+
+2023-03-22 19:57:35 Wrong position detected!
+
+2023-03-22 19:57:38 Stake : 14
+
+2023-03-22 19:57:38 Running AddbetScript...
+
+2023-03-22 19:57:38 scrollBetIntoView('339572041') => 2
+
+2023-03-22 19:57:38 Bet is suspended!
+
+2023-03-22 19:57:38 Running AddbetScript...
+
+2023-03-22 19:57:38 scrollBetIntoView('339572041') => 2
+
+2023-03-22 19:57:38 Bet is suspended!
+
+2023-03-22 19:57:39 PageSuspended :False
+
+2023-03-22 19:57:42  *** MakeBet *** 
+
+2023-03-22 19:57:42 {"dbId":"","sport":"","country":"","league":"Germany Landespokal","dateTime":"","match":"Hamm United vs FC Teutonia 05","score":"0:0","EW":"0","marketName":"OVER 0.5 HT","selection":"OVER","odds":0.0,"handicap":0.5,"minHandicap":0.0,"period":"HT","fract_odds":"1.61","selectionId":"339572041","matchId":"134857916","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 19:57:42 325.67
+
+2023-03-22 19:57:42 Current balance : 325.6
+
+2023-03-22 19:57:42 Current Balance : 325.6
+
+2023-03-22 19:57:42 DoLoad365Page
+
+2023-03-22 19:57:42 365 page is loaded!
+
+2023-03-22 19:57:42 CheckIfLoggedIn
+
+2023-03-22 19:57:42 Logged In Already!
+
+2023-03-22 19:57:42 bet365.com
+
+2023-03-22 19:57:42 Wrong position detected!
+
+2023-03-22 19:57:54 Not Search Event
+
+2023-03-22 19:58:01 Hamm United v FC Teutonia 05 Dis :0.00689655172413794
+
+2023-03-22 19:58:01 BSV Schwarz-Weiss Rehden v FC Teutonia 05 Dis :0.334571535370526
+
+2023-03-22 19:58:02 Wrong position detected!
+
+2023-03-22 19:58:04 Stake : 17
+
+2023-03-22 19:58:04 Running AddbetScript...
+
+2023-03-22 19:58:04 scrollBetIntoView('339572041') => 1
+
+2023-03-22 19:58:06 Odds Pos : X : 414.453125 , Y: 406
+
+2023-03-22 19:58:08 {
+  "bg": "be573a9d-8389-412a-ac50-8bda004ca670",
+  "sr": 0,
+  "mr": false,
+  "cc": "5bMPOfVrCKbiu1B2YUyXDe+/W0k/LJoFe5CUTh/nRq0=",
+  "ir": true,
+  "vr": "816",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "4/6",
+      "fi": 134857916,
+      "fd": "Hamm United v FC Teutonia 05",
+      "pt": [
+        {
+          "hd": "0.5",
+          "pi": 339572041,
+          "bd": "Più di",
+          "ha": "0.5",
+          "md": "Goal nel 1° tempo"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "641b4fc0-CA92066A",
+      "tp": "BS134857916-339572041",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134781571,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-22 19:58:10 Fractional Odds : 4/6
+
+2023-03-22 19:58:10 Trademate Odds : 0 , Bet365 Odds : 1.66
+
+2023-03-22 19:58:10 Trying to place bet!
+
+2023-03-22 19:58:10 DoPlacebetUI
+
+2023-03-22 19:58:10 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-03-22 19:58:11 Trademate Odds : 0 , Bet365 Odds : 1.66
+
+2023-03-22 19:58:11 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-03-22 19:58:20 325.67
+
+2023-03-22 19:58:20 Current balance : 325.6
+
+2023-03-22 19:58:23 [concigrassi:Test123.] SUCCESS. Stake:17 Odds:1.66647058823529
+
+2023-03-22 19:58:23 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:17 Odds:1.66647058823529",
+  "stake": 17.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.6664705882352939,
+  "tournament": "Germany Landespokal",
+  "eventName": "Hamm United vs FC Teutonia 05",
+  "probability": "OVER",
+  "market": "OVER 0.5 HT",
+  "placedAt": "22/03/2023 19:58:20",
+  "selection": "OVER",
+  "handicap": 0.5,
+  "balance": 308.6,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-22 19:58:31 Trying to register tip at Bigstake
+
+2023-03-22 19:58:47 Registered tip at Bigstake Successfully!
+
+2023-03-22 20:06:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:06:08 New Score is updated...
+
+2023-03-22 20:06:08 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:1","gameTime":0}
+
+2023-03-22 20:06:08 New Score : Hamm United vs FC Teutonia 05  0:1
+
+2023-03-22 20:06:08 Pending tip Score : Hamm United vs FC Teutonia 05 0:0
+
+2023-03-22 20:06:08 Pending Tip is winning now...
+
+2023-03-22 20:06:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:06:09 New Score is updated...
+
+2023-03-22 20:06:09 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:1","gameTime":0}
+
+2023-03-22 20:06:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:06:09 New Score is updated...
+
+2023-03-22 20:06:09 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:1","gameTime":0}
+
+2023-03-22 20:13:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:13:10 New Score is updated...
+
+2023-03-22 20:13:10 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":0}
+
+2023-03-22 20:13:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:13:10 New Score is updated...
+
+2023-03-22 20:13:10 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":0}
+
+2023-03-22 20:13:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:13:11 New Score is updated...
+
+2023-03-22 20:13:11 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":0}
+
+2023-03-22 20:13:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:13:11 New Score is updated...
+
+2023-03-22 20:13:11 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":0}
+
+2023-03-22 20:18:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:18:12 New Score is updated...
+
+2023-03-22 20:18:12 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":1}
+
+2023-03-22 20:18:13 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:18:13 New Score is updated...
+
+2023-03-22 20:18:13 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":1}
+
+2023-03-22 20:18:13 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:18:13 New Score is updated...
+
+2023-03-22 20:18:13 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":1}
+
+2023-03-22 20:18:13 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:18:13 New Score is updated...
+
+2023-03-22 20:18:13 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":1}
+
+2023-03-22 20:18:13 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:18:13 New Score is updated...
+
+2023-03-22 20:18:13 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":1}
+
+2023-03-22 20:18:13 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:18:13 New Score is updated...
+
+2023-03-22 20:18:13 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":1}
+
+2023-03-22 20:18:13 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:18:13 New Score is updated...
+
+2023-03-22 20:18:13 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":1}
+
+2023-03-22 20:34:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:34:09 New Score is updated...
+
+2023-03-22 20:34:09 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":1}
+
+2023-03-22 20:34:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:34:10 New Score is updated...
+
+2023-03-22 20:34:10 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":1}
+
+2023-03-22 20:34:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:34:10 New Score is updated...
+
+2023-03-22 20:34:10 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":1}
+
+2023-03-22 20:37:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:37:09 New Score is updated...
+
+2023-03-22 20:37:09 {"home":"CSD Amatitlan","away":"Deportivo Palencia FC","score":"0:2","gameTime":0}
+
+2023-03-22 20:37:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:37:11 New Score is updated...
+
+2023-03-22 20:37:11 {"home":"CSD Amatitlan","away":"Deportivo Palencia FC","score":"0:2","gameTime":0}
+
+2023-03-22 20:40:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:40:09 New Score is updated...
+
+2023-03-22 20:40:09 {"home":"MSV Düsseldorf","away":"FC Kray","score":"0:1","gameTime":0}
+
+2023-03-22 20:40:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:40:11 New Score is updated...
+
+2023-03-22 20:40:11 {"home":"MSV Düsseldorf","away":"FC Kray","score":"0:1","gameTime":0}
+
+2023-03-22 20:44:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:44:10 New Score is updated...
+
+2023-03-22 20:44:10 {"home":"CSD Amatitlan","away":"Deportivo Palencia FC","score":"1:2","gameTime":0}
+
+2023-03-22 20:44:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:44:12 New Score is updated...
+
+2023-03-22 20:44:12 {"home":"CSD Amatitlan","away":"Deportivo Palencia FC","score":"1:2","gameTime":0}
+
+2023-03-22 20:47:18 Recieve 1 new bets From Copybet Server!
+
+2023-03-22 20:47:18  *** MakeBet *** 
+
+2023-03-22 20:47:18 {"dbId":"","sport":"","country":"","league":"Germany Oberliga Niederrhein","dateTime":"","match":"Ratingen SV Germania 04/19 EV vs SF Hamborn 07","score":"0:1","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 20:47:18 336.99
+
+2023-03-22 20:47:18 Current balance : 336.9
+
+2023-03-22 20:47:18 Current Balance : 336.9
+
+2023-03-22 20:47:18 DoLoad365Page
+
+2023-03-22 20:47:18 365 page is loaded!
+
+2023-03-22 20:47:18 CheckIfLoggedIn
+
+2023-03-22 20:47:18 Logged In Already!
+
+2023-03-22 20:47:18 bet365.com
+
+2023-03-22 20:47:18 Wrong position detected!
+
+2023-03-22 20:47:28 Not Search Event
+
+2023-03-22 20:47:34 Ratingen SV Germania 04/19 EV v SF Hamborn 07 Dis :0.0043478260869565
+
+2023-03-22 20:47:34 Wrong position detected!
+
+2023-03-22 20:47:39 Stake : 16
+
+2023-03-22 20:47:39 Running AddbetScript...
+
+2023-03-22 20:47:39 scrollBetIntoView('339408505') => 1
+
+2023-03-22 20:47:41 Odds Pos : X : 414.453125 , Y: 318
+
+2023-03-22 20:47:42 {
+  "bg": "41ae4a79-834e-4ea0-84ef-bf0f885d593f",
+  "sr": 0,
+  "mr": false,
+  "cc": "eGNjRDmlV+ku+mt9Jdm3ah/bIDkT2jhd/sPOQMbGl3A=",
+  "ir": true,
+  "vr": "816",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "3/10",
+      "fi": 134856252,
+      "fd": "Ratingen SV Germania 04/19 EV v SF Hamborn 07",
+      "pt": [
+        {
+          "pi": 339408505,
+          "bd": "Più di 1.5",
+          "ha": "1.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "641b5b5f-89151B9B",
+      "tp": "BS134856252-339408505",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134781592,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-22 20:47:44 Fractional Odds : 3/10
+
+2023-03-22 20:47:45 Trademate Odds : 0 , Bet365 Odds : 1.3
+
+2023-03-22 20:47:45 Trying to place bet!
+
+2023-03-22 20:47:45 DoPlacebetUI
+
+2023-03-22 20:47:45 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-03-22 20:47:47 Trademate Odds : 0 , Bet365 Odds : 1.3
+
+2023-03-22 20:47:47 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-03-22 20:47:55 336.99
+
+2023-03-22 20:47:55 Current balance : 336.9
+
+2023-03-22 20:47:58 [concigrassi:Test123.] SUCCESS. Stake:16 Odds:1.3
+
+2023-03-22 20:47:58 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:16 Odds:1.3",
+  "stake": 16.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.3,
+  "tournament": "Germany Oberliga Niederrhein",
+  "eventName": "Ratingen SV Germania 04/19 EV vs SF Hamborn 07",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "22/03/2023 20:47:55",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 320.9,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-22 20:48:06 Trying to register tip at Bigstake
+
+2023-03-22 20:48:22 Registered tip at Bigstake Successfully!
+
+2023-03-22 20:48:25 This Line is already existed on Settled bets!
+
+2023-03-22 20:49:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:49:12 New Score is updated...
+
+2023-03-22 20:49:12 {"home":"CSD Amatitlan","away":"Deportivo Palencia FC","score":"2:2","gameTime":0}
+
+2023-03-22 20:49:12 New Score : CSD Amatitlan vs Deportivo Palencia FC  2:2
+
+2023-03-22 20:49:12 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:49:14 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:49:14 New Score is updated...
+
+2023-03-22 20:49:14 {"home":"CSD Amatitlan","away":"Deportivo Palencia FC","score":"2:2","gameTime":0}
+
+2023-03-22 20:49:14 New Score : CSD Amatitlan vs Deportivo Palencia FC  2:2
+
+2023-03-22 20:49:14 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:49:19 Recieve 1 new bets From Copybet Server!
+
+2023-03-22 20:49:19 Pending bet is not finished.!
+
+2023-03-22 20:50:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:50:09 New Score is updated...
+
+2023-03-22 20:50:09 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"1:0","gameTime":0}
+
+2023-03-22 20:50:09 New Score : SpVg Schonnebeck vs TuRU Düsseldorf  1:0
+
+2023-03-22 20:50:09 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:50:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:50:10 New Score is updated...
+
+2023-03-22 20:50:10 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"1:0","gameTime":0}
+
+2023-03-22 20:50:10 New Score : SpVg Schonnebeck vs TuRU Düsseldorf  1:0
+
+2023-03-22 20:50:10 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:50:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:50:10 New Score is updated...
+
+2023-03-22 20:50:10 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"1:0","gameTime":0}
+
+2023-03-22 20:50:10 New Score : SpVg Schonnebeck vs TuRU Düsseldorf  1:0
+
+2023-03-22 20:50:10 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:50:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:50:10 New Score is updated...
+
+2023-03-22 20:50:10 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"1:0","gameTime":0}
+
+2023-03-22 20:50:10 New Score : SpVg Schonnebeck vs TuRU Düsseldorf  1:0
+
+2023-03-22 20:50:10 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:50:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:50:11 New Score is updated...
+
+2023-03-22 20:50:11 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"1:0","gameTime":0}
+
+2023-03-22 20:50:11 New Score : SpVg Schonnebeck vs TuRU Düsseldorf  1:0
+
+2023-03-22 20:50:11 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:50:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:50:11 New Score is updated...
+
+2023-03-22 20:50:11 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"1:0","gameTime":0}
+
+2023-03-22 20:50:11 New Score : SpVg Schonnebeck vs TuRU Düsseldorf  1:0
+
+2023-03-22 20:50:11 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:50:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:50:11 New Score is updated...
+
+2023-03-22 20:50:11 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"1:0","gameTime":0}
+
+2023-03-22 20:50:11 New Score : SpVg Schonnebeck vs TuRU Düsseldorf  1:0
+
+2023-03-22 20:50:11 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:50:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:50:11 New Score is updated...
+
+2023-03-22 20:50:11 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"1:0","gameTime":0}
+
+2023-03-22 20:50:11 New Score : SpVg Schonnebeck vs TuRU Düsseldorf  1:0
+
+2023-03-22 20:50:11 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:50:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:50:11 New Score is updated...
+
+2023-03-22 20:50:11 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"1:0","gameTime":0}
+
+2023-03-22 20:50:11 New Score : SpVg Schonnebeck vs TuRU Düsseldorf  1:0
+
+2023-03-22 20:50:11 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:50:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:50:11 New Score is updated...
+
+2023-03-22 20:50:11 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"1:0","gameTime":0}
+
+2023-03-22 20:50:11 New Score : SpVg Schonnebeck vs TuRU Düsseldorf  1:0
+
+2023-03-22 20:50:11 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:50:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:50:12 New Score is updated...
+
+2023-03-22 20:50:12 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"1:0","gameTime":0}
+
+2023-03-22 20:50:12 New Score : SpVg Schonnebeck vs TuRU Düsseldorf  1:0
+
+2023-03-22 20:50:12 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:51:21 Recieve 1 new bets From Copybet Server!
+
+2023-03-22 20:51:21 Pending bet is not finished.!
+
+2023-03-22 20:52:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:52:12 New Score is updated...
+
+2023-03-22 20:52:12 {"home":"CSD Amatitlan","away":"Deportivo Palencia FC","score":"3:2","gameTime":0}
+
+2023-03-22 20:52:12 New Score : CSD Amatitlan vs Deportivo Palencia FC  3:2
+
+2023-03-22 20:52:12 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:52:14 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:52:14 New Score is updated...
+
+2023-03-22 20:52:14 {"home":"CSD Amatitlan","away":"Deportivo Palencia FC","score":"3:2","gameTime":0}
+
+2023-03-22 20:52:14 New Score : CSD Amatitlan vs Deportivo Palencia FC  3:2
+
+2023-03-22 20:52:14 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:56:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:56:11 New Score is updated...
+
+2023-03-22 20:56:11 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:3","gameTime":0}
+
+2023-03-22 20:56:11 New Score : Hamm United vs FC Teutonia 05  0:3
+
+2023-03-22 20:56:11 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:56:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:56:12 New Score is updated...
+
+2023-03-22 20:56:12 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:3","gameTime":0}
+
+2023-03-22 20:56:12 New Score : Hamm United vs FC Teutonia 05  0:3
+
+2023-03-22 20:56:12 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:56:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:56:12 New Score is updated...
+
+2023-03-22 20:56:12 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:3","gameTime":0}
+
+2023-03-22 20:56:12 New Score : Hamm United vs FC Teutonia 05  0:3
+
+2023-03-22 20:56:12 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:57:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:57:10 New Score is updated...
+
+2023-03-22 20:57:10 {"home":"[69'] Hamm United 0","away":"[2] FC Teutonia 05","score":"0:2","gameTime":2}
+
+2023-03-22 20:57:10 New Score : [69'] Hamm United 0 vs [2] FC Teutonia 05  0:2
+
+2023-03-22 20:57:10 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:57:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:57:11 New Score is updated...
+
+2023-03-22 20:57:11 {"home":"[69'] Hamm United 0","away":"[2] FC Teutonia 05","score":"0:2","gameTime":2}
+
+2023-03-22 20:57:11 New Score : [69'] Hamm United 0 vs [2] FC Teutonia 05  0:2
+
+2023-03-22 20:57:11 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:57:18 Recieve new Match Score From Copybet Server!
+
+2023-03-22 20:57:18 New Score is updated...
+
+2023-03-22 20:57:18 {"home":"[69'] Hamm United 0","away":"[2] FC Teutonia 05","score":"0:2","gameTime":2}
+
+2023-03-22 20:57:18 New Score : [69'] Hamm United 0 vs [2] FC Teutonia 05  0:2
+
+2023-03-22 20:57:18 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 20:58:18 Recieve 1 new bets From Copybet Server!
+
+2023-03-22 20:58:18 Pending bet is not finished.!
+
+2023-03-22 21:00:14 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:00:14 New Score is updated...
+
+2023-03-22 21:00:14 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"1:1","gameTime":0}
+
+2023-03-22 21:00:14 New Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07  1:1
+
+2023-03-22 21:00:14 Pending tip Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07 0:1
+
+2023-03-22 21:00:14 Pending Tip is winning now...
+
+2023-03-22 21:00:14 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:00:14 New Score is updated...
+
+2023-03-22 21:00:14 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"1:1","gameTime":0}
+
+2023-03-22 21:00:15 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:00:15 New Score is updated...
+
+2023-03-22 21:00:15 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"1:1","gameTime":0}
+
+2023-03-22 21:00:15 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:00:15 New Score is updated...
+
+2023-03-22 21:00:15 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"1:1","gameTime":0}
+
+2023-03-22 21:00:15 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:00:15 New Score is updated...
+
+2023-03-22 21:00:15 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"1:1","gameTime":0}
+
+2023-03-22 21:00:15 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:00:15 New Score is updated...
+
+2023-03-22 21:00:15 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"1:1","gameTime":0}
+
+2023-03-22 21:00:15 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:00:15 New Score is updated...
+
+2023-03-22 21:00:15 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"1:1","gameTime":0}
+
+2023-03-22 21:00:19 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:00:19 New Score is updated...
+
+2023-03-22 21:00:19 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"1:1","gameTime":0}
+
+2023-03-22 21:01:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:01:12 New Score is updated...
+
+2023-03-22 21:01:12 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"1:1","gameTime":0}
+
+2023-03-22 21:02:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:02:10 New Score is updated...
+
+2023-03-22 21:02:10 {"home":"CSD Amatitlan","away":"Deportivo Palencia FC","score":"3:2","gameTime":2}
+
+2023-03-22 21:02:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:02:12 New Score is updated...
+
+2023-03-22 21:02:12 {"home":"CSD Amatitlan","away":"Deportivo Palencia FC","score":"3:2","gameTime":2}
+
+2023-03-22 21:13:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:13:10 New Score is updated...
+
+2023-03-22 21:13:10 {"home":"MSV Düsseldorf","away":"FC Kray","score":"1:1","gameTime":0}
+
+2023-03-22 21:13:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:13:10 New Score is updated...
+
+2023-03-22 21:13:10 {"home":"MSV Düsseldorf","away":"FC Kray","score":"1:1","gameTime":0}
+
+2023-03-22 21:13:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:13:10 New Score is updated...
+
+2023-03-22 21:13:10 {"home":"MSV Düsseldorf","away":"FC Kray","score":"1:1","gameTime":0}
+
+2023-03-22 21:13:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:13:11 New Score is updated...
+
+2023-03-22 21:13:11 {"home":"MSV Düsseldorf","away":"FC Kray","score":"1:1","gameTime":0}
+
+2023-03-22 21:13:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:13:11 New Score is updated...
+
+2023-03-22 21:13:11 {"home":"MSV Düsseldorf","away":"FC Kray","score":"1:1","gameTime":0}
+
+2023-03-22 21:13:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:13:12 New Score is updated...
+
+2023-03-22 21:13:12 {"home":"MSV Düsseldorf","away":"FC Kray","score":"1:1","gameTime":0}
+
+2023-03-22 21:15:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:15:11 New Score is updated...
+
+2023-03-22 21:15:11 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"2:0","gameTime":0}
+
+2023-03-22 21:15:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:15:11 New Score is updated...
+
+2023-03-22 21:15:11 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"2:0","gameTime":0}
+
+2023-03-22 21:15:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:15:11 New Score is updated...
+
+2023-03-22 21:15:11 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"2:0","gameTime":0}
+
+2023-03-22 21:15:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:15:12 New Score is updated...
+
+2023-03-22 21:15:12 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"2:0","gameTime":0}
+
+2023-03-22 21:15:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:15:12 New Score is updated...
+
+2023-03-22 21:15:12 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"2:0","gameTime":0}
+
+2023-03-22 21:15:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:15:12 New Score is updated...
+
+2023-03-22 21:15:12 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"2:0","gameTime":0}
+
+2023-03-22 21:15:27 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:15:27 New Score is updated...
+
+2023-03-22 21:15:27 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"2:0","gameTime":0}
+
+2023-03-22 21:18:13 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:18:13 New Score is updated...
+
+2023-03-22 21:18:13 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:1","gameTime":0}
+
+2023-03-22 21:18:13 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:18:13 New Score is updated...
+
+2023-03-22 21:18:13 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:1","gameTime":0}
+
+2023-03-22 21:18:14 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:18:14 New Score is updated...
+
+2023-03-22 21:18:14 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:1","gameTime":0}
+
+2023-03-22 21:18:14 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:18:14 New Score is updated...
+
+2023-03-22 21:18:14 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:1","gameTime":0}
+
+2023-03-22 21:18:14 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:18:14 New Score is updated...
+
+2023-03-22 21:18:14 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:1","gameTime":0}
+
+2023-03-22 21:18:15 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:18:15 New Score is updated...
+
+2023-03-22 21:18:15 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:1","gameTime":0}
+
+2023-03-22 21:18:15 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:18:15 New Score is updated...
+
+2023-03-22 21:18:16 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:1","gameTime":0}
+
+2023-03-22 21:21:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:21:12 New Score is updated...
+
+2023-03-22 21:21:12 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:2","gameTime":0}
+
+2023-03-22 21:21:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:21:12 New Score is updated...
+
+2023-03-22 21:21:12 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:2","gameTime":0}
+
+2023-03-22 21:21:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:21:12 New Score is updated...
+
+2023-03-22 21:21:12 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:2","gameTime":0}
+
+2023-03-22 21:21:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:21:12 New Score is updated...
+
+2023-03-22 21:21:12 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:2","gameTime":0}
+
+2023-03-22 21:21:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:21:12 New Score is updated...
+
+2023-03-22 21:21:12 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:2","gameTime":0}
+
+2023-03-22 21:21:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:21:12 New Score is updated...
+
+2023-03-22 21:21:12 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:2","gameTime":0}
+
+2023-03-22 21:21:13 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:21:13 New Score is updated...
+
+2023-03-22 21:21:13 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:2","gameTime":0}
+
+2023-03-22 21:21:13 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:21:13 New Score is updated...
+
+2023-03-22 21:21:13 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:2","gameTime":0}
+
+2023-03-22 21:21:14 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:21:14 New Score is updated...
+
+2023-03-22 21:21:14 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:2","gameTime":0}
+
+2023-03-22 21:21:18 Recieve 1 new bets From Copybet Server!
+
+2023-03-22 21:21:18  *** MakeBet *** 
+
+2023-03-22 21:21:18 {"dbId":"","sport":"","country":"","league":"Belgium First Amateur Division","dateTime":"","match":"RFC Liege vs URSL Vise","score":"1:0","EW":"0","marketName":"OVER 1.5","selection":"OVER","odds":0.0,"handicap":1.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 21:21:18 341.79
+
+2023-03-22 21:21:18 Current balance : 341.7
+
+2023-03-22 21:21:18 Current Balance : 341.7
+
+2023-03-22 21:21:18 DoLoad365Page
+
+2023-03-22 21:21:18 365 page is loaded!
+
+2023-03-22 21:21:18 CheckIfLoggedIn
+
+2023-03-22 21:21:18 Logged In Already!
+
+2023-03-22 21:21:18 bet365.com
+
+2023-03-22 21:21:18 Wrong position detected!
+
+2023-03-22 21:21:27 Not Search Event
+
+2023-03-22 21:21:32 RFC Liegi v URSL Vise Dis :0.0677056277056277
+
+2023-03-22 21:21:33 Wrong position detected!
+
+2023-03-22 21:21:37 Stake : 16
+
+2023-03-22 21:21:37 Running AddbetScript...
+
+2023-03-22 21:21:37 scrollBetIntoView('339432006') => 1
+
+2023-03-22 21:21:39 Odds Pos : X : 414.453125 , Y: 318
+
+2023-03-22 21:21:40 {
+  "bg": "03d1f058-7b17-49cd-8898-01350124a90c",
+  "sr": 0,
+  "mr": false,
+  "cc": "OVDfljMTqUxLQBu0kWS5PBBA+17wU17mYniKPUDO0Jg=",
+  "ir": true,
+  "vr": "816",
+  "cs": 1,
+  "st": 1,
+  "bt": [
+    {
+      "bt": 1,
+      "pf": "N",
+      "od": "1/3",
+      "fi": 134856515,
+      "fd": "RFC Liegi v URSL Vise",
+      "pt": [
+        {
+          "pi": 339432006,
+          "bd": "Più di 1.5",
+          "ha": "1.5",
+          "md": "Somma Goal Aggiuntiva"
+        }
+      ],
+      "sr": 0,
+      "cl": 1,
+      "sa": "641b6355-E8505803",
+      "tp": "BS134856515-339432006",
+      "fb": 0.0,
+      "mt": 1,
+      "nf": 134781463,
+      "mr": false,
+      "rs": 1.0,
+      "ox": ""
+    }
+  ],
+  "bs": []
+}
+
+2023-03-22 21:21:42 Fractional Odds : 1/3
+
+2023-03-22 21:21:42 Trademate Odds : 0 , Bet365 Odds : 1.33
+
+2023-03-22 21:21:42 Trying to place bet!
+
+2023-03-22 21:21:42 DoPlacebetUI
+
+2023-03-22 21:21:42 betslip pos => {
+  "x": 446.5,
+  "y": 670.5,
+  "width": 1,
+  "height": 24,
+  "top": 670.5,
+  "right": 447.5,
+  "bottom": 694.5,
+  "left": 446.5
+}
+
+2023-03-22 21:21:45 Trademate Odds : 0 , Bet365 Odds : 1.36
+
+2023-03-22 21:21:45 Placebet Button pos => {"x":656.5,"y":658,"width":225,"height":50,"top":658,"right":881.5,"bottom":708,"left":656.5}
+
+2023-03-22 21:21:54 341.79
+
+2023-03-22 21:21:54 Current balance : 341.7
+
+2023-03-22 21:21:57 [concigrassi:Test123.] SUCCESS. Stake:16 Odds:1.363125
+
+2023-03-22 21:21:57 {
+  "username": "concigrassi",
+  "tipster": "",
+  "message": "[concigrassi:Test123.] SUCCESS. Stake:16 Odds:1.363125",
+  "stake": 16.0,
+  "tipSource": "TELEGRAM",
+  "odds": 1.363125,
+  "tournament": "Belgium First Amateur Division",
+  "eventName": "RFC Liege vs URSL Vise",
+  "probability": "OVER",
+  "market": "OVER 1.5",
+  "placedAt": "22/03/2023 21:21:54",
+  "selection": "OVER",
+  "handicap": 1.5,
+  "balance": 325.7,
+  "success": 0,
+  "bookie": 2,
+  "dbId": ""
+}
+
+2023-03-22 21:22:05 Trying to register tip at Bigstake
+
+2023-03-22 21:22:21 Registered tip at Bigstake Successfully!
+
+2023-03-22 21:22:24 This Line is already existed on Settled bets!
+
+2023-03-22 21:26:14 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:26:14 New Score is updated...
+
+2023-03-22 21:26:14 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"2:0","gameTime":2}
+
+2023-03-22 21:26:14 New Score : SpVg Schonnebeck vs TuRU Düsseldorf  2:0
+
+2023-03-22 21:26:14 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:26:14 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:26:14 New Score is updated...
+
+2023-03-22 21:26:14 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"2:0","gameTime":2}
+
+2023-03-22 21:26:14 New Score : SpVg Schonnebeck vs TuRU Düsseldorf  2:0
+
+2023-03-22 21:26:14 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:26:15 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:26:15 New Score is updated...
+
+2023-03-22 21:26:15 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"2:0","gameTime":2}
+
+2023-03-22 21:26:15 New Score : SpVg Schonnebeck vs TuRU Düsseldorf  2:0
+
+2023-03-22 21:26:15 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:26:15 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:26:15 New Score is updated...
+
+2023-03-22 21:26:15 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"2:0","gameTime":2}
+
+2023-03-22 21:26:15 New Score : SpVg Schonnebeck vs TuRU Düsseldorf  2:0
+
+2023-03-22 21:26:15 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:26:15 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:26:15 New Score is updated...
+
+2023-03-22 21:26:15 {"home":"MSV Düsseldorf","away":"FC Kray","score":"1:1","gameTime":2}
+
+2023-03-22 21:26:15 New Score : MSV Düsseldorf vs FC Kray  1:1
+
+2023-03-22 21:26:15 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:26:15 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:26:15 New Score is updated...
+
+2023-03-22 21:26:15 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"2:0","gameTime":2}
+
+2023-03-22 21:26:15 New Score : SpVg Schonnebeck vs TuRU Düsseldorf  2:0
+
+2023-03-22 21:26:15 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:26:15 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:26:15 New Score is updated...
+
+2023-03-22 21:26:15 {"home":"SpVg Schonnebeck","away":"TuRU Düsseldorf","score":"2:0","gameTime":2}
+
+2023-03-22 21:26:15 New Score : SpVg Schonnebeck vs TuRU Düsseldorf  2:0
+
+2023-03-22 21:26:15 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:26:16 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:26:16 New Score is updated...
+
+2023-03-22 21:26:16 {"home":"MSV Düsseldorf","away":"FC Kray","score":"1:1","gameTime":2}
+
+2023-03-22 21:26:16 New Score : MSV Düsseldorf vs FC Kray  1:1
+
+2023-03-22 21:26:16 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:26:16 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:26:16 New Score is updated...
+
+2023-03-22 21:26:16 {"home":"MSV Düsseldorf","away":"FC Kray","score":"1:1","gameTime":2}
+
+2023-03-22 21:26:16 New Score : MSV Düsseldorf vs FC Kray  1:1
+
+2023-03-22 21:26:16 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:26:16 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:26:17 New Score is updated...
+
+2023-03-22 21:26:17 {"home":"MSV Düsseldorf","away":"FC Kray","score":"1:1","gameTime":2}
+
+2023-03-22 21:26:17 New Score : MSV Düsseldorf vs FC Kray  1:1
+
+2023-03-22 21:26:17 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:26:17 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:26:17 New Score is updated...
+
+2023-03-22 21:26:17 {"home":"MSV Düsseldorf","away":"FC Kray","score":"1:1","gameTime":2}
+
+2023-03-22 21:26:17 New Score : MSV Düsseldorf vs FC Kray  1:1
+
+2023-03-22 21:26:17 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:26:17 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:26:17 New Score is updated...
+
+2023-03-22 21:26:17 {"home":"MSV Düsseldorf","away":"FC Kray","score":"1:1","gameTime":2}
+
+2023-03-22 21:26:17 New Score : MSV Düsseldorf vs FC Kray  1:1
+
+2023-03-22 21:26:17 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:26:18 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:26:18 New Score is updated...
+
+2023-03-22 21:26:18 {"home":"MSV Düsseldorf","away":"FC Kray","score":"1:1","gameTime":2}
+
+2023-03-22 21:26:18 New Score : MSV Düsseldorf vs FC Kray  1:1
+
+2023-03-22 21:26:18 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:27:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:27:11 New Score is updated...
+
+2023-03-22 21:27:11 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":2}
+
+2023-03-22 21:27:11 New Score : Hamm United vs FC Teutonia 05  0:2
+
+2023-03-22 21:27:11 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:27:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:27:12 New Score is updated...
+
+2023-03-22 21:27:12 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":2}
+
+2023-03-22 21:27:12 New Score : Hamm United vs FC Teutonia 05  0:2
+
+2023-03-22 21:27:12 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:27:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:27:12 New Score is updated...
+
+2023-03-22 21:27:12 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":2}
+
+2023-03-22 21:27:12 New Score : Hamm United vs FC Teutonia 05  0:2
+
+2023-03-22 21:27:12 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:27:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:27:12 New Score is updated...
+
+2023-03-22 21:27:12 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":2}
+
+2023-03-22 21:27:12 New Score : Hamm United vs FC Teutonia 05  0:2
+
+2023-03-22 21:27:12 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:27:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:27:12 New Score is updated...
+
+2023-03-22 21:27:12 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":2}
+
+2023-03-22 21:27:12 New Score : Hamm United vs FC Teutonia 05  0:2
+
+2023-03-22 21:27:12 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:27:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:27:12 New Score is updated...
+
+2023-03-22 21:27:12 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":2}
+
+2023-03-22 21:27:12 New Score : Hamm United vs FC Teutonia 05  0:2
+
+2023-03-22 21:27:12 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:27:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:27:12 New Score is updated...
+
+2023-03-22 21:27:12 {"home":"Hamm United","away":"FC Teutonia 05","score":"0:2","gameTime":2}
+
+2023-03-22 21:27:12 New Score : Hamm United vs FC Teutonia 05  0:2
+
+2023-03-22 21:27:12 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:28:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:28:11 New Score is updated...
+
+2023-03-22 21:28:11 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:2","gameTime":2}
+
+2023-03-22 21:28:11 New Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07  2:2
+
+2023-03-22 21:28:11 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:28:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:28:11 New Score is updated...
+
+2023-03-22 21:28:11 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:2","gameTime":2}
+
+2023-03-22 21:28:11 New Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07  2:2
+
+2023-03-22 21:28:11 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:28:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:28:11 New Score is updated...
+
+2023-03-22 21:28:11 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:2","gameTime":2}
+
+2023-03-22 21:28:11 New Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07  2:2
+
+2023-03-22 21:28:11 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:28:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:28:11 New Score is updated...
+
+2023-03-22 21:28:11 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:2","gameTime":2}
+
+2023-03-22 21:28:11 New Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07  2:2
+
+2023-03-22 21:28:11 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:28:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:28:12 New Score is updated...
+
+2023-03-22 21:28:12 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:2","gameTime":2}
+
+2023-03-22 21:28:12 New Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07  2:2
+
+2023-03-22 21:28:12 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:28:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:28:12 New Score is updated...
+
+2023-03-22 21:28:12 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:2","gameTime":2}
+
+2023-03-22 21:28:12 New Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07  2:2
+
+2023-03-22 21:28:12 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:28:13 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:28:13 New Score is updated...
+
+2023-03-22 21:28:13 {"home":"Ratingen SV Germania 04/19 EV","away":"SF Hamborn 07","score":"2:2","gameTime":2}
+
+2023-03-22 21:28:13 New Score : Ratingen SV Germania 04/19 EV vs SF Hamborn 07  2:2
+
+2023-03-22 21:28:13 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:29:16 Recieve 1 new bets From Copybet Server!
+
+2023-03-22 21:29:16 Pending bet is not finished.!
+
+2023-03-22 21:29:16 Recieve 1 new bets From Copybet Server!
+
+2023-03-22 21:29:16 Pending bet is not finished.!
+
+2023-03-22 21:30:17 Recieve 1 new bets From Copybet Server!
+
+2023-03-22 21:30:17 This Line is already existed on Settled bets!
+
+2023-03-22 21:30:17 This Line is already existed on Settled bets!
+
+2023-03-22 21:31:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:31:11 New Score is updated...
+
+2023-03-22 21:31:11 {"home":"RFC Liege","away":"URSL Vise","score":"2:0","gameTime":0}
+
+2023-03-22 21:31:11 New Score : RFC Liege vs URSL Vise  2:0
+
+2023-03-22 21:31:11 Pending tip Score : RFC Liege vs URSL Vise 1:0
+
+2023-03-22 21:31:11 Pending Tip is winning now...
+
+2023-03-22 21:31:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:31:11 New Score is updated...
+
+2023-03-22 21:31:11 {"home":"RFC Liege","away":"URSL Vise","score":"2:0","gameTime":0}
+
+2023-03-22 21:31:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:31:11 New Score is updated...
+
+2023-03-22 21:31:11 {"home":"RFC Liege","away":"URSL Vise","score":"2:0","gameTime":0}
+
+2023-03-22 21:31:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:31:12 New Score is updated...
+
+2023-03-22 21:31:12 {"home":"RFC Liege","away":"URSL Vise","score":"2:0","gameTime":0}
+
+2023-03-22 21:31:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:31:12 New Score is updated...
+
+2023-03-22 21:31:12 {"home":"RFC Liege","away":"URSL Vise","score":"2:0","gameTime":0}
+
+2023-03-22 21:31:13 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:31:13 New Score is updated...
+
+2023-03-22 21:31:13 {"home":"RFC Liege","away":"URSL Vise","score":"2:0","gameTime":0}
+
+2023-03-22 21:32:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:32:12 New Score is updated...
+
+2023-03-22 21:32:12 {"home":"FSV Duisburg","away":"VfB Hilden","score":"0:2","gameTime":2}
+
+2023-03-22 21:45:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:45:08 New Score is updated...
+
+2023-03-22 21:45:08 {"home":"FC Brakna","away":"ASC Entente Sebkha","score":"0:0","gameTime":2}
+
+2023-03-22 21:45:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:45:10 New Score is updated...
+
+2023-03-22 21:45:10 {"home":"FC Brakna","away":"ASC Entente Sebkha","score":"0:0","gameTime":2}
+
+2023-03-22 21:47:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:47:10 New Score is updated...
+
+2023-03-22 21:47:10 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":0}
+
+2023-03-22 21:47:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:47:10 New Score is updated...
+
+2023-03-22 21:47:10 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":0}
+
+2023-03-22 21:47:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:47:10 New Score is updated...
+
+2023-03-22 21:47:10 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":0}
+
+2023-03-22 21:47:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:47:10 New Score is updated...
+
+2023-03-22 21:47:10 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":0}
+
+2023-03-22 21:47:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:47:10 New Score is updated...
+
+2023-03-22 21:47:10 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":0}
+
+2023-03-22 21:47:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:47:10 New Score is updated...
+
+2023-03-22 21:47:10 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":0}
+
+2023-03-22 21:47:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:47:10 New Score is updated...
+
+2023-03-22 21:47:10 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":0}
+
+2023-03-22 21:47:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:47:11 New Score is updated...
+
+2023-03-22 21:47:11 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":0}
+
+2023-03-22 21:47:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:47:11 New Score is updated...
+
+2023-03-22 21:47:11 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":0}
+
+2023-03-22 21:47:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:47:11 New Score is updated...
+
+2023-03-22 21:47:11 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":0}
+
+2023-03-22 21:47:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:47:11 New Score is updated...
+
+2023-03-22 21:47:11 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":0}
+
+2023-03-22 21:47:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:47:11 New Score is updated...
+
+2023-03-22 21:47:11 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":0}
+
+2023-03-22 21:47:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:47:12 New Score is updated...
+
+2023-03-22 21:47:12 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":0}
+
+2023-03-22 21:56:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:56:09 New Score is updated...
+
+2023-03-22 21:56:09 {"home":"RFC Liege","away":"URSL Vise","score":"2:0","gameTime":2}
+
+2023-03-22 21:56:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:56:09 New Score is updated...
+
+2023-03-22 21:56:09 {"home":"RFC Liege","away":"URSL Vise","score":"2:0","gameTime":2}
+
+2023-03-22 21:56:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:56:10 New Score is updated...
+
+2023-03-22 21:56:10 {"home":"RFC Liege","away":"URSL Vise","score":"2:0","gameTime":2}
+
+2023-03-22 21:56:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:56:10 New Score is updated...
+
+2023-03-22 21:56:10 {"home":"RFC Liege","away":"URSL Vise","score":"2:0","gameTime":2}
+
+2023-03-22 21:56:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:56:11 New Score is updated...
+
+2023-03-22 21:56:11 {"home":"RFC Liege","away":"URSL Vise","score":"2:0","gameTime":2}
+
+2023-03-22 21:56:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:56:11 New Score is updated...
+
+2023-03-22 21:56:11 {"home":"RFC Liege","away":"URSL Vise","score":"2:0","gameTime":2}
+
+2023-03-22 21:56:45 Recieve new Match Score From Copybet Server!
+
+2023-03-22 21:56:45 New Score is updated...
+
+2023-03-22 21:56:45 {"home":"RFC Liege","away":"URSL Vise","score":"2:0","gameTime":2}
+
+2023-03-22 22:00:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:00:09 New Score is updated...
+
+2023-03-22 22:00:09 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":2}
+
+2023-03-22 22:00:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:00:09 New Score is updated...
+
+2023-03-22 22:00:09 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":2}
+
+2023-03-22 22:00:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:00:09 New Score is updated...
+
+2023-03-22 22:00:09 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":2}
+
+2023-03-22 22:00:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:00:09 New Score is updated...
+
+2023-03-22 22:00:09 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":2}
+
+2023-03-22 22:00:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:00:09 New Score is updated...
+
+2023-03-22 22:00:09 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":2}
+
+2023-03-22 22:00:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:00:10 New Score is updated...
+
+2023-03-22 22:00:10 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":2}
+
+2023-03-22 22:00:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:00:10 New Score is updated...
+
+2023-03-22 22:00:10 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":2}
+
+2023-03-22 22:00:16 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:00:16 New Score is updated...
+
+2023-03-22 22:00:16 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":2}
+
+2023-03-22 22:00:16 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:00:16 New Score is updated...
+
+2023-03-22 22:00:16 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":2}
+
+2023-03-22 22:00:16 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:00:16 New Score is updated...
+
+2023-03-22 22:00:16 {"home":"Lucerne II","away":"Kriens","score":"3:2","gameTime":2}
+
+2023-03-22 22:02:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:02:11 New Score is updated...
+
+2023-03-22 22:02:11 {"home":"Qatar U23","away":"UAE U23","score":"0:1","gameTime":2}
+
+2023-03-22 22:02:12 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:02:12 New Score is updated...
+
+2023-03-22 22:02:12 {"home":"Qatar U23","away":"UAE U23","score":"0:1","gameTime":2}
+
+2023-03-22 22:08:16 Recieve 1 new bets From Copybet Server!
+
+2023-03-22 22:08:16  *** MakeBet *** 
+
+2023-03-22 22:08:16 {"dbId":"","sport":"","country":"","league":"International Match","dateTime":"","match":"Rep of Ireland vs Latvia","score":"2:2","EW":"0","marketName":"OVER 4.5","selection":"OVER","odds":0.0,"handicap":4.5,"minHandicap":0.0,"period":"FT","fract_odds":"","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 22:08:16 347.59
+
+2023-03-22 22:08:16 Current balance : 347.5
+
+2023-03-22 22:08:16 Current Balance : 347.5
+
+2023-03-22 22:08:16 DoLoad365Page
+
+2023-03-22 22:08:16 365 page is loaded!
+
+2023-03-22 22:08:16 CheckIfLoggedIn
+
+2023-03-22 22:08:16 Logged In Already!
+
+2023-03-22 22:08:16 bet365.com
+
+2023-03-22 22:08:16 Wrong position detected!
+
+2023-03-22 22:08:25 Not Search Event
+
+2023-03-22 22:08:30 Not Search Event
+
+2023-03-22 22:08:31 Wrong position detected!
+
+2023-03-22 22:08:37 Not Search Event
+
+2023-03-22 22:08:37 Wrong position detected!
+
+2023-03-22 22:08:40 Not Search Event
+
+2023-03-22 22:08:42 Wrong position detected!
+
+2023-03-22 22:08:47 Not Search Event
+
+2023-03-22 22:08:47 Wrong position detected!
+
+2023-03-22 22:08:50 Not Search Event
+
+2023-03-22 22:08:52 Not Found Event on Bet365...
+
+2023-03-22 22:08:55  *** MakeBet *** 
+
+2023-03-22 22:08:55 {"dbId":"","sport":"","country":"","league":"International Match","dateTime":"","match":"Rep of Ireland vs Latvia","score":"2:2","EW":"0","marketName":"OVER 4.5","selection":"OVER","odds":0.0,"handicap":4.5,"minHandicap":0.0,"period":"FT","fract_odds":"1/10","selectionId":"","matchId":"","stake":1.0,"link":"bet365.com","arbPercent":0.0,"tipster":"","output":"","bFinished":false,"channel":"Segnali Bottino Bet365","tipSource":0}
+
+2023-03-22 22:08:55 347.59
+
+2023-03-22 22:08:55 Current balance : 347.5
+
+2023-03-22 22:08:55 Current Balance : 347.5
+
+2023-03-22 22:08:55 DoLoad365Page
+
+2023-03-22 22:08:55 365 page is loaded!
+
+2023-03-22 22:08:55 CheckIfLoggedIn
+
+2023-03-22 22:08:55 Logged In Already!
+
+2023-03-22 22:08:55 bet365.com
+
+2023-03-22 22:09:06 Not Search Event
+
+2023-03-22 22:09:06 Wrong position detected!
+
+2023-03-22 22:09:09 Not Search Event
+
+2023-03-22 22:09:11 Wrong position detected!
+
+2023-03-22 22:09:17 Not Search Event
+
+2023-03-22 22:09:17 Wrong position detected!
+
+2023-03-22 22:09:20 Not Search Event
+
+2023-03-22 22:09:22 Wrong position detected!
+
+2023-03-22 22:09:28 Not Search Event
+
+2023-03-22 22:09:28 Wrong position detected!
+
+2023-03-22 22:09:31 Not Search Event
+
+2023-03-22 22:09:33 Not Found Event on Bet365...
+
+2023-03-22 22:10:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:10:08 New Score is updated...
+
+2023-03-22 22:10:08 {"home":"Rep of Ireland","away":"Latvia","score":"3:2","gameTime":0}
+
+2023-03-22 22:10:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:10:09 New Score is updated...
+
+2023-03-22 22:10:09 {"home":"Rep of Ireland","away":"Latvia","score":"3:2","gameTime":0}
+
+2023-03-22 22:10:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:10:09 New Score is updated...
+
+2023-03-22 22:10:09 {"home":"Rep of Ireland","away":"Latvia","score":"3:2","gameTime":0}
+
+2023-03-22 22:42:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:42:09 New Score is updated...
+
+2023-03-22 22:42:09 {"home":"Mansfield","away":"Grimsby","score":"0:0","gameTime":2}
+
+2023-03-22 22:42:11 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:42:11 New Score is updated...
+
+2023-03-22 22:42:11 {"home":"Mansfield","away":"Grimsby","score":"0:0","gameTime":2}
+
+2023-03-22 22:43:08 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:43:08 New Score is updated...
+
+2023-03-22 22:43:08 {"home":"Rep of Ireland","away":"Latvia","score":"3:2","gameTime":2}
+
+2023-03-22 22:43:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:43:09 New Score is updated...
+
+2023-03-22 22:43:09 {"home":"Rep of Ireland","away":"Latvia","score":"3:2","gameTime":2}
+
+2023-03-22 22:43:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:43:09 New Score is updated...
+
+2023-03-22 22:43:09 {"home":"Rep of Ireland","away":"Latvia","score":"3:2","gameTime":2}
+
+2023-03-22 22:56:09 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:56:09 New Score is updated...
+
+2023-03-22 22:56:09 {"home":"Ellidi","away":"Arborg","score":"0:1","gameTime":2}
+
+2023-03-22 22:56:10 Recieve new Match Score From Copybet Server!
+
+2023-03-22 22:56:10 New Score is updated...
+
+2023-03-22 22:56:10 {"home":"Ellidi","away":"Arborg","score":"0:1","gameTime":2}
+
+2023-03-22 23:09:00 LastLoginModule_Button Clicked

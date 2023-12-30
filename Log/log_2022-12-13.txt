@@ -1,0 +1,47 @@
+﻿2022-12-13 17:26:59 Chrome_RenderWidgetHostHWND
+
+2022-12-13 17:26:59 Websocket server is listening on 8880
+
+2022-12-13 17:26:59 DoLogin
+
+2022-12-13 17:26:59 DoLoad365Page
+
+2022-12-13 17:27:04 365 page is loaded!
+
+2022-12-13 17:27:04 Executed login script!
+
+2022-12-13 17:27:36 DoLoad365Page
+
+2022-12-13 17:27:36 365 page is loaded!
+
+2022-12-13 17:27:44 Executed login script!
+
+2022-12-13 17:28:06 DoLoad365Page
+
+2022-12-13 17:28:06 365 page is loaded!
+
+2022-12-13 17:28:09 Login Success!
+
+2022-12-13 17:28:16 0 Settled bets!!!
+
+2022-12-13 17:28:16 Browser Connected!
+
+2022-12-13 17:28:38 LastLoginModule_Button Clicked
+
+2022-12-13 17:28:42 The bot has been started!
+
+2022-12-13 17:28:42 DoLogin
+
+2022-12-13 17:28:42 DoLoad365Page
+
+2022-12-13 17:28:42 365 page is loaded!
+
+2022-12-13 17:28:47 0.15
+
+2022-12-13 17:28:47 Current balance : 0.1
+
+2022-12-13 17:28:48 LastLoginModule_Button Clicked
+
+2022-12-13 17:28:58 Current Balance: 0.1
+
+2022-12-13 17:28:58 Page is initialized!

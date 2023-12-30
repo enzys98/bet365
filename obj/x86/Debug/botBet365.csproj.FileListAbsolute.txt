@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\bet365\obj\x86\Debug\botBet365.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\bet365\obj\x86\Debug\CEBet365Placer.Form1.resources
+\\Mac\Home\Desktop\bet365\obj\x86\Debug\CEBet365Placer.frmbigstake.resources
+\\Mac\Home\Desktop\bet365\obj\x86\Debug\CEBet365Placer.frmLogin.resources
+\\Mac\Home\Desktop\bet365\obj\x86\Debug\CEBet365Placer.frmSet.resources
+\\Mac\Home\Desktop\bet365\obj\x86\Debug\CEBet365Placer.Properties.Resources.resources
+\\Mac\Home\Desktop\bet365\obj\x86\Debug\botBet365.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\bet365\obj\x86\Debug\botBet365.csproj.CoreCompileInputs.cache
